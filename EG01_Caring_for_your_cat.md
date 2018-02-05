@@ -8,100 +8,66 @@ Caring for your cat
 
 Cats are one of the most popular pets in the UK and rightly so – they make a wonderful addition to any household! This guide offers some of the basic principles of cat care. If you are thinking about having more than one cat, then please look at Cats Protection’s Essential Guide: Cats living together. 
 
-猫咪作为英国最受欢迎的宠物之一，其魅力足以让任何一个家庭着
-迷！这本指导书为你提供一些猫咪护养的最基本原则。如果你在考
-虑收养一只以上的猫咪，请参考猫咪保护基本指导之群居篇。
+猫咪作为英国最受欢迎的宠物之一，其魅力足以让任何一个家庭着迷！这本指导书为你提供一些猫咪护养的最基本原则。如果你在考虑收养一只以上的猫咪，请参考猫咪保护基本指导之群居篇。
 
 Cats can be independent and are considered the ideal pet for people with busy lifestyles, but they still need to be looked after. You should be prepared to spend time playing with and grooming your cat, as well as being a companion to them. By following the advice in this leaflet, you can do your best to ensure you have a happy and healthy cat. 
 
-尽管猫咪可以相当独立自主，也被认为是生活忙碌人群的理想宠
-物。不过它们仍旧需要被关爱和照料。你应该花时间陪伴它们，玩
-耍或者是给它们梳毛。遵循这个小册子中的原则，你就能够在最大
-程度上确保拥有一只健康又快乐的猫咪。
+尽管猫咪可以相当独立自主，也被认为是生活忙碌人群的理想宠物。不过它们仍旧需要被关爱和照料。你应该花时间陪伴它们，玩耍或者是给它们梳毛。遵循这个小册子中的原则，你就能够在最大程度上确保拥有一只健康又快乐的猫咪。
 
 Food 食物
 
 Cats should be fed a complete, balanced, good quality meat-based food; they cannot be vegetarians. There are a multitude of different brands of cat food on the market, but there are two main types to choose from; wet and dry. 
 
-猫咪应该被喂以配比科学、基于肉类的高质量食物。它们可不是吃
-素的。市面上有大量的猫粮品牌，但这些猫粮都可以归为两种类
-别：干粮和湿粮。
+猫咪应该被喂以配比科学、基于肉类的高质量食物。它们可不是吃素的。市面上有大量的猫粮品牌，但这些猫粮都可以归为两种类别：干粮和湿粮。
 
 Fresh wet food should be replaced at least twice daily and dry food at least once daily. Do follow the manufacturer’s instructions and recommended amounts. Once neutered, cats typically have reduced energy needs, so consider reducing their daily amount accordingly. 
 
-新鲜的湿粮应该至少保证每天更换两次，干粮也要至少保证每天更
-换一次。请一定按照猫粮生产商的推荐份量喂食。做过绝育的猫咪
-在食物热量上的需求通常会变小，因此可以考虑适当减少每天的供
-粮。
+新鲜的湿粮应该至少保证每天更换两次，干粮也要至少保证每天更换一次。请一定按照猫粮生产商的推荐份量喂食。做过绝育的猫咪在食物热量上的需求通常会变小，因此可以考虑适当减少每天的供粮。
 
 Food should be placed in an area where the cat feels safe and away from their water bowl and litter tray. If your cat eats dry food, using feeding balls to give some, or all, of your cat’s daily food ration can help to lessen boredom and provides some exercise. 
 
-食物应当被放置在猫咪觉得安全，并且远离水碗以及猫砂盆的地
-方。如果你的猫咪吃干粮，那么利用喂食球来提供部分甚至全部的
-猫粮可以让猫咪避免无聊，同时增加活动量。
+食物应当被放置在猫咪觉得安全，并且远离水碗以及猫砂盆的地方。如果你的猫咪吃干粮，那么利用喂食球来提供部分甚至全部的猫粮可以让猫咪避免无聊，同时增加活动量。
 
 When adopting a cat, you should initially follow the diet that your cat has been fed previously. Before you take them home, find out what they have been eating and at what times. If you do wish to change your cat’s food, it is important to introduce the new food very gradually over a period of a week or more to avoid an upset stomach. 
 
-在收养一只猫的时候，你应该从一开始就按这只猫之前的喂食方法
-来喂食。在把他们带回家之前，弄清楚之前他们什么时候进食，吃
-什么样的猫粮。如果你确实想要让你的猫改吃其他食物，在一周甚
-至更长时间内，一定要逐渐的增加新食物的比例，来让猫咪适应。
+在收养一只猫的时候，你应该从一开始就按这只猫之前的喂食方法来喂食。在把他们带回家之前，弄清楚之前他们什么时候进食，吃什么样的猫粮。如果你确实想要让你的猫改吃其他食物，在一周甚至更长时间内，一定要逐渐的增加新食物的比例，来让猫咪适应。
 
 It is best not to feed your cat cow’s milk as some cats can not tolerate the lactose in it – always have a supply of fresh water available. 
 
-最好不要给你的猫咪喂牛奶，因为有些猫咪对其中的乳糖不耐
-受。随时有新鲜的饮用水就足够了。
+最好不要给你的猫咪喂牛奶，因为有些猫咪对其中的乳糖不耐受。随时有新鲜的饮用水就足够了。
 
 More information about feeding cats and kittens, including what to do if your cat stops eating, is available in Cats Protection’s Essential Guides: Feeding and obesity and Caring for your kitten. 
 
-更多关于成猫、幼猫喂养，以及万一我的猫不吃食物了怎么办
-的信息，请参考猫咪保护基本指导之喂食及肥胖篇
+更多关于成猫、幼猫喂养，以及万一我的猫不吃食物了怎么办的信息，请参考猫咪保护基本指导之喂食及肥胖篇
 
 Water 水
 
 Cats generally don’t need to drink lots every day. However, always ensure fresh, clean drinking water is available at all times. This is best placed away from their food, as cats generally prefer not to eat and drink in the same place. 
 
-猫咪日常不需要饮用很多水，但是保证随时的干净、新鲜的饮用
-水是很有必要的。水碗最好不要放在食物旁边，因为猫咪通常不
-喜欢在同一个地方进食和饮水。
+猫咪日常不需要饮用很多水，但是保证随时的干净、新鲜的饮用水是很有必要的。水碗最好不要放在食物旁边，因为猫咪通常不喜欢在同一个地方进食和饮水。
 
 More information about water and drinking is available in Cats Protection’s Essential Guide: Feeding and obesity. 
 
-更多关于猫咪饮用水的信息，请参考猫咪保护基本指导之喂食
-及肥胖篇
+更多关于猫咪饮用水的信息，请参考猫咪保护基本指导之喂食及肥胖篇
 
 
 Play 玩耍
 
 Cats that have free access to the outdoors will often engage in hunting activity, including playing with fallen leaves or grass blowing in the wind if there is no access to prey. The drive to hunt is not triggered by hunger. Each part of the hunting activity – the stalk, pounce, play and kill – releases feel-good hormones called endorphins. It is important that our pet cats are given frequent opportunities to play to keep them mentally stimulated. 
 
-对于那些能够自由出入的猫咪来说，即便没有猎物去捕获，他们通
-常也会进行一些狩猎活动，包括玩耍落叶或者是被风吹动的杂草。.
-这种狩猎的冲动不是饥饿导致的，狩猎的每个阶段（悄悄跟踪、猛
-扑、玩弄、捕杀）都会使猫咪释放让其感觉良好的荷尔蒙-内啡呔。
-对于宠物猫来说，经常玩耍能够让其保持精神振奋。
+对于那些能够自由出入的猫咪来说，即便没有猎物去捕获，他们通常也会进行一些狩猎活动，包括玩耍落叶或者是被风吹动的杂草。这种狩猎的冲动不是饥饿导致的，狩猎的每个阶段（悄悄跟踪、猛扑、玩弄、捕杀）都会使猫咪释放让其感觉良好的荷尔蒙-内啡呔。对于宠物猫来说，经常玩耍能够让其保持精神振奋。
 
 Keeping your cat amused with toys can help to keep them happy, provide good exercise and strengthen your bond with your cat. Toys don’t have to be expensive. A cardboard box with holes cut into it provides a fun hiding place. Even a ball of tin foil makes a perfectly adequate toy, as long as the cat can’t swallow it. 
 
-经常用玩具逗你的猫咪能够使它们保持愉悦、增加其运动量，同时也
-能加强你和它的关联。玩具不一定要很贵。一个剪出很多洞的纸箱就
-足以为猫咪提供一个很有乐趣的藏匿之所。 即便是一个由锡纸团成的
-球都能够成为一个很完美的玩具，当然前提是这个球不能小到能被猫
-咪吞食
+经常用玩具逗你的猫咪能够使它们保持愉悦、增加其运动量，同时也能加强你和它的关联。玩具不一定要很贵。一个剪出很多洞的纸箱就足以为猫咪提供一个很有乐趣的藏匿之所。 即便是一个由锡纸团成的球都能够成为一个很完美的玩具，当然前提是这个球不能小到能被猫咪吞食
 
 Play is more fun if you get involved too – you could use fishing rod toys with feathers on a string to mimic their prey! Allow them to catch and ‘kill’ the toy periodically to avoid frustration. 
 
-如果你也能介入其中，那玩耍则会变得更加有趣。你可以用一个挂有
-羽毛的逗猫杆来模仿他们的猎物。这可以让它们时常捕获并“杀
-死”猎物，避免无聊。
+如果你也能介入其中，那玩耍则会变得更加有趣。你可以用一个挂有羽毛的逗猫杆来模仿他们的猎物。这可以让它们时常捕获并“杀死”猎物，避免无聊。
 
 Older cats will love playing three or four times a day, while younger cats will be happy to play ten times a day or more. Very short games of one to two minutes are fine. Swap toys around regularly to keep them interesting, but don’t leave your cat unattended with toys which could be shredded and eaten or cause entanglement. Check toys regularly for signs of wear, replacing them when appropriate.
 
-年龄稍大的猫通常喜欢每天玩耍三到四次，而年龄较小的则很乐
-意每天玩十次以上。每次玩耍一到两分钟就足够。左右摇晃玩
-具，让它们保持注意力。但是不要让猫咪单独和玩具在一起，这
-样容易造成玩具被撕碎，被吞食，或者是和猫咪缠在一块。 经常
-检查玩具是否存在破损的情况，一旦出现则需要更换新玩具。
+年龄稍大的猫通常喜欢每天玩耍三到四次，而年龄较小的则很乐意每天玩十次以上。每次玩耍一到两分钟就足够。左右摇晃玩具，让它们保持注意力。但是不要让猫咪单独和玩具在一起，这样容易造成玩具被撕碎，被吞食，或者是和猫咪缠在一块。 经常检查玩具是否存在破损的情况，一旦出现则需要更换新玩具。
 
 Somewhere to hide 藏匿之所
 
