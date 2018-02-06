@@ -198,7 +198,10 @@ Kittens and adult cats should be vaccinated to help them stay healthy and help s
 
 为了帮助小猫以及成年猫保持健康以及防止疾病传播，应该对其进行疫苗注射。疫苗对以下情况有效：
 
-Feline infectious enteritis (also known as feline parvovirus or panleucopenia) – a severe and potentially fatal gut infection Cat flu – vaccinations are available against several of the micro-organisms which cause this common respiratory syndrome which can have severe and lasting effects Feline leukaemia virus (FeLV) – a devastating fatal disease that damages the cat’s immune system and can cause cancer Chlamydophila – a bacteria that causes severe conjunctivitis, along with mild sneezing and nasal discharge Kittens need their first vaccine at around eight to nine weeks old and a second dose at 12 weeks. Your cat should also receive regular booster vaccinations throughout their life to help maintain their protection against these diseases. Consult your vet for more advice. 
+Feline infectious enteritis (also known as feline parvovirus or panleucopenia) – a severe and potentially fatal gut infection Cat flu – vaccinations are available against several of the micro-organisms which cause this common respiratory syndrome which can have severe and lasting effects Feline leukaemia virus (FeLV) – a devastating fatal disease that damages the cat’s immune system and can cause cancer Chlamydophila – a bacteria that causes severe conjunctivitis, along with mild sneezing and nasal discharge Kittens need their first vaccine at around eight to nine weeks old and a second dose at 12 weeks. Your cat should also receive regular booster vaccinations throughout their life to help maintain their protection against these diseases. Consult your vet for more advice.
+
+猫传染性肠炎 (又称猫细小病毒或猫瘟)————一种严重的、潜在的致命肠道感染———免疫接种疫苗, 可对抗导致这种常见呼吸道综合征的几种微生物严重和持久的影响猫白血病病毒 (FeLV)-一个破坏性的致命疾病, 损害猫咪的免疫系统, 并可能导致癌症原-一种细菌, 导致严重的结膜炎, 以及轻度打喷嚏和鼻腔放电小猫需要他们的第一个疫苗在大约八到九星期老和第二药量在12星期。你的猫也应该在他们的生活中定期接受助推剂接种, 以帮助他们抵御这些疾病。请教你的兽医更多的建议。
+有关疫苗接种的更多信息, 请参阅猫科动物保护兽医指南: 传染性疾病和疫苗接种。
 For more information on vaccinations see Cats Protection’s Veterinary Guide: Infectious disease and vaccination. 
 
 
