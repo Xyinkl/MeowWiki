@@ -126,6 +126,9 @@ Being clean creatures, cats don’t like using dirty or soiled trays, so make su
 作为喜好干净的生物，猫不喜欢肮脏的或者是被用过猫砂。所以至少要保证猫砂盆每天清理一次。如果使用结团沙，那你可以每天清理一到两次。使用其他类型的猫砂则需要每天替换掉全部猫砂。
 
 Trays should be cleaned once a week by rinsing with water and then using a cat safe disinfectant. You should be able to purchase a suitable product from your vet or a pet shop – please note that phenol-based disinfectants are toxic to cats. Always rinse carefully with hot water, dry and replenish litter. Rinsing the disinfectant off ensures safety, as well as removing the smell which some cats don’t like. Cats prefer at least 3cm depth of litter and most prefer a litter of a sandy texture. Make any changes to the tray, the litter, or its location, very slowly to avoid toileting accidents. 
+
+猫砂盆应该每周用水清洗并使用对猫咪安全的消毒剂消毒。你应该能够在兽医或者宠物商店中买到类似产品。需要特别一提的是————酚基消毒剂对猫有毒。
+
 If encouraging your cat to toilet outside, provide a suitable area close to the house where your cat feels safe. For more information, see Cats Protection’s Essential Guide: Indoor and outdoor cats and for litter training, see Cats Protection’s Essential Guide: Understanding your cat’s behaviour. 
 
 Grooming marvellous 
