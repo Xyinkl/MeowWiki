@@ -90,18 +90,23 @@ On average, cats spend about 16 hours a day sleeping. Cats generally rest or sle
 
 一般来说，猫每天花在睡眠上的时间有16个小时。猫通常喜欢在温暖、舒适、安全的地方断断续续的进行休息和睡眠。市场上有很多猫床可供选择，比如雪屋造型的猫床，或者是散热器配套的吊床。你也可以简单在纸箱子里铺上一个软毛毯。猫经常轮换休息的场所，而且不应该在睡觉的时候被打扰。
 
-Scratching 
+Scratching 磨爪
+
 A scratching post will provide exercise, claw maintenance and a focal point for your cat to express this natural behaviour – it will help protect your furniture too. Cats like to stretch and scratch after they wake up so try placing the scratch post near where they sleep. A good scratching post has the following features: 
-. 	
-a strong sturdy base, so the cat can lean against the post without it wobbling 
 
-. 	
-tall enough that the cat can stretch fully 
+一个猫抓板能够为猫咪提供锻炼的机会、保养猫爪以及供其宣泄天性-它也同样能帮忙保护你的家具。猫咪通常会在睡醒之后伸展身体并磨爪子，所以尽量把猫抓板放置在离他们睡觉地方附近。一个好的猫抓板应该有以下特征：
 
-. 
-a vertical thread that allows the cat to scratch downwards 
+. a strong sturdy base, so the cat can lean against the post without it wobbling 
 
+· 拥有很坚固的底部，使得猫咪可以扑上去不使其摇晃。
 
+. tall enough that the cat can stretch fully 
+
+· 足够高使得猫咪能够很完全的伸展身体。
+
+. a vertical thread that allows the cat to scratch downwards 
+
+· 有竖直的部分，使得猫咪能够从上到下磨爪。
 
 
 Eating grass 
@@ -128,20 +133,15 @@ Your cat will need to be provided for every time you go away. Either put them in
 
 Key veterinary care 
 Responsible cat owners should make sure their cat is: 
-. 
-neutered 
+. neutered 
 
-. 
-vaccinated against disease 
+. vaccinated against disease 
 
-. 
-microchipped 
+. microchipped 
 
-. 
-regularly treated against parasites 
+. regularly treated against parasites 
 
-. 	
-seen by a vet for regular health checks and when ill or injured 
+. seen by a vet for regular health checks and when ill or injured 
 
 
 
