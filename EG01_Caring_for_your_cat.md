@@ -84,8 +84,11 @@ Cats feel safer if they can view their surroundings from a height. This is anoth
 
 猫咪在能够俯瞰周边环境的高处会感到安全。这也是对于那些焦虑恐惧的猫咪的另一个处理方案。你可以在衣柜的顶部放置一个舒服的篮子，并在其附近放置一个凳子或类似物品。猫同样喜欢呆在窗台。年长的猫应该被予以特别关注，在登高的过程中他们可能遇到困难。需要了解更多，请查阅猫咪保护基本指导之老年猫篇。
 
-Sleeping 
+Sleeping 睡眠
+
 On average, cats spend about 16 hours a day sleeping. Cats generally rest or sleep intermittently throughout the day and will prefer to sleep in a warm, comfortable and safe place. There are a range of cat beds available, such as igloo beds or hammocks for the radiator, or you could simply provide a cardboard box on its side with a soft blanket inside. Cats often rotate their preferred sleeping area and they shouldn’t be disturbed when sleeping. 
+
+一般来说，猫每天花在睡眠上的时间有16个小时。猫通常喜欢在温暖、舒适、安全的地方断断续续的进行休息和睡眠。市场上有很多猫床可供选择，比如雪屋造型的猫床，或者是散热器配套的吊床。你也可以简单在纸箱子里铺上一个软毛毯。猫经常轮换休息的场所，而且不应该在睡觉的时候被打扰。
 
 Scratching 
 A scratching post will provide exercise, claw maintenance and a focal point for your cat to express this natural behaviour – it will help protect your furniture too. Cats like to stretch and scratch after they wake up so try placing the scratch post near where they sleep. A good scratching post has the following features: 
