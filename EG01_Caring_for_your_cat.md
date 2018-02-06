@@ -6,7 +6,7 @@
 
 @(Evernote)[计划, 翻译, 猫]
 
-Caring for your cat 
+Caring for your cat 关爱你的猫咪
 
 
 Cats are one of the most popular pets in the UK and rightly so – they make a wonderful addition to any household! This guide offers some of the basic principles of cat care. If you are thinking about having more than one cat, then please look at Cats Protection’s Essential Guide: Cats living together. 
@@ -109,8 +109,11 @@ A scratching post will provide exercise, claw maintenance and a focal point for 
 · 有竖直的部分，使得猫咪能够从上到下磨爪。
 
 
-Eating grass 
+Eating grass 食草
+
 Many cats like to eat grass, which may help to clear furballs. A type of grass that cats particularly like is called Cocksfoot; it has long broad leaves so it is easy for them to bite. If your cat can’t go outside, Cocksfoot grass can be grown indoors. Seeds are readily available from garden centres and pet shops. If no grass is provided, your cat may try to eat other household plants which may pose a risk. See Cats Protection’s Essential Guide: Keeping your cat safe. 
+
+很多猫咪喜欢吃草，这会帮助它们清理毛球。一种猫咪尤其爱吃的草叫做鸭茅草。这种草宽广的叶片利于猫咪撕咬。如果你的猫不能出去而是养在室内，鸭茅草可以在室内被种植。鸭茅草种子可以从花园和宠物店获得。如果没有草可以吃，你的猫咪可能会试图吃其他室内养的植物，而这些植物可能对猫咪造成危害。关于这方面请查阅猫咪保护基本指导之保障猫咪健康篇。
 
 Toileting 
 
@@ -177,29 +180,21 @@ For more information on fleas and worms, see Cats Protection’s Veterinary Guid
 Dental care 
 
 Dental disease is quite common in cats, especially as they get older. You should get your cat’s teeth regularly checked by your vet. Many cats do not show obvious discomfort, although signs of dental disease may include: 
-. 
-reduced appetite 
+. reduced appetite 
 
-. 
-halitosis (bad breath) 
+. halitosis (bad breath) 
 
-. 
-dropping food or difficulty in eating 
+. dropping food or difficulty in eating 
 
-. 
-blood-tinged saliva or drooling 
+. blood-tinged saliva or drooling 
 
-. 
-unusual face rubbing or pawing at the mouth 
+. unusual face rubbing or pawing at the mouth 
 
-. 	
-behavioural changes, such as becoming quieter or more aggressive 
+. behavioural changes, such as becoming quieter or more aggressive 
 
-. 
-reduced grooming 
+. reduced grooming 
 
-. 
-sneezing, nasal discharge or facial swelling 
+. sneezing, nasal discharge or facial swelling 
 
 
 Dental disease can be painful and seriously affect your cat’s health and welfare. Bacteria can enter the cat’s bloodstream and affect its heart and kidneys. Consult your vet for more advice. 
@@ -232,20 +227,15 @@ Make sure you get as much history as you can about a cat you are interested in. 
 Adopt with confidence 
 Every year thousands of people put their faith and trust in Cats Protection when looking for a new addition to the family. Behind each volunteer and member of staff is a wealth of experience and expertise which means when you adopt one of our cats, you can feel safe in the knowledge that they have been given the best possible care. 
 Cats Protection has agreed a set of Minimum Veterinary Standards for the health and welfare of all cats in our care. This means when a cat leaves Cats Protection, it will have been treated to a top-to-tail medical, including: 
-. 
-examination by a veterinary surgeon 
+. examination by a veterinary surgeon 
 
-. 	
-vaccination at least once against cat flu and enteritis 
+. 	vaccination at least once against cat flu and enteritis 
 
-. 
-treatment against fleas and worms 
+. treatment against fleas and worms 
 
-. 
-neutering if old enough 
+. neutering if old enough 
 
-. 
-microchipping if old enough 
+. microchipping if old enough 
 
 
 We endeavour to ensure you are aware of any known health issues the cat may have had and also provide four weeks’ free insurance, giving invaluable peace of mind and reassurance 
