@@ -77,14 +77,12 @@ Somewhere to hide 藏匿之所
 It is important to provide your cat with a place to hide which will help to make them feel safe and secure. There are many things that can cause a cat to feel anxious or fearful, such as fireworks, building work in the house, unfamiliar visitors or conflict with other cats. A hiding place can be something as simple as a cardboard box on its side, an igloo style cat bed, a space under the bed, or in a wardrobe with the door left ajar. The cat shouldn’t be disturbed while they are in their hiding place. 
 
 
-给猫咪一个藏匿之所相当重要，这能让他们感到安全很多事物都
-会让猫咪感到焦虑或者恐慌，比如焰火表演、家庭装修、生人来
-访、或者是和其他的猫产生冲突。一个藏匿空间可以是很简单的
-一个纸箱，或者是一个雪屋样式的猫窝，或者是床下的空间，或
-者是柜门半开的衣柜。在藏匿空间的猫咪不应该被打扰。
+给猫咪一个藏匿之所相当重要，这能让他们感到安全很多事物都会让猫咪感到焦虑或者恐慌，比如焰火表演、家庭装修、生人来访、或者是和其他的猫产生冲突。一个藏匿空间可以是很简单的一个纸箱，或者是一个雪屋样式的猫窝，或者是床下的空间，或者是柜门半开的衣柜。在藏匿空间的猫咪不应该被打扰。
 
-Somewhere to get up high 
+Somewhere to get up high 登高之处
 Cats feel safer if they can view their surroundings from a height. This is another important coping mechanism for cats that feel anxious or fearful. You could place a cosy blanket on top of a wardrobe and provide access by placing a stool or similar item next to it. Cats also love to sit on window sills and shelves. Extra consideration should be given to elderly cats, as they will have more difficulty reaching higher vantage points. For more information see Cats Protection’s Essential Guide: Elderly cats. 
+
+猫咪在能够俯瞰周边环境的高处会感到安全。这也是对于那些焦虑恐惧的猫咪的另一个处理方案。你可以在衣柜的顶部放置一个舒服的篮子，并在其附近放置一个凳子或类似物品。猫同样喜欢呆在窗台。年长的猫应该被予以特别关注，在登高的过程中他们可能遇到困难。需要了解更多，请查阅猫咪保护基本指导之老年猫篇。
 
 Sleeping 
 On average, cats spend about 16 hours a day sleeping. Cats generally rest or sleep intermittently throughout the day and will prefer to sleep in a warm, comfortable and safe place. There are a range of cat beds available, such as igloo beds or hammocks for the radiator, or you could simply provide a cardboard box on its side with a soft blanket inside. Cats often rotate their preferred sleeping area and they shouldn’t be disturbed when sleeping. 
