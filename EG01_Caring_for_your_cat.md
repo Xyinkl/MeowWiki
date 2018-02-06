@@ -115,9 +115,12 @@ Many cats like to eat grass, which may help to clear furballs. A type of grass t
 
 很多猫咪喜欢吃草，这会帮助它们清理毛球。一种猫咪尤其爱吃的草叫做鸭茅草。这种草宽广的叶片利于猫咪撕咬。如果你的猫不能出去而是养在室内，鸭茅草可以在室内被种植。鸭茅草种子可以从花园和宠物店获得。如果没有草可以吃，你的猫咪可能会试图吃其他室内养的植物，而这些植物可能对猫咪造成危害。关于这方面请查阅猫咪保护基本指导之保障猫咪健康篇。
 
-Toileting 
+Toileting 如厕
 
 Cats prefer to pass their waste where they feel safe and then bury it. They should be able to access their toileting site without having to pass other cats or things that make them anxious – such as a noisy washing machine. It is a good idea to provide one litter tray per cat, plus one extra – especially if your cats are kept indoors. Don’t place all the trays in a line. If possible, place them in different quiet, private areas of the home, away from the food and water bowls. 
+
+猫咪倾向于在感觉安全的地方排泄，并且掩埋。它们应该能够自如到达猫砂盆，而不经过其他猫或者是其他让它们感觉焦虑的东西，比如吵闹的洗衣机。对于家养猫咪来说，提供猫咪数量加一数量的猫砂盆通常是个好主意。不要把所有猫砂盆并排摆放。如果可能，把猫砂盆放在房间里不同的远离食物和水源的私密区域。
+
 Being clean creatures, cats don’t like using dirty or soiled trays, so make sure the litter tray is cleaned at least once a day. If using clumping litter you can remove solids once or twice daily. With some other types of litter, you may need to replace all the litter on a daily basis. 
 Trays should be cleaned once a week by rinsing with water and then using a cat safe disinfectant. You should be able to purchase a suitable product from your vet or a pet shop – please note that phenol-based disinfectants are toxic to cats. Always rinse carefully with hot water, dry and replenish litter. Rinsing the disinfectant off ensures safety, as well as removing the smell which some cats don’t like. Cats prefer at least 3cm depth of litter and most prefer a litter of a sandy texture. Make any changes to the tray, the litter, or its location, very slowly to avoid toileting accidents. 
 If encouraging your cat to toilet outside, provide a suitable area close to the house where your cat feels safe. For more information, see Cats Protection’s Essential Guide: Indoor and outdoor cats and for litter training, see Cats Protection’s Essential Guide: Understanding your cat’s behaviour. 
