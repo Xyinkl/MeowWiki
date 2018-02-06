@@ -198,12 +198,13 @@ Kittens and adult cats should be vaccinated to help them stay healthy and help s
 
 为了帮助小猫以及成年猫保持健康以及防止疾病传播，应该对其进行疫苗注射。疫苗对以下情况有效：
 
-Feline infectious enteritis (also known as feline parvovirus or panleucopenia) – a severe and potentially fatal gut infection Cat flu – vaccinations are available against several of the micro-organisms which cause this common respiratory syndrome which can have severe and lasting effects Feline leukaemia virus (FeLV) – a devastating fatal disease that damages the cat’s immune system and can cause cancer Chlamydophila – a bacteria that causes severe conjunctivitis, along with mild sneezing and nasal discharge Kittens need their first vaccine at around eight to nine weeks old and a second dose at 12 weeks. Your cat should also receive regular booster vaccinations throughout their life to help maintain their protection against these diseases. Consult your vet for more advice.
+Feline infectious enteritis (also known as feline parvovirus or panleucopenia) – a severe and potentially fatal gut infection Cat flu – vaccinations are available against several of the micro-organisms which cause this common respiratory syndrome which can have severe and lasting effects Feline leukaemia virus (FeLV) – a devastating fatal disease that damages the cat’s immune system and can cause cancer Chlamydophila – a bacteria that causes severe conjunctivitis, along with mild sneezing and nasal discharge. Kittens need their first vaccine at around eight to nine weeks old and a second dose at 12 weeks. Your cat should also receive regular booster vaccinations throughout their life to help maintain their protection against these diseases. Consult your vet for more advice.
 
-猫传染性肠炎 (又称猫细小病毒或猫瘟)————一种严重的、潜在的致命肠道感染———免疫接种疫苗, 可对抗导致这种常见呼吸道综合征的几种微生物严重和持久的影响猫白血病病毒 (FeLV)-一个破坏性的致命疾病, 损害猫咪的免疫系统, 并可能导致癌症原-一种细菌, 导致严重的结膜炎, 以及轻度打喷嚏和鼻腔放电小猫需要他们的第一个疫苗在大约八到九星期老和第二药量在12星期。你的猫也应该在他们的生活中定期接受助推剂接种, 以帮助他们抵御这些疾病。请教你的兽医更多的建议。
-有关疫苗接种的更多信息, 请参阅猫科动物保护兽医指南: 传染性疾病和疫苗接种。
+猫传染性肠炎 (又称猫细小病毒或猫瘟)是一种严重的、潜在的致命肠道感染。免疫接种疫苗, 可对抗导致呼吸道综合征的几种微生物带来的严重和持久的影响猫白血病病毒 (FeLV)，这是一种破坏性的致命疾病, 损害猫咪的免疫系统, 并可能导致癌症原（一种细菌, 导致严重的结膜炎），以及轻度打喷嚏和流鼻涕。小猫在大约八到九周时需要接种第一针疫苗，需要在满12个月的时候接种第二针。你的猫也应该定期接受加强接种, 以帮助他们抵御这些疾病。咨询你的兽医可以获得更多的建议。
+
 For more information on vaccinations see Cats Protection’s Veterinary Guide: Infectious disease and vaccination. 
 
+有关疫苗接种的更多信息, 请参阅猫咪保护兽医指南: 传染性疾病和疫苗接种。
 
 Microchipping 
 Cats Protection recommends microchipping as the safest and simplest means of permanently identifying your cat. A microchip is no bigger than a grain of rice and is inserted under the cat’s skin between their shoulder blades. The microchip carries a unique ID number linked to a database holding your contact details, allowing you to be quickly traced should they stray and be scanned. So, don’t forget to update your details if you move house or change phone numbers. For more information on microchipping see Cats Protection’s Essential Guide: Microchipping. 
@@ -268,9 +269,10 @@ Make sure you get as much history as you can about a cat you are interested in. 
 Adopt with confidence 
 Every year thousands of people put their faith and trust in Cats Protection when looking for a new addition to the family. Behind each volunteer and member of staff is a wealth of experience and expertise which means when you adopt one of our cats, you can feel safe in the knowledge that they have been given the best possible care. 
 Cats Protection has agreed a set of Minimum Veterinary Standards for the health and welfare of all cats in our care. This means when a cat leaves Cats Protection, it will have been treated to a top-to-tail medical, including: 
+
 . examination by a veterinary surgeon 
 
-. 	vaccination at least once against cat flu and enteritis 
+. vaccination at least once against cat flu and enteritis 
 
 . treatment against fleas and worms 
 
@@ -285,58 +287,3 @@ We endeavour to ensure you are aware of any known health issues the cat may have
 Where to get your cat from 
 If you decide to go ahead with getting a cat please consider one of the thousands of cats and kittens that we have in our care – we have branches and adoption centres nationwide. Find contact details for your nearest branch by phoning our Helpline 03000 12 12 12. 
 Before taking a new cat home, please read Cats Protection’s Essential Guide: Welcome home which provides information and tips on successfully integrating your new feline companion into your household, to ensure you both enjoy a happy and lasting relationship. 
-
-
-
-ESSENTIAL GUIDES 
-1 	Caring for your cat 84001 
-2 	Welcome home 84002 
-3 	Moving house 84003 
-4 	Feeding and obesity 84004 
-5 	Keeping your cat safe 84005 
-6 	Neutering – family planning for felines 84006 
-7 	When to let go 84007 
-8 	Microchipping 84008 
-9 	Understanding your cat’s behaviour 84009 
-10 	Managing your cat’s behaviour 84010 
-11 Cats living together 84011 
-12 Indoor and outdoor cats 84012 
-13 Cats and the law 84013 
-14 Cats and people 84014 
-15 Caring for your kitten 84015 
-16 Elderly cats 84016 
-17 Feral cats 84017 
-18 	Pregnant cats, birth and care of young kittens 84018 
-
-
-VETERINARY GUIDES 
-1 	Arthritis 83201 
-2 	Feline Lower Urinary Tract Disease (FLUTD) 83202 
-3 	Diabetes 83203 
-4 	Itchy cats and skin disorders 
-83204 
-5 	Feline Parvovirus (FPV) 83205 
-6 	Kidney or renal disease 83206 
-7 	Cats with disabilities 83207 
-8 	Hypertension 83208 
-9 	Feline Immunodeficiency Virus (FIV) and Feline Leukaemia Virus (FeLV) 83209 
-10 	Feline Coronavirus (FCoV) and Feline Infectious Peritonitis (FIP) 
-83210 
-11 	Heart murmurs and heart disease 83211 
-12 Hyperthyroidism 83212 
-13 Feline asthma 83213 
-14 Teeth and oral health 83214 
-15 Fleas and other parasites 
-83215 
-16 Cat flu 83216 
-17 	Infectious disease and vaccination 83217 
-18 	Digestive disorders – vomiting and diarrhoea 83218 
-19 You and your vet 83219 
-20 	Cats and pregnant women – Toxoplasmosis 83220 
-
-For more information about Cats Protection or to make a donation, please visit www.cats.org.uk or phone our Helpline on 03000 12 12 12. 
-Reg Charity 203644 (England and Wales) and SC037711 (Scotland) FEB-15  CODE: 84001 
-
-
-
-
