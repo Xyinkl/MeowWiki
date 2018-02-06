@@ -131,9 +131,13 @@ Trays should be cleaned once a week by rinsing with water and then using a cat s
 
 If encouraging your cat to toilet outside, provide a suitable area close to the house where your cat feels safe. For more information, see Cats Protection’s Essential Guide: Indoor and outdoor cats and for litter training, see Cats Protection’s Essential Guide: Understanding your cat’s behaviour. 
 
-Grooming marvellous 
+如果想要鼓励你的猫咪在外面排泄，那你需要提供一个能让它感到安全的靠近房子的区域。需要了解更多，请参阅猫咪保护基本指导之室内外猫及如厕训练，以及了解猫咪行为。
+
+Grooming marvellous 绝佳的自我清洁
+
 Cats are very clean animals and like to groom themselves, but sometimes they may need a little help. Long-haired cats should be brushed daily to stop their coat becoming tangled. If they are not regularly groomed fur can become matted and uncomfortable. These mats may need to be removed under anaesthetic by a vet. Short-haired cats will probably only need to be groomed once a week. Older cats may struggle to look after their coats and require gentle grooming to help to keep their skin healthy. Grooming also gives you some valuable bonding time with your cat. If you are struggling to groom your cat, ask your vet for advice as referral to a suitably qualified behaviourist or a competent groomer may be useful to avoid the development of problems. 
 
+猫是非常干净的动物，喜欢自我清洁。不过有的时候它们可能需要一些帮助。长毛猫应该每天梳毛以防毛发结团。如果没能每天清洁，它们的毛可能会失去光泽并且感到不适。短毛猫可能仅仅需要每周梳毛一次。老年猫可能在自我清洁上感到困难，需要轻柔的梳毛来保持皮肤健康。梳毛的过程也是你和猫咪建立宝贵关系的时间。如果你在给猫咪梳毛的过程中遇到了困难，请咨询你的兽医如何解决以避免问题更加严重。
 
 Indoor or outdoor? 
 
