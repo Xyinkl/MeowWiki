@@ -139,41 +139,66 @@ Cats are very clean animals and like to groom themselves, but sometimes they may
 
 猫是非常干净的动物，喜欢自我清洁。不过有的时候它们可能需要一些帮助。长毛猫应该每天梳毛以防毛发结团。如果没能每天清洁，它们的毛可能会失去光泽并且感到不适。短毛猫可能仅仅需要每周梳毛一次。老年猫可能在自我清洁上感到困难，需要轻柔的梳毛来保持皮肤健康。梳毛的过程也是你和猫咪建立宝贵关系的时间。如果你在给猫咪梳毛的过程中遇到了困难，请咨询你的兽医如何解决以避免问题更加严重。
 
-Indoor or outdoor? 
+Indoor or outdoor? 市内还是室外？
 
 Indoor cats need extra consideration to keep them mentally stimulated. For cats given access outside, consider providing a microchip or magnetic cat flap to allow them the freedom to choose when to go out, while stopping other cats from the neighbourhood entering the home. Cats usually learn how to use cat flaps very readily – for some tips, see Cats Protection’s Essential Guide: Caring for your kitten. 
+养在市内的猫咪需要额外的照料以保持其精神饱满。对于能够自由外出的猫咪，考虑植入芯片或者猫门来让他们决定何时外出。同时，还需要放置其他附近的猫进入家中。猫通常能够很快学会如何使用猫门，需要这方面的建议，请参阅猫咪保护基本指导之关爱你的小猫篇。
+
 It is recommended that cats are kept indoors at night, when they may be at more risk of being involved in road traffic accidents. Also, their hunting activities are likely to be greater at dawn and dusk. See the Cats Protection Essential Guide: Indoor and outdoor cats for more advice. 
 
-Holidays 
+晚上我们建议将猫咪关在室内，因为晚上它们更可能会卷入交通意外的风险之中。同样的，它们狩猎的行为在破晓和黄昏更为活跃。更多建议，请参阅猫咪保护基本指导之室内与室外猫
+
+Holidays 节假日
+
 Your cat will need to be provided for every time you go away. Either put them in a cattery or get a cat-sitter to come in to feed and play with your cat while you are away. Never leave your cat to fend for themselves. 
 
-Key veterinary care 
+每次你外出都需要将猫咪托养，无论是寄养在猫舍还是请人专门登门喂食以及和猫咪玩耍。永远不要把猫咪单独留在屋子任其自生自灭。
+
+Key veterinary care 关键的兽医关照
+
 Responsible cat owners should make sure their cat is: 
+
+负责人的猫主任应当确保他们的猫咪是这样的：
+
 . neutered 
+
+· 已经绝育
 
 . vaccinated against disease 
 
+· 打过抗病疫苗
+
 . microchipped 
+
+· 植入过芯片
 
 . regularly treated against parasites 
 
+· 定期驱虫
+
 . seen by a vet for regular health checks and when ill or injured 
 
+· 生病、受伤时都被兽医医治，平时参加定期健康检查。
 
 
-Find a vet 
-You’ll need to register your cat 
-with a vet as soon as possible. A recommendation from a friend or neighbour is a great place to start; otherwise you could phone around or pop in and see them before making your choice. Veterinary practices are also registered with the Royal College of Veterinary Surgeons and you can find details of your local practices at www.rcvs.org.uk. It is important that you get on with your vet, are able to ask questions and have faith in the care they can offer. More information is available in Cats Protection’s Veterinary Guide: Your cat and your vet. 
+Find a vet 指定一名兽医
+You’ll need to register your cat with a vet as soon as possible. A recommendation from a friend or neighbour is a great place to start; otherwise you could phone around or pop in and see them before making your choice. Veterinary practices are also registered with the Royal College of Veterinary Surgeons and you can find details of your local practices at www.rcvs.org.uk. It is important that you get on with your vet, are able to ask questions and have faith in the care they can offer. More information is available in Cats Protection’s Veterinary Guide: Your cat and your vet. 
 
+你需要为你的猫尽快指定一名兽医。对此很好的开始是听从朋友或者是邻居的推荐。或者你可以电话或者造访宠物医院以做出你的选择。兽医行医需要在在皇家兽医学会注册的，你可以在www.rcvs.org.uk 上找到你附近的医院。指定一名能够向他咨询的兽医，并且对他能提供的医疗护理有了解和信心，这是相当重要的。需要了解更多信息，请参阅猫咪保护医学指导之你的猫和兽医。
 
-Neutering 
+Neutering  绝育
+
 Cats Protection generally recommends that cats are neutered at around four months of age or younger. This is a simple operation which has many health benefits for your cat. It is essential to prevent unwanted kittens and reduce the spread of disease, wandering and territorial behaviour such as scratching, spraying and fighting. All adult cats from Cats Protection will have been neutered prior to being rehomed. For more information see Cats Protection’s Essential Guide: Neutering: family planning for felines. 
 
-Vaccinations 
+猫咪保护组织通常建议在猫咪四个月或者更早时候进行绝育。这是对猫咪有很多好处的一个小手术，对减少不必要的繁衍，减少疾病传播，减少迷路以及抓挠、喷尿、打架等保护领地的行为。所有来自猫咪保护组织的成年猫在被重新安置之前都会被绝育。需要了解更多信息，请参阅猫咪保护基本指导之绝育（猫科家庭繁衍计划）。
+
+Vaccinations 免疫
 
 Kittens and adult cats should be vaccinated to help them stay healthy and help stop the spread of disease. Vaccinations are available against: 
-Feline infectious enteritis (also known as feline parvovirus or panleucopenia) – a severe and potentially fatal gut infection Cat flu – vaccinations are available against several of the micro-organisms which cause this common respiratory syndrome which can have severe and lasting effects Feline leukaemia virus (FeLV) – a devastating fatal disease that damages the cat’s immune system and can cause cancer Chlamydophila – a bacteria that causes severe conjunctivitis, along with mild sneezing and nasal discharge 
-Kittens need their first vaccine at around eight to nine weeks old and a second dose at 12 weeks. Your cat should also receive regular booster vaccinations throughout their life to help maintain their protection against these diseases. Consult your vet for more advice. 
+
+为了帮助小猫以及成年猫保持健康以及防止疾病传播，应该对其进行疫苗注射。疫苗对以下情况有效：
+
+Feline infectious enteritis (also known as feline parvovirus or panleucopenia) – a severe and potentially fatal gut infection Cat flu – vaccinations are available against several of the micro-organisms which cause this common respiratory syndrome which can have severe and lasting effects Feline leukaemia virus (FeLV) – a devastating fatal disease that damages the cat’s immune system and can cause cancer Chlamydophila – a bacteria that causes severe conjunctivitis, along with mild sneezing and nasal discharge Kittens need their first vaccine at around eight to nine weeks old and a second dose at 12 weeks. Your cat should also receive regular booster vaccinations throughout their life to help maintain their protection against these diseases. Consult your vet for more advice. 
 For more information on vaccinations see Cats Protection’s Veterinary Guide: Infectious disease and vaccination. 
 
 
