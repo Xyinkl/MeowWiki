@@ -180,8 +180,8 @@ Responsible cat owners should make sure their cat is:
 
 · 生病、受伤时都被兽医医治，平时参加定期健康检查。
 
-
 Find a vet 指定一名兽医
+
 You’ll need to register your cat with a vet as soon as possible. A recommendation from a friend or neighbour is a great place to start; otherwise you could phone around or pop in and see them before making your choice. Veterinary practices are also registered with the Royal College of Veterinary Surgeons and you can find details of your local practices at www.rcvs.org.uk. It is important that you get on with your vet, are able to ask questions and have faith in the care they can offer. More information is available in Cats Protection’s Veterinary Guide: Your cat and your vet. 
 
 你需要为你的猫尽快指定一名兽医。对此很好的开始是听从朋友或者是邻居的推荐。或者你可以电话或者造访宠物医院以做出你的选择。兽医行医需要在在皇家兽医学会注册的，你可以在www.rcvs.org.uk 上找到你附近的医院。指定一名能够向他咨询的兽医，并且对他能提供的医疗护理有了解和信心，这是相当重要的。需要了解更多信息，请参阅猫咪保护医学指导之你的猫和兽医。
@@ -206,7 +206,8 @@ For more information on vaccinations see Cats Protection’s Veterinary Guide: I
 
 有关疫苗接种的更多信息, 请参阅猫咪保护兽医指南: 传染性疾病和疫苗接种。
 
-Microchipping 
+Microchipping 芯片植入
+
 Cats Protection recommends microchipping as the safest and simplest means of permanently identifying your cat. A microchip is no bigger than a grain of rice and is inserted under the cat’s skin between their shoulder blades. The microchip carries a unique ID number linked to a database holding your contact details, allowing you to be quickly traced should they stray and be scanned. So, don’t forget to update your details if you move house or change phone numbers. For more information on microchipping see Cats Protection’s Essential Guide: Microchipping. 
 If you do choose to put a collar on your cat, use a ‘quick release’ collar to allow your cat to free themselves should the collar get caught on something. Fit it carefully – two fingers should snugly fit between your cat’s neck and the collar. Sadly, severe injuries resulting from poorly fitted collars or those with no quick release function are not uncommon. 
 
