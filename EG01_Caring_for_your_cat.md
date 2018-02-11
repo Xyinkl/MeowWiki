@@ -209,7 +209,12 @@ For more information on vaccinations see Cats Protection’s Veterinary Guide: I
 Microchipping 芯片植入
 
 Cats Protection recommends microchipping as the safest and simplest means of permanently identifying your cat. A microchip is no bigger than a grain of rice and is inserted under the cat’s skin between their shoulder blades. The microchip carries a unique ID number linked to a database holding your contact details, allowing you to be quickly traced should they stray and be scanned. So, don’t forget to update your details if you move house or change phone numbers. For more information on microchipping see Cats Protection’s Essential Guide: Microchipping. 
+
+我们建议用安全简单植入芯片的方式实现对你的猫咪的永久标识。芯片大小不超过谷粒或者是米粒，通常被植入在猫的肩胛骨之间。芯片会内置有一个独特的ID数字，这个数字指向数据库中的某个联系人信息。一旦你的猫走失并被扫描之后，你的联系方式能很快被找到。所以不要忘了在搬家或更换电话号码后更新数据库资料。需要了解更多芯片相关信息，请参照参阅猫咪保护基本之芯片植入篇。
+
 If you do choose to put a collar on your cat, use a ‘quick release’ collar to allow your cat to free themselves should the collar get caught on something. Fit it carefully – two fingers should snugly fit between your cat’s neck and the collar. Sadly, severe injuries resulting from poorly fitted collars or those with no quick release function are not uncommon. 
+
+如果你希望给猫咪戴一个项圈，请选购一个“快速释放”的项圈，这样当猫的项圈被勾住的时候能够快速挣脱。佩戴的松紧度上以能轻松深入两个手指为准。很遗憾的是，因为错误的佩戴项圈或是没有“快速释放”造成的严重事故不算罕见。
 
 Fleas 
 Fleas are very common in cats but can be hard to spot. It’s advisable to consider treating your cat regularly for fleas, whether they have them or not, as it is far harder to deal with an infestation than to prevent one. Many different flea treatments are available and the most effective products to treat and prevent fleas are available from your vet, so seek their advice. Never use a dog flea treatment on your cat as some can be rapidly fatal and don’t let your cat come into contact with a dog that has been treated for fleas until the product has dried. 
