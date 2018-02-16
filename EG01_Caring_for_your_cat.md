@@ -216,41 +216,69 @@ If you do choose to put a collar on your cat, use a ‘quick release’ collar t
 
 如果你希望给猫咪戴一个项圈，请选购一个“快速释放”的项圈，这样当猫的项圈被勾住的时候能够快速挣脱。佩戴的松紧度上以能轻松深入两个手指为准。很遗憾的是，因为错误的佩戴项圈或是没有“快速释放”造成的严重事故不算罕见。
 
-Fleas 
+Fleas 跳蚤
 Fleas are very common in cats but can be hard to spot. It’s advisable to consider treating your cat regularly for fleas, whether they have them or not, as it is far harder to deal with an infestation than to prevent one. Many different flea treatments are available and the most effective products to treat and prevent fleas are available from your vet, so seek their advice. Never use a dog flea treatment on your cat as some can be rapidly fatal and don’t let your cat come into contact with a dog that has been treated for fleas until the product has dried. 
+
+跳蚤在猫身上相当普遍，知识有时候难以被发现。我们建议你定期为猫咪驱虫，无论是否发现跳蚤。因为一旦发现跳蚤想要驱除，就比单纯预防要难上很多。市面上有很多不同种类的驱虫手段，不过效果最好的产品往往能从兽医那里获得，你可以尽管咨询他们的建议。不要给猫用狗用驱虫剂，因为某些狗用驱虫剂量可能对猫有猛烈的致命毒性。同样也不要让你的猫接触刚刚经过驱虫的狗，除非驱虫剂已经挥发殆尽。
+
 If you do have a flea outbreak, you will need to treat all the pets in the home and de-flea your home, too. Treat carpets, the bottoms of curtains, furniture, your cat’s bedding and all their favourite sleeping places. 
 
-Worms 
+如果你确实遭遇了跳蚤爆发，那么对家里所有宠物进行驱虫就变得很有必要。另外你还需要对家里整体进行驱虫。对地毯、窗帘底部、家具、猫窝以及猫咪喜欢的其他地点都要进行驱虫处理。
+
+Worms 寄生虫
+
 Cats can become infected with various internal worms. There are many different treatments available and your vet will be able to advise you about how often to de-worm your cat and the most suitable, effective product to use, which may depend on your cat’s lifestyle. 
+
+猫咪可能会感染多种内部寄生虫。尽管很多措施可以用来治疗体内寄生虫，你的兽医往往能够根据你猫咪的生活方式选择最合适的最有效的驱虫手段以及周期。
+
 For more information on fleas and worms, see Cats Protection’s Veterinary Guide: Fleas and other parasites. 
 
+需要更多关于跳蚤和体内寄生虫的信息，请参阅猫咪保护兽医指导之跳蚤及其他寄生虫篇。
 
-Dental care 
+Dental care 牙齿保养
 
-Dental disease is quite common in cats, especially as they get older. You should get your cat’s teeth regularly checked by your vet. Many cats do not show obvious discomfort, although signs of dental disease may include: 
+Dental disease is quite common in cats, especially as they get older. You should get your cat’s teeth regularly checked by your vet. Many cats do not show obvious discomfort, although signs of dental disease may include:
+
+牙齿问题在猫咪上相当常见，尤其是老年猫。你应该带你的猫咪定期检查牙齿。很多猫不会表现出明显的不舒服，不过牙齿疾病的症状包括：
+
 . reduced appetite 
+·食欲衰减
 
 . halitosis (bad breath) 
+·口臭
 
 . dropping food or difficulty in eating 
+·进食困难或掉食
 
 . blood-tinged saliva or drooling 
+·口水带血
 
 . unusual face rubbing or pawing at the mouth 
+·不寻常的脸部抽搐以及用爪子挠脸
 
 . behavioural changes, such as becoming quieter or more aggressive 
+·行为性格变化，比如变得更加安静或者更具侵略性
 
 . reduced grooming 
+·减少自我清理次数
 
 . sneezing, nasal discharge or facial swelling 
-
+·打喷嚏、流鼻涕或者是面部肿胀
 
 Dental disease can be painful and seriously affect your cat’s health and welfare. Bacteria can enter the cat’s bloodstream and affect its heart and kidneys. Consult your vet for more advice. 
+
+牙齿疾病可能相当疼痛并且严重影响猫咪的健康和生活。细菌同样能进入猫咪的血液循环并影响心脏和肝脏。你可以向兽医咨询更多意见。
+
 For more information on your cat’s mouth, see Cats Protection’s Veterinary Guide: Teeth and oral health. 
 
+需要关于你的猫咪更多信息，请参照猫咪保护兽医指导之牙齿及口腔健康篇。
 
-Insurance 
+
+Insurance 保险
+
 Pet insurance can cover veterinary costs for illness, accidents and emergencies. There are plenty of options available. Some policies won’t insure older pets over a certain age, so check the small print. Remember that preventative treatment such as vaccination is not covered and neither is treatment for conditions which have occurred prior to the policy being taken out. It is worth taking the time to ensure you get the cover you require. Your vet may be able to offer some advice. 
+
+宠物保险能够偿付宠物生病、意外、紧急事故所带来的医疗费用。
 
 Type, age, character and where you live 
 All cats are individuals. Deciding that you want a cat is just the first step and choosing the right cat for you is just as important. Here are some points to consider: 
