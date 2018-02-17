@@ -1,17 +1,31 @@
 ##MeowWiki Cat Caring Translate Program
+
 ###“猫咪维基”猫咪养护翻译计划
+
 ####EG02_Welcome_home
+
 @(Evernote)[计划, 翻译, 猫]
 
 
-Welcome home 
+Welcome home 欢迎猫咪回家
 
 
 When you first adopt a cat or kitten, you will need to help them gently settle in to their new home. A change of environment is always stressful for a cat, so it will often take a few weeks for them to feel relaxed in their new abode. Following the advice here will help them to successfully adapt to their new surroundings. 
-Bringing your new cat home 
+
+当你第一次收养猫或者是幼猫时，你可能需要帮助他们慢慢适应新环境。环境改变对猫来说通常都很充满压迫，所以它们通常需要几周的时间来适应新的环境。遵循以下建议可以帮他们更好的适应新环境。
+
+Bringing your new cat home 把猫带回家
+
 The first few hours after bringing your cat home can really affect how well they accept their new life. First and foremost, be prepared to be patient and never attempt to rush your cat into doing things they may not be ready for. 
+
+把猫咪带回家的最初几个小时能够很大程度上决定他们适应新生活的程度。首先也是最重要的，耐心对待它，不要尝试强迫它做任何它没有准备好做的事情。
+
 It is important to provide them with a quiet place with everything they need, so set aside a dedicated, secure room before you collect them. This room should include: 
+
+给它们提供一个能满足所有需要的安静房间相当重要。尽量准备一个独立的安静的房间，不要去惊扰它们，这个房间应该包括：
+
 . an area for food and a separate area for water 
+· 一个放食物的区域，已经另一个独立的放水的区域。
 
 . at least one litter tray placed as far away as possible from their food and water and in a private, accessible location 
 
