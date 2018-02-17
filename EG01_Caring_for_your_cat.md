@@ -328,17 +328,22 @@ Cats Protection has agreed a set of Minimum Veterinary Standards for the health 
 Cats Protection对收留的猫咪的健康及待遇设定了一套最低标准。这意味这当一只猫离开Cats Protection，它已经被从头到脚进行过全面的医疗检查：
 
 . examination by a veterinary surgeon 
+
 · 经过外科兽医的检查
 
 . vaccination at least once against cat flu and enteritis 
+
 · 至少接种过一次抵抗流感和肠炎的疫苗
 
 . treatment against fleas and worms 
+
 · 经过体内体外驱虫
 
 . neutering if old enough 
+
 · 如果年龄适合，则进行绝育
 
 . microchipping if old enough 
+
 · 如果年龄适合，则植入芯片
 
