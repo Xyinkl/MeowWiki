@@ -142,7 +142,7 @@ Cats are very clean animals and like to groom themselves, but sometimes they may
 Indoor or outdoor? 市内还是室外？
 
 Indoor cats need extra consideration to keep them mentally stimulated. For cats given access outside, consider providing a microchip or magnetic cat flap to allow them the freedom to choose when to go out, while stopping other cats from the neighbourhood entering the home. Cats usually learn how to use cat flaps very readily – for some tips, see Cats Protection’s Essential Guide: Caring for your kitten. 
-养在市内的猫咪需要额外的照料以保持其精神饱满。对于能够自由外出的猫咪，考虑植入芯片或者猫门来让他们决定何时外出。同时，还需要放置其他附近的猫进入家中。猫通常能够很快学会如何使用猫门，需要这方面的建议，请参阅猫咪保护基本指导之关爱你的小猫篇。
+养在市内的猫咪需要额外的照料以保持其精神饱满。对于能够自由外出的猫咪，考虑植入芯片或者猫门来让他们决定何时外出。同时，还需要放置其他附近的猫进入家中。猫通常能够很快学会如何使用猫门，需要这方面的建议，请参阅猫咪保护基本指导之关爱幼猫篇。
 
 It is recommended that cats are kept indoors at night, when they may be at more risk of being involved in road traffic accidents. Also, their hunting activities are likely to be greater at dawn and dusk. See the Cats Protection Essential Guide: Indoor and outdoor cats for more advice. 
 
@@ -233,7 +233,7 @@ Cats can become infected with various internal worms. There are many different t
 
 For more information on fleas and worms, see Cats Protection’s Veterinary Guide: Fleas and other parasites. 
 
-需要更多关于跳蚤和体内寄生虫的信息，请参阅猫咪保护兽医指导之跳蚤及其他寄生虫篇。
+需要更多关于跳蚤和体内寄生虫的信息，请参阅猫咪保护医学指导之跳蚤及其他寄生虫篇。
 
 Dental care 牙齿保养
 
@@ -242,28 +242,28 @@ Dental disease is quite common in cats, especially as they get older. You should
 牙齿问题在猫咪上相当常见，尤其是老年猫。你应该带你的猫咪定期检查牙齿。很多猫不会表现出明显的不舒服，不过牙齿疾病的症状包括：
 
 . reduced appetite 
-·食欲衰减
+· 食欲衰减
 
 . halitosis (bad breath) 
-·口臭
+· 口臭
 
 . dropping food or difficulty in eating 
-·进食困难或掉食
+· 进食困难或掉食
 
 . blood-tinged saliva or drooling 
-·口水带血
+· 口水带血
 
 . unusual face rubbing or pawing at the mouth 
-·不寻常的脸部抽搐以及用爪子挠脸
+· 不寻常的脸部抽搐以及用爪子挠脸
 
 . behavioural changes, such as becoming quieter or more aggressive 
-·行为性格变化，比如变得更加安静或者更具侵略性
+· 行为性格变化，比如变得更加安静或者更具侵略性
 
 . reduced grooming 
-·减少自我清理次数
+· 减少自我清理次数
 
 . sneezing, nasal discharge or facial swelling 
-·打喷嚏、流鼻涕或者是面部肿胀
+· 打喷嚏、流鼻涕或者是面部肿胀
 
 Dental disease can be painful and seriously affect your cat’s health and welfare. Bacteria can enter the cat’s bloodstream and affect its heart and kidneys. Consult your vet for more advice. 
 
@@ -271,53 +271,74 @@ Dental disease can be painful and seriously affect your cat’s health and welfa
 
 For more information on your cat’s mouth, see Cats Protection’s Veterinary Guide: Teeth and oral health. 
 
-需要关于你的猫咪更多信息，请参照猫咪保护兽医指导之牙齿及口腔健康篇。
+需要关于你的猫咪更多信息，请参照猫咪保护医学指导之牙齿及口腔健康篇。
 
 
 Insurance 保险
 
 Pet insurance can cover veterinary costs for illness, accidents and emergencies. There are plenty of options available. Some policies won’t insure older pets over a certain age, so check the small print. Remember that preventative treatment such as vaccination is not covered and neither is treatment for conditions which have occurred prior to the policy being taken out. It is worth taking the time to ensure you get the cover you require. Your vet may be able to offer some advice. 
 
-宠物保险能够偿付宠物生病、意外、紧急事故所带来的医疗费用。
+宠物保险能够偿付宠物生病、意外、紧急事故所带来的医疗费用。市面上有很多可供选择，不过需要注意的是有些保险条款里不对超过一定年龄的猫承保，所以一定要注意查看附属细则。另外记住预防性的治疗比如疫苗接种是不被保险偿付的，更不是保险生效时候应该采取的措施。根据你的需求花时间了解以求保险涵盖所有方面很有必要，你的收益可以给你提一些相关意见。
 
-Type, age, character and where you live 
+Type, age, character and where you live 种类、年龄、性格、以及你的居住地
+
 All cats are individuals. Deciding that you want a cat is just the first step and choosing the right cat for you is just as important. Here are some points to consider: 
-Fur length 
+
+所有的猫都是独立的个体。决定养一只猫仅仅是第一步，而选择正确的那只猫也相当重要。以下是一些可供参考的关键点：
+
+Fur length 猫毛长度
+
 Long-haired cats will need daily grooming and short-haired cats will benefit from weekly grooming. 
 
-Age and sex 
+长毛猫会需要每天梳毛，而短毛猫则只需每周梳毛。
+
+Age and sex 年龄以及性别
+
 A kitten may need more attention than an older cat as they tend to have more energy. You should also make sure that you are able to check and replace their food four times a day until they are about 12 weeks old and three times a day until they are about six months old. Older cats tend to be calmer and they are less likely to need supervision. For more information on the care of kittens and elderly cats, see the Cats Protection Essential Guides: Caring for your kitten and Elderly cats. As regards the sex of your cat, there is very little difference in behaviour once they have been neutered, so this comes down to personal preference. 
 
-Character 
+相比较于成年，小猫因为其精力旺盛可能需要更多关心。你应该确保在她们12周大之前能够每天检查并替换她们的食物四次，在她们六个月大之前能够每天替换食物三次。成年猫更为沉稳，并不需要太多监管。需要更多关于幼猫及成年猫护理的信息，请参阅猫咪保护基本指导之关爱幼猫以及成年猫。至于猫的性别，则可以随个人喜好，因为在绝育过后性格行为所差不大。
+
+Character 性格
+
 Cats can vary quite considerably from lap cat to feral. Their character and behaviour is influenced by both nature and nurture. Everybody’s needs and wishes are different so when you come to see the cats at a Cats Protection branch or adoption centre, talk to the Cat Care Assistant or volunteer about what you are looking for so that they can match you with a suitable cat. 
 
+猫的性格可能非常多变，从喜欢蜷缩在你大腿上的猫到尚未驯化充满野性的，都有。猫咪性格以及行为同时收天性以及培育的影响。每个人对猫的性格的需求和期望不同，所以当你去选猫的时候，可以和猫咪护理员聊聊你想要的猫的性格，这样他们可以为你挑一只合适性格的猫。
 
-Pedigree or moggy? 
+
+Pedigree or moggy? 纯种猫还是家猫？
+
 While many pedigree cats are healthy, there is a misconception that, somehow, they are better or stronger than moggies, but adopting a pedigree is not a guarantee of good health. The word pedigree simply means it is from a family of cats which have been bred to meet specific criteria – usually in relation to their appearance. They have rarely been selected for specific health or temperament benefits. If selecting a pedigree cat, we strongly recommend that you take time to learn about the breed to ensure you will both enjoy a lasting and happy relationship. 
 
-Health 
+尽管很多纯种猫都很健康，然而还是有“纯种猫会比家猫更好更强壮”的错误的认识。收养一只纯种猫绝不是猫咪健康的保证。“纯种”一词仅仅意味着这只猫是来自一个猫系家族，这个家族是通常是为了满足某些外观标准而繁殖饲养的。在选育的过程中，很少会考虑某些健康因素或者是性格特质。如果你选择纯种猫，我们强烈建议你花时间了解一下这个血统以便能够获得一份持久、高兴的人宠关系。
+
+Health 健康
+
 Make sure you get as much history as you can about a cat you are interested in. While it is impossible to give a guarantee of good health, try and find out whether a cat has any known previous conditions which are likely to recur, or ongoing medical conditions which might require special treatment. Remember the tiny runt of a litter may look cute, but there may be an underlying reason for it being small. Healthy cats are generally alert and have a good body coat condition and clear eyes, without discharges from the eyes or nose, have good appetites and do not object to being handled. For cats with ongoing conditions, make sure you are prepared for the potential veterinary costs and trips to the vet. 
 
+对于感兴趣猫，尽力获取你能获取到的所有历史信息。尽管不能保证猫咪的绝对健康，不过你应该尽量去获知这只猫是否之前有过并且可能复发的疾病，或者是在进行的医学治疗以便进行特殊的照料。记住，猫仔中最小的那只可能看起来很萌，不过生长缓慢可能有着其内在的原因。健康的猫咪通常很警觉并且皮毛柔顺、眼睛明亮、眼睛和鼻子没有排泄物，另外食欲良好，且不抗拒被人抚摸。对于有健康问题的猫咪，确保你准备好了看兽医的时间和精力。
 
+Adopt with confidence 放心领养
 
-Adopt with confidence 
 Every year thousands of people put their faith and trust in Cats Protection when looking for a new addition to the family. Behind each volunteer and member of staff is a wealth of experience and expertise which means when you adopt one of our cats, you can feel safe in the knowledge that they have been given the best possible care. 
+
+每年都有数以千计的人在选择家庭新成员时候，选择相信Cats Protection。在每个志愿者以及职员之后，是我们丰富的经验和专业。这意味着每只从Cats Protection领养到猫咪都已经被给予最优质的、最大程度上的照料。
+
 Cats Protection has agreed a set of Minimum Veterinary Standards for the health and welfare of all cats in our care. This means when a cat leaves Cats Protection, it will have been treated to a top-to-tail medical, including: 
 
+Cats Protection对收留的猫咪的健康及待遇设定了一套最低标准。这意味这当一只猫离开Cats Protection，它已经被从头到脚进行过全面的医疗检查：
+
 . examination by a veterinary surgeon 
+· 经过外科兽医的检查
 
 . vaccination at least once against cat flu and enteritis 
+· 至少接种过一次抵抗流感和肠炎的疫苗
 
 . treatment against fleas and worms 
+· 经过体内体外驱虫
 
 . neutering if old enough 
+· 如果年龄适合，则进行绝育
 
 . microchipping if old enough 
+· 如果年龄适合，则植入芯片
 
-
-We endeavour to ensure you are aware of any known health issues the cat may have had and also provide four weeks’ free insurance, giving invaluable peace of mind and reassurance 
-– terms and conditions apply. 
-
-Where to get your cat from 
-If you decide to go ahead with getting a cat please consider one of the thousands of cats and kittens that we have in our care – we have branches and adoption centres nationwide. Find contact details for your nearest branch by phoning our Helpline 03000 12 12 12. 
-Before taking a new cat home, please read Cats Protection’s Essential Guide: Welcome home which provides information and tips on successfully integrating your new feline companion into your household, to ensure you both enjoy a happy and lasting relationship. 
