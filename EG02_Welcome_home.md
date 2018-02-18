@@ -191,10 +191,9 @@ Finally, try feeding them in the same room with their bowls far apart. Choose so
 
 最后，尝试在同一间屋子喂食，不过要把它们食碗放置的远一些。选择一个它们能够轻松逃离的地方，在他们的食碗之间放置一把椅子可能有助于减轻它们的紧张。随后你可以把两个食碗放的越来越近，不过不要紧挨着放置。
 
-As the cats become more comfortable in each other’s company, try giving them tit bits to encourage them to come closer. 当它们Finally, try feeding them in the same room with their bowls far apart. Choose somewhere where they can escape easily – placing an object such as a chair between the feeding bowls may help them feel less threatened. Over time you can move the bowls closer together but do not place them side by side. 
-
-
 Cats can feel vulnerable when they are eating, so place food and water bowls slightly away from the wall, so each cat has space to sit with its back to the wall and is able to survey the room while eating or drinking. 
+
+猫在进食的时候会感到
 Remember that if your cats are apart for any reason, for example if one has to stay at a boarding cattery or the vets, this may affect their scent and they may not be recognised as part of the same social group when they return. The longer a cat is away, the harder it can be to reintegrate. On return, it’s a good idea to keep the cats apart – so the absent cat can pick up the smells of home – and slowly reintroduce them. Consider where you place their resources such as food bowls and litter trays, bearing in mind the advice above. 
 By taking these simple steps you can often dramatically improve the quality of life for the cats living in your multi-cat household. 
 If you have problems, please seek help sooner rather than later as it may be easier to resolve a recently developed problem, than one which has occurred for some time. If cats have been introduced too quickly, you may need to give them separate rooms and start the integration procedure from scratch. Speak with your vet for further advice who may recommend referral to a suitably qualified behaviourist. 
