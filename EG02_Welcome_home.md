@@ -25,33 +25,61 @@ It is important to provide them with a quiet place with everything they need, so
 给它们提供一个能满足所有需要的安静房间相当重要。尽量准备一个独立的安静的房间，不要去惊扰它们，这个房间应该包括：
 
 . an area for food and a separate area for water 
-· 一个放食物的区域，已经另一个独立的放水的区域。
+
+· 一个放食物的区域，已经另一个独立的放水的区域
 
 . at least one litter tray placed as far away as possible from their food and water and in a private, accessible location 
 
+· 在远离食物和水、容易到达的区域放置至少一个猫沙盆
+
 . somewhere to hide 
+
+· 有隐藏的地方
 
 . access to a high spot where they can view their surroundings 
 
+· 能够达到对周围环境一览无余的高处
+
 . a suitable place to sleep or, ideally, a choice of them 
+
+·一个适合睡觉的场所，虽然仅仅是个选择。
 
 . a scratching post 
 
+· 一个猫抓板
+
 . a few cat toys and space for them to play 
 
+· 一些猫玩具以及供他们玩耍的空间
 
-The significance of scent 
-Cats rely heavily on their sense of smell and will settle quicker if their new home smells familiar. To help your cat get used to your scent, take an item of clothing or a blanket from your home and leave it with the cat for a few days before you bring them home. When you pick your cat up, bring the same item back – ideally it will fit comfortably in their carrier with them and then it can be placed in their room. 
+The significance of scent 气味的重要性
+
+Cats rely heavily on their sense of smell and will settle quicker if their new home smells familiar. To help your cat get used to your scent, take an item of clothing or a blanket from your home and leave it with the cat for a few days before you bring them home. When you pick your cat up, bring the same item back – ideally it will fit comfortably in their carrier with them and then it can be placed in their room. 猫咪严重依赖嗅觉，如果新家有熟悉的气味，那么它们可能适应的会更快。为了让猫咪更快适应你的气味，从家里拿一件你的衣服或者是摊子，让猫咪熟悉这个气味几天，之后再带它们回家。当你接猫回家时，同样把这件衣物带回来——在路上箱子里有这件衣物陪伴，它们也会感觉放松。之后这件衣物还可以放置到为它准备好的房间里。
+
 You could also use a synthetic form of feline facial pheromones, available from your vet. These come as a plug-in diffuser or a spray. The scent helps to create a reassuring environment and may help to reduce stress. 
 
-Travelling home 
+你也可以从兽医处得到一种合成猫科面部荷尔蒙，通常是喷剂。这种气味可以帮助营造一个令人放松的环境，减少焦虑。
+
+Travelling home 运送回家
+
 Being territorial and a creature of habit, a cat becomes very attached to their familiar environment and finds travelling very stressful. To help your cat stay calm during journeys, use a strong, secure and easily cleanable carrier, with a familiar smelling blanket inside and cover the carrier with another light blanket. You may wish to spray the inside of the carrier with a pheromone spray at least 15 minutes before putting your cat inside, to allow the alcohol to evaporate. The pheromone can help to create a feeling of familiarity and security. 
 
+作为领地栖居性的动物，猫咪对于熟悉的环境相当依赖，也会对出行感到紧张。为了帮你的猫咪保持路途中的镇静，请准备一个坚固结实、容易清洗的箱子，把猫咪熟悉味道的摊子放进去，同时用另一个摊子盖在笼子外面。你可以在把猫放进笼子前十五分钟喷涂荷尔蒙，这样能够留出酒精挥发时间。荷尔蒙能够为猫咪营造一种熟悉的安全感。
 
-The first steps 
+
+The first steps 最初的步骤
+
 The following is a guide to introducing your cat to their new home and family. Take one step at a time, be patient and always work at the cat’s pace before moving onto the next stage. 
+
+以下是将你的猫咪引见给新家的初步指导。一步一步操作，要有耐心，按照猫咪的进展依次进行各个阶段。
+
 When you arrive home, leave your cat alone to explore their room for an hour or so before introducing yourself, although some cats may need longer. When you go in to see them, get down to their level, put out your hand and call their name softly – let them come to you. 
+
+当你到达家中，将猫咪留在它的房间一个小时以便它探索周围环境。有的猫可能需要更久。当你进去见它的时候，俯下身。到它的高度，伸出手并且轻轻叫它的名字，让它走向你。
+
 If your cat chooses to hide, just sit quietly in the same room and occasionally talk to them gently in low tones – do not force them to come out. Give them plenty of time to adjust and continue to visit them so they can get used to your presence. As long as they are eating and using the litter tray, there should be no cause for alarm. If your cat is very timid, they may not want to come out to eat. In this case, try moving the food bowl closer to their hiding place and leaving the room. 
+
+如果你的猫咪选择藏起来，那你需要在屋子里安静的坐下
 You may want to try offering a small treat or using an interactive toy, such as a fishing rod toy with feathers on the end to tempt your cat from their hiding place. Play is a good bonding tool because it is less intimidating than physical contact, relieves stress, and provides mental stimulation and an outlet for pent-up energy. You may find it is easier to encourage play at dawn and dusk when cats are naturally more active. 
 The first steps – kittens 
 With a kitten, the process is slightly different as it is best not to leave them alone until they have settled. Provide them with a warm, secure bed at ground level – a cardboard box will do. Once they’ve had a look around, show them where their litter tray, bowls and bed are by gently tapping these items. They may feel a little unsettled if they are used to living with their mother and siblings so when you are not there, a soft toy or low-volume radio might help them feel at ease. For more advice see Cats Protection’s Essential Guide: Caring for your kitten. 
