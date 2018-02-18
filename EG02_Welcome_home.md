@@ -256,3 +256,5 @@ Provide a room or area of the house for your cat that is not accessible to your 
 Once your cat and dog are unconcerned with each other’s presence you can take your dog off the lead, but make sure your cat can escape onto high ledges or furniture. Never leave the dog and cat together unattended until you are absolutely sure they are happy and secure in each other’s company. Remember that cat food and litter trays can be appealing for dogs, so ensure they are not accessible, to allow the cat to eat and toilet in peace.
 
 一旦你的猫和狗对彼此的存在没有顾及，你就可以拿掉狗的拴绳。不过你需要确保你的猫能够逃到高台或者家具上。除非你完全确信它们的关系是和谐快乐的，永远不要让猫和狗单独相处。另外猫粮和猫砂盆对狗来说可能很有吸引力，所以要确保狗不能到达这些地方，给猫一个安静进食、如厕场所。
+
+
