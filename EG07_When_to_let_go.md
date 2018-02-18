@@ -10,168 +10,113 @@ When to let go
 
 
 The average life expectancy of a cat is around 14 years but many cats live well beyond this age. As a pet owner, it is important that you are able to assess your cat’s quality of life in order to prevent suffering as they get older, or if they become ill. 
+
 Monitoring your cat 
+
 You know your cat better than anyone, so you will soon notice any changes in their behaviour or health. You should monitor your cat’s thirst and appetite, their body and coat condition, their behaviour and general demeanour and their toileting habits. If you become aware of any of the following, take your cat to the vet for a check up: 
-. 
-unusual lethargy or withdrawal 
 
-. 
-unexplained weight loss 
+. unusual lethargy or withdrawal 
 
-. 
-lameness, reduced or altered mobility 
+. unexplained weight loss 
 
-. 
-any swelling, growth or wound 
+. lameness, reduced or altered mobility 
 
-. 
-recurrent sneezing, coughing or laboured breathing 
+. any swelling, growth or wound 
 
-. 
-difficulty or pain when urinating 
+. recurrent sneezing, coughing or laboured breathing 
 
-. 
-blood in either the urine or faeces 
+. difficulty or pain when urinating 
 
-. 
-incontinence or more frequent urination 
+. blood in either the urine or faeces 
 
-. 
-unusual discharge or bleeding from the eyes, nose or mouth 
+. incontinence or more frequent urination 
 
-. 
-vomiting or diarrhoea that lasts for more than 24 hours 
+. unusual discharge or bleeding from the eyes, nose or mouth 
 
-. 
-self neglect or poor coat condition 
+. vomiting or diarrhoea that lasts for more than 24 hours 
 
-. 	
-reduced interest in food or drink, or increased drinking or a sudden ravenous appetite 
+. self neglect or poor coat condition 
 
-. 
-signs of pain when touched 
+. reduced interest in food or drink, or increased drinking or a sudden ravenous appetite 
 
-. 
-general discomfort or an inability to settle 
+. signs of pain when touched 
 
-. 
-no desire to move 
+. general discomfort or an inability to settle 
 
-. 	
-reduced tolerance of people or other pets, or reduced interest in play or other favoured activities – these signs can be indicative of pain or an underlying health issue 
+. no desire to move 
+
+. reduced tolerance of people or other pets, or reduced interest in play or other favoured activities – these signs can be indicative of pain or an underlying health issue 
 
 
 Sometimes you may just notice that your cat has changed their routine or is not quite right rather than any of the specific signs above. 
+
 Your vet will examine your cat and recommend any further tests or treatments that may be needed. If the vet diagnoses an incurable disease, you will need to carefully consider the quality of your cat’s life. Your vet will advise you whether drugs or treatment are available to extend your cat’s life, but will only recommend this if your pet could still have a good quality of life. 
+
 The bond between owner and cat is very special, so it is understandable that you will want to keep your cat alive, even if their quality of life begins to deteriorate. However, if there comes a time when your cat is in continual pain, discomfort or distress, the most loving and courageous way you can show them how much you care is to end their suffering. 
 
 Assessing quality of life 
-Illnesses are not the only form of suffering. You may also need to make an assessment of your cat’s quality of life if they: 
-. 
-can no longer eat or drink normally 
 
-. 
-are is unable to stand or move normally 
+Illnesses are not the only form of suffering. You may also need to make an assessment of your cat’s quality of life if they:
 
-. 
-have difficulty breathing properly 
+. can no longer eat or drink normally 
 
-. 
-are badly injured in an accident 
+. are is unable to stand or move normally 
 
-. 
-are incontinent 
+. have difficulty breathing properly 
 
-. 	
-have an untreatable behavioural problem that leaves them feeling very unhappy 
+. are badly injured in an accident 
 
-. 
-have any condition that causes uncontrollable pain 
+. are incontinent 
+
+. have an untreatable behavioural problem that leaves them feeling very unhappy 
+
+. have any condition that causes uncontrollable pain 
 
 
 To choose to have your pet euthanased is one of the most difficult decisions you will ever have to make as a pet owner. The guidance from your vet will be invaluable in making hard choices, but when there is no reasonable alternative, to allow your cat to die in peace and dignity is the kindest decision. 
 
 What is euthanasia? 
+
 Literally meaning ‘good death’, euthanasia is also referred to by vets as humane destruction. You may also hear of pets being ‘put down’ or ‘put to sleep’. 
 
 How is euthanasia carried out? 
+
 Before euthanasia is carried out, you will be asked to sign a consent form. Your vet may shave the fur from a patch of skin on one of your cat’s front legs and will then insert a needle into a vein. The vet will then administer a fatal overdose of a drug which makes your cat lose consciousness. If your cat is fearful or aggressive, they may be given a sedative before the injection to ensure that their final moments are stress free. In some very sick or old cats, the veins may have collapsed and become difficult to locate so the injection may be given into another site. 
+
 Your cat will be asleep in a very short time and their breathing and heartbeat will stop a few seconds later. As your cat loses consciousness, they may take a deep breath, or gasp and occasionally there may be a brief involuntary twitching or spasm of muscles after death has occurred. This is quite normal and should not be mistaken for ‘signs of life’. As the body relaxes, your cat’s bowels or bladder may empty. Their eyes will not close. 
+
 Your vet will check for a pulse or eyelid reflex and may place your cat into a sleeping position. Don’t be alarmed if your cat’s lips are pulled back into a grimace, this is not a sign of pain, but is due to a relaxation of muscles. 
+
 Discuss in advance with your vet whether you wish to be with your cat when they are put to sleep. It may be less stressful for your cat if they can hear a familiar voice and knowing that your cat suffered no pain may comfort you. However, if you are frightened or anxious your cat may sense this and may become upset. You must choose what is right for you. 
 
 After euthanasia 
+
 Decide in advance whether you would prefer your cat to be buried or cremated. 
+
 Cremation 
+
 Your vet can arrange for your cat to be cremated, or you can take their body to the pet crematorium yourself. Your cat can be cremated with others and their ashes scattered in the garden of rest, or you can opt for individual cremation after which their ashes can be returned to you. You must inform your vet of your wishes at the time of euthanasia if you want your vet to arrange the cremation. 
+
 If your cat dies unexpectedly at home and you do not wish to bury them in your garden, contact your vet who can arrange cremation. 
 
 Burial 
+
 Your cat can be buried in a pet cemetery. Most ceremonies can be accompanied by a short memorial service. If you would prefer to bury your cat in your garden, check with your local authority that this is allowed and make sure that the body is buried at least three feet below the surface. Place a heavy object on top until the ground settles to deter scavengers. 
+
 If you wish, you can arrange to donate your cat’s body to a nearby veterinary school for medical research. 
 
 
 Coping with pet bereavement 
+
 Losing your much-loved pet can be a very traumatic experience. Don’t be afraid to show your feelings in front of the vet, they will understand. You will need time to grieve and you may go through a mixture of emotions – sadness, loneliness and even anger. This is all quite normal and part of the process of coming to terms with your loss. You should not feel guilty or blame yourself for your cat’s death – the decision for euthanasia is only ever reached as an act of kindness to avoid suffering. Treasure your memories – remember the good times and the joy that your cat brought you. 
+
 Losing a pet is often the first time that a child becomes aware of death. It is usually best to be honest with a child and explain the truth as clearly as you can. Be careful when using the term ‘put to sleep’ as a child may expect their pet to wake up again later. Children may want time to say goodbye to their pet and seeing the body may help them understand what has happened. Marking the occasion with some kind of memorial such as a burial can be very therapeutic. 
+
 It can be helpful to talk to someone who understands your feelings. Many GPs and religious ministers recognise the negative effects of suppressing grief and now offer pet bereavement counselling. Pet bereavement helplines are also available. 
 
 Getting another cat 
 
 The decision to get another cat is entirely personal. You may find you want another one almost immediately or that you need time to come to terms with your loss. If your cat has had an infectious illness, your vet may advise you to wait before getting another to reduce the risk of infection remaining in your home. 
+
 Try to remember that cats, like humans, are all individuals. Although your relationship with any new cat will be just as rewarding, they will not be the same as your previous cat and this may take some time to get used to. 
-
-
-
-ESSENTIAL GUIDES 
-1 	Caring for your cat 84001 
-2 	Welcome home 84002 
-3 	Moving house 84003 
-4 	Feeding and obesity 84004 
-5 	Keeping your cat safe 84005 
-6 	Neutering – family planning for felines 84006 
-7 	When to let go 84007 
-8 	Microchipping 84008 
-9 	Understanding your cat’s behaviour 84009 
-10 	Managing your cat’s behaviour 84010 
-11 Cats living together 84011 
-12 Indoor and outdoor cats 84012 
-13 Cats and the law 84013 
-14 Cats and people 84014 
-15 Caring for your kitten 84015 
-16 Elderly cats 84016 
-17 Feral cats 84017 
-18 	Pregnant cats, birth and care of young kittens 84018 
-
-
-VETERINARY GUIDES 
-1 	Arthritis 83201 
-2 	Feline Lower Urinary Tract Disease (FLUTD) 83202 
-3 	Diabetes 83203 
-4 	Itchy cats and skin disorders 
-83204 
-5 	Feline Parvovirus (FPV) 83205 
-6 	Kidney or renal disease 83206 
-7 	Cats with disabilities 83207 
-8 	Hypertension 83208 
-9 	Feline Immunodeficiency Virus (FIV) and Feline Leukaemia Virus (FeLV) 83209 
-10 	Feline Coronavirus (FCoV) and Feline Infectious Peritonitis (FIP) 
-83210 
-11 	Heart murmurs and heart disease 83211 
-12 Hyperthyroidism 83212 
-13 Feline asthma 83213 
-14 Teeth and oral health 83214 
-15 Fleas and other parasites 
-83215 
-16 Cat flu 83216 
-17 	Infectious disease and vaccination 83217 
-18 	Digestive disorders – vomiting and diarrhoea 83218 
-19 You and your vet 83219 
-20 	Cats and pregnant women – Toxoplasmosis 83220 
-
-For more information about Cats Protection or to make a donation, please visit www.cats.org.uk or phone our Helpline on 03000 12 12 12. 
-Reg Charity 203644 (England and Wales) and SC037711 (Scotland) FEB-15 CODE: 84007 
-
-
-
 
