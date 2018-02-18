@@ -193,18 +193,41 @@ Finally, try feeding them in the same room with their bowls far apart. Choose so
 
 Cats can feel vulnerable when they are eating, so place food and water bowls slightly away from the wall, so each cat has space to sit with its back to the wall and is able to survey the room while eating or drinking. 
 
-猫在进食的时候会感到
+猫在进食的时候会感到不安全，因此把食物和水放置在离墙远一点的地方，这样猫就能够背向墙壁进食，并且能够同时环顾四周环境。
+
 Remember that if your cats are apart for any reason, for example if one has to stay at a boarding cattery or the vets, this may affect their scent and they may not be recognised as part of the same social group when they return. The longer a cat is away, the harder it can be to reintegrate. On return, it’s a good idea to keep the cats apart – so the absent cat can pick up the smells of home – and slowly reintroduce them. Consider where you place their resources such as food bowls and litter trays, bearing in mind the advice above. 
+
+要注意的是，如果你的猫因为任何原因离开（比如必须要在猫舍或者是兽医），这可能会影响它们的气味并导致不再被之前的小团体接受。一只猫离开的时间越长，它越难重新融入。所以，将家里的猫咪分开，让归来的猫能够染上家里的气味，并且慢慢的让它们再次见面。在以上建议的前提下，谨慎考虑你该如何放置他们的食碗和猫砂盆。
+
 By taking these simple steps you can often dramatically improve the quality of life for the cats living in your multi-cat household. 
+
+通过这些步骤你通常可以很好的提升猫咪们在一个多猫共存的家庭中的生活质量。
+
 If you have problems, please seek help sooner rather than later as it may be easier to resolve a recently developed problem, than one which has occurred for some time. If cats have been introduced too quickly, you may need to give them separate rooms and start the integration procedure from scratch. Speak with your vet for further advice who may recommend referral to a suitably qualified behaviourist. 
+
+如果你遇到了问题，请尽早而不是拖后去寻求帮助，因为刚刚形成的问题往往比已经发生一段时间的问题更容易解决。如果猫已经被简单粗暴的安排见面，你可能需要给它们分别安排房间，并且从头开始，进行上述会面流程。咨询你的兽医，他可能会提供一些你可以进一步咨询的动物行为学家的联系方式。
+
 For more information, see Cats Protection’s Essential Guides: Cats living togetherand Managing your cat’s behaviour. 
 
-Introducing cats to dogs 
+需要更多信息，请参阅猫咪保护基本指导之猫咪共存以及管教猫咪的行为。
+
+Introducing cats to dogs 介绍猫咪和狗会面
+
 While dogs and cats are often regarded as enemies, it is usually easier to introduce a new cat to a dog than to another cat. Often, the cat will take charge of the situation immediately! A gradual introduction can make all the difference when introducing a cat and a dog to each other. It can be easier if the cat had positive experiences with dogs when it was a young kitten and vice versa. 
+
+尽管狗和猫通常被认为是敌人，不过实际上把猫介绍给一只狗认识要比介绍给另一只猫要容易很多。通常，猫会很快控制场面。一个缓慢进行的会面可以相当成功。如果猫在幼年时期对狗有正面的印象，那这个过程可能更加容易。反之则会更困难。
+
 Provide a room or area of the house for your cat that is not accessible to your dog. Firstly exchange the dog’s and cat’s scent, in the exactly same way as detailed above when introducing two cats, over a period of several days. Then, when making face-to-face introductions: 
+
+给猫咪提供一个狗不能进入的房间或者是区域。首先用以上提到的方式，交换猫狗的气味，这一阶段可能耗时几天。接着在会面环节要注意：
+
 . keep your dog on the lead and keep them calm – it may help to take your dog for a vigorous walk first 
 
+· 保持狗被绳子拴住的状态，尽量维持它们镇静，提前出门遛狗可能会有帮助。
+
 . train your dog to show relaxed, non-threatening behaviour around the cat, such as ‘down’ and ‘stay’ and ensure you are in control at all times. For more information on positive, reward-based dog-training, contact the Association of Pet Dog Trainers – see www.apdt.co.uk 
+
+· 训练你的狗让它在猫的面前表现的放松、不具备威胁。比如“坐下”和“别动”，并且确保你在全程保持对场面的控制。需要更多关于正向反馈狗狗训练的信息，请联系宠物狗训练协会（
 
 . ensure your cat doesn’t feel cornered. They should be somewhere where they feel relaxed with a safe escape route 
 
