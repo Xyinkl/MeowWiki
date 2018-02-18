@@ -151,11 +151,3 @@ It would also be advisable to consider taking out pet insurance and checking whe
 
 如果你的猫有保险，那么拿出保险条文检查，在境外其是否收到保险保护也相当重要。
 
-Learn more about your cat online! 
-Take a look at our free interactive tool to help you understand cats’ origins and their behaviour within our homes. http://learnonline.cats.org.uk/content/ufo 
-
-在线了解更多关于你的猫的信息！
-了解一下我们的免费互动工具，它可以帮你了解你的猫的祖先以及它们性格行为。
-网址：http://learnonline.cats.org.uk/content/ufo 
-
-
