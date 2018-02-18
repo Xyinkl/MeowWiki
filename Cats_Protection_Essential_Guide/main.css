@@ -1,0 +1,54 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:400,500);
+
+*{
+	padding:0;
+	margin:0;
+}
+
+@font-face { 
+font-family: fzltcxh-en; 
+src: url('fzltcxh-en.woff'); 
+}
+
+body{
+  font: normal .80em fzltcxh-en, "Ubuntu", arial, sans-serif;
+  background-image: url('img/bcg_paper3.png');
+  background-repeat: repeat;
+  background-position: center top;
+  background-attachment: fixed;
+}
+
+
+a{
+	text-decoration: none;
+	color:#666;
+}
+	a:hover{
+		color:#999;
+
+	}
+p{
+	line-height: 2em;
+	margin:0 0 20px;
+	text-align: center;
+}
+
+.wrap{
+	max-width: 600px;
+	margin:200px auto;
+}
+
+.type-wrap{
+	margin:10px auto;
+	padding:20px;
+	background:#f0f0f0;
+	border-radius:5px;
+	border:#CCC 1px solid;
+}
+
+.links{
+	margin:20px 0;
+	font-size: 1em;
+	font-family: "Ubuntu", arial, sans-serif;
+	text-align: center;
+}
