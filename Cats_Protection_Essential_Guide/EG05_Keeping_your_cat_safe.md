@@ -22,86 +22,142 @@ Cats Protection 建议你至少做到以下几点：
 
 . provide a safe and secure home, with thoughtful placement of their food, water, litter tray, hiding and rest areas. Your cat will need their own space and plenty of enrichment to keep them happy and healthy and encourage them to stay close to home 
 
+·提供一个食物、水源、猫砂盆合理放置，有着藏匿处所以及休息场所的安全舒适的家。你的猫需要自己的空间，而且可能需要更多来保持精神上的愉悦以及身体上的健康，以及对家的眷恋。
+
 . provide a healthy diet and appropriate health care – including vaccination, flea and worming treatment and regular vet check-ups 
+
+· 提供健康的饮食以及适当的健康检查护理（包括疫苗、体内外驱虫以及定期兽医的身体检查）
 
 . ensure your cat is microchipped – so if they go missing, your details can be quickly traced allowing you to be reunited 
 
+· 确保已经给猫植入芯片，这样一旦他们走失，你的资料可以被迅速找到。这样你就可以和猫重新团聚。
+
 . are aware of potential hazards and protect against them where possible 
+
+· 知晓对猫有害的物质并且使其远离猫咪。
 
 . know what to do in case of emergency, or if your cat goes missing 
 
+· 知道紧急情况下或者你的猫走失的情况下如何应对。
+
 . consider taking out pet insurance, to give you peace of mind and the financial means to treat your cat should anything unexpected arise 
+
+· 考虑给你的猫办理宠物保险。这样面对你的猫的任何意外你都能有所准备，无论是思想上还是金钱上。
 
 This guide highlights some of the dangers faced by cats, suggests ways to minimise risk and gives advice on what to do when faced with an emergency. 
 
-The dangers at home 
+以下指导标示了几种猫面对的危险、如何最小化风险以及在危机来临时如何去做。
 
-Poisonous substances 
+The dangers at home 家中的威胁
+
+Poisonous substances 有毒物质
+
 Cats are very susceptible to poisoning and a number of everyday household items can pose a danger to them. If you suspect your cat may have eaten a poisonous substance, seek veterinary advice immediately – even if they appear well, delaying for just a few minutes may endanger their life. It is advisable to keep the following chemicals firmly out of your cat’s reach, as anything that gets on your cat’s feet or fur is likely to be ingested when they are grooming: 
+
+猫容易受毒物影响，而且一系列家具用品都能对其造成威胁。如果你怀疑自己的猫使用了有毒物质，请立刻咨询兽医。即便它们暂时没有表现出异样，你耽误的每一分钟都可能危及它们的生命。建议一定不要将以下物质放置在猫可以触及的地方，即便是爪子或者皮毛沾染都会随着猫自我清洁而被吞食。
+
 . antifreeze – is lethal for cats, so always keep this out of your cat’s way and avoid using it in water features. Clear up any antifreeze spills immediately 
+
+· 防冻液对猫是致命的，所以应当使其远离你的猫。如果有溅出的任何防冻液，立刻清理干净。
 
 . disinfectants – particularly those containing phenol, which usually go cloudy when added to water – are very toxic to cats 
 
+· 消毒剂。尤其是含有苯酚的（入水变浑的那种），对猫的毒性很强。
+
 . decorating chemicals, such as white spirit 
+
+· 装修用化学物质，比如石油溶剂。
 
 . pest control agents, such as: 
 
+· 杀虫剂，比如：
+
 . slug bait – is extremely poisonous, especially if it contains metaldehyde or methiocarb 
+
+·蜗牛诱饵对猫极度有害，尤其是含有金属醛或甲氧碳的。
 
 . rodent bait – avoid these, especially anticoagulant types. Even if kept out of the cat’s reach they can still cause harm if the cat eats a poisoned rodent 
 
+· 灭鼠毒饵–避免这些，特别是抗凝血类的。即便不让猫接触，一旦被毒死的啮齿动物被猫食用，也会对猫造成伤害
+
 . weed killers – particularly those containing paraquat 
+
+·除草剂，尤其是含有百草枯的品种。
 
 . insect killers can be extremely toxic to cats 
 
-
+· 昆虫杀虫剂可能对猫有剧毒。
 
 . dog flea treatment medication 
 
+· 狗驱虫剂
+
 . human medications – even drugs like aspirin and paracetamol can be highly toxic for cats 
+
+· 人类用药品，甚至像阿司匹林和扑热息痛这样的药物对猫也会有很高的毒性。
 
 . certain human foods – including onions, raisins and chocolate 
 
+· 某些人类食物，包括洋葱、葡萄干和巧克力。
+
 . poisonous plants – see over 
 
+· 有毒植物，详见下面
 
 
-Plants 
+
+Plants 有毒植物
 
 A number of plants – lilies in particular – can be lethal. Sadly, cats have been poisoned by simply brushing against certain plants and then licking the pollen from their fur. It is advisable to avoid them if at all possible, whether cut flowers or grown in the garden. 
 
+一些植物对猫是致命的，其中百合类占大多数。有的时候，简单的蹭过植物，随后舔食到毛上沾染的花粉都足以让猫中毒。我们的建议是尽最大可能避免猫接触此类植物，无论是插在瓶子里的还是种在花园的。
+
 Plants to avoid include – but are not restricted to: 
+
+应该避免被猫接触的植物包括（但不限于）：
+
 . all types of Lily – Lilium and Hemerocallis species 
+
+· 百合和金合欢属的所有植物
 
 . Lily of the Valley – Convallaria majalis 
 
+· 铃兰
+
 . Foxglove – Digitalis 
 
-
+· 毛地黄
 
 A comprehensive list of plants that are dangerous to cats can be found on International Cat Care’s website www.icatcare.org. Cats are more likely to chew on plants if they are bored or are looking for grass to nibble, so plant some Cocksfoot grass in the garden or in pots in the home. This is particularly important if your cat doesn’t have access outside. 
 
-Falls 
+在国际猫咪养护（International Cat Care）的网站（www.icatcare.org）上有更为详细的对猫有害的植物列表。猫在无聊或者是需要吃草的时候会撕咬植物，所以你应该在花园或者花盆里种一些鸡脚草。如果你的猫养在室内，这点则尤其重要。
+
+Falls 跌落受伤
 
 Cats can fall from upstairs windows or balconies, so if you want a constant supply of fresh air – particularly if you have a cat which is kept indoors – it is advisable to screen the windows with wire mesh – window screens are commercially available. Avoid giving your cat access to the balcony and make sure it is fenced off. Sadly a number of cats are injured or killed each year after falling from a height. 
 
-Household appliances 
+猫可能从高处的阳台或者是窗户跌落。如果你的猫养在室内，想给它提供新鲜的空气，那么最好是买纱窗把窗户封起来。将猫和阳台隔开，不要让你的猫进到阳台。很不幸的是，每年都有很多猫因为高出坠落而受伤或者是死亡。
+
+Household appliances 家用电器
 
 Small spaces are attractive to cats and it is natural for them to hide when feeling anxious, or just because they want a peaceful rest. Block off any areas where your cat could become trapped and keep the doors of household appliances such as the washing machine or tumble dryer, firmly shut. Keep your cat away from hot surfaces and liquids. Cats may also be attracted to the water in your toilet, so make sure you leave the lid down to prevent the risk of drowning. 
 
-Other indoor hazards 
+狭小的地方对猫很有诱惑力，而且当猫受到惊吓会很自然的藏身于狭小空间。有时可能它们只是为了有个安全的休息地点。不要让其能够进入任何可能把它卡住的区域。紧紧关上所有家用电器的门（比如洗衣机、烘干机）。让你的猫远离任何过热的表面以及液体。猫可能会对马桶里的水感兴趣，因此确保每次把马桶盖放下，避免猫咪溺水。
+
+Other indoor hazards 其他室内危害
 
 Screen off open fireplaces and always supervise your cat if you have lit a fire. Take care with electric cables, sewing pins and needles. In particular cats may be attracted to play with the cotton attached to sewing needles which can lead to serious internal injuries. 
 
+把开放式壁炉用纱网封上，如果你生了火，那么要随时监控你的猫。小心电线、缝衣针线。有些猫喜欢玩缝衣针上连着的棉线，这样可能会造成严重的内部损伤。
+
 It’s a good idea to rotate the use of toys to keep games interesting for your cat but don’t leave your cat unattended with toys which could be shredded and eaten or cause entanglement and check toys regularly for signs of wear, replacing when appropriate. Likewise, take care during festivities and avoid leaving your cat unattended with dangling Christmas decorations and tinsel. Don’t let your cat eat party food and make sure they have a safe place to hide and easy access to their food, water and litter tray during parties. Noisy party bangers, Christmas crackers and the general commotion can also be disturbing for your cat, especially if they are used to a quiet household. 
+
+为了让游戏不变的无聊，你可以变换着使用玩具，但是不要让猫单独和玩具在一起。这样可能会似玩具被猫撕碎、被吞食，或者是和猫缠在一起。同样的，在节日期间你也应该注意避免让猫单独面对悬挂着的圣诞装饰。不要让它吃派对上的食物，给它一个安全的地方能够躲藏，并且能够很容易到达食盆、水盆和猫砂盆。喧闹的派对、圣诞的爆竹以及单纯的吵闹也会让你的猫感到不安，尤其是如果它们已经习惯了安静的家庭。
 
 
 Fireworks and parties 
 
 While firework displays and parties are entertaining for us, they can be distressing for pets. To ensure that your cat will be safe and sound, keep them in after dark and provide them with a litter tray, food and water bowls and a place to hide. During firework season, make sure that all doors and windows are securely closed to prevent your cat from escaping. Try to reduce outside noise by keeping curtains drawn, which will also reduce awareness of any flashes. Playing soothing music or having the TV on may also help. Try not to reinforce fearful behaviour by overly comforting a cat that is looking anxious. A pheromone plug-in diffuser can be used to decrease anxiety and can have a calming effect – start using it a couple of weeks before the fireworks season starts and site it in the room where your cat spends most of their time. 
-
-
-
 
 Roads 
 
@@ -183,8 +239,6 @@ Cats are well known for their curiosity and ability to find unlikely sleeping pl
 
 . lost and found sections in local newspapers 
 
-
-
 Advertise 
 
 Create some flyers with a clear description of your cat – a photo is a big help: 
@@ -196,8 +250,6 @@ Create some flyers with a clear description of your cat – a photo is a big hel
 . contact local schools, newspapers and even radio 
 
 . the internet and social media sites can be a great tool to help track down a lost animal 
-
-
 
 Inform 
 
@@ -226,9 +278,6 @@ Above all, don’t give up hope – we hear so many tales of cats being found an
 . inform any people or authorities who have been asked to look for them 
 
 . ensure they are microchipped in case they stray again and always keep your contact details up to date with the microchip database 
-
-
-
 
 Emergencies 
 What is an emergency? 
@@ -259,9 +308,7 @@ Cats hide pain very well and sometimes only show subtle signs of disease. Howeve
 
 . difficulties when a female cat is giving birth – for more information, see Cats Protection’s Essential Guide: Pregnancy, birth and caring for young kittens 
 
-
 This list is by no means exhaustive so if you are in doubt, seek veterinary advice. It is also advisable to contact your vet if your cat’s routine habits or behaviour changes, as well as when more obvious signs of disease are apparent, such as coughing and sneezing, vomiting and diarrhoea or lameness. Even subtle signs such as reduced activity, changes in vocalisation or an increased appetite or thirst can indicate underlying disease. Your vet will be able to advise on whether urgent treatment is needed. 
-
 
 First aid 
 
@@ -272,7 +319,6 @@ The initial steps taken following an accident, illness or injury are known as fi
 . prevent suffering 
 
 . prevent a condition from getting worse 
-
 
 First aid does not mean making a diagnosis or giving any medication, but it can help to promote a good recovery. Where possible, expert help should be called immediately as attempting first aid can delay necessary veterinary treatment, compromising welfare. Cats may require oxygen therapy and specialist care and delays can cost lives. 
 
@@ -302,7 +348,6 @@ Poisoning
 
 Routes of poisoning include ingestion, absorption through the skin and by licking substances off the coat. As there are so many different types of poison, there are also a number of different signs that a cat may show after exposure to a toxic substance. These can include salivation, vomiting and diarrhoea, twitching and fitting. Your cat may have breathing difficulties, show signs of shock or collapse and go into a coma. These signs tend to appear suddenly so if you suspect that your cat may have ingested a poisonous substance, you must act quickly. If you can see the poison, then take your cat away from it immediately and phone your vet for advice in the first instance. You may need to take your cat straight down to the surgery. Inducing vomiting in your cat may not be the best course of action. Look for evidence of what your cat may have eaten and make sure you take it with you to the vet. Even a sample of vomit may help diagnosis, particularly if it is an unusual colour or contains plant matter. If you are suspicious your cat may have been deliberately poisoned, speak with your vet and contact the RSPCA 24 hour action line 0300 1234 199. For more information, see Cats Protection’s Essential Guide: Cats and the law. 
 
-
 Medicines 
 
 Do not use human medicines or creams without seeking 
@@ -313,7 +358,6 @@ kittens and the Veterinary Guide: You and your vet.
 
 Cats are free roaming and inquisitive animals, but they are usually careful to keep themselves out of danger. However, it can be helpful to know the hazards to avoid and action to take in the face of an emergency, to keep your cat happy and safe. 
 
-
 Cat Guardians 
 
 Cat Guardians is the free service provided by Cats Protection, aimed at giving peace of mind to cat owners concerned about what might happen if they were to pass away before their cat. 
@@ -321,7 +365,4 @@ Cat Guardians is the free service provided by Cats Protection, aimed at giving p
 If you have cats, we know how much they mean to you. Should something happen to you, you will naturally want to make sure that someone is there to care for the cat or cats you love. Through our Cat Guardians service, individuals can make arrangements with us so that in the event of their death, we will take care of their cats and try to find them a loving new home. 
 
 Furthermore, Cats Protection promises never to put a healthy cat to sleep, so you can feel assured that we will give your feline friend all the love and care they need until we can find them the new home they deserve. For more information, contact Cats Protection’s National Helpline on 03000 12 12 12 or email helpline@cats.org.uk 
-
-Learn more about your cat online! 
-Take a look at our free interactive tool to help you understand cats’ origins and their behaviour within our homes. http://learnonline.cats.org.uk/content/ufo 
 
