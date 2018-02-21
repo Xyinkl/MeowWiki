@@ -1,4 +1,4 @@
-[-=*返回目录*=-](https://xyinkl.github.io/MeowWiki/Cats_Protection_Essential_Guide/)
+[⌂⌂⌂⌂返回目录⌂⌂⌂⌂](https://xyinkl.github.io/MeowWiki/Cats_Protection_Essential_Guide/)
 
 ##MeowWiki Cat Caring Translate Program
 
@@ -349,5 +349,4 @@ Cats Protection对收留的猫咪的健康及待遇设定了一套最低标准�
 
 · 如果年龄适合，则植入芯片
 
-[-=*返回目录*=-](https://xyinkl.github.io/MeowWiki/Cats_Protection_Essential_Guide/)
-
+[⌂⌂⌂⌂返回目录⌂⌂⌂⌂](https://xyinkl.github.io/MeowWiki/Cats_Protection_Essential_Guide/)
