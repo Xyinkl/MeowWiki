@@ -10,7 +10,7 @@ Keeping your cat safe 保证猫咪的安全
 
 Cats are naturally inquisitive animals and while most will enjoy happy lives free from danger, their curiosity can get them into scrapes from time to time. As a responsible owner, you’ll want to do all you can to protect against unfortunate incidents. You also have a legal duty of care to provide for your cat’s needs and ensure they are protected from pain, suffering, injury and disease. 
 
-m尽管猫咪大多生活的平静安详，不过由于天性好奇，它们有时也会陷入险境。作为一个负责任的主人，你应该竭尽所能避免出现不幸的事故。给予你的猫咪生存所需，确保它们不会受疼痛、伤病影响，这也是法律的要求。
+尽管猫咪大多过着平静安详的生活，不过由于天性好奇，它们有时也会陷入险境。作为一个负责任的主人，你应该竭尽所能避免出现不幸的事故。给予你的猫咪生存所需，确保它们不会受疼痛、伤病影响，这也是法律的要求。
 
 Above all, Cats Protection recommends that you:
 
@@ -155,9 +155,12 @@ It’s a good idea to rotate the use of toys to keep games interesting for your 
 为了让游戏不变的无聊，你可以变换着使用玩具，但是不要让猫单独和玩具在一起。这样可能会似玩具被猫撕碎、被吞食，或者是和猫缠在一起。同样的，在节日期间你也应该注意避免让猫单独面对悬挂着的圣诞装饰。不要让它吃派对上的食物，给它一个安全的地方能够躲藏，并且能够很容易到达食盆、水盆和猫砂盆。喧闹的派对、圣诞的爆竹以及单纯的吵闹也会让你的猫感到不安，尤其是如果它们已经习惯了安静的家庭。
 
 
-Fireworks and parties 
+Fireworks and parties 烟火及派对
 
 While firework displays and parties are entertaining for us, they can be distressing for pets. To ensure that your cat will be safe and sound, keep them in after dark and provide them with a litter tray, food and water bowls and a place to hide. During firework season, make sure that all doors and windows are securely closed to prevent your cat from escaping. Try to reduce outside noise by keeping curtains drawn, which will also reduce awareness of any flashes. Playing soothing music or having the TV on may also help. Try not to reinforce fearful behaviour by overly comforting a cat that is looking anxious. A pheromone plug-in diffuser can be used to decrease anxiety and can have a calming effect – start using it a couple of weeks before the fireworks season starts and site it in the room where your cat spends most of their time. 
+
+尽管对于人类来说，烟火表演以及派对是一种娱乐方式。不过这些对猫来说可能是很让其烦躁的。为了保证你的猫安然无事，你需要把它们放在黑暗的角落，给它们猫砂盆、食物和水，让它们有地方可以躲藏。烟火季节，确保所有门窗都是关闭的，以防猫被吓跑。你可以通过拉上窗帘来减少外界的噪音，同时也能减弱外界的闪光。播放舒缓的音乐或者是开着电视可能有点用处。不要过度安慰焦虑的猫，这样可能会强化这种害怕的行为模式。荷尔蒙喷剂可以用来减轻焦虑，安慰猫咪。你可以在烟火季节开始之前的几周开始使用喷剂，并将其喷涂在你的猫经常呆的房间。
+
 
 Roads 
 
