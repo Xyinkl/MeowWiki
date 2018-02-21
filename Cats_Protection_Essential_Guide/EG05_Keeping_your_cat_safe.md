@@ -6,14 +6,19 @@
 
 @(Evernote)[计划, 翻译, 猫]
 
-Keeping your cat safe 
-
+Keeping your cat safe 保证猫咪的安全
 
 Cats are naturally inquisitive animals and while most will enjoy happy lives free from danger, their curiosity can get them into scrapes from time to time. As a responsible owner, you’ll want to do all you can to protect against unfortunate incidents. You also have a legal duty of care to provide for your cat’s needs and ensure they are protected from pain, suffering, injury and disease. 
 
-Above all, Cats Protection recommends that you: 
+m尽管猫咪大多生活的平静安详，不过由于天性好奇，它们有时也会陷入险境。作为一个负责任的主人，你应该竭尽所能避免出现不幸的事故。给予你的猫咪生存所需，确保它们不会受疼痛、伤病影响，这也是法律的要求。
+
+Above all, Cats Protection recommends that you:
+
+Cats Protection 建议你至少做到以下几点：
 
 . have your cat neutered – this reduces the risk of your cat fighting and sustaining injury, contracting diseases or become lost 
+
+· 给猫咪绝育，这样会减少你的猫打架受伤、传染疾病以及走失的的风险。
 
 . provide a safe and secure home, with thoughtful placement of their food, water, litter tray, hiding and rest areas. Your cat will need their own space and plenty of enrichment to keep them happy and healthy and encourage them to stay close to home 
 
