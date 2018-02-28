@@ -162,9 +162,11 @@ While firework displays and parties are entertaining for us, they can be distres
 尽管对于人类来说，烟火表演以及派对是一种娱乐方式。不过这些对猫来说可能是很让其烦躁的。为了保证你的猫安然无事，你需要把它们放在黑暗的角落，给它们猫砂盆、食物和水，让它们有地方可以躲藏。烟火季节，确保所有门窗都是关闭的，以防猫被吓跑。你可以通过拉上窗帘来减少外界的噪音，同时也能减弱外界的闪光。播放舒缓的音乐或者是开着电视可能有点用处。不要过度安慰焦虑的猫，这样可能会强化这种害怕的行为模式。荷尔蒙喷剂可以用来减轻焦虑，安慰猫咪。你可以在烟火季节开始之前的几周开始使用喷剂，并将其喷涂在你的猫经常呆的房间。
 
 
-Roads 
+Roads 交通隐患
 
 Cats are natural hunters and will tend to be more alert at night time when rodents and other prey are active. Their eyes do not adjust as quickly as ours to changes in light intensity, so sudden bright headlights can be dazzling and disorientating. There is an increased chance of road accidents after nightfall so it is best to keep your cat indoors overnight. Timing meals to coincide with rush hour may also help to keep your cat away from busy roads. 
+
+猫作为天生的猎手，在其猎物活跃的夜晚时分会更加警觉。它们的眼睛不能很快适应光亮的变化，所以突然地光亮照射会造成它们的眩晕不适。
 
 Harnesses 
 
