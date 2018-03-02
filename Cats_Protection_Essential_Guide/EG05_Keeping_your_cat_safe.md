@@ -130,7 +130,7 @@ Plants to avoid include – but are not restricted to:
 
 A comprehensive list of plants that are dangerous to cats can be found on International Cat Care’s website www.icatcare.org. Cats are more likely to chew on plants if they are bored or are looking for grass to nibble, so plant some Cocksfoot grass in the garden or in pots in the home. This is particularly important if your cat doesn’t have access outside. 
 
-在国际猫咪养护（International Cat Care）的网站（www.icatcare.org）上有更为详细的对猫有害的植物列表。猫在无聊或者是需要吃草的时候会撕咬植物，所以你应该在花园或者花盆里种一些鸡脚草。如果你的猫养在室内，这点则尤其重要。
+在国际猫咪养护（International Cat Care）的网站（www.icatcare.org） 上有更为详细的对猫有害的植物列表。猫在无聊或者是需要吃草的时候会撕咬植物，所以你应该在花园或者花盆里种一些鸡脚草。如果你的猫养在室内，这点则尤其重要。
 
 Falls 跌落受伤
 
@@ -166,15 +166,21 @@ Roads 交通隐患
 
 Cats are natural hunters and will tend to be more alert at night time when rodents and other prey are active. Their eyes do not adjust as quickly as ours to changes in light intensity, so sudden bright headlights can be dazzling and disorientating. There is an increased chance of road accidents after nightfall so it is best to keep your cat indoors overnight. Timing meals to coincide with rush hour may also help to keep your cat away from busy roads. 
 
-猫作为天生的猎手，在其猎物活跃的夜晚时分会更加警觉。它们的眼睛不能很快适应光亮的变化，所以突然地光亮照射会造成它们的眩晕不适。
+猫作为天生的猎手，在其猎物活跃的夜晚时分会更加警觉。它们的眼睛不能很快适应光亮的变化，所以突然地光亮照射会造成它们的眩晕不适。夜间由于交通造成的安全风险较高，所以最要是把猫留在室内。选择在车流较多的时段喂食，也是一种消除交通隐患的很好方式。
 
-Harnesses 
+Harnesses 项圈
 
 Some people are worried about letting their cat roam freely outside, so they use a harness with a lead to enable their cat to explore the outdoors safely. While some cats will cope with this – especially if they are used to it from a very early age – others may find it very stressful. Cats are free-roaming creatures and they like to explore their environment at their own pace and choose areas where they feel safe. This ensures they can easily access suitable hiding places if they feel threatened. 
 
+有的人担心猫在外面会有危险，所以给猫栓了绳索。尽管有些猫（比如小时候就开始佩戴绳索的）能够适应，其他的猫可能会感到十分局促。猫作为无拘无束哦的动物，喜欢按自己的节奏来探索周遭环境，并且自主选择它们认为安全的区域。这样当它们感受到威胁的时候，就能够很轻松的隐匿到安全的庇护所。
+
 Many cats do not react well to being restrained so the experience may be more negative than not having any outdoor access. If a cat bolts while wearing a harness, it may also be at risk of entrapment. If you choose to use a harness, ensure your cat is introduced to it gradually, and encourage positive associations by using food treats from their daily food ration to reward them. Ensure they are comfortable wearing it inside the house, before you attempt to take them outside. Monitor for signs of stress and let your cat explore at their own pace. Allow them to stay close to the sanctuary of shelter and bushes – rather than forcing them into open spaces. Unlike dogs, cats will not learn to go to the toilet while on a lead and will be unlikely to enjoy being taken for ‘walks’ outside in a place they don’t feel safe. 
 
+由于很多猫不适应被绳索拴着出门，由此带来的负面影响甚至更胜过不让其出门。如果猫带绳逃跑，也容易被绳索套住。如果你确实想要给猫佩戴绳索，你需要一步步地进行，在每次得到正面的反馈时都能够给与其食物奖励（但是不要超量喂食）。在你的猫能够在室内很放松的佩戴绳索之后，你可以尝试带它出门。注意路旁的标志，让你的猫自己探索。允许它们躲藏在灌木和遮蔽处，而不是强迫它们到空旷的地方。与狗不同的是，猫很难学会在佩戴绳索的同时排便，更很难享受在外面以它们不喜欢的频率“漫步”。
+
 Instead of a harness, consider securing the garden with suitable fencing. Alternatively you could make the indoor environment more enriching by varying the scents and objects – such as toys – to enable your cat to exhibit their natural behaviour. Use puzzle feeders and replicate the hunting experience using fishing rod toys. 
+
+
 
 Diseases and parasites 
 
