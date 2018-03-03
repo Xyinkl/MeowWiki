@@ -180,186 +180,313 @@ Many cats do not react well to being restrained so the experience may be more ne
 
 Instead of a harness, consider securing the garden with suitable fencing. Alternatively you could make the indoor environment more enriching by varying the scents and objects – such as toys – to enable your cat to exhibit their natural behaviour. Use puzzle feeders and replicate the hunting experience using fishing rod toys. 
 
+与其给猫带上绳索，我们建议你用围栏把花园圈起来，通过改变气味以及物品摆放来让室内的环境更加适合猫咪。给猫咪提供玩具，可以让它们尽情释放自己的天性。你也可以用玩具喂食机或者用逗猫棒来模拟它们的狩猎体验。
 
-
-Diseases and parasites 
+Diseases and parasites 疾病和寄生虫
 
 To reduce the risk of infectious diseases, ensure that your cat is fully vaccinated before allowing them outside. Cats adopted from Cats Protection will have already been vaccinated against cat flu which includes feline herpes virus (FHV), feline calicivirus (FCV) and feline parvovirus (FPV) – also known as entertitis. These vaccinations are included as part of our Minimum Veterinary Standards (MVS), but regular booster injections are still needed. Consult your vet to discuss the best protection for your cat. 
 
+为了避免猫染上传染性疾病，请务必在允许其出门之前进行全面的免疫注射。从CAT PROTECTION领养的猫已经全部被注射过预防包括猫疱疹病毒（FHV）、猫杯状病毒（FCV）和猫细小病毒（FPV） - 也称为肠炎在内的免疫疫苗。接受这些免疫是我们最低医疗标准的一部分，不过你还需要为猫进行之后的年度增强免疫注射。你可以和兽医沟通如何为猫提供最好的保护。
+
 Cats can also pick up parasites such as fleas, ticks and a variety of internal worms. Speak to your vet to find out how to prevent and treat these parasites and bear in mind that indoor cats can also suffer. 
 
+猫同样可能染上跳蚤、蜱虫和各种体内蠕虫。注意养在室内的猫同样可能罹患寄生虫，你可以联系兽医学习如何避免以及一旦染上如何治疗。
 
-Sunburn 
+
+Sunburn 晒伤
 
 Cats with white fur – including those with white ears or noses – can be susceptible to sunburn during the summer months and sun exposure can be a trigger for a type of cancer. It is certainly a good idea to try to offer some protection – we all know how much cats love to lie in the sun! 
 
+白色皮毛的猫（包括那些有白色耳朵或鼻子的）在夏季可能会受到晒伤的影响，而阳光照射可能会引发某种癌症。 试图提供一些保护当然是一个好主意，我们都知道有多少猫喜欢躺在阳光下！
+
+
 You may consider using a sunscreen to protect your cat’s ears and nose if you can’t restrict your cat’s access to the sun, but we recommend that you discuss this with your vet first. It is very important that product you use is suitable for cats, as they can be sensitive to the chemicals. Cats groom themselves regularly, so the effectiveness of using sunscreens to protect against sunburn or feline skin cancer is unknown. The best way to protect your cat is to try to keep them indoors during the hottest part of the day and to provide shade in your garden – from plants, trees or other objects. 
 
-Ponds 
+如果你不打算让猫远离阳光，那么可以考虑使用防晒霜来保护你的猫的耳朵和鼻子，但我们建议你先与兽医联系。 因为猫对化学品可能很敏感，所以使用对猫无害的产品就非常重要。 猫会定期舔毛，所以使用防晒霜来防止晒伤或猫皮肤癌的效果如何没有定论。 避免晒伤的最好方法是在一天中最热的时候尽量让它们呆在室内，并在花园里种植植物、树木或其他物体遮荫。
+
+Ponds 池塘
 
 If you have a pond, cats may be tempted to drink from it. To reduce the risk of them falling in, place some wire mesh securely over the pond, or make sure that there is a low edge so it is easy for a cat to get out. Ensure that any water butts also have a lid on them. 
 
+如果你的家里有池塘，那么猫很可能会想从中饮水。为了避免它们不慎落入水中，你可以在池塘周围放上一些铁丝网，或者是把池塘边缘修低，让它们能够很容易上岸。另外，如果有水桶，你需要确保水桶盖子是盖上的。
 
-Sheds, garages and dustbins 
 
-Missing cats often turn out to have been accidentally locked in garden sheds, garages or even bins. Check that a cat hasn’t crept into outbuildings and wheelie bins before closing them. 
+Sheds, garages and dustbins 棚子、车库以及垃圾桶
 
-Cold weather 
+Missing cats often turn out to have been accidentally locked in garden sheds, garages or even bins. Check that a cat hasn’t crept into outbuildings and wheelie bins before closing them.
+
+很多走失的猫都是因为被意外锁到花棚、车库或者是垃圾桶。你需要在锁门的时候检查是不是有猫爬进去了。
+
+
+Cold weather 寒冷天气
 
 Provide shelter for cats that have access outside. Keep the doors of sheds and outbuildings wedged slightly open – or install a cat flap. If you provide an outdoor water source, check it hasn’t frozen over. Ensure your cat can reach their chosen toileting site and if your cat is seeing snow for the first time, consider giving them access to a safe and enclosed area such as a garden and accompany them when they go out. Keep de-icing products safely out of reach and groom any rock salt residue from your cat’s fur. 
 
-How do I encourage my cat to stay close to home? 
+请给能够自由外出的猫提供庇护所。保持棚屋和附属建筑物的门稍微张开（或者安装猫门）。 如果您提供室外水源，请确保其没有结冰，另外确保你的猫可以到达他们选择的如厕场所。如果你的猫第一次看到雪，请让其能够退到花园等安全区域，并在他们出门时陪伴他们。请将除冰产品放在安全的地方，并去掉猫毛上的融雪盐残留。
+
+
+How do I encourage my cat to stay close to home? 我如何让猫停留在附近？
 
 See Cats Protection’s Essential Guide: Indoor and outdoor cats for ideas for creating a cat-friendly garden and some fencing tips. 
 
+请参阅猫咪保护基本指导之室内室外猫，其中提供一些关于营造猫咪适宜的花园以及围栏设置的一些建议。
 
-How do I keep my cat away from hazards in the garden? 
+How do I keep my cat away from hazards in the garden? 如何避免猫受到花园的伤害？
 
 There are a number of humane ways to keeping your cat away from things that cause sickness or injury. Cats dislike the smell of citrus fruit peel and can also be deterred using chicken manure, or pellets of lion dung – this is available from pet shops. 
 
+许多人道的方法可以让您的猫远离可能导致其疾病或受伤的事物。猫不喜欢柑橘类果皮的气味，你也可以使用鸡粪或狮子粪粒 - 这些可以从宠物店购买到。
+
+
 You can deter cats from certain areas of the garden by using materials that feel uncomfortable under their paws. Suggestions include broken egg shells, stone chippings and prickly plants – ensure that the plants used are not poisonous to cats. If all this fails, clap your hands loudly or try aiming a low-intensity water pistol near your cat when they venture into the forbidden area. 
 
-Indoor only cats 
+你可以用让猫踩上去不舒服的材料构建一个猫的禁区。这些材料可以是破碎的蛋壳，碎石子或者是多刺植物（不过得是对猫没有毒性的植物）。如果这些方式都不有效果，你可以在其进入禁区的时候大声拍手或者是用水流较小的水枪阻止它的进入。
+
+Indoor only cats 只能养在室内的猫
 
 Certain cats need indoor-only lifestyles. Blind and deaf cats should be kept indoors as they are less aware of oncoming traffic. Cats with Feline Immunodeficiency Virus (FIV) should also not be allowed outside – they can spread the virus to other cats and are also at higher risk of catching other diseases. If you adopt from an animal welfare charity like Cats Protection, we will advise you of any known health conditions that cat has and whether they should remain indoors. You may be able to provide some safe outdoor access if you have a secure, escape-proof garden. Cats kept solely indoors will need extra attention paid to ensure their environment is enriching and they can exhibit their natural behaviour. See Cats Protection’s Essential Guide: Indoor and outdoor cats. 
 
+某些猫只能被养在室内。失明以及失聪的猫由于缺少对车流的感知，应该被养在室内。患有猫科动物免疫缺陷病毒（FIV）也不应该被允许外出，因为它们可以将病毒传播给其他猫，并且也有较高的发生其他疾病的风险。如果您是从CATS PROTECTION等动物慈善组织收养的猫，我们会告知您任何已知的猫健康状况，以及其是否应该留在室内。如果您有足够安全、猫不能从中逃跑的花园，那么可以给猫留出到花园的通道。 只在室内饲养的猫需要额外的关注，以确保环境丰富，并且可以展现其自然行为。请参阅猫咪保护基本指导之室内猫和室外猫。
 
-What do I do if my cat gets lost? 
+
+What do I do if my cat gets lost? 猫不见了，我该怎么办？
 
 At Cats Protection we understand how traumatic it can be when a much-loved pet suddenly goes missing. Follow this advice to aid your chances of finding them safe and well. 
 
-Look 
+我们特别能够理解当爱宠突然走失时主人感受到的伤痛。按以下建议去做，可以让你提高安全寻回爱宠的概率。
+
+Look 检查四周
 
 Cats are well known for their curiosity and ability to find unlikely sleeping places, so check the following places at home while calling your cat and ask your neighbours to do the same: 
 
-. all rooms 
+由于天性好奇，猫咪总能够找到很奇葩的睡觉场所。你需要在家中以下位置呼唤你的猫并且请你的邻居也这样做。
 
-. cupboards 
+. all rooms 所有房间
 
-. boxes and underneath beds 
+. cupboards 茶柜
 
-. household appliances like washing machines 
+. boxes and underneath beds 盒子以及床下
 
-. sheds and garages 
+. household appliances like washing machines 家用电器（比如洗碗机）
 
-. vehicles 
+. sheds and garages 棚屋以及车库
 
-. gardens 
+. vehicles 车辆
 
-. hedgerows – watch out for snares 
+. gardens 花园
 
-. lost and found sections in local newspapers 
+. hedgerows – watch out for snares 绿篱（注意不要被卡住）
 
-Advertise 
+. lost and found sections in local newspapers 本地报纸上的寻物启事
+
+Advertise 寻猫告示
 
 Create some flyers with a clear description of your cat – a photo is a big help: 
 
+制作一些印有你的猫清晰描述的传单，最好有它的照片。
+
 . put posters on trees – available from your local Cats Protection branch 
+
+· 把传单贴到倒树上的海报（联系本地猫咪保护分支）
 
 . distribute flyers to local shops, garages and Post Offices 
 
+· 在本地商店、车库以及邮局分发传单
+
 . contact local schools, newspapers and even radio 
+
+· 联系本地学校、报纸以及电台
 
 . the internet and social media sites can be a great tool to help track down a lost animal 
 
-Inform 
+· 互联网以及社交媒体网站同样能在找回失踪动物上提供巨大助力。
+
+Inform 广泛通知
 
 You can also let individuals and organisations know – don’t underestimate the power of word-of-mouth communication. Contact: 
 
+你同样应该让个人以及团体知晓猫咪走失的消息，不要低估口口相传的威力。你可以联系：
+
 . neighbours 
+
+· 邻居
 
 . local veterinary surgeons 
 
+· 本地兽医机构
+
 . your cat’s microchip database provider – ensure all your contact details are up to date 
+
+· 你的猫置入芯片的提供商（确保数据库中你的联系方式保持最新）
 
 . local schools – children are particularly observant when it comes to animals 
 
+· 本地学校（对于动物来说，孩子的观察可能更加敏锐）
+
 . local Cats Protection branch – 03000 12 12 12 
+
+· 本地猫咪保护分支（03000 12 12 12 ）
 
 . register them as missing with www.animalsearchuk.co.uk . other local animal charities 
 
+· 在www.animalsearchuk.co.uk 等本地动物慈善机构登记走失。
+
 . the environmental health department of your local council 
+
+· 当地议会的环境卫生部门
 
 . delivery people – post, newspaper, milk etc 
 
+· 送货员（邮政、报刊、奶制品配送）
+
 . some companies offer commercial help and support in tracking lost pets 
+
+· 一些有偿提供宠物寻回帮助的公司。
 
 Above all, don’t give up hope – we hear so many tales of cats being found and reunited with their owners, sometimes years after they have gone missing. If you succeed in finding your cat: 
 
+最重要的是，不要放弃希望。我们见过很多猫咪最后被找到和主人团聚的故事，有的甚至是走失的几年之后。如果你成功的寻回了你的猫咪：
+
 . inform any people or authorities who have been asked to look for them 
+
+· 通知所有曾经被请求帮忙寻猫的个人或机构。
 
 . ensure they are microchipped in case they stray again and always keep your contact details up to date with the microchip database 
 
-Emergencies 
-What is an emergency? 
+· 确保猫咪被植入芯片，以防再次走失。及时更新数据库，保证个人信息准确。
+
+Emergencies 意外事件
+
+What is an emergency? 什么是意外事件？
+
 Cats hide pain very well and sometimes only show subtle signs of disease. However, it is generally more straightforward to recognise when a cat requires urgent emergency treatment. You may suspect or have witnessed a traumatic incident, or the cat may be showing obvious signs. In an emergency, your first point of contact should be your veterinary practice – make sure you keep their details in a handy place. Signs that a cat requires emergency advice and/or treatment include: 
+
+猫能够很好的隐藏疼痛，有时患病也只会露出一点点微弱的迹象。不过，当猫需要紧急治疗的时候，所体现的症状还算容易辨识。这些症状可能是突发受伤，也可能是其他明显的症状。一旦出现以下症状，请立刻联系你的兽医：
+
 . trauma eg road traffic accidents, dog attacks and falls 
+
+· 交通事故伤害、被狗攻击、坠落伤
 
 . collapse 
 
+· 虚脱
+
 . frequent vomiting and/or profuse or bloody diarrhoea 
+
+· 大量、频繁呕吐或者是便血
 
 . difficulty breathing, such as open-mouth breathing or marked effort to breathe 
 
+· 呼吸困难（张口呼吸或者是明显用力去呼吸）
+
 . continual/repeated straining to pass urine 
+
+· 连续或者往复过度排尿。
 
 . dehydration – assess by pinching a fold of skin. If it does not recoil immediately, the cat may require fluid therapy 
 
+· 脱水。你可以通过捏一下皮肤来评估，如果不能立刻回弹，那这只猫可能需要输液治疗。
+
 . any form of fit or convulsion 
+
+· 任何形式的痉挛
 
 . severe discharge from eyes, particularly if in combination with a thick nasal discharge 
 
+· 严重的眼部分泌物，尤其是并发有很多鼻腔分泌物。
+
 . severe lameness 
+
+· 严重的跛行
 
 . severe salivation/dribbling 
 
+· 严重的流涎
+
 . a high temperature – signs include the cat being unwilling to move or feeling hot to touch, especially on the ears. The third eyelid may also be showing 
+
+· 高温。其特征包括猫咪不愿动弹，摸起来（尤其是耳朵）很烫。第三眼睑可能露出。
 
 . signs of shock – pale lips, gums and eyes, a rapid heart rate and quick shallow breathing, cold extremities, lethargy, weakness and collapse 
 
+· 休克症状：苍白的嘴唇、牙床、眼睛，心跳加速，快速、低浅的呼吸，四肢寒冷，嗜睡，无力以及虚脱。
+
 . difficulties when a female cat is giving birth – for more information, see Cats Protection’s Essential Guide: Pregnancy, birth and caring for young kittens 
+
+· 母猫生产困难，需要更多信息，请参阅猫咪保护基本指导之孕猫、生产以及幼猫护理。
 
 This list is by no means exhaustive so if you are in doubt, seek veterinary advice. It is also advisable to contact your vet if your cat’s routine habits or behaviour changes, as well as when more obvious signs of disease are apparent, such as coughing and sneezing, vomiting and diarrhoea or lameness. Even subtle signs such as reduced activity, changes in vocalisation or an increased appetite or thirst can indicate underlying disease. Your vet will be able to advise on whether urgent treatment is needed. 
 
-First aid 
+这个列表并不完全，所以如果你遇到其他症状，请联系兽医。另外当你的猫改变了日常的行为或者是出现了咳嗽、打喷嚏、呕吐、便血、无力等症状，也最好联系兽医。即便是活动量减少、声音变化、食欲亢奋、渴水都可能意味着潜在的疾病。你的兽医会作出是否需要紧急治疗的建议。
+
+First aid 急救
 
 The initial steps taken following an accident, illness or injury are known as first aid – it aims to: 
 
+当意外、疾病、受伤发生的初期采取的措施被叫做急救，目的是：
+
 . preserve life 
+
+· 抢救生命
 
 . prevent suffering 
 
+· 减少痛苦
+
 . prevent a condition from getting worse 
+
+· 防止情况恶化
 
 First aid does not mean making a diagnosis or giving any medication, but it can help to promote a good recovery. Where possible, expert help should be called immediately as attempting first aid can delay necessary veterinary treatment, compromising welfare. Cats may require oxygen therapy and specialist care and delays can cost lives. 
 
+急救并不意味着做出诊断或给予任何药物，但它可以帮助促进良好的康复。 在可能的情况下，应立即寻求专家帮助，因为急救可能会延误必要的兽医治疗。 猫可能需要氧疗和专家护理，延误可能会导致生命损失。
+
 All veterinary practices are required to make provision for 24 hour emergency care – either via their own surgery or with an alternative practice in the area. Ring the vets to find out what to do. They can give you advice, let you know where to go should emergency treatment be required and prepare for the cat’s arrival. 
+
+所有的兽医机构都应该能够提供24小时的紧急医疗处置，无论是自己处理还是转到其他分支机构处置。打电话联系了解，一旦需要去哪里能够获得紧急处置。提前联系也能让其为猫的救治做好准备。
 
 Try to remain calm, as stress will affect your ability to help – you are more likely to do something wrong if you panic and it may worsen any stress of the cat. Take a deep breath and assess the situation – remember to consider the dangers to you as well as the cat. If the cat needs to be moved from where it is, find a suitable place to administer first aid nearby. 
 
+尽量保持镇静，慌乱会让你更容易做错事情，让猫的情况更差。做一个深呼吸，并且评估现状。不要忘了把你的风险和猫的风险一同考虑。如果猫需要被运送到其他地方接受治疗，你需要选择一个合适的附近场所进行急救。
+
 Remember that the most serious and most life threatening injury will need attention first. This may not be the injury that looks the most dramatic – for example a bleeding wound or broken leg may not be the worst injury, there may be other more serious internal injuries. 
+
+记住要对最严重的、最威胁生命的伤病优先处理。这些伤病可能不是看起来最严重的，比如流血的伤口或者是折断的腿。有些内部损伤可能更为致命。
 
 Wear protective clothing if available – distressed cats often scratch and bite. Avoid direct eye contact with the cat as it will find this threatening and use slow, deliberate movements and a calm soothing voice. Don’t ‘shush’ as you might with a person, this can sound much like another cat hissing and can make the cat more distressed. 
 
+如果可能，穿的厚一点全一点。受惊吓的猫可能会抓挠或者撕咬。避免直接的眼神接触，这会让猫视为威胁。轻柔缓慢的动作以及沉稳低沉的声音同样也是必要。不要发出安慰人的“嘘声”，这种声音猫听起来更像是另一只猫嘶吼，会让它更加紧张。
+
 The cat may be frightened and in pain, so take extra care when moving them. Putting a towel over the cat before lifting them can help to calm them. Use one hand in front of their front legs or under the lower side shoulder if the cat is on its side. Place the other hand behind or under the back legs and move the cat quickly and quietly onto a board or tray, blanket or into a box. Be very careful, not to disturb their position and avoid touching any obvious injuries. Try to ensure they are contained in a carrier if taking them to the vets, in case they suddenly try to escape. 
 
-Shock 
+猫咪可能受了惊吓并且忍受疼痛，所以在移动它们的时候需要额外的护理。在提起它们之前该上一条毛巾有助于帮它们放松。如果猫是侧卧，请用一只手在前腿前或下侧肩下。 将另一只手放在后腿后面或下方，并将猫快速安静地放在板、托盘上、毯子上或放入盒子中。 要非常小心，不要影响他们的姿势，避免触及任何明显的伤口。尽量将它们放在笼子里，带到兽医手中，以防它们突然试图逃跑。
+
+Shock 休克
 
 A cat suffering with shock requires immediate veterinary attention. Shock can occur as a consequence of any disease, injury or emergency and can be fatal in its own right. It may not occur until several hours after a trauma and can make what was a minor emergency into a life-threatening one. Signs include pale lips, gums and eyes, a rapid heart rate and quick shallow breathing, cold extremities, lethargy, weakness and collapse. Seek veterinary advice immediately. Use a towel or blanket to preserve body heat if this does not distress the cat and keep them comfortable. Do not attempt to feed or give water. 
 
-Bleeding
+休克的猫需要立刻接受兽医处理。休克可能是很多种疾病、外伤或者意外的结果，并且可能危及生命。休克可能在受伤几个小时后发生，并且让很小的意外演变成危及生命的险情。症状包括苍白的嘴唇、牙床、眼睛，心跳加速，呼吸低浅，四肢发冷，嗜睡，虚弱，脱力。你需要立刻联系兽医。如果可以，用一条毛巾来帮助它保持体温。不要试图喂食或者是喂水。
+
+Bleeding 流血
 
 Both internal and external bleeding can be dangerous so seek veterinary help immediately. Pressure should be applied to an open wound using a clean towel. If the blood soaks through the dressing, apply another on top. Do not attempt to remove any foreign bodies such as debris or nails as severe bleeding may occur. Avoid attempting to apply tourniquets as these can result in permanent damage and possible amputation. 
 
-Fits, seizures and convulsions 
+无论是内部出血还是外部流血都相当危险，所以应该立刻联系兽医。对于外伤应该用干净的毛巾按压止血。如果血液浸透了毛巾，用另一条盖在在上面继续按压。不要试图去除任何异物，如碎屑或指甲，因为可能会发生严重的出血。 避免尝试应用止血带，因为这会导致永久性损伤甚至是截肢。
+
+Fits, seizures and convulsions 癫痫发作和惊厥
 
 Fits or seizures can result from epilepsy, poisoning, organ failure or a lesion in the brain. Fits will vary in duration and frequency. Signs of fitting include changes in behaviour, drooling, rigidity or paddling and muscle tremors and/or loss of bladder control. The cat may lose consciousness or collapse. If you see this happening, remain calm and keep the room dark and quiet. Avoid holding the cat and remove any potentially harmful objects from the area. Observe closely, noting the duration and frequency of seizures and call the vet immediately. 
 
-Poisoning 
+由于癫痫、中毒、器官衰竭或大脑损伤可导致痉挛、惊厥。抽搐的时间和频率会有所不同。痉挛的迹象包括行为改变，流涎，僵硬，肌肉震颤或尿失禁。猫可能会失去意识或虚脱。如果你看到这种情况发生，保持冷静，保持房间黑暗和安静。避免抱起猫并从该区域移除任何可能有害的物体。仔细观察，注意癫痫发作的持续时间和频率，并立即致电兽医。
+
+Poisoning 中毒
 
 Routes of poisoning include ingestion, absorption through the skin and by licking substances off the coat. As there are so many different types of poison, there are also a number of different signs that a cat may show after exposure to a toxic substance. These can include salivation, vomiting and diarrhoea, twitching and fitting. Your cat may have breathing difficulties, show signs of shock or collapse and go into a coma. These signs tend to appear suddenly so if you suspect that your cat may have ingested a poisonous substance, you must act quickly. If you can see the poison, then take your cat away from it immediately and phone your vet for advice in the first instance. You may need to take your cat straight down to the surgery. Inducing vomiting in your cat may not be the best course of action. Look for evidence of what your cat may have eaten and make sure you take it with you to the vet. Even a sample of vomit may help diagnosis, particularly if it is an unusual colour or contains plant matter. If you are suspicious your cat may have been deliberately poisoned, speak with your vet and contact the RSPCA 24 hour action line 0300 1234 199. For more information, see Cats Protection’s Essential Guide: Cats and the law. 
 
-Medicines 
+中毒途径包括摄入，通过皮肤吸收以及通过舔掉被毛沾染的物质。由于有许多不同类型的毒物，在接触有毒物质后，猫可能会出现多种不同的迹象。这些迹象可能包括流涎、呕吐、腹泻、抽搐和痉挛。你的猫可能表现出呼吸困难，出现休克或虚脱的迹象，并陷入昏迷。这些迹象往往突然出现，所以如果你怀疑你的猫可能摄入了有毒物质，你必须迅速采取行动。如果你能看到这种毒物，那就马上把你的猫带离，并在第一时间给你的兽医打电话咨询。你可能需要把你的猫直接送去手术。给你的猫催吐可能不是最好的处置办法。寻找你的猫可能吃了什么的证据，并带着去看兽医。即使是呕吐样品也可能有助于诊断，特别是如果是不寻常的颜色或含有植物物质。如果您怀疑您的猫可能被故意下毒，请与您的兽医谈谈并联系RSPCA 24小时行动热线0300 1234 199.需要了解更多信息，请参阅猫咪保护基本指导之猫和法律篇。
+
+
+Medicines 用药
 
 Do not use human medicines or creams without seeking 
 veterinary advice – many are not safe for cats. 
@@ -367,13 +494,22 @@ For further advice on veterinary care, see our Essential Guides:
 Caring for your cat and Pregnant cats, birth and care of young 
 kittens and the Veterinary Guide: You and your vet. 
 
+不要在没有咨询兽医意见的情况下给猫使用人的药物或者药膏。很多人用药对猫并不安全。需要关于医疗护理的更多建议，请参阅猫咪基本指导之关爱你的猫咪篇、孕猫、生产以及幼猫护理篇。以及医疗指导之兽医篇
+
 Cats are free roaming and inquisitive animals, but they are usually careful to keep themselves out of danger. However, it can be helpful to know the hazards to avoid and action to take in the face of an emergency, to keep your cat happy and safe. 
 
-Cat Guardians 
+猫是无拘无束、好奇心泛滥的动物，但他们通常会小心谨慎、避免危险。无论如何，了解需要规避的风险以及紧急情况时需要采取的措施很有必要，这样才能使猫咪快乐而安全。
+
+Cat Guardians 猫咪守护
 
 Cat Guardians is the free service provided by Cats Protection, aimed at giving peace of mind to cat owners concerned about what might happen if they were to pass away before their cat. 
 
+猫咪守护是CATS PROTECTION提供的免费服务，旨在保障在发生了“主人先于宠物离世”的情况下对遗留猫咪的护理。
+
 If you have cats, we know how much they mean to you. Should something happen to you, you will naturally want to make sure that someone is there to care for the cat or cats you love. Through our Cat Guardians service, individuals can make arrangements with us so that in the event of their death, we will take care of their cats and try to find them a loving new home. 
+
+我们知道养一只猫对你意味着什么。一旦遭遇不幸，你肯定希望有人能够帮你照顾你挚爱的猫。通过我们的猫咪守护服务，你可以和我们进行要约，一旦去世，我们会照料猫咪，并尽量给它找个有爱的新家。
 
 Furthermore, Cats Protection promises never to put a healthy cat to sleep, so you can feel assured that we will give your feline friend all the love and care they need until we can find them the new home they deserve. For more information, contact Cats Protection’s National Helpline on 03000 12 12 12 or email helpline@cats.org.uk 
 
+此外，CATS PROTECTION承诺绝不对一只健康的猫施行安乐死。所以你可以放心，我们会给你爱猫它所需的爱和关怀，直到我们可以找到它的新家。 需要了解更多信息，请联系Cats Protection的全国热线（03000 12 12 12）或发送电子邮件到 helpline@cats.org.uk。
