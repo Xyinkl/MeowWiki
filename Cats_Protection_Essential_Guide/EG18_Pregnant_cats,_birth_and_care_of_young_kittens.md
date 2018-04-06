@@ -117,82 +117,144 @@ Third stage – passage of the membranes and dark flesh mass of the placenta or 
 . try to count the number of placentae to ensure one is passed for each kitten. If they are not all passed within four to six hours, veterinary advice should be sought. Bear in mind, the queen will usually eat the placenta to hide evidence of the birth and protect her offspring 
 
 ·清点胎盘数量，确保每只小猫的胎盘都被排出。如果四至六小时后胎盘仍没有完全排出，你应该咨询兽医的意见了。
+
 . a red-brown vaginal discharge may be seen for up to three weeks after the birth. It is abnormal if it is green or foul smelling – although there may normally be a small amount of greenish discharge after the kitten or placenta 
+
+` 生产后三周内都可能出现红棕色引导排泄物。尽管在幼猫或者胎盘排出后可能会有少量绿色排泄物，不过如果排泄物是绿色或者有恶臭则是不正常的，。
 
 Time between delivery of kittens is usually 10 to 60 minutes and stages two and three are repeated. The birth is usually complete within six hours after the start of the second stage, but can last up to 12 hours. 
 
+生产每只幼猫的间隔大约为10分钟至一小时，然后第二第三阶段就会重复发生。一旦第二阶段开始，整个生产过程通常会在六小时内完成，不过也有持续十二小时的案例。
+
 Between one and nine kittens will be born in a litter – most commonly four to six. First-time queens usually have a small litter size. When the birth is finished the mother will settle and allow the kittens to feed. 
+
+母猫一窝会生一到九只幼猫，通常情况下会生四到六只。初次生产的母猫生的幼猫会少一点。生产过程结束之后，母猫会安定下来，给幼猫喂奶。
 
 Have clean towels, a hot water bottle, a feeding bottle or syringe and some specialist substitute cat milk replacement 
 – not cow or goat milk – ready in advance. If everything goes well, leave the cat alone, but ensure she has access to food and water and a litter tray, without any risk of the kittens becoming trapped or drowning. 
 
-What can go wrong with the birth? 
+事先准备好干净的毛巾、一瓶热水、喂奶的瓶子或者是注射器，以及猫奶的替代品（不能使牛奶或者是羊奶）。如果一切顺利，你需要让母猫自己处理这一切，不过要确保而能够自由进食、饮水，以及如厕，同时不会让幼猫有绊住或者是淹死的危险。
+
+
+What can go wrong with the birth? 生产过程中可能会出现什么问题？
 
 In most cases the cat will manage without any help, with kittens born five to 30 minutes after a queen starts actively straining. Discreet and quiet observation is ideal. However, difficult births can occur and here are some things you can do to help:
 
-. seek veterinary advice if you have any concerns 
+通常情况下母猫不需要任何帮助就能生产，在开始收缩的5到30分钟内就能把小猫生出来。你只需要安静的仔细观察即可，不过，难产的情况也可能发生，以下是发生难产时你能够做的：
+
+. seek veterinary advice if you have any concerns
+
+· 如果你有任何担忧，及时联系兽医咨询建议
 
 . if a kitten is seen partly out, but the mother is very tired and the kitten isn’t passed within a few seconds, you can gently try to pull it out by pulling downwards with clean hands, but be very gentle and seek veterinary advice 
 
+· 如果一只幼猫的部分已经排出，但是母猫已经无力继续生产。你可以试着用干净的手慢慢把幼猫拉出来。注意要很轻柔，而且尽量咨询兽医的建议。
+
 . if the mother does not clean the kitten, you can quickly and quietly clear the membranes from its head with clean, soft kitchen roll. Wipe its nose and open the mouth to clear it. Rub the kitten in small circular movements to get it breathing 
+
+· 如果母猫没有清理她的幼崽，你可以用厨房纸快速轻柔地把幼猫头上的薄膜清理干净，擦干净它的鼻子以及嘴巴。循环按压小猫使其开始呼吸。
 
 . if the mother does not bite through the cord, you can tie it off twice with clean sewing thread around 3cm from the kitten’s body and gently tear between the two ties. Clean hands are essential 
 
+· 如果母猫没有咬断期待，你可以用干净的缝纫线在距离幼猫3厘米的脐带部分打两个结，并在两个结之间轻柔地扯断脐带。如此操作，一定要保持手部的清洁。
+
 . provide warmth if the mother is avoiding the kittens – a warm, well covered hot water bottle 
+
+· 如果母亲不照顾、疏离小猫，那你需要提供更温暖的环境，比如一个包裹严实的热水瓶。
 
 . if you’ve had to intervene at all, it is best to seek veterinary advice straight away, as the kittens may be more at risk of infection or being mismothered – being injured or rejected and not suckled or kept warm by the queen 
 
+· 如果你不得不进行干预，最好马上寻求兽医的建议，因为小猫可能更容易感染或被母猫疏离，它可能会被母猫伤害或拒绝抚育，不被授乳或者是不再被母猫维持体温。
 
 An owner should call the vet for advice during the birth: 
 
+生产过程中出现以下情况人应该打电话咨询兽医意见：
+
 . if the first stage is lasting longer than 24 hours without any sign of straining 
+
+· 如果第一阶段持续超过24小时切没有任何收缩的迹象
 
 . if the cat has been straining for more than 30 minutes without producing anything, as this could indicate an obstruction eg a very large kitten 
 
+· 如果母猫已经收缩超过三十分钟但仍然没有排出任何东西，这可能意味着有一个很大的幼猫。
+
 . if the first kitten has arrived and no further kittens appear after an hour 
+
+· 如果第一个幼猫已经产出，但是一小时后还没有其他幼猫产出的。
 
 . if the cat suddenly seems weak 
 
+· 如果母猫突然显示出无力症状
+
 . if there is excessive bloody discharge or greenish discharge without a kitten. However, there may be a greenish discharge after the kitten or with the afterbirth 
+
+· 如果在没有幼猫产出的情况下存在大量的带血排泄物或者是绿色的排泄物。
 
 . if a kitten is stuck half-way out and cannot be delivered with gentle traction 
 
+· 如果幼猫在排出过程中被卡住并且轻柔拽动也不能排出的。
 
 In some cases, a caesarean section may be required to deliver the kittens. 
 
+有些情况下，可能需要剖腹产才能把幼猫产出。
 
-Things you can do after the birth 
+Things you can do after the birth 生产完毕后你能做的事
 
 Warmth is very important as newborn kittens lose heat very quickly. If the mother is an attentive one, she will clean them and use her own body heat to keep the kittens warm. If she is very tired or disturbed she may ignore them, in which case heat must be supplied, via a heat pad or a covered hot water bottle – no hotter than body temperature – and the kittens should be covered with a light towel or blanket. Keep the room temperature warm and the bedding clean and dry. The kittens should start to suck from their mother almost immediately. If they haven’t started after half an hour gently guide them towards the teats. If they don’t start feeding, consult your vet and you may need to start giving a substitute milk replacer to the kitten – follow the instructions carefully. Remember, newborn kittens cannot go more than a few hours without milk. 
 
+新生幼猫会很快丧失体温，所以保暖相当重要。如果母猫很负责任，它会清理小猫并且用自己的体温来保持幼猫温暖。如果它太累或者是收到惊吓则可能不会这么做，这时额外的热源必须由人来提供。可以用加热毯或者是包裹完全的热水瓶，温度不能超过体温。幼猫应该用轻薄的毛巾或者是毯子盖住。保持室温温暖，产窝清洁干燥。小猫应该很快从母猫身上吸奶。如果在半小时后还没有开始，那你需要轻轻地引导它们找到奶头。如果他们没有开始吸吮，请咨询你的兽医，你可能需要开始给小猫提供猫奶的替代品。请仔细按照说明进行。请记住，新生小猫在没有吸奶的情况下生存不会超过几个小时。
+
 If the queen is calm and settled you may wish to quickly and quietly check each kitten. Speak to your vet for advice and if you have any concerns. 
+
+如果母猫情绪稳定，那你可以快速安静的检查每只小猫。如果有任何问题，你都需要咨询兽医的意见。
 
 The queen should be carefully monitored following the birth. Veterinary advice should be sought if any problems are noted. These may include: 
 
+幼猫出生后你应该仔细观察母猫。如果发现任何问题，应寻求兽医建议。这些问题可能包括：
+
 . bleeding from the vagina or unusual vaginal discharge 
+
+· 阴道出血或不正常的阴道分泌物
 
 . prolapse of the uterus (womb) – straining can occasionally cause the uterus to be pushed out 
 
+· 子宫脱垂 - 紧张有时会导致子宫被推出
+
 . disturbed behaviour – normally queens spend most of the time with the litter for at least two weeks and are usually very calm after the birth. However, some queens may show disturbed behaviour: 
+
+· 不安的行为 - 通常女王大多数时间都会在小猫附近度过至少两周的时间，并且在生产后通常很平静。但是，一些母猫可能会表现出不安的行为：
 
 . severe disturbance, constant interruptions or pain can cause the queen to kill her offspring. The risk of this is reduced if mum is familiar with her environment, the surroundings are quiet and she is in good health. Be very calm and quiet and do not disturb a mother with very young kittens unless necessary and keep other pets away 
 
+· 强力的干扰、经常被打断或者是疼痛都可能会导致母猫杀死她的后代。如果母猫熟悉周卫环境，周围安静而母猫身体健康，这种风险会降低。请保持镇静和安静，除非必要，否则请勿打扰母猫及幼猫，并使其远离其他宠物。
+
 . if the queen seems to reject one of her kittens, putting some of the birthing fluids on the kitten may help her to accept it 
+
+· 如果母猫似乎拒绝了她的一只小猫，在小猫身上放入一些分娩液可能会帮助她接受它。
 
 . if the queen is not comfortable with her environment and feels she or the kittens are at risk of threat, she may try to move the kittens in her mouth to a preferred location. It is important to ensure the queen has access to a warm, clean and quiet place. She may appreciate a cardboard box lined with soft blankets and sheets to hide the kittens in. 
 
+· 如果母猫对环境感到不适，她或者小猫可能有危险，她可能会尝试将小猫叼到更安全的位置。确保母猫能够找到温暖，干净和安静的地方非常重要。她可能会喜欢里面衬有柔软的毛毯和床单的纸板箱，这样可以隐藏小猫。
+
 . ignoring kittens 
 
-
+· 对幼猫视而不见
 
 . mastitis – infection of usually one mammary gland, which becomes hot, painful and enlarged. The queen may be off colour 
 
+· 乳腺炎 - 通常感染一个乳腺，变得红肿，疼痛。母猫可能会精神很差
+
 . poor appetite, excessive drinking or vomiting 
+
+· 食欲不振，过度饮水或呕吐
 
 . awkward or clumsy movement, twitching or collapse 
 
+· 尴尬或笨拙的运动，抽搐或摔倒
 
 As with all cats, if any unusual signs are noted, the queen should be checked by your vet. If taking the mother cat to the vet, ask them whether you should also transport the kittens with her. If the kittens are to remain at home during the vet visit, ensure adequate care is arranged for them and that they are kept warm at all times. 
+
+
 
 Care of newborn kittens 
 
