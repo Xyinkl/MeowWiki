@@ -7,70 +7,117 @@
 @(Evernote)[计划, 翻译, 猫]
 
 Pregnant cats, birth and care of young kittens 
+孕猫、生产以及幼猫护理
 
 Cats Protection (CP) recommends neutering as the only effective way to reduce the number of unwanted cats in the UK. Cats are prolific breeders and their offspring need to be speedily neutered or the population will quickly get out of control. In fact, one female cat can be responsible for a staggering 20,000 descendants in just five years! In spite of CP assisting the neutering of over 175,000 cats in the UK each year, there are still thousands of unwanted cats and kittens in animal charities up and down the country needing loving homes. 
 
-Feline reproduction 
+绝育是减少多余猫咪数量唯一有效的途径，Cat Protection (CP)建议绝育。猫的繁衍能力很强，它们的下一代往往也需要尽快绝育，否则就会很快数量失控。事实上，一只母猫在短短五年内可能就会产生超过20000只后代。除了CP每年协助进行绝育的175000只英国境内的猫，全国的收容站上下还有几千只流浪猫无家可归。
+
+Feline reproduction 猫科的繁衍
 
 Female cats – queens – can become sexually mature from just four months of age. If queens are not neutered they have regular heat cycles showing restlessness, calling and wailing, squirming, rubbing and presenting the rear, in attempts to attract a mate. These periods of reproductive activity lasting a few days recur every few weeks during the breeding season – which usually runs from February until August. During these heat cycles, a queen will be very attractive to unneutered male tom cats which can detect her scent from several miles away and will make great efforts to reach her. 
 
+雌性猫，也就是母猫最早可能在四个月大的时候就达到性成熟。如果没有绝育，它们会定期表现出烦躁、嘶吼、摩擦地面等求偶行为。这种繁衍的行为会在每个哺乳季节（通常是二月到八月）隔几周就出现几天。在这段时期，母猫会对未经过绝育的公猫产生很强的吸引，后者能在几公里外感知到它的味道，并且披荆斩棘来和它交配。
+
 Queens are not selective in their choice of mate and will accept advances made by any tom, including relatives. Allowing an unneutered female unsupervised time outside – or indoors with an unneutered tom – will inevitably put her at risk of pregnancy as well as putting both her and any resulting kittens at risk of the infectious diseases that unneutered roaming toms may carry. 
+
+母猫在配偶选择上不具选择性，任何公猫先到先得，其近亲也不例外。把未经绝育的母猫和未绝育公猫放在一起，会不可避免的将母猫置于怀孕的风险中，也会给母猫和可能的小猫带来公猫身上可能的传染病。
 
 Contrary to popular belief, there are no health or welfare benefits in allowing a cat to have a litter of kittens before 
 she is neutered and providing appropriate care can be costly and time consuming. 
 
-
+和流行的看法相悖的是，让母猫在绝育之前有一群小猫并不会对其健康或者是生活质量有任何提高。随之而来的幼猫护理则相当昂贵耗时。
 
 Pregnancy (Gestation) and care of the pregnant queen 
+怀孕以及孕猫护理
 
 Pregnancy lasts approximately 63-65 days – around nine weeks. 
+猫的孕期持续大概63到65天，也就是九周左右。
 
 Heat cycles usually stop after mating once a cat becomes pregnant, although sometimes they will continue. If mating occurs again during the pregnancy this can lead to further foetuses being conceived and kittens born with different fathers in the same litter! 
 
+在怀孕后，猫通常会停止发情，不过也偶有例外。如果在怀孕后继续交配，则会产生更多的胚胎着床，在同一窝小猫中会有同母异父的情况发生。
+
 Pregnancy can be diagnosed by the vet using abdominal palpation from around three to four weeks of age or by using ultrasound. Pinking up – enlargement and reddening of the teats – may be seen from around three to four weeks of pregnancy. 
+
+猫怀孕三至四周后，兽医经过腹部触摸就能确认，或者是超声波验孕。乳头变粉、涨大、等现象也会在怀孕三四周起出现。
 
 Behaviour changes may be seen in the last week of pregnancy. Queens may appear to search for a suitable place to give birth. Ideally, pregnant queens should be introduced to a quiet, clean and warm kittening area away from the family and other pets at least two weeks before the expected date for birth. Provide warm blankets and clean sheets that can be washed and replaced as necessary. 
 
+在孕期最后一周，母猫可能出现性格转变，往往会开始寻找能够生产的地方。理想状态下，孕猫应该在预产期之前两周被安置在远离其他宠物、安静、温暖、清洁的地方。定期给孕猫替换并清洗温暖的毯子以及床单。
+
 The queen will need to eat more than usual, especially in the last three to four weeks of pregnancy when she needs approximately 25 per cent more food. Feed her kitten food in regular meals. This feeding regime should continue through lactation until the kittens are weaned – queens use more than double their normal energy requirements when suckling kittens. Pregnant, birthing and lactating queens should have access to plenty of water, but during and after birth this must be safely out of kittens’ reach to avoid them drowning. 
+
+母猫在怀孕期间需要吃比平时更多的食物，尤其是在最后三四周，它需要比平时多四分之一的食物。你需要给母猫喂食幼猫猫粮，直到小猫断奶。哺乳期间，母猫会需要超过平时两倍的营养。处在孕期、产期、授乳期的母猫应该能够摄入足量清水。不过在生产期和授乳期则应该注意不要让小猫接近水盆以免溺水。
 
 It is advisable to seek veterinary advice before allowing your cat to breed when it is important to discuss fitness to breed and vaccination. If your cat is already pregnant, seek advice about the specific care of your cat, including feeding and worming your cat and treating it for fleas. Ensure you use treatments which are safe for use during pregnancy. 
 
+在允许你猫进行生育之前，你最好咨询一下兽医，因为生育可能涉及免疫等健康方面的问题。如果你的猫已经怀孕了，那么你需要咨询孕期卫视、除虫的相关问题。一定要确保你用的药物是适宜在孕期使用的。
+
 Neutering during pregnancy can be performed and is best discussed with your own vet. You may wish to discuss neutering your cat following an unwanted mating or where there are significant health risks to the queen and/or the kittens. 
 
-Birth and kittening 
+孕期进行绝育也是可行的，不过最好是资讯你的兽医。当母猫意外怀孕或者是母猫以及小猫的健康受到威胁时，你往往就要考虑绝育了。
+
+Birth and kittening 生产
 
 The secret of being a good midwife to your cat is observation and timing. It is best to watch the cat quietly from a distance, taking care not to disturb her or make her anxious. Contact a vet if any problems occur. Birth, also called parturition or kittening, is divided into three stages, and the second and third stages are repeated for each kitten. Please note, this leaflet offers some guidance, but is no substitute for specific veterinary advice from your own vet. 
 
+做好猫咪接生婆的奥秘在于仔细的观察以及时机的把握。你应该在远处静静观察母猫，小心谨慎的不打扰母猫，使其产生焦虑。如果有意外发生，联系你的兽医。生产，也叫做分娩，被分为三个阶段。后两个阶段会在每个小猫降生时重复发生。需要注意的是，本文所提供的一些建议仅供参考，具体更应该听从你兽医的具体建议。
+
 First stage – lasts up to 36 hours – and is usually shorter in queens which have had kittens before: 
+
+d第一阶段最长会持续36小时，之前生产过的母猫这一阶段会短一点。
 
 . there are intermittent contractions, but NO straining is seen 
 
+·有断断续续的宫缩，但是没有使劲的现象。
+
 . the queen is restless and there are usually repeated visits to the bed 
+
+·母猫表现出焦躁不安，频繁进出猫窝。
 
 . late in the first stage, some scratching of the bedding and panting may be seen 
 
-. vaginal discharge is rare 
+·第一阶段后期，有些猫可能会出现大喘气、挠床的现象。
+
+. vaginal discharge is rare  阴道排泄物较少
 
 Second stage – lasts five to 30 minutes for each kitten: 
 
+第二阶段对于每个小猫会持续三十分钟左右：
+
 . there are stronger contractions 
+
+·很强力的宫缩
 
 . the foetal membranes – water bag – appear briefly at the vulva and burst. Liquid is usually cleared up by the cat 
 
+·胚胎薄膜，也就是羊水囊，出现在外阴并且凸出。羊水通常会被母猫清理干净。
+
 . active straining starts and the kitten usually comes out head first 
+
+·收缩开始，小猫的头通常会先出来。
 
 . once the head is out, one or two strains from the cat should expel the kitten 
 
+·一旦头露出，接下来的一两次收缩就会把小猫完全挤出。
+
 . the mother breaks the bag and chews through the cord and licks the kitten – this cleans it and encourages it to start to breathe 
+
+·母猫会弄破羊水囊，吃掉脐带，并且舔舐幼猫。这样不光清理了幼猫，也使其开始呼吸。
 
 Third stage – passage of the membranes and dark flesh mass of the placenta or afterbirth: 
 
+第三阶段，羊水囊以及胎盘的处理。
+
 . this usually follows immediately, although occasionally two kittens are born followed by two sets of membranes 
+
+·这一阶段通常会立刻发生，不过有的情况下两只小猫同时降生则会延缓这一阶段。
 
 . try to count the number of placentae to ensure one is passed for each kitten. If they are not all passed within four to six hours, veterinary advice should be sought. Bear in mind, the queen will usually eat the placenta to hide evidence of the birth and protect her offspring 
 
+·清点胎盘数量，确保每只小猫的胎盘都被排出。如果四至六小时后胎盘仍没有完全排出，你应该咨询兽医的意见了。
 . a red-brown vaginal discharge may be seen for up to three weeks after the birth. It is abnormal if it is green or foul smelling – although there may normally be a small amount of greenish discharge after the kitten or placenta 
-
 
 Time between delivery of kittens is usually 10 to 60 minutes and stages two and three are repeated. The birth is usually complete within six hours after the start of the second stage, but can last up to 12 hours. 
 
