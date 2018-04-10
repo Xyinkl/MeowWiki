@@ -280,35 +280,47 @@ Weaning – the transition of kittens from the queen’s milk to solid food
 断奶 - 从母乳到固态食物的转变
 
 Weaning can begin at three to four weeks of age but will take several weeks: 
-
+断奶的过程会在三四周时候开始并维持几周的时间：
 
 
 . start with diluted specialised kitten milk replacement in a shallow bowl. Always follow the product’s instructions very carefully to ensure the correct amount and dilution is used and at the correct temperature. Place a small amount on the mouth and gradually encourage the kitten to lap directly from the bowl. Offer several times a day 
+· 从稀释过的猫用奶制品开始，可以将其放置在浅碗中。 请务必仔细按照产品说明进行操作，以确保其温度、数量和稀释度都没有问题。 将少量放在幼猫嘴上，并逐渐鼓励小猫直接从碗中饮用。 每天提供数次供幼猫饮用。
 
 . add a small amount of wet kitten food to the milk over time 
+· 随着时间的推移，将少量湿猫粮放在奶中。
 
 . gradually increase the ratio of food to milk until the kitten is eating solid food 
+· 逐渐增加猫粮所占比重，最终完全为固态猫粮
 
 . this whole process should happen gradually over three to four weeks while kittens also continue to suckle, until they are feeding freely. Monitor each kitten through this time to ensure they are each feeding effectively 
+· 整个过程会持续三至四周，过程中幼猫仍然会哺乳，知道它们能够自如的进食。观察每只幼猫，确保它们都能正常的进食。
 
 
 Separating the queen from the kittens: 
+将母猫和幼猫分隔开来：
 
 . once fully weaned, it is a good idea to allow the queen to gradually spend time apart from the kittens each day to help her milk to gradually dry up. However, the kittens will still be learning from her, so kittens should not be fully separated from the queen until at least eight weeks of age. It may be best not to separate the kittens from the queen all at once as her mammary glands may become engorged. A common reaction is to try to mother something else, such as a cuddly toy. Instead gradually separate them over a period of several days 
+· 一旦幼猫断奶完成后，建议将母猫隔离开来，帮助其减少乳汁分泌。无论如何，幼猫还需要和母猫学习，所以在幼猫达到八周龄前，完全隔离母猫和幼猫也是不可取的。最好不要立刻将母猫和幼猫分开，这样母猫的乳腺依然会变得饱满，通常的建议是给母猫替代物，比如一个毛绒玩具，并且在几天的时间内，逐步将幼猫和母猫分开。
 
 . some behavioural issues may be seen when kittens are fully separated from their queen and litter mates too early – for example the retention of juvenile behaviours such as kneading or sucking may be seen in cats separated before eight weeks of age 
+· 如果幼猫和母猫过早分开，则可能会出现一些行为问题。比如在八周龄之前分开的幼猫可能会出现踩奶、吸吮等幼年行为。
 
-Veterinary care 
+Veterinary care 兽医护理
 
 . Seek veterinary advice on the best time and safe products to use for flea and worm control in both the queen and the kittens – some may be recommended from as young as two days of age, dependent on the risk to the kittens and any treatment the queen had during pregnancy. Also, discuss the best time to start a vaccination course, to protect the kittens from disease as the protection they received from the queen’s colostrum wanes and leaves them vulnerable to disease – often at eight to nine weeks of age 
+· 及时寻求兽医的建议，对母猫以及幼猫使用专用体内体外驱虫药。有人建议幼猫应该在两天大的时候就进行驱虫，不过这应该考虑到幼猫的身体状况以及母猫怀孕期间的状况。同时，你需要和兽医商定合适的时间，为幼猫进行免疫注射。这样能够避免其体内留存的母乳抗体失效后感染疾病。疫苗注射通常会在幼猫八周至九周龄时进行。
 
 . Also seek your vet’s advice on the best time to rehome the kittens – it will depend on their behavioural development, as well as the risk of disease. However, whenever possible, do not separate the kittens from the queen until at least eight weeks of age, except on veterinary advice 
+· 同样，你也需要咨询兽医何时给幼猫找新家的问题。这取决于幼猫的行为学习完善程度，以及抵抗力高低是否有患病的风险。无论如何，最好不要在幼猫八周之前将其和母猫分开。当然如果兽医建议，则需要遵循医嘱。
 
 . Neutering – see Cats Protection’s Essential Guide: Neutering 
+· 绝育 - 参阅猫咪保护基础知道之绝育篇
 
 
-– family planning for felines 
+– family planning for felines 猫科的繁衍规划
+
 . The queen can be neutered while she is still with or feeding the kittens as long as the surgical wound will not be affected by enlarged mammary glands. Fortunately the spay wound will normally be on her side. You do not need to wait until her milk has dried up, though it is usually best to wait until the kittens are no longer dependent on her and neuter her when the kittens are around eight weeks of age. The queen can get pregnant again as early as one to two weeks after giving birth, so it is advisable to get her neutered promptly 
+· 
 
 . The kittens should be neutered around four months of age. If neutering is not carried out by then, males should be separated from females and the queen – to prevent in-breeding. Ask your vet for help with sexing the kittens, if needed 
 
