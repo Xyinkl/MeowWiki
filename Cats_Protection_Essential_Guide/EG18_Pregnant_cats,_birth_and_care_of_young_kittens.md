@@ -120,7 +120,7 @@ Third stage – passage of the membranes and dark flesh mass of the placenta or 
 
 . a red-brown vaginal discharge may be seen for up to three weeks after the birth. It is abnormal if it is green or foul smelling – although there may normally be a small amount of greenish discharge after the kitten or placenta 
 
-` 生产后三周内都可能出现红棕色引导排泄物。尽管在幼猫或者胎盘排出后可能会有少量绿色排泄物，不过如果排泄物是绿色或者有恶臭则是不正常的，。
+· 生产后三周内都可能出现红棕色引导排泄物。尽管在幼猫或者胎盘排出后可能会有少量绿色排泄物，不过如果排泄物是绿色或者有恶臭则是不正常的，。
 
 Time between delivery of kittens is usually 10 to 60 minutes and stages two and three are repeated. The birth is usually complete within six hours after the start of the second stage, but can last up to 12 hours. 
 
@@ -359,30 +359,44 @@ Cats which see and smell unrelated and non-aggressive cats when they are under e
 在不满八周龄时候看到并且闻到其他猫的幼猫，在长大后通常能跟其他猫相处很好。当然，你需要小心不要让母猫收到惊吓，保持良好的卫生标准避免疾病的传播，最好是避免直接接触。
 
 Making the most of opportunities for socialisation during this sensitive period will help the kittens to be well-adjusted, content and sociable pets for the rest of their lives. Kittens can learn a great deal from their mother, so it is recommended that they stay with her until they are at least eight weeks of age. 
+
 在社交化时期抓住机会可以帮助幼猫在未来成长为适应性强、温顺、有社交能力的宠物。幼猫能够向母猫学到很多，所以建议至少要在母猫身边待到八周龄。
 
-Rehoming 
+Rehoming 重新安家
 
 It is important to find suitable new homes for the kittens with owners who will provide for them and have them neutered. Kittens may be homed singly or in pairs, but if homed singly, ensure the new owners will provide sufficient stimulation. If homed in pairs, ensure the new owners will provide separate beds, bowls and toileting areas for the kittens in case they choose to live more separate lives when they are older. For more information see Cats Protection’s Essential Guides: Caring for your kitten and Understanding your cat’s behaviour. 
 
-Supplementary feeding and hand rearing 
+给幼猫找到合适的新家相当重要，新的主人需要乐于提供其食物并适时绝育。幼猫可能会单独或者是成对送到新家。如果是单独送到新家，那么需要确保新主人能够为其提供足够的娱乐活动。如果是成对送出，则需要确保新主人能够在两只猫长大后为其提供独立的猫窝、食碗以及猫砂盆。需要更多相关信息，请参阅猫咪保护基础指导之关爱你的幼猫篇以及了解猫的行为篇。
+
+Supplementary feeding and hand rearing 补充喂食以及手工喂养
 
 In most situations, kittens will have their nutritional needs met by their mother. However, if the queen dies, rejects the kittens or is too ill to support them, assistance will be required. It can be very risky to rear orphaned kittens using another lactating queen. The queen may not accept the kittens, she may neglect or attack them and there is the risk of spreading infectious diseases – some of which may be fatal. Seek veterinary advice and discuss hand rearing. 
+
+通常情况下，母猫能够满足幼猫的所有营养需求。不过，如果母猫已经死亡，或者是拒绝哺育幼猫，亦或是身体虚弱无法哺乳，那么人工喂养就很有必要。用另一只哺乳期的母猫来哺育幼猫是很危险的方法。新的母猫可能会不接受小猫，忽略甚至是攻击小猫。同样也会有传播致命疾病的危险。你需要咨询兽医的建议，并且讨论如何手工喂养
+
 Hand reared kittens need: 
+手工喂养幼猫需要：
 
-. 	a carer who can attend to them throughout the day and night 
+. a carer who can attend to them throughout the day and night 
+· 一个能够全天护理幼猫的人
 
-. 	a clean, warm environment. If there is no queen, a cat-carrying basket with lots of bedding and a soft toy to snuggle up to is ideal 
+. a clean, warm environment. If there is no queen, a cat-carrying basket with lots of bedding and a soft toy to snuggle up to is ideal 
+· 一个干净温暖的环境。如果没有母猫，那么一个能装下猫的、装满玩具、内衬柔软的篮子是比较理想的选择。
 
 . to be provided with a safe source of heat 
+· 一个安全的供热来源
 
 . a strict hygiene routine to prevent disease 
+· 一个严格的卫生标准，来避免疾病
 
 . a consistent feeding regime. Newborn kittens must be fed every two to two and half hours 
+· 连续的喂食计划，新生幼猫需要每两个小时喂食一次。
 
 . to be stimulated to pass urine and faeces before and after each feed until at least three weeks old 
+· 需要刺激幼猫使其排尿排便，直到它们三周大。
 
 . to be adequately socialised with positive experiences and given the opportunity to be taught normal behaviour that the kittens would normally learn from their queen 
+· 需要使幼猫能够同一些事物建立恰当的反应，并且学会本应从母猫身上学到的行为模式。
 
 
 If a queen is only temporarily ill, kittens may only need to be hand fed for a few days, while in other situations kittens may need to be fed by hand until they are weaned. 
