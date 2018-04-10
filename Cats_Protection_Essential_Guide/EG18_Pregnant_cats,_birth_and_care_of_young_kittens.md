@@ -254,23 +254,34 @@ The queen should be carefully monitored following the birth. Veterinary advice s
 
 As with all cats, if any unusual signs are noted, the queen should be checked by your vet. If taking the mother cat to the vet, ask them whether you should also transport the kittens with her. If the kittens are to remain at home during the vet visit, ensure adequate care is arranged for them and that they are kept warm at all times. 
 
+无论猫的品种，如果出现异常，母猫都应该由兽医进行检查。如果你需要把母猫带去兽医那里，那最好是问清楚是否需要携带幼猫同去。如果幼猫无需带到兽医处，则一定要确保它们能够得到足够的照料，随时保暖。
 
+Care of newborn kittens 新生幼猫的护理
 
-Care of newborn kittens 
-
-Nutrition 
+Nutrition 营养
 
 The first milk produced – colostrum – is rich in antibodies and will help to protect kittens against diseases. These antibodies last for six weeks or more. Kittens can only absorb colostrum during their first 16 to 24 hours of life and they should feed within two hours of birth. It is essential that they receive this colostrum to protect them against disease. If for any reason a kitten does not receive the first milk, speak to your vet. 
 
+猫的初乳含有丰富的抗体，有助于保护小猫免受疾病侵害。 这些抗体能维持六周或更长时间。 小猫只能在生命的最初16至24小时内吸收初乳，并且应该在出生后两小时内进食。 接受初乳保护对幼猫免受疾病是至关重要的的。 如果出于任何原因，小猫没有吸收初乳，请联系兽医。
+
 Newborn kittens should feed every two to three hours. Kittens receiving adequate nourishment from the queen will sleep in between feeds and do not need additional nutrition until three to four weeks old. If not receiving sufficient food from the queen they may constantly cry and seek the teats. 
+
+初生的幼猫应该每2到3小时被喂一次奶。幼猫从奶水中吸收了足够的营养后就会维持睡眠状态，直到三四周大之前，都无需额外的营养输入。如果它们没能从母猫处得到足够的营养，那就会经常性的啼叫，并且找寻奶头。
 
 Distressed newborn kittens may be restless, without sleeping for prolonged periods, cry excessively, leave the queen and kittening area, appear neglected by the queen or stop feeding and have a reduced sucking reflex. Consult your vet as they will require additional care and supplementary feeding. 
 
+受到惊吓的新生猫咪可能会焦躁、失眠较长时间，也可能歇斯底里的嚎叫，或者是离开母猫以及幼猫区域。有的情况下会被母猫忽略、不再进食、吸吮反应消失。这时就需要联系兽医，为其提供额外的喂养。
+
 If the queen is relaxed, it is recommended to gently weigh kittens at birth, when they are usually between 90 and 110g each. Keep records and weigh the kittens daily to ensure they are gaining around 10-15g each per day, doubling their birth weight by two weeks old. 
 
+如果母猫状态镇静，建议你可以轻柔的对小猫进行称重，理论上每只小猫应该会在90至110克之间。保持每天记录幼猫体重并观察，每天幼猫应当增重10至15克。两周的时候幼猫的体重会是初生体重的二倍。
+
 Weaning – the transition of kittens from the queen’s milk to solid food 
+断奶 - 从母乳到固态食物的转变
 
 Weaning can begin at three to four weeks of age but will take several weeks: 
+
+
 
 . start with diluted specialised kitten milk replacement in a shallow bowl. Always follow the product’s instructions very carefully to ensure the correct amount and dilution is used and at the correct temperature. Place a small amount on the mouth and gradually encourage the kitten to lap directly from the bowl. Offer several times a day 
 
