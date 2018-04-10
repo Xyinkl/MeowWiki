@@ -417,16 +417,25 @@ Hand feeding 人工喂养
 
 Use substitute kitten milk replacer, formulated specifically for kittens – seek your vet’s advice on an appropriate milk and guidance on hand rearing. Cow or goat’s milk should not be used as kittens cannot easily digest this. Manufacturer’s instructions should be followed carefully regarding dilution, frequency and volume of feeding – overfeeding can be as dangerous as underfeeding. The milk should be warmed to approximately 35°c. Test it carefully by allowing a drop of milk to fall on the inside of your wrist – you will not feel it when it is the right temperature. It is important that the milk is not too hot or too cold. 
 
+使用专门为猫制定的牛奶替代品，你可以向兽医咨询适宜的品牌以及人工喂养的操作指导。 不要使用幼猫不能轻易消化的牛奶或者是羊奶。 应严格遵循相关说明中对于稀释、饲喂频率、饲喂量的说明。过量喂食和喂食不足都会有害。 猫奶应该加热到大约35℃。 可以通过滴一滴奶在手腕内侧来测试温度。当温度适宜时，人不会有太多感觉。奶的温度不热不冷是很重要的。
+
 Feeding should be done with great care as it is easy for kittens to inhale the milk and develop pneumonia which can be fatal. Specialised feeding bottles and teats can usually be bought from your vet. 
 
-Hypoglycaemia – low blood sugar 
+喂奶应该非常小心，因为幼猫很容易吸入牛奶并产生致命的肺炎。 专业的奶瓶和奶嘴通常可以从兽医处购买。
+
+
+Hypoglycaemia – low blood sugar 低血糖
 
 Hypoglycaemia results from inadequate or infrequent feeding. It can cause severe depression, muscle twitching and occasionally lead to convulsions. If a kitten refuses to feed, prompt veterinary care is required. Kittens have no reserves and will deteriorate very rapidly. 
 
-Toileting 
+低血糖症是由喂食不足或不频繁引起的。 它会导致严重的抑郁，肌肉抽搐，偶尔会导致惊厥。 如果小猫拒绝喂食，则需要及时的兽医护理。 幼猫没有能量储备，一旦缺乏营养会迅速死亡。
+
+Toileting 如厕
 
 Kittens are unable to pass urine or faeces without assistance for the first few weeks of their lives so the ano-genital region 
 – the area around the bottom and the urinary opening of the kitten being hand-reared – needs to be stimulated using a slightly damp piece of cotton wool before and after each feed to encourage toileting. The mother would normally do this by licking the rear end of kittens before, during and after feeding. 
+
+幼猫在生命的头几个星期，在没有帮助的情况下不能自主排出尿液或粪便。因此需要在每次喂食前后使用稍微潮湿的棉花刺激其生殖器区域，使其排尿排便。 母猫通常会在喂食前，喂食过程中和喂食后舔小猫的尾部帮助其排便。
 
 This should be carried out in the litter tray if possible so that the kittens learn to associate the feeling of litter under their feet with going to the toilet. From about four weeks of age, simply placing them in the litter tray should encourage them to pass urine and faeces on their own. Ensure the litter tray has shallow sides so the kittens can access it easily and provide litter with a sandy texture. 
 
