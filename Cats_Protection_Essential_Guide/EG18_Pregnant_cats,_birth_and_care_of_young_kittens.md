@@ -66,19 +66,19 @@ The secret of being a good midwife to your cat is observation and timing. It is 
 
 First stage – lasts up to 36 hours – and is usually shorter in queens which have had kittens before: 
 
-d第一阶段最长会持续36小时，之前生产过的母猫这一阶段会短一点。
+第一阶段最长会持续36小时，之前生产过的母猫这一阶段会短一点。
 
 . there are intermittent contractions, but NO straining is seen 
 
-·有断断续续的宫缩，但是没有使劲的现象。
+· 有断断续续的宫缩，但是没有使劲的现象。
 
 . the queen is restless and there are usually repeated visits to the bed 
 
-·母猫表现出焦躁不安，频繁进出猫窝。
+· 母猫表现出焦躁不安，频繁进出猫窝。
 
 . late in the first stage, some scratching of the bedding and panting may be seen 
 
-·第一阶段后期，有些猫可能会出现大喘气、挠床的现象。
+· 第一阶段后期，有些猫可能会出现大喘气、挠床的现象。
 
 . vaginal discharge is rare  阴道排泄物较少
 
@@ -88,23 +88,23 @@ Second stage – lasts five to 30 minutes for each kitten:
 
 . there are stronger contractions 
 
-·很强力的宫缩
+· 很强力的宫缩
 
 . the foetal membranes – water bag – appear briefly at the vulva and burst. Liquid is usually cleared up by the cat 
 
-·胚胎薄膜，也就是羊水囊，出现在外阴并且凸出。羊水通常会被母猫清理干净。
+· 胚胎薄膜，也就是羊水囊，出现在外阴并且凸出。羊水通常会被母猫清理干净。
 
 . active straining starts and the kitten usually comes out head first 
 
-·收缩开始，小猫的头通常会先出来。
+· 收缩开始，小猫的头通常会先出来。
 
 . once the head is out, one or two strains from the cat should expel the kitten 
 
-·一旦头露出，接下来的一两次收缩就会把小猫完全挤出。
+· 一旦头露出，接下来的一两次收缩就会把小猫完全挤出。
 
 . the mother breaks the bag and chews through the cord and licks the kitten – this cleans it and encourages it to start to breathe 
 
-·母猫会弄破羊水囊，吃掉脐带，并且舔舐幼猫。这样不光清理了幼猫，也使其开始呼吸。
+· 母猫会弄破羊水囊，吃掉脐带，并且舔舐幼猫。这样不光清理了幼猫，也使其开始呼吸。
 
 Third stage – passage of the membranes and dark flesh mass of the placenta or afterbirth: 
 
@@ -112,11 +112,11 @@ Third stage – passage of the membranes and dark flesh mass of the placenta or 
 
 . this usually follows immediately, although occasionally two kittens are born followed by two sets of membranes 
 
-·这一阶段通常会立刻发生，不过有的情况下两只小猫同时降生则会延缓这一阶段。
+· 这一阶段通常会立刻发生，不过有的情况下两只小猫同时降生则会延缓这一阶段。
 
 . try to count the number of placentae to ensure one is passed for each kitten. If they are not all passed within four to six hours, veterinary advice should be sought. Bear in mind, the queen will usually eat the placenta to hide evidence of the birth and protect her offspring 
 
-·清点胎盘数量，确保每只小猫的胎盘都被排出。如果四至六小时后胎盘仍没有完全排出，你应该咨询兽医的意见了。
+· 清点胎盘数量，确保每只小猫的胎盘都被排出。如果四至六小时后胎盘仍没有完全排出，你应该咨询兽医的意见了。
 
 . a red-brown vaginal discharge may be seen for up to three weeks after the birth. It is abnormal if it is green or foul smelling – although there may normally be a small amount of greenish discharge after the kitten or placenta 
 
@@ -398,16 +398,22 @@ Hand reared kittens need:
 . to be adequately socialised with positive experiences and given the opportunity to be taught normal behaviour that the kittens would normally learn from their queen 
 · 需要使幼猫能够同一些事物建立恰当的反应，并且学会本应从母猫身上学到的行为模式。
 
-
 If a queen is only temporarily ill, kittens may only need to be hand fed for a few days, while in other situations kittens may need to be fed by hand until they are weaned. 
+
+如果母猫只是暂时生病比较虚弱，幼猫则只需要被人工喂养几天。如果是其他情况，那么幼猫就需要被人工喂养直到断奶。
 
 If a litter is too large for the queen to support and as long as the kittens are gaining some milk from their mother, they may only need supplementary feeding. If possible, it is important that they remain with their queen and litter mates because orphaned kittens may be at risk of developing behavioural issues. 
 
+如果一窝幼猫的数量太多，母猫哺育不过来，但是幼猫能够得到母猫的奶水。这样可能只需要补充性质的喂食。如果可能的话，最好是把幼猫和母猫放在一起。因为落单的幼猫很可能会产生行为问题。
+
 If staying with the queen is not possible, then kittens need to be given the opportunity to learn normal behaviour, such as how to deal with frustration – something the kittens would normally learn from their mum. As the kitten starts weaning, slightly delay giving the feed as well as delay providing attention – including eye contact – as opposed to instantly meeting the kitten’s every demand. However, it is equally important to ensure the kitten’s nutritional needs are met. 
 
-It is also essential that kittens are not encouraged to bite or attack hands or fingers and that these behaviours are not reinforced by an excited reaction. 
+如果和母猫在一起不太现实，那么幼猫需要能够学习到正常的行为。比如如何正确应对挫折就是幼猫通常会跟母猫学习的。可以在幼猫开始断奶的阶段，不再随时满足幼猫的需求，而是稍微延缓喂食并且不再立刻给予注意（包括看向幼猫这种）。不过无论如何，有冇得营养需要应该最后得到满足。
 
-Hand feeding 
+It is also essential that kittens are not encouraged to bite or attack hands or fingers and that these behaviours are not reinforced by an excited reaction.
+同样重要的是使幼猫不要养成撕咬、攻击人的手或者手指的行为。这些行为可能会在幼猫情绪亢奋时被强化。
+
+Hand feeding 人工喂养
 
 Use substitute kitten milk replacer, formulated specifically for kittens – seek your vet’s advice on an appropriate milk and guidance on hand rearing. Cow or goat’s milk should not be used as kittens cannot easily digest this. Manufacturer’s instructions should be followed carefully regarding dilution, frequency and volume of feeding – overfeeding can be as dangerous as underfeeding. The milk should be warmed to approximately 35°c. Test it carefully by allowing a drop of milk to fall on the inside of your wrist – you will not feel it when it is the right temperature. It is important that the milk is not too hot or too cold. 
 
