@@ -331,7 +331,7 @@ Behavioural development 行为学习
 - 参见猫咪保护基础指导之理解猫的行为
 
 Kittens learn what is normal and safe during a very sensitive period of development between two and eight weeks of age – the ‘socialisation period.’ Having a variety of positive experiences during this time period – for example with different sights, sounds, textures and smells – will mean they are more likely to be able to adapt in the future. 
-幼猫会在两周至三周的非常敏感的阶段（社交化阶段）学习什么是正常以及什么没有威胁。在这个阶段如果能够接收到一系列正向的反馈，比如不同的景色、声音、纹理以及气味，能够很大程度上决定他们未来能够更好的适应。
+幼猫会在两周至三周的非常敏感的阶段（社会化阶段）学习什么是正常以及什么没有威胁。在这个阶段如果能够接收到一系列正向的反馈，比如不同的景色、声音、纹理以及气味，能够很大程度上决定他们未来能够更好的适应。
 
 Kittens which are not exposed to different experiences during this sensitive period are more likely to be fearful of novelty later in life. For example, feral kittens born in the wild without exposure to people during the socialisation period cannot be tamed and will remain very scared of people throughout their lives, making them unsuitable as pets. 
 在这个敏感时期没有相关经历的小猫更可能在生命后期对新奇事务感到害怕。 例如，在社会化时期如果野生小猫不能接触人，那长大后就很难被驯服，并且一生中都会非常害怕人，使其不适合作为宠物。
@@ -360,7 +360,7 @@ Cats which see and smell unrelated and non-aggressive cats when they are under e
 
 Making the most of opportunities for socialisation during this sensitive period will help the kittens to be well-adjusted, content and sociable pets for the rest of their lives. Kittens can learn a great deal from their mother, so it is recommended that they stay with her until they are at least eight weeks of age. 
 
-在社交化时期抓住机会可以帮助幼猫在未来成长为适应性强、温顺、有社交能力的宠物。幼猫能够向母猫学到很多，所以建议至少要在母猫身边待到八周龄。
+在社会化时期抓住机会可以帮助幼猫在未来成长为适应性强、温顺、有社交能力的宠物。幼猫能够向母猫学到很多，所以建议至少要在母猫身边待到八周龄。
 
 Rehoming 重新安家
 
@@ -439,56 +439,102 @@ Kittens are unable to pass urine or faeces without assistance for the first few 
 
 This should be carried out in the litter tray if possible so that the kittens learn to associate the feeling of litter under their feet with going to the toilet. From about four weeks of age, simply placing them in the litter tray should encourage them to pass urine and faeces on their own. Ensure the litter tray has shallow sides so the kittens can access it easily and provide litter with a sandy texture. 
 
+这个过程应该在猫砂盆里进行，这样幼猫就能学会在猫砂中如厕。在大概四周左右，把它们放到猫砂盆里，应该就能够自主排泄了。确保使用砂质的猫砂并且猫砂盆边缘不会过高影响幼猫进出。
+
 Constipation can be a problem in hand reared kittens. Normal faeces have the consistency of toothpaste. If the faeces become very hard, making the kitten strain excessively or if a kitten does not pass any motions for a day, veterinary advice should be sought. 
+
+对于手工喂养的猫，便秘可能是个问题。正常的粪便应该是牙膏状的连续物。如果粪便很硬以至于幼猫很用力的排出，或者是幼猫超过一天都没有排出任何粪便，你应该咨询兽医的意见。
 
 Diarrhoea can be caused by overfeeding, by giving too concentrated a solution of milk replacer, or by an infection. Because a kitten’s condition can deteriorate rapidly, it is best to consult your vet if a kitten is suffering from diarrhoea. 
 
-Hygiene precautions 
+过度喂食，过于浓缩的代乳品，或者是感染，都可能会引起腹泻。鉴于幼猫的状况会迅速恶化，如果幼猫患有腹泻，最好立刻咨询兽医。
+
+Hygiene precautions 卫生防范措施
 
 Hygiene is of the utmost importance as hand reared kittens are very prone to infection. Kittens that have received no colostrum from the queen will have little or no immunity to disease. It is vital that these kittens are protected from exposure to disease, including other cats and their faeces. Some feline infectious diseases can be fatal or lead to lifelong health issues. 
 
+由于手饲养的小猫相对防御力不足，所以卫生是非常重要的。未接受到初乳的幼猫对疾病的免疫力很差甚至没有免疫力。所以使其不接触到病原体（包括其他猫和它们的粪便）是至关重要的。一些猫科动物传染病可能是致命的，或导致终身健康问题。
+
 Personal hygiene when preparing feeds and toileting kittens should be excellent and utensils used for preparing or administering the milk should be safely sterilised – seek advice from your vet. 
 
-Temperature considerations 
+准备食物以及给其排便时的卫生应该保持好，用于喂奶的器具应该彻底消毒，你可以向兽医咨询相关建议。
+
+Temperature considerations 关于温度
 
 Kittens cannot regulate their own temperature well. If the mother is not there to keep them warm then: 
 
+幼猫不能很好地调节自己的体温。如果母亲不在那里给它们保暖，那么：
+
 . ensure that newborn kittens are towel dried quickly 
+
+· 确保新生小猫被人用毛巾及时的擦干
 
 . provide a source of warmth such as a covered heat pad or well wrapped hot water bottle. Make sure these are not too hot and that there is somewhere for the kittens to move away to should they overheat 
 
+· 提供热源，比如包裹好的热垫或热水瓶，确保不是太热。并且如果小猫感觉热的话，能够自主远离热源。
 
 
-Normal kitten development 
+Normal kitten development 正常的幼猫成长参数
+
 . Birth weight – approximately 90 to 110g – dependent on breed and number of kittens in the litter 
+
+· 出生体重 - 约90至110克 - 取决于幼犬的品种和数量
 
 . Growth rate – kittens should gain around 50 to 100g/week (10-15g/day) and should double their birth weight by two weeks of age 
 
+· 增长率 - 小猫应该每周增加50至100克（10-15克/日），并且在两周龄时候，体重应该是出生体重的两倍
+
 . The umbilical cord should dry out quickly after the birth and remain dry until it naturally falls off around three days after birth 
+
+· 出生后脐带应迅速变干，并保持干燥，直到出生后三天左右自然脱落
 
 . Eyes are closed at birth and open at an average of 10 days old – though this varies from two to 16 days. The iris – or coloured part of the eye – stays a blue-grey colour until four to six weeks old before changing colour permanently 
 
+· 出生时眼睛紧闭，通常在10天左右睁眼。尽管也有在第二天甚至是第十六天睁眼的例子。虹膜（眼睛的一部分）保持蓝灰色，直到四至六周后才能永久改变颜色
+
 . Crawling starts at seven to 14 days old 
+
+· 从7到14天开始能够爬行
 
 . Walking starts at around two weeks old 
 
+· 大约两周左右开始能够行走
+
 . Kittens cannot pass urine and faeces without stimulation of the rear end by the queen until around three weeks of age 
+
+· 直到三周龄时，都不能在没有刺激的情况下自主排泄
 
 . Weaning starts at around three to four weeks old 
 
+· 在三到四周左右开始断奶
+
 . The sensitive period of a kitten’s learning is two to eight weeks of age – the ‘socialisation period’ 
+
+· 幼猫学习的敏感时期是2到8周龄，也即“社会化时期”
 
 . Kittens can start to spend short periods of time away from the queen from six to seven weeks of age 
 
+· 从六到七周龄开始，幼猫可以离开母猫独自探索一小段时间
+
 . Kittens should not be fully separated from the queen until at least eight weeks of age 
+
+· 小猫不应该完全与女王分开，直到至少八周大
 
 . Vaccination can usually start at eight to nine weeks of age – worm and flea treatment is often recommended before this 
 
+· 接种疫苗通常可以在8至9周龄时开始，在此之前通常建议进行体内体外驱虫
+
 . Sexual maturity is reached from four months of age 
+
+· 幼猫四个月大时开始性成熟
 
 . Kittens lose their 26 baby teeth and have their 30 adult teeth by six months of age 
 
+· 小猫在六个月大时26颗幼齿会脱落并在六个月大的时候长出全部30颗牙齿
+
 . Social maturity occurs between 18 months and four years of age, when relationships between cats may change 
+
+· 在18个月至4岁之间猫的社交成熟度建立，猫之间的关系可能会改变。
 
 
 
