@@ -320,38 +320,46 @@ Veterinary care 兽医护理
 – family planning for felines 猫科的繁衍规划
 
 . The queen can be neutered while she is still with or feeding the kittens as long as the surgical wound will not be affected by enlarged mammary glands. Fortunately the spay wound will normally be on her side. You do not need to wait until her milk has dried up, though it is usually best to wait until the kittens are no longer dependent on her and neuter her when the kittens are around eight weeks of age. The queen can get pregnant again as early as one to two weeks after giving birth, so it is advisable to get her neutered promptly 
-· 
+· 即便是母猫仍然和幼猫在一起甚至是喂食，你也可以给它进行绝育。前提是肿大的乳腺不会对绝育的伤口造成感染。幸运的是手术伤口通常会在母猫侧面。进行绝育不需要等母猫奶水消失，尽管最好是等到幼猫不在依赖母猫的时候。你可以在幼猫八周大的时候对母猫进行绝育。母猫在生产后一至两周就能再次怀孕。所以建议适时绝育。
 
 . The kittens should be neutered around four months of age. If neutering is not carried out by then, males should be separated from females and the queen – to prevent in-breeding. Ask your vet for help with sexing the kittens, if needed 
+· 幼猫应该在四个月大的时候进行绝育。如果没有及时绝育，公猫应该和母猫分割开来，这样能够避免近亲交配。如果需要，你可以咨询兽医关于如何判别小猫的性别。
 
-
-
-
-Behavioural development 
+Behavioural development 行为学习
 
 – see Cats Protection’s Essential Guide: Understanding your cat’s behaviour. 
+- 参见猫咪保护基础指导之理解猫的行为
 
 Kittens learn what is normal and safe during a very sensitive period of development between two and eight weeks of age – the ‘socialisation period.’ Having a variety of positive experiences during this time period – for example with different sights, sounds, textures and smells – will mean they are more likely to be able to adapt in the future. 
+幼猫会在两周至三周的非常敏感的阶段（社交化阶段）学习什么是正常以及什么没有威胁。在这个阶段如果能够接收到一系列正向的反馈，比如不同的景色、声音、纹理以及气味，能够很大程度上决定他们未来能够更好的适应。
 
 Kittens which are not exposed to different experiences during this sensitive period are more likely to be fearful of novelty later in life. For example, feral kittens born in the wild without exposure to people during the socialisation period cannot be tamed and will remain very scared of people throughout their lives, making them unsuitable as pets. 
+在这个敏感时期没有相关经历的小猫更可能在生命后期对新奇事务感到害怕。 例如，在社会化时期如果野生小猫不能接触人，那长大后就很难被驯服，并且一生中都会非常害怕人，使其不适合作为宠物。
 
 It is therefore important that kittens have positive experiences before seven weeks of age, with as many aspects of the domestic environment they are likely to meet in the future such as: 
+所以在幼猫七周大之前最好让其感受到正向的刺激，尤其是将来可能会遇到的刺激，比如:
 
 . the noise of the washing machine, vacuum cleaner etc 
+· 洗衣机、吸尘器的噪声等
 
 . car journeys to prepare for veterinary visits 
+· 乘坐汽车出行的经历能够让其适应去兽医诊所
 
 . meeting a variety of different people – from babies to adults 
+· 认识很多不同的人，包括孩子以及成年人。
 
 . being gently touched and handled 
+· 被轻柔的触碰以及抱起
 
 
 Ensure these are gentle and positive experiences or this can cause more harm than good. 
+确保在以上过程中对猫都有轻柔正向的体验，反之则会弊大于利。
 
 Cats which see and smell unrelated and non-aggressive cats when they are under eight weeks of age usually get on better with other cats as adults. Of course, take care to avoid any stress to the queen and maintain good hygiene standards to prevent the transmission of disease – so avoid direct contact. 
+在不满八周龄时候看到并且闻到其他猫的幼猫，在长大后通常能跟其他猫相处很好。当然，你需要小心不要让母猫收到惊吓，保持良好的卫生标准避免疾病的传播，最好是避免直接接触。
 
 Making the most of opportunities for socialisation during this sensitive period will help the kittens to be well-adjusted, content and sociable pets for the rest of their lives. Kittens can learn a great deal from their mother, so it is recommended that they stay with her until they are at least eight weeks of age. 
-
+在社交化时期抓住机会可以帮助幼猫在未来成长为适应性强、温顺、有社交能力的宠物。幼猫能够向母猫学到很多，所以建议至少要在母猫身边待到八周龄。
 
 Rehoming 
 
