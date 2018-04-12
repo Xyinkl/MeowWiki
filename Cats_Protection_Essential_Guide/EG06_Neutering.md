@@ -6,59 +6,102 @@
 
 @(Evernote)[计划, 翻译, 猫]
 
-Neutering – family 
-planning for felines 
+Neutering – family planning for felines 
+绝育 - 猫科繁衍计划
 
 
 Cats Protection believes that getting your cat neutered before it can breed is an essential part of responsible cat ownership. Cats are very effective breeders and the number of kittens they produce increases in line with the amount of food and shelter available. Without neutering, the UK’s cat population can quickly get out of control. Please don’t add to the plight of the thousands of unwanted cats already out there. Overpopulation increases feline infectious disease, stress-related disease, feline conflict and compromises cats’ welfare. 
 
+Cats Protection认为给自己的猫及时绝育是一个负责人的主人应该做的。猫是繁殖能力很强的动物，在有吃有住的情况下，小猫的数量将会直线上升。不对猫进行绝育，英国的猫的数量将会快速失控。请不要再让已经数量巨大的流浪猫大军增员了。猫的数量过多将会增加猫科疾病的发生、因焦躁受惊产生的疾病发生、猫之间的冲突，这些都会降低猫的生活品质。
+
 What is neutering? 
+
+什么是绝育？
 
 Neutering is a surgical operation which stops female cats – queens – from becoming pregnant and male cats – toms – from making females pregnant. 
 
+绝育是一种外科手术，会使母猫不再怀孕，公猫不再具有让母猫怀孕的能力。
+
 . A female cat is spayed – her ovaries and uterus (womb) – are removed 
+
+· 母猫被绝育时它的卵巢和子宫会被摘除。
 
 . A male cat is castrated – his testicles are removed 
 
+· 公猫被绝育的时候它的睾丸被摘除。
 
 Cats Protection generally recommends that kittens are neutered at around four months of age or younger – although your cat can be neutered at any age. Neutering is the best way to deal with the problems of unwanted pregnancies, by preventing the problem in the first place. Neutering also prevents some cancers and infections, reduces straying, fighting and spraying. 
 
+Cats Protection通常建议幼猫在四个月大甚至是更小的时候进行绝育。虽然绝育可以在猫的任何年龄进行。绝育作为预防手段，是防止意外怀孕最好的办法。绝育同时还能避免某些癌症和感染的发生，减少猫出现来回走动、打架以及喷尿的情况。
+
 When to neuter? 
+
+何时绝育？
 
 Traditionally, cats were neutered from six months of age. However, current scientific data indicates that there are no disadvantages in neutering at a younger age – for example, from eight weeks onwards. As kittens can reach sexual maturity and breed from four months, Cats Protection generally recommends that kittens are neutered at around four months of age or younger. 
 
+普遍的做法是在六个月大的时候给猫绝育。不过最新的科学研究表明在这之前（比如八周大的时候）绝育也没有什么影响。鉴于幼猫能在四个月大的时候达到性成熟，Cats Protection建议在四个月的时候对幼猫进行绝育。
+
 Why neuter? 
+为什么做绝育？
 
 Neutering has many health benefits, as well as helping to reduce the number of unwanted cats in the UK. 
 
+绝育会给猫带来很多健康上的好处，同时能控制英国流浪猫的数量。
+
 Unneutered – ‘entire’ – male cats: 
+
+未经绝育的“完全正常”的公猫：
 
 . are more likely to end up injured or catch diseases from fighting, with subsequent suffering and vet bills 
 
+· 更容易因为打架受伤或者患上疾病，随之而来的，不光是伤痛，还有兽医的收费单。
+
 . routinely travel a large territory of many miles in search of unneutered females, risking road accidents and injury and meaning you miss the contact of having a pet cat 
+
+· 会在几公里的范围内定期搜寻未被绝育的母猫，这会增加其发生交通事故的风险。同时，也意味着你养的不算是一只宠物猫。
 
 . will spray smelly urine to mark territory and attract females 
 
+· 会喷洒气味很重的尿液来标记领地、吸引异性。
+
 . are at risk of tumours of the testicles 
+
+· 会有几率罹患睾丸肿瘤
 
 . are not better hunters than unneutered cats, as hunting is not a sexual behaviour 
 
+· 并不会比已经绝育的猫更善于捕猎，因为捕猎并不算是性相关的行为。
+
 . may experience a high level of stress akin to frustration if unable to find a mate 
+
+· 如果找不到配偶，那可能会感到高度受挫。
 
 
 
 Conversely, neutered male cats: 
 
+与之相反，绝育后的公猫：
+
 . are less likely to roam, reducing the risk of them suffering from car accidents 
+
+· 更不容易狂奔，减少了交通意外的风险。
 
 . are less likely to fight which reduces the risk of them getting injured or contracting serious diseases such as Feline Immunodeficiency Virus (FIV) or Feline Leukaemia Virus (FeLV) 
 
+· 更不容易和其他猫打架，减少了因打架受伤或者是染上猫免疫缺陷病毒（FIV）或猫白血病病毒（FeLV）的风险。
+
 . are less likely to spray 
+
+· 更不容易喷尿。
 
 . are unable to develop tumours of the testicles 
 
+· 不可能患上睾丸肿瘤
+
 . make better pets and are more likely to be ‘homebodies’ 
 
+· 成为更好的宠物，表现的更为居家
 
 
 Unneutered – entire – female cats: 
