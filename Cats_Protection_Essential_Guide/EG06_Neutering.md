@@ -106,47 +106,79 @@ Conversely, neutered male cats:
 
 Unneutered – entire – female cats: 
 
+未绝育的“完整”母猫：
+
 . frequently become pregnant from four months of age 
+
+· 从四个月大开始经常性的怀孕
 
 . will often have litters of kittens three times a year. This adds to the overpopulation problem and increases costs for the owner, especially if there are complications during pregnancy or birth 
 
+· 每年能生三窝幼猫，这会加剧流浪猫问题。尤其对于孕期和生产过程中出现意外的猫，主人的花费会更加巨大。
+
 . will call and wail every three weeks during the breeding season – January to August – to attract a mate, until they become pregnant 
+
+· 在繁殖季（一月到八月）会每三周发作嚎叫，吸引公猫，直到怀孕为止。
 
 . are more likely to contract diseases spread through sexual contact and mating behaviour 
 
+· 更容易因为性接触以及交配行为染上疾病
+
 . are at risk of cancers of the ovaries, uterus and mammary glands, as well as developing pyometra, a serious infection of the womb 
 
+· 有患卵巢癌，子宫癌和乳腺癌的风险，以及发生子宫肌瘤，严重子宫感染的风险。
 
 
 Conversely, neutered female cats: 
 
+与之相反的是，绝育过后的母猫：
+
 . won’t become pregnant, so there will be no expense associated with litters of kittens 
+
+· 不会怀孕，也不会有因为幼猫的额外开销。
 
 . do not call or wail as unneutered queens do – so less disturbed sleep for the owner and neighbours! 
 
+· 不会像未绝育的母猫一样嚎叫，因此不会吵到主人以及邻居。
+
 . are less likely to contract diseases such as FIV and FeLV spread by bites and mating behaviour 
+
+· 更不容易染上FIV或者FeLV等因撕咬或者交配传播的疾病
 
 . are unable to develop cancer of the ovaries or uterus. They are also at greatly reduced risk of developing mammary cancer – especially if neutered early 
 
+· 不会得卵巢或子宫癌。如果在早期进行绝育，也会大大降低患乳腺癌的风险
 
 
 The kittens born following an unplanned pregnancy: 
 
+因为意外怀孕而降生的幼猫可能会面对：
+
 . may be at risk of disease 
+
+· 有患病的危险
 
 . cost a lot to look after and be provided with veterinary care – far more than is likely to be recouped from trying to sell them in a market where there are plenty already 
 
+· 照顾以及医疗花销很高，远远超过之后从已经饱和的市场中卖出的获利。
+
 . may find themselves homeless 
+
+· 可能会无家可归
 
 . may deprive another unwanted cat or kitten from finding a new home as there are not enough homes to go round 
 
+· 可能会使得另一只流浪猫无家可归，因为能收养的家庭有限。
 
 Many owners don’t know which roaming ‘stranger’ cats their unneutered pet may have mated with, so are unaware of the potentially fatal infectious diseases that the cat may have been infected with. Also the temperament of the tom can affect the behaviour of any offspring which are born. Risking mating with an unknown ‘stranger’ can lead to the birth of kittens that are unsuitable as family pets. 
 
+很多主人不清楚和家里未绝育的宠物猫交配的会是哪一只野猫，所以就有被传染上致命疾病的可能。同样，公猫的性格会影响后代的幼猫，冒险让猫和野猫交配可能会生出性格不适合家养的幼猫。
 
-The operation 
+The operation 手术本身
 
 Your cat will need to spend a day at the veterinary surgery and will be given a general anaesthetic, so no food should be offered in the hours prior to the operation. Your vet will advise you about when you should feed. The operation for both male and female cats is very simple and usually you will be able to drop your cat off and pick them back up on the same day. 
+
+
 Afterwards, a female cat will have a small shaved area on her side or belly – this hair will grow back in a few weeks. She will also have stitches and if these are not dissolvable, they will be taken out by the vet around 10 days later. 
 Cats are very resilient and stoical – far more so than humans – and usually recover very quickly from the operation. Your vet will advise on the best care for your cat as he or she recovers. Kittens seem to recover even more quickly than adult cats. Your cat will require much less food after neutering, as his or her body has less work to do, so you will probably need to monitor your cat’s weight and reduce the amount of food provided to prevent your cat from becoming too fat. This will also save you money too! 
 
