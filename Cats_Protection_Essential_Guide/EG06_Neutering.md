@@ -178,6 +178,9 @@ The operation 手术本身
 
 Your cat will need to spend a day at the veterinary surgery and will be given a general anaesthetic, so no food should be offered in the hours prior to the operation. Your vet will advise you about when you should feed. The operation for both male and female cats is very simple and usually you will be able to drop your cat off and pick them back up on the same day. 
 
+你的猫会在兽医诊所待一天的时间，并且会被施以全身麻醉。所以在手术前的几小时应该禁食。兽医会告诉你什么时候应该喂食。无论是公猫还是母猫，手术都很简单，你可以在当天取回做完手术的猫。
+
+
 
 Afterwards, a female cat will have a small shaved area on her side or belly – this hair will grow back in a few weeks. She will also have stitches and if these are not dissolvable, they will be taken out by the vet around 10 days later. 
 Cats are very resilient and stoical – far more so than humans – and usually recover very quickly from the operation. Your vet will advise on the best care for your cat as he or she recovers. Kittens seem to recover even more quickly than adult cats. Your cat will require much less food after neutering, as his or her body has less work to do, so you will probably need to monitor your cat’s weight and reduce the amount of food provided to prevent your cat from becoming too fat. This will also save you money too! 
