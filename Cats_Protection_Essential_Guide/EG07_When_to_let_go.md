@@ -6,46 +6,66 @@
 
 @(Evernote)[计划, 翻译, 猫]
 
-When to let go 
+When to let go 什么时候放手
 
 
 The average life expectancy of a cat is around 14 years but many cats live well beyond this age. As a pet owner, it is important that you are able to assess your cat’s quality of life in order to prevent suffering as they get older, or if they become ill. 
 
-Monitoring your cat 
+猫的平均寿命约为14岁，尽管有很多猫的寿命远远超过了这一数字。作为主人，衡量你猫的生活质量对于避免其生病或者是晚年受苦很重要。
+
+Monitoring your cat 监控你的猫
 
 You know your cat better than anyone, so you will soon notice any changes in their behaviour or health. You should monitor your cat’s thirst and appetite, their body and coat condition, their behaviour and general demeanour and their toileting habits. If you become aware of any of the following, take your cat to the vet for a check up: 
 
+你比任何人都了解你的猫，所以一旦它的行为或者是健康有变化，你都会发现。你应该监控它的进食饮水、身体被毛状况、行为举止以及如厕习惯。如果你发现如下症状，请带猫去兽医那里做检查：
+
 . unusual lethargy or withdrawal 
+· 异常嗜睡或者无力
 
 . unexplained weight loss 
+· 无法解释的体重减轻
 
 . lameness, reduced or altered mobility 
+· 跛脚，运动量减少或改变
 
 . any swelling, growth or wound 
+· 任何肿胀，生长，以及伤口
 
 . recurrent sneezing, coughing or laboured breathing 
+· 不断的喷嚏、咳嗽或者是呼吸困难
 
 . difficulty or pain when urinating 
+· 排尿困难、排尿疼痛
 
 . blood in either the urine or faeces 
+· 便血、尿血
 
 . incontinence or more frequent urination 
+· 尿频、尿失禁
 
 . unusual discharge or bleeding from the eyes, nose or mouth 
+· 不常见的眼部、鼻部、嘴部排泄物
 
 . vomiting or diarrhoea that lasts for more than 24 hours 
+· 呕吐或腹泻持续超过24小时。
 
 . self neglect or poor coat condition 
+· 不自我清洁或者是被毛情况差
 
 . reduced interest in food or drink, or increased drinking or a sudden ravenous appetite 
+· 食欲减退，或食欲突增
 
 . signs of pain when touched 
+· 触摸时感到疼痛
 
 . general discomfort or an inability to settle 
+· 感到不适，并焦躁不安
 
-. no desire to move 
+. no desire to move
+· 不想动弹
 
 . reduced tolerance of people or other pets, or reduced interest in play or other favoured activities – these signs can be indicative of pain or an underlying health issue 
+· 对人以及其他宠物缺乏忍耐，不再对之前喜欢的活动感兴趣——这些都可能是疼痛或者是潜在健康问题的征兆。
 
 
 Sometimes you may just notice that your cat has changed their routine or is not quite right rather than any of the specific signs above. 
