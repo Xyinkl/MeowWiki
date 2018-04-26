@@ -227,13 +227,18 @@ Facts to dispel the neutering myths
 · 母猫孕期只有短短的九周，生产之后六周就可以再次发情。
 
 . A cat can quite easily have up to three litters a year with five or six kittens in each. That adds up to 18 caring homes for Cats Protection to find each year, just for one cat’s kittens! This level of breeding is very draining and can be harmful for the mother cat 
+· 一只猫在一年内能够很容易生下三窝小猫，每窝五六只。这样一来Cats Protection就需要找18个能够接收幼猫的家庭，而这仅仅是因为一只猫。这种强度的繁殖消耗巨大而且可能对母猫有害。
 
 . One unneutered female cat can be responsible for 20,000 descendants in just five years – unneutered cats are very good at finding each other and unplanned, unwanted pregnancies are all too common 
+· 一只没有绝育的母猫可能会对接下来五年的20000只后代负责。未绝育的公猫母猫很擅长找到同样无未绝育的同类进行交配，计划外的生育很常见。
 
 . Neutered cats do not ‘miss’ their organs or opportunities to reproduce or rear a litter – they are not people! 
+· 绝育过的猫不是人，并不会想念它们的器官或者是怀念生育、哺育幼猫的机会
 
 . Neutering even if a queen is in season, pregnant or lactating can be performed and is best discussed with your vet 
-
+· 母猫在发情期、孕期或者是哺乳期都可以进行绝育，具体请和你的兽医咨询。
 
 While the majority of owners do neuter their cats, sadly a large number of owned cats are allowed to breed before being neutered, adding to the overpopulation problem and the demand on overstretched animal charities. Please don’t leave it too late. Speak to your vet and book your cat’s neutering appointment today. It should benefit your cat, it may prevent your cat suffering and it is the most important action you can take to help the wider cat population. 
+
+尽管大部分主人确实给猫做绝育，但是不幸的是仍然有很多猫被允许繁育。这样会带来猫科动物数量过多的问题，也给动物福利机构带来了很大的压力。请不要过晚进行绝育。请尽快和兽医咨询并预定绝育时间。绝育会给你的猫带来好处，避免其遭受疾病。也是你能为控制猫科动物数量做的最重要的一步！
 
