@@ -200,19 +200,31 @@ While almost all vets will offer neutering, some do not routinely offer neuterin
 
 尽管所有的兽医都能够进行绝育手术，而且多亏了英国小动物兽医协会的支持，越来越多的兽医能够给六月龄之前的猫绝育。不过有些兽医确实不会提供。你可以登录Cats Protection的网站 www.cats.org.uk 查找附近能够进行早期绝育的兽医诊所。
 
-Earlier neutering has been common practice in many countries, including the USA and Australia, for many years and there is a proven track record of its safety and effectiveness. Studies show no evidence of long-term negative developmental or behavioural effects. Improved techniques and drugs have meant that former concerns over the risks of surgery are unwarranted and it is felt that young kittens recover from the operation much more quickly than adult cats. 
+Earlier neutering has been common practice in many countries, including the USA and Australia, for many years and there is a proven track record of its safety and effectiveness. Studies show no evidence of long-term negative developmental or behavioural effects.
+
+较早绝育已经成为包括美国和澳大利亚在内很多国家的惯例，很多年的实践证明了这种方式的安全性和有效性。研究表示较早绝育并不会带来长期负面的影响。
+
+Improved techniques and drugs have meant that former concerns over the risks of surgery are unwarranted and it is felt that young kittens recover from the operation much more quickly than adult cats. 
+
+更为先进的技术以及药物使得绝育的风险更小，并且幼猫通常比成年猫恢复的更快。
 
 Facts to dispel the neutering myths 
+关于绝育的辟谣
 
 . Cats can start breeding from just four months of age 
+· 猫能在四个月大的时候繁殖
 
 . Kittens can be safely neutered before six months of age 
+· 幼猫在六个月前能够安全的进行绝育
 
 . Cats will readily breed with their brothers, sisters and parents 
+· 猫会同其兄弟姐妹以及父母进行繁殖
 
 . It is not beneficial for a cat to have a season or ‘just one litter’ before being spayed 
+· 让猫在绝育之前先发情或者是怀一窝小猫并没有什么好处。
 
 . The length of pregnancy in cats is just nine weeks and a female cat can often come into season again just six weeks after giving birth 
+· 母猫孕期只有短短的九周，生产之后六周就可以再次发情。
 
 . A cat can quite easily have up to three litters a year with five or six kittens in each. That adds up to 18 caring homes for Cats Protection to find each year, just for one cat’s kittens! This level of breeding is very draining and can be harmful for the mother cat 
 
