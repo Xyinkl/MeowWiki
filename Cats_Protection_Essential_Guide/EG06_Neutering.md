@@ -180,18 +180,26 @@ Your cat will need to spend a day at the veterinary surgery and will be given a 
 
 你的猫会在兽医诊所待一天的时间，并且会被施以全身麻醉。所以在手术前的几小时应该禁食。兽医会告诉你什么时候应该喂食。无论是公猫还是母猫，手术都很简单，你可以在当天取回做完手术的猫。
 
-
-
 Afterwards, a female cat will have a small shaved area on her side or belly – this hair will grow back in a few weeks. She will also have stitches and if these are not dissolvable, they will be taken out by the vet around 10 days later. 
+
+之后，你会发现母猫的侧部或者是腹部的一小块毛被剃掉（通常会在几周内重新长出来）。同样会有缝合的痕迹，如果缝合线不是自融的，那兽医会在十天后拆线。
+
 Cats are very resilient and stoical – far more so than humans – and usually recover very quickly from the operation. Your vet will advise on the best care for your cat as he or she recovers. Kittens seem to recover even more quickly than adult cats. Your cat will require much less food after neutering, as his or her body has less work to do, so you will probably need to monitor your cat’s weight and reduce the amount of food provided to prevent your cat from becoming too fat. This will also save you money too! 
 
-How much does it cost? 
+猫具有很强的忍耐力和生命活力 - 远远超过人类 - 通常会很快从手术中恢复过来。 兽医会为你的猫提供最好的恢复期护理建议。 小猫通常比成年猫恢复得更快。因为消耗量减少，你的猫在绝育后所需食物会减少很多。所以你可能需要监测你的猫的体重并减少食物的提供量以防止你的猫变得太胖。当然这也会省钱。
+
+How much does it cost? 绝育费用多少？
 
 The cost of the operation varies according to where you live. The average cost for a male cat is between ￡30 and ￡60 and the average cost for a female cat is between ￡40 and ￡80. Your vet will be happy to give you a quote before the operation takes place and we recommend phoning a number of veterinary practices. Cats Protection offers financial assistance to cat owners on benefits or low income in some cases. For more details visit www.cats.org.uk/neutering or phone 03000 12 12 12. 
 
-Find a vet to neuter your cat 
+绝育这项手术的费用取决于你的住处。公猫的绝育费用普遍在30英镑到60英镑之间。母猫的绝育费用则在40英镑和80英镑之间。你的兽医通常会很高兴在手术前报价，我们建议你多致电几个兽医诊所询价。Cats Protection对领用救济金以及低收入的猫主人会提供经济上的帮助。需要更多信息，请登录www.cats.org.uk/neutering或致电 03000 12 12 12. 
+
+Find a vet to neuter your cat 找到合适的兽医
 
 While almost all vets will offer neutering, some do not routinely offer neutering before six months, although the numbers are rapidly increasing thanks to support from groups including the British Small Animal Veterinary Association (BSAVA). To find a veterinary practice near you which offers earlier neutering, please visit Cats Protection’s website www.cats.org.uk 
+
+尽管所有的兽医都能够进行绝育手术，而且多亏了英国小动物兽医协会的支持，越来越多的兽医能够给六月龄之前的猫绝育。不过有些兽医确实不会提供。你可以登录Cats Protection的网站 www.cats.org.uk 查找附近能够进行早期绝育的兽医诊所。
+
 Earlier neutering has been common practice in many countries, including the USA and Australia, for many years and there is a proven track record of its safety and effectiveness. Studies show no evidence of long-term negative developmental or behavioural effects. Improved techniques and drugs have meant that former concerns over the risks of surgery are unwarranted and it is felt that young kittens recover from the operation much more quickly than adult cats. 
 
 Facts to dispel the neutering myths 
