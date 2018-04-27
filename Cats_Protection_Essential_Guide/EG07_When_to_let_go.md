@@ -86,29 +86,40 @@ Illnesses are not the only form of suffering. You may also need to make an asses
 不适并不完全体现在疾病上。在以下情况你可能需要对猫的生活质量做个评估：
 
 . can no longer eat or drink normally 
+· 不能正常进食、饮水
 
 . are is unable to stand or move normally 
+· 不能正常站立或移动
 
 . have difficulty breathing properly 
+· 呼吸困难
 
 . are badly injured in an accident 
+· 在事故中严重受伤
 
 . are incontinent 
+· 大小便失禁
 
 . have an untreatable behavioural problem that leaves them feeling very unhappy 
+· 有不能被治愈的行为问题致使其情绪低落
 
-. have any condition that causes uncontrollable pain 
+. have any condition that causes uncontrollable pain
+· 可能引发不可控制的疼痛
 
 
 To choose to have your pet euthanased is one of the most difficult decisions you will ever have to make as a pet owner. The guidance from your vet will be invaluable in making hard choices, but when there is no reasonable alternative, to allow your cat to die in peace and dignity is the kindest decision. 
 
-What is euthanasia? 
+对于主人来说，为宠物选择安乐死是最为困难的选择之一。来自兽医的建议至关重要，不过一旦别无他法，让其平静安详的离去就是最饱含善意的决定。
+
+What is euthanasia? 什么是安乐死？
 
 Literally meaning ‘good death’, euthanasia is also referred to by vets as humane destruction. You may also hear of pets being ‘put down’ or ‘put to sleep’. 
 
-How is euthanasia carried out? 
+字面上意味着“善终”，安乐死同样被兽医叫做“人道死亡”。你或许听说过宠物被“放倒”、被“睡觉”。
 
-Before euthanasia is carried out, you will be asked to sign a consent form. Your vet may shave the fur from a patch of skin on one of your cat’s front legs and will then insert a needle into a vein. The vet will then administer a fatal overdose of a drug which makes your cat lose consciousness. If your cat is fearful or aggressive, they may be given a sedative before the injection to ensure that their final moments are stress free. In some very sick or old cats, the veins may have collapsed and become difficult to locate so the injection may be given into another site. 
+How is euthanasia carried out? 安乐死是怎么操作的？
+
+安乐死实施前，你需要先签署一份同意书。兽医会在猫的前腿剃毛，在静脉中插入针管，之后注入致命剂量的药物使猫失去意识。  如果猫害怕或者过于暴躁，可能会先被注入镇定来使其安定。某些病重或者是老龄猫的静脉可能会萎缩，可能会很难找，所以可能会在其他部位注射。
 
 Your cat will be asleep in a very short time and their breathing and heartbeat will stop a few seconds later. As your cat loses consciousness, they may take a deep breath, or gasp and occasionally there may be a brief involuntary twitching or spasm of muscles after death has occurred. This is quite normal and should not be mistaken for ‘signs of life’. As the body relaxes, your cat’s bowels or bladder may empty. Their eyes will not close. 
 
