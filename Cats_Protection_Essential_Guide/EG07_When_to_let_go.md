@@ -70,13 +70,20 @@ You know your cat better than anyone, so you will soon notice any changes in the
 
 Sometimes you may just notice that your cat has changed their routine or is not quite right rather than any of the specific signs above. 
 
+有时，你可能只是发觉猫的一些小变化，不是那么对劲，而不是出现了上述的症状。
+
 Your vet will examine your cat and recommend any further tests or treatments that may be needed. If the vet diagnoses an incurable disease, you will need to carefully consider the quality of your cat’s life. Your vet will advise you whether drugs or treatment are available to extend your cat’s life, but will only recommend this if your pet could still have a good quality of life. 
+
+兽医会给猫做检查并且如果有必要的话进行进一步检查或治疗。如果被查出了不能被治愈的疾病，你可能需要谨慎考量猫的生活品质了。兽医会给出能够延长猫的寿命的药物或者是治疗建议。不过我们只建议在猫还能够正常生活的前提下进行此类治疗。
 
 The bond between owner and cat is very special, so it is understandable that you will want to keep your cat alive, even if their quality of life begins to deteriorate. However, if there comes a time when your cat is in continual pain, discomfort or distress, the most loving and courageous way you can show them how much you care is to end their suffering. 
 
-Assessing quality of life 
+主人和猫之间的联系相当亲密，所以主人不顾猫的生活质量已经很差依然要求维持其生命的做法不难理解。不过，如果你的猫已经处在长期疼痛、不适的情况下，更体现爱与勇敢的选择则是结束它们的痛苦。
+
+Assessing quality of life 生活质量评估
 
 Illnesses are not the only form of suffering. You may also need to make an assessment of your cat’s quality of life if they:
+不适并不完全体现在疾病上。在以下情况你可能需要对猫的生活质量做个评估：
 
 . can no longer eat or drink normally 
 
