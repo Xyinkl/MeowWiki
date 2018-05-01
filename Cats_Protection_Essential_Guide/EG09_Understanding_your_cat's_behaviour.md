@@ -8,34 +8,59 @@
 
 Understanding your cat's behaviour
 
+理解猫的行为
 
 It is the very nature and behaviour of cats that makes them one of the UK’s most popular pets today. Their independence, playfulness and curiosity are among the traits that make many cat-lovers melt. By understanding the behaviour the cat has developed to enable it to thrive in a changing world, we can learn how to best provide for our cats, meet their needs, maximise their welfare and ensure long-lasting friendships for happy cats and owners. 
 
+正是猫的天性和行为使其跻身英国最流行宠物行列。猫的独立、贪玩、好奇心重等特质使得很多猫咪爱好者们如痴如醉。通过理解猫通过进化来适应这个世界的种种行为，我们可以给猫提供更好的条件，满足它们的需求，提高它们的福利待遇，以及保证主人和猫都能拥有长期的和睦关系。
+
 This leaflet explains the normal behaviour of the cat and suggests some approaches to manage some of the issues that can occasionally test the owner-cat bond. If you are concerned by any aspect of your cat’s behaviour, you can look at Cats Protection’s Essential Guide: Managing your cat’s behaviour, but it often helps to first consider the cat’s normal behaviour, needs and motivations. 
+
+这个手册解释了猫的基本行为，并且对一些偶尔发生的考验猫和主人关系的问题提供了一些解决办法。如果你对猫的某些行为感到困扰，那可以参照猫咪保护基本知道之管理猫的行为篇。不过通常情况下需要首先考虑的是猫的日常行为、需求以及动机。
 
 In order to understand the behaviour and needs of today’s pet cat, we first need to explore its wild origins. The domestic cat shares common ancestry with the African wildcat – a shy cat originating in the Middle East which has many physical and behavioural similarities with our domestic cat and is still found today. 
 
+为了了解现在的宠物猫的行为以及需求，我们首先需要探求它们的野生祖先。家猫和非洲野猫拥有同样的祖先。非洲野猫是一种源自中东的胆小的猫，其很多外在特征以及内在习性都能在现在的家猫身上找到。
+
 Changes in man’s farming systems led the cat to naturally evolve to become closer to humans around 10,000 years ago. This is fairly recent ‘domestication’ and with relatively little human influence over the breeding of specific cats, the domestic cat still retains many of the behaviours and needs of its wild counterparts. 
 
-African wildcat 
+一万年之前，人类的农业体系变革使得猫开始自然而然的走进人类生活。这可以说是距现在最早而且没有人为刻意施加影响的“驯化过程”了。家猫仍然留存很多y野性的行为和需要。
+
+African wildcat 非洲野猫
 
 The African wildcat lives a solitary lifestyle in a harsh terrain that has a relatively small concentration of rodent prey, so the cats are dispersed over a wide area. Each wildcat maintains a large territory but exhibits many of its normal everyday behaviours in a safe core area within this territory. 
 
+非洲野猫在恶劣的地形中孤独的生活。因为猎物分布相对较分散，因此非洲野猫分散在广阔的区域。每只野猫都统治很大的一片领土，只会在其中一个安全区域展现正常的日常行为。
+
 As a carnivore, the wildcat only eats meat and cannot be vegetarian. It is most active at dusk and dawn when its prey is active. Hunting episodes are frequent and tiring. Not every attempt is successful, so it has evolved to hunt before it becomes hungry. Each ‘catch’ is taken back to the core area where the cat can eat without threat from larger predators or rivals. 
+
+作为食肉动物，非洲野猫只吃肉，不能吃素。 为了捕猎，它在黄昏和黎明时最为活跃。 狩猎活动是频繁而且消耗大的，并且并非所有的尝试能成功，所以它进化出了感到饥饿之前就开始捕猎的习性。 每个猎物都会被带回到其核心领地，在那里它不会受到大型掠食者或天敌的威胁。
 
 It does not use many facial expressions to communicate and leaves a scent profile to mark its territory. Scent marking serves as a way to communicate with other cats without having to come into contact with them – reducing the risk of fighting and injuries. 
 
+非洲野猫并不会经常使用语言沟通而是用气味来标记它的领地。气味标记是一种能在避免接触的情况下和其他猫沟通的手段，这养能够减少冲突和受伤的风险。
+
 When faced with a stressful situation, it prefers to make an escape, after which its stress levels return to normal ie flight rather than fight. 
+
+面对危险的情形，非洲夜猫倾向于逃跑，之后就会放松警惕。也即非洲夜猫与其抗争，不如逃跑。
 
 The African wildcat needs a lot of sleep because of the energy used during hunting. It will usually choose a safe, elevated sleeping spot within its core territory. The cat rotates its sleeping area – this is most likely a means of parasite control – and will often scratch to maintain its claws when it wakes up. 
 
+由于狩猎时消耗大量的能量，非洲野猫需要大量的睡眠。它通常会选择在核心领域的一个安全并且较高的地点睡觉。并且非洲野猫会时不时变换睡觉的场所，这可能是为了控制寄生虫。在醒来的时候，它通常会磨爪子以保持爪子锋利。
+
 A wildcat learns to dig and bury the evidence from toileting at a young age. It will choose a safe, quiet and private area towards the edge of its territory, away from sites of eating and drinking to avoid contamination. Where possible, it avoids drinking from stagnant pools and will choose a drinking source separate from where it eats and toilets – although most of a wildcat’s fluid intake comes from eating rodents, which have a high water content. 
+
+非洲野猫在幼年时候就会学会挖坑并掩埋排泄物。它会选择远离食物水源的安静私密，并且靠近其领地边缘的地方排泄来避免污染。如果可能，它不会饮用停滞的池塘里的水，而且会在远离食物和排泄处的地方饮水。虽然一只非洲野猫的液体来源大部分是含水量很高的猎物本身。
 
 Females call when in season and because they have large territories, males will often travel long distances to find receptive females. The number of kittens born in a litter reflects the food availability, so when food sources are low, few kittens are born. Following birth, kittens need to quickly learn what is safe and normal in their environment. Surviving kittens will find their own territory with sufficient resources once old enough. 
 
-Domestic cats 
+母猫在发情期会嚎叫，由于其很大的领地范围，公猫经常需要穿袭很长距离才能找到适宜的交配对象。每窝产下的幼猫数量取决于食物的多少。如果食物来源较少，就会诞生较少的幼猫。出生之后，幼猫需要在环境中学习何谓安全以及正常。长大的幼猫会在食物充足的情况下确定自己的领地。
+
+Domestic cats 家猫
 
 With its common ancestry, the domestic cat species shares many similarities with the African wildcat. Each cat is an individual and while all cats share some inherent needs, both genetics and previous experience will play a great part in shaping their behaviour. 
+
+由于和非洲野猫拥有共同的祖先，家猫也有许多野猫的习性。尽管所有的猫都遗传了一些共通的需要，但每只猫都是独立个体，基因和经历都会在塑造其个性上起很大作用。
 
 Perhaps one of the most striking differences between individual cats is their sociability to people. There are two recognised groups: those that are feral – wild – and those that are non-feral – pet cats, depending on their level of fear towards people. The domestic cat needs to learn to like people during its early weeks. Positive, gentle interactions and handling by humans when kittens are between two to eight weeks of age leads to cats which usually enjoy human interaction and are friendly pets. Kittens which have not been socialised during their early weeks will generally remain fearful of people and the domestic environment and become feral cats. 
 
