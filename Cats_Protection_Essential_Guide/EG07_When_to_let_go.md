@@ -123,38 +123,65 @@ How is euthanasia carried out? 安乐死是怎么操作的？
 
 Your cat will be asleep in a very short time and their breathing and heartbeat will stop a few seconds later. As your cat loses consciousness, they may take a deep breath, or gasp and occasionally there may be a brief involuntary twitching or spasm of muscles after death has occurred. This is quite normal and should not be mistaken for ‘signs of life’. As the body relaxes, your cat’s bowels or bladder may empty. Their eyes will not close. 
 
+注射后你的猫就会很快睡着并且在几秒后停止呼吸和心跳。由于已经失去意识，它可能会深呼吸或喘气，有时可能会在发生死亡后出现短暂的不自主抽搐或肌肉痉挛。 这很正常，不应该被误认为是'活着的迹象'。 随着身体放松，你的猫的肠或膀胱可能会排空。 他们的眼睛不会自主关闭。
+
 Your vet will check for a pulse or eyelid reflex and may place your cat into a sleeping position. Don’t be alarmed if your cat’s lips are pulled back into a grimace, this is not a sign of pain, but is due to a relaxation of muscles. 
+
+兽医会检查脉搏或眼睑反射，并且可能把你猫摆成睡眠的姿势。 如果你的猫的嘴唇向后抽搐，不要惊慌，这不是痛苦的迹象，只是肌肉放松导致的。
 
 Discuss in advance with your vet whether you wish to be with your cat when they are put to sleep. It may be less stressful for your cat if they can hear a familiar voice and knowing that your cat suffered no pain may comfort you. However, if you are frightened or anxious your cat may sense this and may become upset. You must choose what is right for you. 
 
-After euthanasia 
+你可以提前和兽医沟通自己是不是在现场陪同。如果有熟悉的声音陪同，猫可能会感觉不那么紧张。同样，见证整个无痛的过程对主人也是个安慰。然而，如果你对这些感到恐惧和焦虑那最好不要在场。你需要做出适合自己的选择。
+
+
+
+After euthanasia 安乐死后
 
 Decide in advance whether you would prefer your cat to be buried or cremated. 
 
-Cremation 
+提前决定好是埋葬猫还是火化猫的遗体。
+
+Cremation 火化
 
 Your vet can arrange for your cat to be cremated, or you can take their body to the pet crematorium yourself. Your cat can be cremated with others and their ashes scattered in the garden of rest, or you can opt for individual cremation after which their ashes can be returned to you. You must inform your vet of your wishes at the time of euthanasia if you want your vet to arrange the cremation. 
 
+兽医可以安排你的猫的火化事宜，或者你也可以自行带去宠物火化馆。火化可以是和其他猫一起，之后骨灰会被撒在陵园。也可以是单独火化，之后骨灰会被还给你。如果要兽医安排火化，那你必须在安乐死时候知会兽医你的选择。
+
 If your cat dies unexpectedly at home and you do not wish to bury them in your garden, contact your vet who can arrange cremation. 
 
-Burial 
+如果你的猫在家时意外死亡，而且你不想把它埋在花园里，联系你的兽医安排火化。
+
+Burial 埋葬
 
 Your cat can be buried in a pet cemetery. Most ceremonies can be accompanied by a short memorial service. If you would prefer to bury your cat in your garden, check with your local authority that this is allowed and make sure that the body is buried at least three feet below the surface. Place a heavy object on top until the ground settles to deter scavengers. 
 
+你的猫可以埋在宠物墓地里。 大多数仪式服务都提供短暂的追悼会。 如果您希望将猫咪埋入您的花园，请与当地的权威部门联系，确保法规允许。并确保遗体至少埋在地表以下三英尺处。 在上面放置一个重物，直到地面沉降以阻止食腐动物的侵袭。
+
 If you wish, you can arrange to donate your cat’s body to a nearby veterinary school for medical research. 
 
+如果你同意，也可以安排把猫的遗体捐献给临近的兽医学校做医学研究。
 
-Coping with pet bereavement 
+
+Coping with pet bereavement 宠物死去后的情绪管理
 
 Losing your much-loved pet can be a very traumatic experience. Don’t be afraid to show your feelings in front of the vet, they will understand. You will need time to grieve and you may go through a mixture of emotions – sadness, loneliness and even anger. This is all quite normal and part of the process of coming to terms with your loss. You should not feel guilty or blame yourself for your cat’s death – the decision for euthanasia is only ever reached as an act of kindness to avoid suffering. Treasure your memories – remember the good times and the joy that your cat brought you. 
 
+失去你最爱的宠物会是非常痛苦的。不要害怕在兽医前流露痛苦，他们会理解的。你需要一段时间伤悲，而且可能经历多种情绪混存的阶段（伤感、孤独甚至是生气）。这一切都是非常正常的事情，也会让你慢慢接受损失。 你不应该为猫的死而感到内疚或责备自己 - 安乐死的决定只是为了减少猫痛苦的一种善意的手段。 珍藏你的回忆 - 记住你的猫带给你美好的时光和快乐。
+
 Losing a pet is often the first time that a child becomes aware of death. It is usually best to be honest with a child and explain the truth as clearly as you can. Be careful when using the term ‘put to sleep’ as a child may expect their pet to wake up again later. Children may want time to say goodbye to their pet and seeing the body may help them understand what has happened. Marking the occasion with some kind of memorial such as a burial can be very therapeutic. 
+
+失去一只宠物通常是孩子第一次经历死亡。如实并且清楚地向孩子解释一切是最好的办法。小心使用“让猫睡觉”的词语，因为孩子可能期待猫还会醒来。可以给孩子和猫说再见的时间，见到猫的遗体也能帮孩子理解什么是死亡。埋葬等仪式会是很好的慰藉。
 
 It can be helpful to talk to someone who understands your feelings. Many GPs and religious ministers recognise the negative effects of suppressing grief and now offer pet bereavement counselling. Pet bereavement helplines are also available. 
 
-Getting another cat 
+和其他理解你的人交流会很有帮助。许多全科医生认识到抑制悲伤的负面影响，现在提供丧失宠物的心理咨询。 丧失宠物之后的求助热线也可以考虑。
+
+Getting another cat 养另一只猫
 
 The decision to get another cat is entirely personal. You may find you want another one almost immediately or that you need time to come to terms with your loss. If your cat has had an infectious illness, your vet may advise you to wait before getting another to reduce the risk of infection remaining in your home. 
 
+决定是否养另一只猫是很个人的选择。你可能会发觉自己立刻就需要另一只猫，也可能还需要一段时间接受这个事实。如果你的猫之前有过传染性疾病，兽医可能会建议你等一等再养另一只。这样能够减少新猫你家中被传染的风险。
+
 Try to remember that cats, like humans, are all individuals. Although your relationship with any new cat will be just as rewarding, they will not be the same as your previous cat and this may take some time to get used to. 
 
+你需要记住的是，猫像人一样，是完全独立的个体。尽管新猫的到来会让你很欣慰，不过它毕竟不会和之前的猫完全一样，你需要时间慢慢适应。
