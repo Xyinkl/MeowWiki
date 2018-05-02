@@ -64,21 +64,33 @@ With its common ancestry, the domestic cat species shares many similarities with
 
 Perhaps one of the most striking differences between individual cats is their sociability to people. There are two recognised groups: those that are feral – wild – and those that are non-feral – pet cats, depending on their level of fear towards people. The domestic cat needs to learn to like people during its early weeks. Positive, gentle interactions and handling by humans when kittens are between two to eight weeks of age leads to cats which usually enjoy human interaction and are friendly pets. Kittens which have not been socialised during their early weeks will generally remain fearful of people and the domestic environment and become feral cats. 
 
-Feral cats 
+猫个体之间最大的区别可能就是对人的友善程度了。根据其对人类的畏惧程度猫可以分为两种：野猫以及宠物猫。家猫需要在早期学会和人相处。在两周到八周之间积极的轻柔的和人类互动会让猫更加享受和人在一起并成为宠物猫，而没有在早期和人类交互的猫则保留了对人类的恐惧，并且成为野猫。
+
+Feral cats 野猫
 
 While some feral cats retain their solitary nature, in certain situations, feral cats can live in groups called colonies. Feral cats within a colony live in harmony with one another if they recognise the shared group scent and they are able to find sufficient resources such as food, water, toileting and sleeping areas. 
 
+尽管野猫保留了特立独行的天性，但是在某些情况下，野猫也会进行群居生活。在食物、水源、排泄处、睡觉场合等生存资源足够的情况下，它们可能会在共同的群体气味下和谐共生。
+
 They engage in social interactions such as mutual grooming and rubbing. These activities keep the ‘group scent’ topped up, allowing recognition. Despite living as a group, they will continue to hunt, eat and toilet alone. Feral cats within a colony tend to see off any ‘stranger’ cats intruding in the territory. For more information on feral cats, see Cats Protection’s Essential Guide: Feral cats. 
 
-Cats as companion animals 
+群居中的野猫会进行互相的清理毛发的互动行为。这些行为能够保障群体气味的一致，方便识别。尽管群居，但是每只猫都会独自狩猎、进食以及排泄。群居状态下的野猫会赶走所有闯入他们领地的外来猫。需要更多关于野猫的信息，请参阅猫咪保护基础指导之野猫篇。
+
+Cats as companion animals 想要与之作伴的猫科动物
 
 It is important to remember that a cat’s requirements are not human-based, so understanding their needs can enhance our own relationship with them. It is very rewarding to see things from their point of view to make a positive change in their welfare. Ensure you provide a stimulating and safe environment and provide your cat with opportunities to express their natural behaviour. 
 
-Solitary 
+认识到猫的需求和人类不同很重要，这样我们就能更好的搞好人与猫的关系。从猫的视角出发考虑问题对于提升它们的生活质量很有裨益。你需要确保你给予了它足够逼真而且安全的环境并且给它足够的机会释放天性。
+
+Solitary 孤独
 
 Like the African wildcat, pet cats have an inherent desire to maintain a territory as solitary hunters. However, they can live well together in some circumstances, as long as the cats perceive each other to be in the same social group and they have sufficient resources provided so there is no competition. 
 
+像非洲野猫一样，宠物猫同样继承了维护领地的孤独狩猎者般的特质。然而，它们在食物等资源充足的情况下也会结成群体并且和谐共存。
+
 Many groups of cats living in the same household have not evolved naturally, but have been introduced as unrelated kittens or adults. Consequently they may not actually perceive each other to be in the same social group, but under stress will tolerate the presence of others, especially for a particularly valued resource such as food or fuss from an owner. Cats are in the same social group if they sleep touching one another and spend time rubbing and grooming each other. Cats in one social group should be provided with separate resources – eg food, water, toilet and resting areas – from those in a different social group, even if they all live in the same house. In fact, it may even be best to feed those in the same social group in different areas to avoid the risk of relationship breakdown. 
+
+很多在同一户人家生存的猫群并没有慢慢成为族群，它们可能不会真正接受彼此成为同一群体，而是在关键资源比如主人的食物的前提下，容忍了其他猫的存在。在同一族群的猫会睡在一起并且花时间互相梳理毛发。在同一个群体的猫就算生活在一起，也应该分别喂食，否则可能有因为争抢食物关系破裂的可能。
 
 Introducing a new cat should be done very slowly in the hope that they will ultimately perceive each other to be in the same social group, or at least peacefully cohabit because they have been provided with separate resources to avoid conflict and competition. Each new relationship is dependent on the individual cats and how their early encounters were managed. 
 
