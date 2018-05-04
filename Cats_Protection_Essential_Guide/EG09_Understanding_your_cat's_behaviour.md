@@ -94,6 +94,8 @@ Many groups of cats living in the same household have not evolved naturally, but
 
 Introducing a new cat should be done very slowly in the hope that they will ultimately perceive each other to be in the same social group, or at least peacefully cohabit because they have been provided with separate resources to avoid conflict and competition. Each new relationship is dependent on the individual cats and how their early encounters were managed. 
 
+介绍猫咪互相认识应该做到尽量慢，让其能够接受彼此或者是因为并无竞争而和谐共存本来就不是一定能做到的事情。
+
 Just because a cat has lived happily with a cat before, it does not mean that it will take to a new feline companion. Unfortunately there is no guarantee, even with careful management, that the introduction of unfamiliar cats will work out. There are some cats that are unlikely to ever perceive other felines as anything but a threat and may prefer to live on their own. For more information, see Cats Protection’s Essential Guide: Cats living together. 
 
 Many cats have learned to love the company of people and will often rub up against us for a fuss and a stroke and to place their comforting scent on us. It is a wonderful feeling when a cat chooses to engage with you. For more information on how cats interact with people, see Cats Protection’s Essential Guide: Cats and people. 
