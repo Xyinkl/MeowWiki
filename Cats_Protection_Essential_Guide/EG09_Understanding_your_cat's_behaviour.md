@@ -116,32 +116,50 @@ Play is an excellent outlet for cats to exhibit this natural behaviour. Younger 
 
 Older cats will love playing three or four times a day, but the type of play may need to be adapted to suit their needs and level of mobility. For more information see Cats Protection’s Essential Guide: Elderly cats. 
 
-成年的猫可能需要每天玩耍三或四次。玩耍需要适合它们的
+成年的猫可能需要每天适度玩耍三或四次。具体请参见猫咪保护基本指导之老年猫篇。
 
 Eating can be a vulnerable activity. Try placing food bowls slightly away from the wall, so that your cat can eat with its back to it when they eat. Being able to view their surroundings can help them feel safer. 
 
+进食可能是相对容易发生危险的活动，你可以尽量将食碗放在离墙壁稍远的地方，这样你的猫就能背对着墙进食。能够环顾四周能让猫感到安全。
+
 Cats in the wild spend a lot of their time on frequent hunting expeditions, catching up to 12 small rodents per day. In comparison, our pet cats are given bowls of food, so a meal doesn’t take long to eat or make use of their great senses. Create interest at meal times by hiding food around the house for your cat to search out. Make a pyramid out of cardboard toilet roll tubes and hide food in the tubes, or use a puzzle ball or feeder. For more information see Cats Protection’s Essential Guide: Feeding and obesity. 
 
-Communication systems 
+野外的猫花费很多时间长途奔袭狩猎，有时候一天能抓到12只小型猎物。而我们的宠物猫则不缺食物，进食间隔很短而且不需要其良好的感觉系统。你可以把食物藏在屋子的某个角落让其发现，或者是用卫生纸筒做一个金字塔并且把食物放进去。当然也可以用滚球状的漏食器。需要更多信息请参阅猫咪保护基本指导之喂食与肥胖篇。
 
-The cat has limited visual social signals and facial expressions and so can be difficult to ‘read.’ Instead, it still relies on scent communication, marking its territory and leaving distant scent signals that last for some time. This allows it to communicate to other cats as well as leave signals and warnings for itself. Cats will rub against items in the home to lay their scent which helps them feel safe and secure. It is worth bearing in mind that modern cleaning means we may be constantly removing this scent from the cat’s environment, which can cause some anxiety and disorientation. Modern lifestyles also mean we bring new scents into the environment. Cats will often spray the edges of their territory. Usually this is outdoors, but they may spray indoors – often at entry or exit points, such as windows or doorways. A cat that sprays indoors is leaving itself a warning reminder – it is indicating that something is wrong. This behaviour can be seen in any cat 
-– male or female, whether neutered or not. Domestic cats scratch to keep their claws in good condition and to mark their territory. A scratching post will provide exercise, claw maintenance and a focal point for your cat to express this natural behaviour – it will help protect your furniture too. Cats like to stretch and scratch after they wake up, so try placing the scratch post near their bed. A good scratching post has the following features: 
+
+Communication systems 沟通方式
+
+The cat has limited visual social signals and facial expressions and so can be difficult to ‘read.’ Instead, it still relies on scent communication, marking its territory and leaving distant scent signals that last for some time. This allows it to communicate to other cats as well as leave signals and warnings for itself. Cats will rub against items in the home to lay their scent which helps them feel safe and secure. It is worth bearing in mind that modern cleaning means we may be constantly removing this scent from the cat’s environment, which can cause some anxiety and disorientation. Modern lifestyles also mean we bring new scents into the environment. Cats will often spray the edges of their territory. Usually this is outdoors, but they may spray indoors – often at entry or exit points, such as windows or doorways. A cat that sprays indoors is leaving itself a warning reminder – it is indicating that something is wrong. This behaviour can be seen in any cat – male or female, whether neutered or not. 
+
+猫并不具备良好的视觉，其面部表情也不足以传达太多信息。所以取而代之的，是靠气味的沟通方式。通过气味来标记领地以及传递能够留存一顿时间的气味信号，猫可以同其他同类沟通，并且给自己留下不同的记号。猫通常会在家中磨蹭不同的物件留下自己的气味来使自己感到安全。需要注意的是，现代的清洁手段很可能会经常消灭这种气味，导致猫感到焦虑不安。现代的生活方式同时意味着经常会有新的气味进入到猫的生活环境中。猫会经常在领地边缘喷尿做标记。这通常会在室外，但是也可能是在室内的出入口，比如窗户或者门口。在室内喷尿的猫是在给自己留下提醒信号——“情况不正常”。这种行为可能会发生在任何猫的身上，无论是公猫还是母猫，已绝育或者是未绝育。
+
+Domestic cats scratch to keep their claws in good condition and to mark their territory. A scratching post will provide exercise, claw maintenance and a focal point for your cat to express this natural behaviour – it will help protect your furniture too. Cats like to stretch and scratch after they wake up, so try placing the scratch post near their bed. A good scratching post has the following features: 
+
+家猫通过磨爪子来保持其爪子的锋利程度，同时也是其领地的一种标记。猫抓板能够很好地让猫释放天性、保持爪子的锋利，同时也能保护你得家具不遭毒手。猫喜欢在睡醒后伸展身体然后磨爪子。所以可以在他们的床边放上猫抓板。好的猫抓板有以下特征：
 
 . a strong sturdy base so the cat can lean against the post without it wobbling 
+· 坚固结实的底部，保证猫倚在猫爪板上时不会摇晃。
 
 . tall enough that the cat can stretch fully 
+· 足够高，这样猫能够完全的伸展身体。
 
 . a vertical thread that allows the cat to scratch downwards 
+· 有个竖直的磨爪面，这样猫能够从上向下磨爪子。
 
 
-
-Avoidance of stress and conflict 
+Avoidance of stress and conflict 避免焦虑以及冲突
 
 Cats are all individuals and some may be more affected by stress than others. The domestic cat still needs the opportunity to run, hide and climb when stressed. Pet cats will often find appropriate places at home – such as in a cupboard or underneath the bed – and are best not disturbed when in these sanctuaries to allow their stress levels to come down. They will only fight if there is no other option available, or they have learned from previous experiences that this has a positive outcome for them. Cats will use scent to try to avoid conflict. 
 
+猫都是独立的个体，某些可能更容易受到焦虑的影响。家猫在感受到压力的时候需要跑动、隐藏、攀爬。宠物猫通常能够在家中找到合适的地方，比如茶柜或者是床下。最好不要在其处在它的小庇护所正感到精神紧张的时候惊动它，而是应该让其自然放松。猫只会在走投无路的情况下选择动粗，也可能是之前的经历告诉它动粗可能会有好处。猫咪通常会用气味避免冲突。
+
 It is important to always provide your cat with an easily accessible place to hide which will help to make them feel safe and secure. There are many things that can cause a cat to feel anxious or fearful: fireworks, building work in the house, unfamiliar visitors, or conflict with other cats. A hiding place can be something as simple as a cardboard box on its side, or upside down, with large holes for access. Or you could purchase an igloo style cat bed. Try not to overly fuss a cat which is showing signs of fear, as it may reinforce the fearfulness. 
 
+给你的猫准备很容易到达的庇护所很重要，这样能让它们感到安全。很多情况都会让猫感到焦虑或者是恐惧，比如烟火、装修、不熟悉的访客以及和其他猫的冲突。庇护所可以是很简单的带一个圆孔的纸盒子。或者你可以给它买一个雪屋状的猫床。不要再猫害怕的时候过度抚摸它，这样可能加剧它的恐惧。
+
 Cats feel safer if they can view their surroundings from a height. Provide some higher spaces for your cat to relax, such as shelves or the top of a wardrobe. Ensure the cat can access these, for example by placing a stool nearby. Extra consideration should be given to elderly cats. For more information see Cats Protection’s Essential Guide: Elderly cats. 
+
+如果能居高临下俯瞰四周，猫通常都会感到安全。
 
 Sleep 
 
