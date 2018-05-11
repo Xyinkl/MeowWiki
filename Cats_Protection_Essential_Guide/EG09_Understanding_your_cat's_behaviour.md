@@ -98,17 +98,25 @@ Introducing a new cat should be done very slowly in the hope that they will ulti
 
 Just because a cat has lived happily with a cat before, it does not mean that it will take to a new feline companion. Unfortunately there is no guarantee, even with careful management, that the introduction of unfamiliar cats will work out. There are some cats that are unlikely to ever perceive other felines as anything but a threat and may prefer to live on their own. For more information, see Cats Protection’s Essential Guide: Cats living together. 
 
-即便这只猫在之前曾经和别的猫建立过很好的关系，也不意味着它能够轻易接受另一只猫。坏消息的是，即便是悉心安排，新猫咪也不一定能够被接纳。有些猫咪几乎不太可能
+即便这只猫在之前曾经和别的猫建立过很好的关系，也不意味着它能够轻易接受另一只猫。坏消息的是，即便是悉心安排，新猫咪也不一定能够被接纳。有些猫咪几乎不太可能接受任何其他猫并且只想独自过活。需要更多信息，请参阅猫咪保护基础指导之群居篇。
 
 Many cats have learned to love the company of people and will often rub up against us for a fuss and a stroke and to place their comforting scent on us. It is a wonderful feeling when a cat chooses to engage with you. For more information on how cats interact with people, see Cats Protection’s Essential Guide: Cats and people. 
 
-Hunters 
+很多猫已经接受了人的陪伴，也会经常磨人求抚摸，并且留下让它们以为安心的气味。被一只猫喜欢是一种很棒的感觉。需要更多关于猫和人之间互动的信息，请参阅猫咪保护基本指导之猫和人篇。
+
+Hunters 猎手
 
 Domestic cats are still programmed to hunt and this activity is still not linked to hunger. Each part of the hunting activity – the stalk, pounce, play and kill – releases feel-good hormones called endorphins. Cats need to have frequent successful ‘kills’ to avoid frustration and are most likely to hunt at dawn and dusk. Some cats are prolific hunters, while others catch nothing at all – it varies from individual to individual. Like their wild ancestors, those which do hunt will often bring their prey back to their home, or core area. For more information on hunting, see Cats Protection’s Essential Guide: Indoor and outdoor cats. 
 
-Play is an excellent outlet for cats to exhibit this natural behaviour. Younger cats will be happy to play 10 times a day or more. You can learn more in Cats Protection’s Essential Guide: Caring for your cat. 
+家猫体内依然有着狩猎的基因，并且这一活动与饥饿并无关联。狩猎的每个过程（跟踪、弹跳、玩弄、杀死猎物）都会释放名为内啡肽的荷尔蒙。猫需要经常进行“成功”的狩猎才能避免无聊。狩猎通常会在早晨和傍晚。有的猫捕猎很厉害，而有些猫不然。和它们的野外祖先一样，家猫也会将猎物带回家。需要更多关于狩猎的信息，请参阅猫咪保护基本指导之室内室外猫篇。
+
+Play is an excellent outlet for cats to exhibit this natural behaviour. Younger cats will be happy to play 10 times a day or more. You can learn more in Cats Protection’s Essential Guide: Caring for your cat.
+
+玩耍对于猫咪来说是绝好的释放天性的机会。幼猫可能需要每天玩10次以上。你可以在猫咪保护基础指导之关爱你的猫篇得到更多猫咪玩耍的指导。
 
 Older cats will love playing three or four times a day, but the type of play may need to be adapted to suit their needs and level of mobility. For more information see Cats Protection’s Essential Guide: Elderly cats. 
+
+成年的猫可能需要每天玩耍三或四次。玩耍需要适合它们的
 
 Eating can be a vulnerable activity. Try placing food bowls slightly away from the wall, so that your cat can eat with its back to it when they eat. Being able to view their surroundings can help them feel safer. 
 
