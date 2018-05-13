@@ -159,66 +159,99 @@ It is important to always provide your cat with an easily accessible place to hi
 
 Cats feel safer if they can view their surroundings from a height. Provide some higher spaces for your cat to relax, such as shelves or the top of a wardrobe. Ensure the cat can access these, for example by placing a stool nearby. Extra consideration should be given to elderly cats. For more information see Cats Protection’s Essential Guide: Elderly cats. 
 
-如果能居高临下俯瞰四周，猫通常都会感到安全。
+如果能居高临下俯瞰四周，猫通常都会感到安全。所以给猫提供书架或者是碗柜这样的高处可以让猫更加放松。你可在旁边放一个猫爬架来帮助猫达到高处。对于老年猫，则需要更多的关注。更多信息请参加猫咪保护基本指导之老年猫篇。
 
-Sleep 
+Sleep 休息
 
 Cats usually sleep for about 16 hours a day, on and off, and often prefer to rotate their chosen sleeping area. When a cat falls asleep on our lap, we often don’t realise they’ve drifted off and continue to stroke them. Most cats that are woken suddenly by their owner stroking them will realise what is happening. However, others can feel understandably sleepy and disorientated and may react defensively to a perceived threat. If your cat is resting on your lap, it’s best to stop stroking them so that they can sleep peacefully. 
 
-Toileting 
+猫每天会断断续续睡大约16个小时，并且经常会变更睡觉的场所。当猫在我们的大腿上睡着的时候，很多时候我们并不会注意到，仍然抚摸它。通常时候猫能够意识到是主人的抚摸，但有的猫可能会感到特别困倦而且被打扰，可能会产生过激的行为。如果你的猫在你大腿上睡着了，最好的方法是不要打扰它。
+
+Toileting 如厕
 
 Cats learn to associate toileting with the material used when they were a kitten and generally still prefer to use a fine grain litter. If they were only exposed to one type as a kitten, they are less likely to want to use a different litter consistency as an adult. They will dig and bury deposits and prefer to use a site away from where they eat and drink, in quiet, private areas away from other cats. 
 
+猫在幼猫起就学会了排泄所需砂土的使用，通常都会倾向于砂砾质感的猫砂。如果小时候只用过一种猫砂，那长大了就会排除其他种类的猫砂。它们会在猫砂中挖洞然后把排泄物埋起来。猫通常喜欢在远离食物和水源并且安静私密不会被其他猫打扰的地方排泄。
+
 Your cat may prefer to go inside in a litter tray or outside in the garden – it varies between individuals. Even if your cat toilets outside, it’s a good idea to keep a litter tray indoors for those moments when they are caught short! 
+
+你的猫可能会喜欢在室内使用猫砂盆，也可能喜欢在室外花园排泄。不同的猫有不同的倾向。即便你的猫倾向在室外排泄，你也最好在室内放置一个猫砂盆，以防万一。
 
 It’s best to have one litter tray per cat, plus one extra if possible, all in different quiet locations – especially if your cats are kept indoors. Cats don’t like using dirty or soiled trays so make sure the litter tray is cleaned at least once a day. 
 
+当你的猫是完全养在室内的时候，你应该给每个猫准备一个猫砂盆，最好多准备一个，全部分布在不同的安静的位置。猫不喜欢脏的、已经被污染的猫砂。所以确保每天都清理猫砂盆。
+
 If your cat toilets outside, provide them with their own desirable toilet area in your garden, in a secluded, sheltered area of well-dug, fine soil. Add some cat litter to encourage them to toilet there. Make sure it’s dug over regularly to remain hygienic and allow the soiled material to decompose naturally. 
+
+如果你的猫在室外排泄，你可以给它在花园里找一个隐蔽的、有遮挡的、松软好挖的地方，作为排泄的场所。你可以在这个地方放一些猫砂来鼓励它在这排泄。确保猫能正常挖坑不会接触到不卫生的土壤，已经排泄过的土壤能够自然分解。
 
 Being creatures of habit, once a cat has a preferred toileting site, they will continue to use it unless something causes them to become averse to it. A lack of privacy and problems with access or cleanliness will cause them to look for another place. 
 For more information, see Cat’s Protection’s Essential Guide: Managing your cat’s behaviour. 
 
-Water 
+作为循规蹈矩的生物，一旦猫有了固定的如厕场所，它就会一直用下去，直到有别的因素使它开始讨厌这个地方。容易被打扰、不容易进入、不干净等因素都会导致猫找寻新的排泄地点。需要更多信息，请参加猫咪保护基本指导之管理猫的行为。
+
+Water 饮水 
 
 Cats tend to avoid stagnant pools and often prefer a moving water source away from food bowls and litter trays. They also like wide brimmed containers with a reflective surface. Some cats choose to drink from a natural water source outside because they dislike the taste of chlorinated water or the taint from a plastic bowl. Even in these situations, fresh water should still always be available indoors in case their outdoor source dries up or becomes inaccessible. Others prefer a dripping tap, or to dip their paw into the water and drink off their paw. 
 
-Reproduction 
+相较于静止的水源，猫咪通常会倾向于远离食物和猫砂盆的流动水。它们也喜欢有宽广边缘、有反射水面的水源。有些猫会讨厌自来水的氯气味道或者是水碗的味道，而倾向于在户外饮用自然水源。即便是这样，你也应该在室内放置新鲜的水源，以免室外水源枯竭或者是猫出不去。其他有的猫可能喜欢滴水的水龙头，或者是把爪子浸到水中再饮用。
+
+Reproduction 生殖
 
 Cats can become sexually active from four months of age. Females will call when in season and with large territory sizes, males will travel long distances to find receptive females. With the provision of food and shelter and other key resources, cats can be prolific breeders and one female cat – queen – and her offspring can be responsible for 20,000 kittens in just five years. 
 
+猫最早在四个月大就可以实现生殖成熟。母猫会在发情期嚎叫。鉴于猫的领地通常很大，公猫需要长途奔袭来交配。如果食物和场所等生存资源适宜，猫可以相当高产。一个母猫能够在五年内产生20000只后代。
+
 Any kittens born need to experience as many positive experiences as possible during their first two to eight weeks of age for them to consider these safe and normal in future, enabling them to become happy pets. Cats Protection recommends neutering by around four months of age to prevent unwanted litters. 
 
-Individuals 
+在初生的前两周到八周，幼猫如果能受到足够的正向体验，就会养成足够的安全感，成为快乐的猫。CATS PROTECTION 建议在四个月的时候就进行绝育，以减少猫咪数量。
+
+Individuals 个性
 
 Individual cats have different characters and this contributes to their appeal. Their differences are due to a variety of different factors and are influenced by: 
 
+不同的猫可能有不同的个性，这也会影响它们的行为需求。猫的个性取决于很多不同的因素：
+
 . genetics 
+· 基因
 
 . stress levels of the mother when pregnant 
+· 猫的母亲怀孕时候的情绪紧张水平
 
 . learning during the early part of life, including: 
+· 初生时期的早期认知学习，包括：
 
 . experiences during their socialisation period 
+· 社交时期的经历
 
 . behaviour learned from siblings – such as how to play 
+· 来自兄弟姐妹的行为学习，比如如何玩耍。
 
 . behaviour learned from the mother – eg how to deal with frustration, such as during weaning 
+· 来自母亲的行为学习，也即如何处理挫折，比如断奶时。
 
 . later learning experiences, including: 
+· 后期的经历，包括：
 
 . a cat developing an association between its own behaviour and the consequence of that behaviour. For example, miaowing leads to my owner letting me in, so I will miaow when I want to be let in 
+· 猫会把自己的行为和后果做关联，比如喵喵叫会让我的主人放我进屋，那么当我需要进屋的时候就会喵喵叫。
 
 . a cat developing an association between something that originally meant nothing to it and associating it with meaning something new. For example, a cat learns that the sound of a tin opener means they are about to be fed, so will come running when they hear the tin opener being taken out of a drawer 
+· 猫会把某些原本没有意思的事物赋予意义。比如猫可能发现每次开罐器的声音出现之后，自己就会有罐头吃。那么当它听到开罐器被拿出抽屉的声音后，就会跑过来等吃的。
 
 . medical conditions 
+· 医疗条件
 
 . current environment 
+· 现在的环境
 
 
 
-The indoor life 
+The indoor life 室内的猫咪生活
 
 Many cats will enjoy going outside for part of the day and this gives them the opportunity to investigate new things and make use of their fantastic senses. It also provides mental stimulation and reduces stress. If you are keeping cats indoors, extra care is needed to avoid boredom, frustration or the development of behaviour problems – see Cats Protection’s Essential Guide: Indoor and outdoor cats. 
+
+很多猫都会喜欢每天出门玩一会，这样它们绝佳的感官就会被充分利用来探索新的事物。外出同样给与猫精神上的愉悦并且避免它的焦虑紧张。如果你把猫完全养在室内，你需要想办法避免它的无聊产生相关的行为问题。参见猫咪保护基本指导之室内室外猫篇。
 
 Interacting with your cat and body language 
 
