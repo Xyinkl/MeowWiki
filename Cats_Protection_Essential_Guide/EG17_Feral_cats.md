@@ -6,50 +6,78 @@
 
 @(Evernote)[计划, 翻译, 猫]
 
-Feral cats 
+Feral cats 野猫
 
 
-What are feral cats? 
+What are feral cats? 怎样才算野猫？
 
 The term feral describes members of a domesticated species that have reverted to living as wild animals. Feral cats have had little or no contact with humans. They can never be tamed and this should never be attempted because they are very fearful of people and it would seriously compromise their welfare. Feral cats live alone – or in groups called colonies – and are found in towns, cities and rural areas. The best solution for feral cats is for them to be neutered and returned to their familiar environment. 
 
-What makes a cat feral? 
+野猫这一词语主要指家养的宠物回归自然像野生动物一样生活。野猫没有或者很少与人接触。野猫不会被驯服，我们也不建议你去尝试驯服它，因为野猫特别怕人，驯服之后野猫的生存质量也会大大下降。野猫通常是独自生活，也有群居的。通常能在城镇、城市或者是乡村地区被找到。对于野猫，最好的办法就是对其绝育，然后放归自然。
+
+What makes a cat feral? 是什么让猫成为野猫的？
 
 Cats learn what is normal when they are very young kittens and their brains are developing. The point in a kitten’s life when it is aged between two and eight weeks old is known as the ‘socialisation period.’ Young kittens which have had positive contact with people and are handled during this critical time form a bond with humans and enjoy living as pets. 
 
+猫在幼年头脑发育期会学到什么是“正常”。其成长的两周到八周之间被称为“社会化时期”。在这一期间如果幼猫接触到和人类相关的正向刺激会使其形成对人类的良性关联，将会乐于做一只宠物猫。
+
 Feral cats are the offspring of stray, feral or abandoned domestic cats and have missed out on these early positive experiences with people. 
+
+野猫可能是流浪猫、野猫、或者是被遗弃的家猫的后代，通常都已经错失了和人类正确相处的关键“社会化时期”
 
 They should not be confused with stray cats which were raised as pets but have since been lost or abandoned. Although stray cats can be scared of people due to their experiences, they can often be rehabilitated and go on to live life as a pet again. Sometimes farm kittens will have been handled and treated well by farm workers and children – enabling them to adapt to life in the home. These kittens would also not generally be considered feral. 
 
+野猫不等同于在走失或者是被遗弃的家猫。虽然流浪猫因为经历的原因可能会产生对人类的恐惧，但是通常情况下还是能够重新建立对人的信任，回归宠物生活的。有的在农场出生的幼猫由于接收了农场工人以及孩子的悉心照料，已经能够适应宠物猫的生活。这些幼猫也不应该看做是野猫。
+
 This means that cats that haven’t become dependent on people can live well in the wild, as long as they have all the things they need. See Cats Protection’s Essential Guide: Cats and people for further information. 
 
-How do feral cats survive? 
+野猫就是那些并不依赖人类，能够自己在野外活得很好，能够自己获取所有需求的猫。更多信息可以参见猫咪保护基本指导之猫和人类篇。
+
+How do feral cats survive? 野猫生命力如何？
 
 Cats are extremely resourceful creatures and can adapt to many different habitats. 
 
+猫是一种适应力极强的生物，能够适应很多种不同的环境。
+
 Unlike pet cats which often don’t get on with other felines, feral colonies will often naturally develop. These are usually made up of groups of related females and the size of the colony is directly related to the availability of food, water and shelter. 
+
+与宠物猫经常不能适应其他猫不同的是，野猫群落会不断扩张。野猫群落通常由有关联的母猫构成，其规模取直接取决于食物、水源、栖息地的状况。
 
 Cats within the colony recognise each other by sharing their scent through rubbing against each other. Although they appear close, they are not completely reliant upon each other and will hunt and eat alone. If an unfamiliar cat intrudes on their territory, they will soon see it off.
 
+在一个群落的猫会互相摩擦来共享气味，便于互相识别。虽然它们看起来很亲近，但是并不是完全依赖彼此，通常会独自狩猎和进食。如果一个陌生的猫进入了它们的领地，它们会很快把入侵者赶走。
+
 Feral cats are not always found in colonies – some will live a solitary lifestyle. 
 
-Caring for feral cats 
+野猫并不全是群居，也有独自过活的。
+
+Caring for feral cats 野猫的护理
 
 Some people view feral cats as pests. Thankfully, many more – particularly farmers, stable owners and smallholders – value them for their role as working mousers that protect grain and feed. A healthy feral colony can really help to keep the vermin levels down. 
 
+很多人会将野猫看做宠物。幸亏很多人尤其是农场主、业主以及小农将其看作是保护庄稼的捕鼠能手。一个正常的野猫社群确实能够将鼠患压制住。
+
 Despite their wild nature, feral cats still benefit from a certain level of care, including: 
 
-Neutering 
+有别于它们的天性，野猫在以下方面可以享受到人类的关怀：
+
+Neutering 绝育
 
 This has major health benefits and keeps the colony size under control. Feral cats will need to be trapped in a humane cat-trap before they are neutered because they are too wild to be handled. Once a feral cat is sedated or under anaesthetic, the vet can give it a health check and treat it for parasites. After neutering the cat is released back into its territory as quickly as possible – this is so the cat does not lose the communal scent and end up being rejected by other cats in the colony. 
 
-Regular feeding 
+绝育能够带来健康上的好处，也能够帮助控制群落的规模。野猫很难被抓住，因而需要用人工制作的捕猫器抓住后进行绝育。当野猫被注射镇定剂，或者是被麻醉之后，兽医就会对其进行体检驱虫。绝育过后，野猫就会尽快被放回其领地，以免其身上的族群气味丧失，导致被族群排斥。
+
+Regular feeding 定期喂食
 
 Many feral cats are very resourceful and find adequate food, but it may be helpful to offer them extra help, especially in winter. Only offer food if the feral cats have been neutered. This is important because feeding unneutered cats increases the number of kittens that are born. It is also not in any cat’s interests to become fat and this is particularly true of feral cats as it affects their agility and chance of survival – so avoid overfeeding. Contrary to popular belief, regularly fed feral cats are better hunters than hungry ones. 
 
-Observation 
+很多野猫适应力很强，能够找到合适的食物。不过尤其是在冬天的时候，给予其额外的食物能够帮上忙。不过只有在野猫都进行过绝育之后才提供食物。这样才不会增加新生幼猫的数量。鉴于肥胖对于任何猫都没有好处，并且很可能会影响野猫的敏捷程度，甚至可能导致生存几率降低。尽量避免过量喂食。和主流认识相反的是，经常被喂食的猫相比较饥肠辘辘的猫，捕猎效率更高。
+
+Observation 保持观察
 
 It is helpful to observe colonies, so that any new unneutered, sick or injured cats can be promptly trapped and taken to the vet. Only minor ailments can be treated in feral cats and sometimes they have to be euthanased on welfare grounds if they have significant illness or injury. 
+
+保持对野猫群落的观察很重要，这样一旦有新的未绝育猫、病猫、受伤的猫出现，就能够及时捕获并且送到兽医处处置。
 
 
 What about Toxoplasmosis? 
