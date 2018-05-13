@@ -253,61 +253,44 @@ Many cats will enjoy going outside for part of the day and this gives them the o
 
 很多猫都会喜欢每天出门玩一会，这样它们绝佳的感官就会被充分利用来探索新的事物。外出同样给与猫精神上的愉悦并且避免它的焦虑紧张。如果你把猫完全养在室内，你需要想办法避免它的无聊产生相关的行为问题。参见猫咪保护基本指导之室内室外猫篇。
 
-Interacting with your cat and body language 
+Interacting with your cat and body language 和你的猫互动，以及猫的身体语言
 
-Cats like quite brief, low intensity but frequent interactions. When cats that get along greet each other, it tends to be a brief head rub. Unfortunately, humans are the opposite! Our interactions are generally less frequent, but when we have them, they are generally of high intensity and prolonged. This can sometimes be a source of confusion between cats and their owners. 
+Cats like quite brief, low intensity but frequent interactions. When cats that get along greet each other, it tends to be a brief head rub. Unfortunately, humans are the opposite! Our interactions are generally less frequent, but when we have them, they are generally of high intensity and prolonged. This can sometimes be a source of confusion between cats and their owners. 、
+
+猫偏好简短、高频率的互动。不同的猫打招呼的时候通常只会是简单地蹭蹭头。不幸的是，这和人通常的互动方式恰恰相反。人类的互动通常是低频、高强度、长时间的。这种区别有的时候会造成猫和人之间的误解。
+
 Cats can get quite stimulated or excited when they are playing or in ‘hunting mode’ and it’s generally not advisable to touch any cat in this state. Even when touching a calm, relaxed cat, there are many places on the body that are quite vulnerable or sensitive. While there are always exceptions, as a general rule, many cats don’t like to be touched in these places: 
 
+猫在玩耍或者处在“狩猎模式”的时候可能会相当兴奋。这时不建议继续和猫互动。即便是触摸一个安静放松的猫，也有很多身体上的敏感部位。通常情况下，猫不喜欢被触摸以下部位：
+
 . belly – which for some cats can include their sides and chest 
+· 肚子，有的猫还不喜欢被摸肚子侧面以及胸部
 
 . paws 
+· 爪子
 
 . under legs – ie armpits 
+· 腋下
 
 . legs – trousers – back legs 
+· 后腿
 
 . stroking the fur against the normal direction 
+· 反方向抚摸它们的猫
 
 . bottom half of back – particularly if stiff or painful 
+· 后背部
 
 . base of tail 
+· 尾巴根部
 
 . genital area 
+· 生殖器部位
 
 
 Learning to understand your cat by reading their body language is a fascinating part of owning a cat and it can improve the relationship between you. Cats can be very subtle in their body language and can be difficult to ‘read’ as they have not evolved the many visual communication signals that are seen in social species, like dogs. Spend time watching your cat – see how they move and interact with their environment, their facial expressions, body postures and vocalisations in different situations – and you can start to build a picture of how your cat is feeling. Here are a few common body postures to give you clues about your cat’s mood: Often starts with a tail up greeting, rubs its head and side of their body around your legs and sometimes may roll over onto their side to show their belly. 
 
+学会观察猫的肢体语言可以说是养猫的乐趣之一。猫的肢体语言可能很微妙，并且由于并不像狗一样进化出视觉上的沟通方式，可能会很难理解。你需要花时间观察猫，观察它是如何移动、如何和环境互动的、面部的变化、肢体的动作以及不同情况下的叫声变化。这样你就能够大概了解猫的情绪如何。以下是一些猫通用的肢体语言供参考。猫通常都会竖起尾巴打招呼、用头以及身体侧面摩擦你的腿，并且有时候会侧躺露出肚皮朝向你。
 
-Tail up and  Relaxed,  relaxed, ears  friendly cat  
-facing forwards,  showing  often walking  greeting  towards you.  behaviour.  
 
-Relaxed, friendly cat showing greeting behaviour, often seen after a period of separation. 
-
-Let them sniff your hand and if you are familiar with the cat, you may want to stroke their head and along their back. 
-Cats that roll on to their side or back and expose their belly are communicating that they feel relaxed enough in the person’s presence to expose such a vulnerable area. The best response is to verbally acknowledge the cat’s greeting, rather than stroke or tickle their tummy. 
-
-Lying outstretched on their side with their paws stretched out in front of them, often with a sleepy look on their face as their eyes may be half closed or blinking. 
-
-In a crouched position with tail tucked around or under their body and muscles tense. Their eyes may be darting about and ears back or moving listening to sounds around them. 
-
-Relaxed and contented cat. Some cats may sleep in this position, especially if they have found a sunny spot! 
-
-Cat is anxious and may be looking for a place to hide, to run away and get up high. 
-
-If they are awake, let them sniff your hand and then give them a brief rub on the head. If they look sleepy, then leave them to get some rest. 
-
-Make sure they have an escape route and somewhere that they can hide and get up high if they want to. It is best to leave them alone and not try to interact with them. 
-
-In the ‘Halloween cat’ stance with an arched back, bushy tail and fur standing up to make themselves look bigger. Their eyes look huge as their pupils are dilated and ears are flattened against their head. 
-
-Very fearful cat that feels threatened or cannot escape. They may hiss or spit as a warning to stay back. Be careful as they may attack defensively as a last resort. 
-
-Make sure they have an escape route and a hiding place or a high spot to retreat to. Do not approach or touch a cat that is feeling fearful. 
-
-For further information, please see Cats Protection’s Essential Guide: Managing your cat’s behaviour. 
-
-Learn more about your cat online! 
-Take a look at our free interactive tool to help you 
-understand cats’ origins and their behaviour within our 
-homes. http://learnonline.cats.org.uk/content/ufo 
 
