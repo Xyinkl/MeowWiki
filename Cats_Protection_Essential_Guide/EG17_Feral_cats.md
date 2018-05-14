@@ -77,23 +77,36 @@ Observation 保持观察
 
 It is helpful to observe colonies, so that any new unneutered, sick or injured cats can be promptly trapped and taken to the vet. Only minor ailments can be treated in feral cats and sometimes they have to be euthanased on welfare grounds if they have significant illness or injury. 
 
-保持对野猫群落的观察很重要，这样一旦有新的未绝育猫、病猫、受伤的猫出现，就能够及时捕获并且送到兽医处处置。
+保持对野猫群落的观察很重要，这样一旦有新的未绝育猫、病猫、受伤的猫出现，就能够及时捕获并且送到兽医处处置。野猫只有患上较轻的病症会进行医治，如果伤势或者病情过于严重，出于对猫生活质量的考虑，通常会进行安乐死。
 
 
-What about Toxoplasmosis? 
+What about Toxoplasmosis? 关于弓形虫?
 
 Some farmers may be concerned that feral cats could be the source of a parasite called Toxoplasma, which can cause miscarriage in ewes. Although cats can catch Toxoplasmosis, they quickly become immune, just two weeks after being infected. Cats catch Toxoplasmosis from eating infected raw meat or rodents. The only way the disease can be transmitted is if the ewe takes in the infected cat’s faeces in its feed or water – so the risk to sheep is very is extremely low. Vets agree that there is no risk to non-pregnant, healthy sheep. 
 
+有的农民可能会担心野猫可能带来一种叫做弓形虫的寄生虫，可能导致母绵羊的流产。尽管猫能够感染弓形虫，但却能在感染后两周就很快完成免疫。猫通过食用被感染的生肉以及鼠类感染弓形虫。唯一能够让绵羊感染弓形虫的途径就是让其通过饮水或者是饲料摄入被弓形虫感染的猫的粪便。可以说对绵羊的危害相当低。兽医们的共识是弓形虫对于健康的未怀孕的绵羊没有危害。
+
 A healthy, stable colony of neutered cats is at much lower risk of Toxoplasmosis than allowing a breeding colony which continually produces vulnerable kittens. 
+
+一个健康的稳定的全部绝育的野猫群落相比较于没有完全绝育的群落有着更低的感染弓形虫的风险。因为后者会经常性的产生脆弱的幼猫。
 
 A further risk of Toxoplasma to sheep arises from other cats or kittens moving in. A feral colony will guard their territory so instead of maintaining a cat-free area, a healthy neutered feral colony is more likely to naturally keep such outsiders away. See Cats Protection Veterinary Guide: Cats and pregnant women – Toxoplasmosis for further information on this parasite. 
 
-Why not just remove feral cats? 
+弓形虫的风险会伴随着其他的猫和幼猫而来。一个野猫群落会守卫自己的领地。所以严禁猫进入还不如保持一个良性健康的全部绝育的野猫群落，以此来杜绝其他入侵者带来的风险。更多关于弓形虫的信息请参阅猫咪保护医学指导之猫和孕妇-弓形虫篇。
+
+Why not just remove feral cats? 为什么不干脆消灭野猫？
 
 Catching and removing feral cats may temporarily reduce the numbers, but this leads to what is known as the ‘vacuum effect.’ Any cats left behind will continue to breed and others will move into the area which is clearly a good source of food and shelter. The solution is to trap, neuter and return (TNR) the cats. Over a period of years this will reduce the size of the colony. A controlled, healthy and stable colony will deter other feral cats from moving in and will keep vermin levels down. 
+
+捉补并且去除野猫只能够短期减少野猫的数量，却会导致“真空效应”，也就是任何在搜捕中幸存的野猫包括其他地方的野猫，都会充分利用充足的资源和住处在这片区域继续繁衍。所以对野猫的策略是“诱捕-绝育-放归”。经过几年的时间，野猫群落的规模就能够得到控制。受控、健康而稳定的野猫群落则会组织其他野猫的进入并抑制鼠患的发生。
+
 In very rare instances, relocation may be necessary but should generally be avoided. Relocation of feral cats is extremely stressful for them, as they become very dependent on the familiarity of their own environment. Feral cats should not just be released elsewhere, an appropriate habitat needs to be found and the cats need a period of adjustment while they learn where they can find food and shelter. 
 
+在很特殊的情况下，对野猫的重新安置也是一个选项，不过通常都不会被采用。重新安置对特别依赖环境的野猫来说是压力巨大的。野猫不应该被立刻释放到某个地方，而是应该在一个适宜的地方，给它们一个适应期，让它们学会在何处能够找到食物的住所。
+
 Remember, cats are protected by law and killing a cat constitutes an offence. 
+
+记住，猫是收到法律保护的。杀害一只猫是违法行为。
 
 How can Cats Protection help? 
 
