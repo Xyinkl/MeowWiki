@@ -108,19 +108,33 @@ Remember, cats are protected by law and killing a cat constitutes an offence.
 
 记住，猫是收到法律保护的。杀害一只猫是违法行为。
 
-How can Cats Protection help? 
+How can Cats Protection help? CAT PROTECTION做了什么？
 
 Adult feral cats cannot be tamed or rehomed in the domestic environment as they are wild animals. 
 
+成年的野猫是野生动物，不能够被驯服也不能被安置到人类家中。
+
 Cats Protection may be able to set up humane traps – similar to cages – and safely capture feral cats and take them to be neutered. This is mainly done during the evening and the traps are collected quickly to minimise stress to the cat. 
+
+CP会设置人造捕猫器（笼子一样的器具），能够安全的捕获野猫并将其带去绝育。这项工作通常在晚上进行，捕猫器会很快回收，这样不会给猫带来太大的恐慌。
 
 The trapped cats are taken swiftly to a veterinary surgery to be neutered, a straightforward procedure which will prevent the cat from breeding. At the same time, they will also have their ear ‘tipped’ – where between half and one cm of the tip of the left ear is removed under anaesthetic. This serves as a permanent visual mark from a distance to show the cat has been neutered, to prevent the same cat being trapped for neutering in future. After neutering, the cats will be returned back to their territory. 
 
+被捉到的猫将会被立刻带去兽医机构进行绝育，这样野猫便不能再繁殖。同时，野猫同样会在麻醉状态下被人在耳朵上离边缘1.5厘米处打洞做标记。这一永久的标记使得这只猫不会再之后被捕获并再次进入绝育流程。绝育过后，野猫便会被放回其领地。
+
 Trapping and neutering a large feral colony can take weeks and regular monitoring is needed to make sure that no cats are missed. Ideally, any breeding females are trapped and neutered first, to avoid growth in colony size while the process is taking place. 
+
+捕获并绝育一个大群落的野猫可能花费数周，还需要经常监控群落保证没有落网之猫。理想情况下，在发情期的母猫优先被捕获并且进行绝育，这样能够在总的进程下尽量减少野猫群落的扩张。
 
 Very young feral kittens can sometimes be socialised with humans through gentle handling and positive experiences before they become too fearful of people. However, genetics also plays a role in the confidence and friendliness of cats, and it can sometimes be better for the welfare of feral kittens for them also to be neutered and returned to the wild.
 
+很小的野猫有的时候可能会被人工进行“社交化”,给予其轻柔的触碰以及正向的体验来减弱它们对人类的畏惧。无论如何，基因仍然在猫的性格形成上起了很大作用，有时为了野生幼猫的生活质量还是建议对其进行绝育后放归自然。
+
 Responsible ownership and timely neutering is important, as feral colonies originate as the offspring of unneutered stray or abandoned domestic pet cats. Financial assistance from Cats Protection may be available to help with neutering. For more information, see Cats Protection’s Essential Guide: Neutering – family planning for felines. 
 
+鉴于野猫群落起源于未经绝育的流浪猫或者是遗弃猫，负责任的照顾以及准时的绝育很重要。CP可以提供对宠物猫绝育的经济援助。需要更多信息，请参加猫咪保护基本指导之绝育篇。
+
 If you are a landowner seeking advice about feral cats on your land, you are worried about the welfare of a feral colony, or you have the ideal habitat to offer a feral cat an outdoor home, please call Cats Protection’s National Helpline on 03000 12 12 12 or get in touch with your local Cats Protection branch. 
+
+如果你是农场主，需要咨询关于自己土地上野猫的一些问题。或者你担心野猫的生活质量。亦或是你有给予野猫一个合适的栖息地。那么你都可以致电CP的全国热线03000 12 12 12，你也可以与当地的CP分部取得联系。
 
