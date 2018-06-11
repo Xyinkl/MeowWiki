@@ -7,17 +7,26 @@
 @(Evernote)[计划, 翻译, 猫]
 
 Managing your cat’s behaviour 
+管理猫的行为
 
 
-Ain’t misbehaving 
+Ain’t misbehaving 没有什么行为是错误的
 
 Cats which are nervous, aggressive or act in what we consider is an inappropriate way – such as spraying indoors – behave that way for a reason. These ‘misbehaviours’ are usually signs that something – from the cat’s perspective, at least – is very wrong. Punishing your cat will only make matters worse. It often helps to consider the cat’s normal behaviour, needs and motivations – see Cats Protection’s Essential Guide: Understanding your cat’s behaviour. Also don’t forget that owners and carers of cats have a legal duty of care to ensure their needs are met, which includes their need to exhibit normal behaviour patterns. 
 
+猫之所以会表现出紧张、攻击性强，甚至是做出室内随便撒尿等被我们认为很不好的行为都是有原因的。这些出格行径通常意味着，从猫的角度来说，有些事情是不对的。一味惩罚你的猫只会让事情更糟糕。
+从猫的行为、需求以及驱动上考虑问题通常会很有帮助，具体可以参见猫咪保护基础指导之理解猫的行为。同样，你也需要时刻铭记的是，作为主人和猫的护理者，你需要确保它们的需求得到满足，这些需求包括它们释放天性的那些。
+
 If your cat starts to do something that is out of character, the first thing you should always do is book them in for a heath check with your vet to rule out any medical problems that could cause this behaviour. Medical disorders are very common causes of behavioural issues, even if the link is not immediately apparent. Always discuss the cat s behaviour and all your observations and concerns with the vet. 
 
-Signs of pain 
+如果你的猫出现了任何的出格行为，你需要做的第一件事就是和兽医约定给猫做一次体检，以确保不是因为健康因素造成的这些行为异常。健康问题是导致行为异常的很常见的原因，即便有些时候相对隐蔽。你需要经常和兽医交流你观察到的猫的行为，以及对此产生的忧虑。
+
+Signs of pain 疼痛的症状
 
 Cats are very subtle when it comes to showing pain and they will do their best to hide it. They are more likely to show slight changes in lifestyle or behaviour than they are to show a limp, for example. There are many different medical problems that cause discomfort and varying intensities of pain. Keep a close eye on your cat and if you notice any change in their behaviour, take them to the vets for a health check. Treating pain can really improve their quality of life. 
+
+猫是非常善于隐藏疼痛的动物。举例来说，腿部有恙，它们可能不会表现出任何变化，而不是立刻变的一瘸一拐。很多不同的健康问题都会带来不适甚至是不同程度的疼痛。随时关注猫的一举一动，如果注意到行为的变化，就需要带他们去兽医那里做个体检。止痛能够很大程度上提升它们的生活品质。
+
 Signs of pain include: 
 
 . becoming more withdrawn or hiding more than usual 
