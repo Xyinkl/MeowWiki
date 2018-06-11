@@ -28,34 +28,49 @@ Cats are very subtle when it comes to showing pain and they will do their best t
 猫是非常善于隐藏疼痛的动物。举例来说，腿部有恙，它们可能不会表现出任何变化，而不是立刻变的一瘸一拐。很多不同的健康问题都会带来不适甚至是不同程度的疼痛。随时关注猫的一举一动，如果注意到行为的变化，就需要带他们去兽医那里做个体检。止痛能够很大程度上提升它们的生活品质。
 
 Signs of pain include: 
+疼痛的症状包括以下：
 
 . becoming more withdrawn or hiding more than usual 
+· 和平常相比，更为畏惧躲藏。
 
 . sleeping more than usual, especially in one place, or slowing down 
+· 通常在某个地点，较平时更为嗜睡。也可能变现为行动迟缓
 
 . becoming less tolerant of people, or being handled 
+· 变的不能接受人的抚摸
 
 . aggressive behaviour 
+· 进攻性行为
 
 . hesitating or becoming more reluctant to jump up or down from furniture for example, or go through the cat flap 
+· 犹豫、抗拒跳上/下家具，或者是通过猫活页门。
 
 . being stiff after resting, or showing a preference for using a particular leg when going up and down stairs 
+· 在休息过后变的行动不灵活，或者上下楼梯表现出对某一只腿的偏重。
 
 . crouching in a hunched up position with squinty eyes 
+· 弓腰蜷起身体， 目光斜视。
 
 . playing less, or reduced interaction with an owner 
+· 活动量减少，或者是和主人的互动减少
 
 . reduced eating or drinking 
+· 拒绝进食或饮水
 
 . increased anxiety or fear 
+· 焦虑或恐惧加剧
 
 . sleep disturbance 
+· 睡眠紊乱
 
 . pacing, circling or restlessness 
+· 来回走动、转圈或者是躁动不安
 
 . a scruffy or matted coat, particularly in hard to reach areas 
+· 尤其在难以舔到的区域，被毛脏、打结
 
 . vocalisation, especially when moving or using the litter tray 
+· 在走动或者是使用猫砂
 
 . not using the litter tray . over-grooming 
 
