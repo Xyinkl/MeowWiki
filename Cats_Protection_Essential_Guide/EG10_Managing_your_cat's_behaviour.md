@@ -142,11 +142,23 @@ Shy, nervous or timid cats
 
 While most cats settle into new homes quickly, some remain fearful despite a gentle welcome and time to settle in. Don’t be too disappointed if your shy or timid cat tries run away and hide from you. Showing patience and sensitivity will go a long way to ensure that you have a happy and extremely rewarding relationship with your cat. 
 
+尽管大部分猫能够很快适应新的环境，有些猫可能在被给予妥善的安置足够的时间后仍不能安定下来。如果你的猫腼腆害羞，躲着不肯见你，不要感到失落。保持耐心和敏感度，这样能够最大程度上确保你和你的猫会最后达成友好的关系。
+
 Why is my cat so timid? 
+我的猫怎么这么腼腆？
 
 Timid behaviour could be due to: 
+腼腆的行为可以是因为：
 
-genetics – an inherited tendency. Some cats are naturally more anxious than others poor socialisation – a lack of contact with humans, particularly during their first eight weeks of life. If young kittens are not properly socialised with people, they will be frightened or stressed by human contact bad experiences – a previous frightening experience that has made the cat fearful 
+genetics – an inherited tendency. Some cats are naturally more anxious than others 
+基因 - 遗传倾向。有的猫天生就比其他猫更加焦虑
+
+poor socialisation – a lack of contact with humans, particularly during their first eight weeks of life. If young kittens are not properly socialised with people, they will be frightened or stressed by human contact 
+糟糕的早期遭遇 - 尤其是在初生的前八周没能够和人类形成良好的互动。如果你的猫没有适应人类的接触，它们就很可能被人类吓到，引发焦虑。
+
+bad experiences – a previous frightening experience that has made the cat fearful 
+糟糕的后期经历 - 一些不好的受惊吓的经历会让猫畏惧人类。
+
 
 What are the signs of shyness, nervousness or timidity? 
 
