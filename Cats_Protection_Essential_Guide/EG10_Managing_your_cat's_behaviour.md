@@ -161,8 +161,11 @@ bad experiences – a previous frightening experience that has made the cat fear
 
 
 What are the signs of shyness, nervousness or timidity? 
+猫的内向、害羞、腼腆体现在？
 
 As cats cannot tell us how they feel, it can be difficult to recognise that your cat wants you to move away. Signs of fear include running away and retreating to hiding places. A scared cat will show dilated pupils and/or flattened ears and will cringe and cower from you. 
+
+
 
 This fear can develop into aggressive behaviour – where your cat adopts ‘fight’ as a tactic instead of ‘flight’ as a last resort. Usually aggression develops because the cat feels cornered or trapped, or because they have previously learned that flight is unsuccessful. Avoid putting your cat into this situation and ensure they can always get away easily if they want to. 
 
