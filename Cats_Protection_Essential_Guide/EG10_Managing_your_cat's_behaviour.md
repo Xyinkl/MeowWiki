@@ -106,27 +106,39 @@ Signs to look out for include:
 · 在路过窗台、家具、猫砂盆、猫门甚至是你的大腿的时候变的很犹豫抗拒。
 
 . crouching in a hunched up position with squinty eyes, some cats will cringe away from you if you try to approach 
+· 蜷缩身体、瞪大双眼，有的猫可能会对你的靠近感到畏惧蜷缩
 
 . a reduction in play behaviour and interaction with owners 
+· 玩耍减少并且和主人的互动减少
 
 . eating or drinking less . overeating 
+· 饮食减退或者突增
 
 . increased anxiety or fear 
+· 焦虑加剧或者恐惧加剧
 
 . sleep disturbance 
+· 睡眠障碍
 
 . pacing, circling or restlessness 
+· 来回乱窜、绕圈，焦躁不安
 
 . a scruffy or matted coat 
+· 不干净或者打结的皮毛
 
 . house soiling 
+· 弄脏房间
 
 . over-grooming 
+· 过度舔毛
 
 
 Many of the signs listed for pain and stress could also be due to many other medical conditions or behavioural problems. Always see your vet if you notice any changes in your cat. 
 
+以上很多症状都可能是由健康因素或者是行为问题导致。一旦发现你的猫有不寻常的变化，请联系兽医咨询。
+
 Shy, nervous or timid cats 
+害羞、腼腆的猫
 
 While most cats settle into new homes quickly, some remain fearful despite a gentle welcome and time to settle in. Don’t be too disappointed if your shy or timid cat tries run away and hide from you. Showing patience and sensitivity will go a long way to ensure that you have a happy and extremely rewarding relationship with your cat. 
 
