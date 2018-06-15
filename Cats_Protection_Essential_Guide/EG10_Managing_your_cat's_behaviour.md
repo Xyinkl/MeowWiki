@@ -70,28 +70,40 @@ Signs of pain include:
 · 尤其在难以舔到的区域，被毛脏、打结
 
 . vocalisation, especially when moving or using the litter tray 
-· 在走动或者是使用猫砂
+· 在走动或者是使用猫砂时候喃喃低语
 
 . not using the litter tray . over-grooming 
+· 不使用猫砂或者是过度的梳毛
 
 . some cats will purr when in pain 
+· 有的猫会在疼痛时候打呼噜
 
 
 
-Signs of stress 
+Signs of stress 焦虑的表现
 
 Cats express signs of stress in a subtle way making it very difficult to tell when a cat is stressed. There are many reasons why it can occur. Stress as an immediate response to a threat is healthy as it enables the cat’s ‘flight or fight’ response and allows them to get away quickly. However, ongoing stress can be harmful for your cat’s wellbeing. 
 
+猫在焦虑情况下并不会便显出很明显的特征，这使得分辨其焦虑与否相当困难。焦虑的原因可以有很多。焦虑本身能够起到风险预警防御的作用，是面对威胁的良性反应。但是持续的焦虑可能对猫就会有不良的影响了。
+
 A few reasons cats get stressed include moving house or a change in routine such as redecorating or getting new furniture. It can also occur if the litter tray and food bowls are in unsuitable locations, or there aren’t enough. Unfamiliar people visiting the house and the introduction of a new pet, baby or child partner can be a trigger. A cat may be bullied or intimidated by neighbouring cats or even the other resident cats they live with. 
 
+有一些因素会使得猫产生焦虑，这些因素包括搬家、重新装修或者是添置家具。有时因为猫砂盆以及食碗摆放的位置不合适或者不够也会造成猫的焦虑。 同样，陌生人的来访或者是新宠物、新生儿或者儿童的加入都会是焦虑的导火索。猫可能会被邻居的猫甚至是同在一起生活的猫欺负威胁。
+
 Signs to look out for include: 
+需要注意的症状包括：
+
 . becoming more withdrawn or hiding more than usual 
+· 更为内敛，跟平常相比更喜欢藏起来。
 
 . appear to be sleeping more, some cats will actually pretend to be asleep while trying to monitor the cause of the stress 
+· 睡眠增多，有的猫实际上是装睡的同时在监控使其焦虑的事物。
 
 . becoming less tolerant around people or being handled 
+· 被人类抱起时候会感到很不耐烦。
 
 . hesitating or becoming more reluctant to use important resources such as window sills, furniture or your lap, using the litter tray or going through the cat flap 
+· 在路过窗台、家具、猫砂盆、猫门甚至是你的大腿的时候变的很犹豫抗拒。
 
 . crouching in a hunched up position with squinty eyes, some cats will cringe away from you if you try to approach 
 
