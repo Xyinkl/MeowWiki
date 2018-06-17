@@ -165,34 +165,58 @@ What are the signs of shyness, nervousness or timidity?
 
 As cats cannot tell us how they feel, it can be difficult to recognise that your cat wants you to move away. Signs of fear include running away and retreating to hiding places. A scared cat will show dilated pupils and/or flattened ears and will cringe and cower from you. 
 
-
+由于猫不能表达它的感受，所以可能很难分辨猫是不是讨厌你。猫害怕的特征体现在跑开、退缩回隐藏的处所。受惊的猫会表现瞳孔放大、耳朵放平，并且蜷缩身体畏缩远离你。
 
 This fear can develop into aggressive behaviour – where your cat adopts ‘fight’ as a tactic instead of ‘flight’ as a last resort. Usually aggression develops because the cat feels cornered or trapped, or because they have previously learned that flight is unsuccessful. Avoid putting your cat into this situation and ensure they can always get away easily if they want to. 
 
+这种恐惧可能会演变为攻击性行为，也就是猫选择用“战斗”替代“逃跑。猫通常会在感到被围困时候表现出攻击性行为，有时也可能是之前的经历告诉”逃跑“没有好后果。你需要做的是，避免让猫感到被围困，并且确保它想逃离的时候能够轻易逃跑。
+
 Managing shy cats 
+如何对待胆小的猫
 
 There are a number of things you can do to make your timid cat feel more secure. As long as your cat had some positive contact with people when they were a young kitten, with patience your cat will learn not to be afraid but you must take things slowly. It helps to: 
 
+有一些措施能够让你的猫感觉更为安全。只要你的猫在幼年时候和人类有正向的互动，耐心对待它这样就一定能消除恐惧。不过要注意的是，一定要放慢速度。
+
 . provide plenty of refuges for your cat around the house. Cats de-stress quicker if they can hide, preferably in high and dark locations eg behind sofas and under beds. A cardboard box on its side or blankets placed on shelves or wardrobes can help your cat feel safe 
+
+· 在屋子里放置足够多的藏匿所。如果能够藏起来，猫会很快从焦躁状态下平复。藏匿所通常是高且昏暗的地点，比如沙发背后或者是窗下。一个纸箱或者是挂在碗柜、书架上的毯子都能够让你的猫感到安全。
 
 . ensure other neighbouring cats cannot enter the house through the cat flap or open windows. Be vigilant to make sure your cat is not being bullied in the garden or intimidated by other cats through the windows, conservatory or patio doors 
 
+· 确保邻居的猫不能够通过活页门或者是敞开的窗户进入到你的猫的领地。对你的猫是否被从窗户、排暖风道、露台进来的猫欺负保持关注。
+
 . keep all your daily routines consistent where possible. This provides a predictable, reassuring environment for your cat 
+
+· 尽量保持作息一致，这样会为你的猫提供一个可以预测、令其安心的环境。
 
 . use synthetic scent pheromones – these can create a reassuring environment for the cat and may help to reduce stress – they are available from your vet 
 
+· 使用合成气味费洛蒙来创造令猫安心的环境，减轻它的焦虑。你可以联系兽医获取费洛蒙。
+
 . sit quietly in your cat’s vicinity to allow them to get used to you in their own time. Ignore them while you read a book or take a nap so that they don’t feel pressurised or anxious about your presence. Do it while they are eating or provide a small treat so they associate your presence with something positive. The time you spend near them can very gradually be built up as they adjust 
+
+· 在猫附近静静的坐着，让它们习惯了你的存在。在读书或者是睡觉的时候不理会它们，这样它们不会因为你的出现而感到焦虑或者是有压力。你可以在它们吃饭时候这样做，或者是在出现的同时给它小点心，这样能够建立正向的反馈。你和它们的呆在一起的时间可以随着它们逐渐适应而加长。
+
 
 . let your cat make the first move – direct approaches are extremely threatening so don’t force attention on your cat 
 
+· 让你的猫掌握主动——径直靠近一只猫对其是很有压迫的，所以不要强迫它。
+
 . blink slowly at your cat, narrow your eyes so they are half open and then turn your face away slowly to reassure your cat that you are not a threat 
 
-
+· 对你的猫缓慢的眨眼睛。眯起你的眼睛保持半张的状态，缓慢移开你的脸这样猫才不会把你当作是威胁。
 
 As your cat becomes braver, try: 
+如果你的猫胆子大一点了， 你可以尝试：
+
 . talking to your cat quietly in a calming tone – it is a great way to bond 
 
+· 和你的猫用轻柔的语调低语，这样能很好建立联系。
+
 . rewarding your cat with a treat when they approach you – at first, give the treat as soon as your cat approaches but gradually increase the time between the approach and the treat. Over a period of weeks, work up to being able to calmly stroke your cat once or twice before giving the treat 
+
+· 一旦你的猫走向你，可以给它零食奖励。一开始要在它走向的的同时尽快给零食，之后则推迟给零食的时间，几周过后，试着在给猫零食之前挠挠它们的头。
 
 . using small toys you can gently throw for them, such as ball of foil, scrunched up paper or ping pong ball. Fishing rod toys allow the cat to interact without them feeling threatened by close contact 
 
