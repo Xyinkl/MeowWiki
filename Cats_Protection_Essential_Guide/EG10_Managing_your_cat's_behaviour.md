@@ -216,66 +216,118 @@ As your cat becomes braver, try:
 
 . rewarding your cat with a treat when they approach you – at first, give the treat as soon as your cat approaches but gradually increase the time between the approach and the treat. Over a period of weeks, work up to being able to calmly stroke your cat once or twice before giving the treat 
 
-· 一旦你的猫走向你，可以给它零食奖励。一开始要在它走向的的同时尽快给零食，之后则推迟给零食的时间，几周过后，试着在给猫零食之前挠挠它们的头。
+· 一旦你的猫走向你，可以给它零食奖励。一开始要在它走向你的同时尽快给零食，之后则推迟给零食的时间，几周过后，试着在给猫零食之前挠挠它们的头。
 
 . using small toys you can gently throw for them, such as ball of foil, scrunched up paper or ping pong ball. Fishing rod toys allow the cat to interact without them feeling threatened by close contact 
 
+· 你可以把小的玩具（比如毛线团、揉成的纸团、或者是乒乓球）扔给它们。逗猫棒则可以在让猫不感到近距离威胁的同时让他们和你进行互动。
 
-Most importantly, never lose your temper or try to force your cat to interact too quickly as this will just reinforce their previous fears. Build on your successes gradually – eventually your cat will learn to trust you and will much happier. In some cases, you may find guidance from your vet or a suitably qualified behaviourist useful. 
+Most importantly, never lose your temper or try to force your cat to interact too quickly as this will just reinforce their previous fears. Build on your successes gradually – eventually your cat will learn to trust you and will be much happier. In some cases, you may find guidance from your vet or a suitably qualified behaviourist useful. 
+
+最重要的是，永远不要生气，不要试图强制性迫使猫和你快速的进行互动，这样只会加剧它们先天的畏惧。你需要一步一步来，直到你的猫能够信任你并且变的更加快乐。有时候，你可以向兽医或者是动物行为学家请教。
 
 Overcoming a cat’s shyness through patient handling and care often leads to an extremely rewarding and close relationship between owner and cat and is well worth the extra time and effort. 
 
+通过耐心的关爱来帮助猫克服害羞的性格，通常都会很有成效，能够在主人和猫之间建立亲密的关系，是完全值得你付出时间和努力的。
 
 
-Aggressive cats 
+Aggressive cats 具备进攻性的猫
 
 Cats are rarely aggressive towards humans but like all of us, they do have their limits. There are many different reasons for aggressive behaviour and sometimes it can be a combination of causes. Here are just a few examples: 
 
-Defensive/fear aggression –your cat will usually run from a perceived threat but may defend themselves if they can’t escape, or has previously learned that fleeing is unsuccessful. Play and petting aggression – cats generally prefer to have short but frequent interactions, which is normal in feline social etiquette. In contrast, people tend to interact less often but with more intensity. This can be a bit much for some cats and many have a limit when it comes to petting. Territorial aggression – usually occurs when two cats meet on disputed ground, or when one cat is passing through another cat’s territory. Pain-induced aggression – a cat suffering from pain will have drastically reduced tolerance levels and this is a very common reason for aggression. 
+猫很少会对人类发火，不过像人类一样，有时候也会忍无可忍。进攻性行为可能由多种因素引发，并且有的时候可能是多种因素综合的结果。以下是一些例子：
+
+Defensive/fear aggression –your cat will usually run from a perceived threat but may defend themselves if they can’t escape, or has previously learned that fleeing is unsuccessful. 
+
+防御性、畏惧性的进攻行为--你的猫在面对威胁的时候通常会选择逃跑，但如果无处可逃或者之前有过教训，也会选择自我防卫。
+
+Play and petting aggression – cats generally prefer to have short but frequent interactions, which is normal in feline social etiquette. In contrast, people tend to interact less often but with more intensity. This can be a bit much for some cats and many have a limit when it comes to petting. 
+
+因为玩耍以及爱抚造成的进攻行为--猫通畅喜欢简短、频繁的互动，这是猫科之间通常的社交规矩。与此相反，人类往往会倾向于长时间、低频率的互动，这样对某些猫会是一种压迫。也就是说，猫能够承受的爱抚也是由限度的。
+
+
+
+Territorial aggression – usually occurs when two cats meet on disputed ground, or when one cat is passing through another cat’s territory. 
+
+因为领地原因造成的进攻行为--这种情况通常发生在两只猫在某块地域相遇，或者是一只猫正在穿过另一只猫的领地。
+
+Pain-induced aggression – a cat suffering from pain will have drastically reduced tolerance levels and this is a very common reason for aggression. 
+
+因为疼痛导致的进攻行为--正在遭受病痛的猫的忍耐力会急剧缩减，这也是进攻行为的常见原因。
 
 Cats may be more inclined to show aggressive behaviour if they are: 
+
+猫在以下情况更容易表现出进攻行为：
+
 . kept indoors without stimulation, access to essential resources or an outlet for their hunting instinct 
+
+· 被关在家里，没有娱乐方式，不能出门释放狩猎本能，或者是不能获取到关键的资源。
 
 . young 
 
+· 幼猫
+
 . misunderstood by their owner 
+
+· 被主人误解
 
 . not neutered – see Cats Protection’s Essential Guide: Neutering – family planning for felines for more information 
 
+· 没有做过绝育 - 参见猫咪保护基础指导之绝育篇 - 猫科动物的人口控制方案。
 
 
 If you have any bites or scratches that break the skin, then clean the wound carefully and seek medical attention. 
 
-Spraying and house soiling 
+如果你被猫咬或者挠破了皮肤，你需要仔细清理伤口并且寻求医学处理。
+
+Spraying and house soiling 喷尿以及随处排泄
 
 Spraying – cats sometimes spray short bursts of urine on vertical objects outside to mark territory and leave information for themselves or other cats to ‘read’. If your cat starts to spray inside the home, then it is almost certainly a sign that all is not right in their world. 
 
+喷尿-猫有的时候会在外面垂直的物体上喷尿，来达到标记领地或者留下交流信息的目的。如果你的猫在家中喷尿，这通常意味着有些事变的不正常了。
+
 Urine spraying is a normal behaviour and can be performed by any cat, whether they are male or female, neutered or not. However, if your cat starts spraying indoors, it can indicate that they do not feel secure in their surroundings. 
+
+喷尿对于猫来说是很正常的行为，任何猫都可能发生，无论其性别、绝育与否。无论如何，如果你的猫在室内喷尿，这意味着它感到周围并不安全。
 
 Urine spraying is a completely different behaviour from normal toileting. When a cat goes to the toilet to rid the body of waste products, they will generally urinate from a squatting position and usually produce a large puddle of urine in a private or secluded area. In contrast, cats will spray urine in order to leave a specific ‘scent message’. When they spray, they will back up to a vertical surface in an open location and squirt a spray of urine from a standing position – sometimes while paddling with the back legs and quivering the tail. 
 
-Why does my cat urine spray? 
+喷尿和普通的上厕所不一样，是完全不同的行为。当一只猫需要排除身体产生的废物时，它会在隐蔽的地方蹲起身子、排出一摊尿液。与之不同的是，喷尿则意味着猫特意需要制造气味信息。当猫喷尿时，它们会背对一个垂直的平面，站着射出一道尿液，有的时候还会弓起尾巴，用后腿拍打尿液。
+
+Why does my cat urine spray? 为什么我的猫会喷尿？
 
 Urine spraying is a normal part of scent marking behaviour. Cats use scent to identify different areas in their territory – this provides them with a ‘scent map’ of their environment as they move around. For example, cats tend to rub their cheeks in the ‘core’ part of their territory where they feel safe and relaxed. In contrast, they use urine spray to mark areas of their territory where they feel threatened. It is thought that the scent deposited acts as a ‘reminder to self’ for the cat to be wary in that part of his or her territory. When the smell begins to fade, the cat will re-spray to top it up. 
 
+喷尿是进行气味标记的正常行为，猫利用气味在它的领地中区分不同范围。这样它就能利用“气味地图“分辨自己所在的区域。举例来说，猫会用脸颊摩擦领地中让它感到安全放松的核心区域。于此相反的是，它会在自己感受到威胁的区域用喷尿的方式做标记。这种气味被认为是猫给自己设置的”警惕信息“。当这种气味开始消散的时候，猫会重新喷尿来维持气味。
+
 Why is my cat urine spraying indoors? 
+为什么我的猫在室内喷尿？
 
 Cats may spray indoors when they are: 
+猫在以下情况中可能会在室内喷尿：
 
 . ill 
+· 生病
 
 . stressed by a perceived threat 
+· 来自已经感知到的威胁的压力
 
 . stressed by changes in the household eg new baby or building work 
+· 因为家庭中变化、新生儿、建筑施工而带来的压力
 
 . threatened by other cats coming into the household, or by cats in the surrounding neighbourhood – this is the most common reason 
+· 被新来的猫威胁，或者是被隔壁的猫威胁。这个原因最为常见。
 
 
 Often there is a combination of factors that have led to the development of urine spraying. In some cases, the behaviour can start for one reason and develop or change due to other causes. For example, many owners punish their cat for spraying in the house – this tends to make the cat more anxious and more likely to spray. The best thing you can do is identify what is worrying your cat and address it. 
 
-What can I do if my cat sprays indoors? 
+通常来说，喷尿都是很多因素渐进组合的结果。在某些案例中，这种行为可能因为某些原因开始，又因为其他原因而改变或者是加剧。举例来说，很多主人会因为猫在家中喷尿而惩罚猫，这样会使得猫更加焦虑，也更容易喷尿。你能做的最恰当的应对，就是找出造成猫焦虑的原因，并且解决它。
+
+What can I do if my cat sprays indoors? 如果猫在室内喷尿，我应该怎么做？
 
 If your cat has suddenly started spraying indoors, you should take your cat to have a health check with your vet to ensure there is no underlying medical cause for the behaviour. If the vet deems your cat is healthy, the next stage is to find out what the cat finds threatening and then take action to stop it. This process can be quite complicated, as there are often many factors involved. It is best to ask your vet to refer you to a suitably qualified behaviourist 
+
+
 
 Sometimes, spraying can be more easily linked to a specific change in the environment. For example, the addition of a new cat to the household can threaten resident cats and induce spraying. Clues about why your cat has started spraying can be ascertained from the location of the marks, because these will be left specifically where they feel anxious. 
 
