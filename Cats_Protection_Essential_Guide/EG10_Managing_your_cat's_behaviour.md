@@ -327,15 +327,21 @@ What can I do if my cat sprays indoors? 如果猫在室内喷尿，我应该怎�
 
 If your cat has suddenly started spraying indoors, you should take your cat to have a health check with your vet to ensure there is no underlying medical cause for the behaviour. If the vet deems your cat is healthy, the next stage is to find out what the cat finds threatening and then take action to stop it. This process can be quite complicated, as there are often many factors involved. It is best to ask your vet to refer you to a suitably qualified behaviourist 
 
-
+如果你的猫突然出现了在室内喷尿的行为，你应该首先带它到兽医处检查一下是不是存在着潜在的健康问题。如果兽医的检查结果证明你的猫健康没有问题，那下一阶段就是要找出使猫感到威胁的原因，并且消除。这个过程可能会很复杂，因为通常情况下干扰因素有很多。最好是请兽医给你印件一位适合的你的猫的情况并且有相关资质的动物行为学家。
 
 Sometimes, spraying can be more easily linked to a specific change in the environment. For example, the addition of a new cat to the household can threaten resident cats and induce spraying. Clues about why your cat has started spraying can be ascertained from the location of the marks, because these will be left specifically where they feel anxious. 
 
+有的情况下，喷尿往往和环境中明显的变化有关。举例来说，新猫加入往往会威胁到原住的猫并诱导其喷尿。你可以从其喷尿的位置探究其喷尿的具体原因。其喷尿的位置通常会是其感受到焦虑的位置。
+
 If they are spraying on internal doorways and in hallways it may be because this is where they come into close contact with other cats in the household. To overcome this, you can help to prevent conflict and create a sense of security by providing extra litter trays, bowls and places for your cats to sleep, play and scratch – reducing the need for competition. If your cats have to walk past each other because of the layout of your house, you can put up shelving or arrange furniture so they can pass each other at different levels, without direct contact. 
 
-What can I do if my cat sprays on doors and windows? 
+如果它们在门廊或者门厅喷尿，那可能是因为这些区域是它们和家中其他猫接触的地方。如果是这种情况，你可以通过提供额外的猫砂盆、食盆以及休息的场所来减少其休息、玩耍时可能产生的竞争，为你的猫营造安全感。如果因为家中的布局，你的猫们不可避免的会相互穿越，那你可以设置一些架子以及家具，使其能够在不同的路径中穿行，避免直接的接触。
+
+What can I do if my cat sprays on doors and windows? 猫在门以及窗户上喷尿，我该怎么做？
 
 If your cat is spraying on the cat flap, external doors or windows then it is usually because something outside is worrying them – for example other cats they can see through windows. In this case, making the inside environment feel more secure for them is often helpful. Covering the windows with a semi-transparent material to restrict their view of other cats outside may help. If other cats are entering the house through your cat flap, you can fit a microchip cat flap that reads your cat’s unique microchip, or a magnetic cat flap – where a magnet is attached to a safety collar. You could also try to discourage the neighbouring cats from entering the garden, see humane deterrents for ideas. 
+
+如果你的猫在猫活页门、通向外部的大门或者是窗户上喷尿，这通常意味着外部有东西让它们感到威胁。举例来说，可能是它们透过窗户能够看到的，其他外面的猫。在这种情况下，把内部的环境变得更加安全往往很有帮助。你也可以在窗户上覆盖半透明膜，减少它们的视野，这样同样会有所帮助。如果其他猫会通过活页门进入家中，那你可以安装一种能够识别芯片的活页门，这种活页门只能识别你的猫的芯片。你也可以用磁性的活页门，同时采用带有磁铁的猫颈圈。你同样需要避免邻居的猫进入到花园中来，可以通过人造威慑素来驱逐外面的猫。
 
 The importance of scent 
 
