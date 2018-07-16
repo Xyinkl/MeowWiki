@@ -343,16 +343,21 @@ If your cat is spraying on the cat flap, external doors or windows then it is us
 
 如果你的猫在猫活页门、通向外部的大门或者是窗户上喷尿，这通常意味着外部有东西让它们感到威胁。举例来说，可能是它们透过窗户能够看到的，其他外面的猫。在这种情况下，把内部的环境变得更加安全往往很有帮助。你也可以在窗户上覆盖半透明膜，减少它们的视野，这样同样会有所帮助。如果其他猫会通过活页门进入家中，那你可以安装一种能够识别芯片的活页门，这种活页门只能识别你的猫的芯片。你也可以用磁性的活页门，同时采用带有磁铁的猫颈圈。你同样需要避免邻居的猫进入到花园中来，可以通过人造威慑素来驱逐外面的猫。
 
-The importance of scent 
+The importance of scent 气味的重要性
 
 Redecorating, changing furniture or moving house removes familiar smells that comfort your cat. To prevent your cat from becoming anxious at unfamiliar scents, it is a good idea to introduce them to a new environment or house gradually. When moving into a new house, keeping your cat in one room with items familiar to them and then gradually allowing access to other areas will help to decrease their anxiety. Also see What is pheromone therapy? later. 
 
+重新装修、更换家具或者是搬家都会消减能够使你的猫感到安全的气味。为了不造成猫的焦虑，你可以逐渐的让其提前适应新环境。搬入新家的时候，先把猫留在一个放有熟悉味道的屋子里。 之后逐渐的允许其扩大活动范围。这样能够减弱它们的焦虑。或者你也可以考虑费洛蒙方案。
 
-Inappropriate toileting 
+Inappropriate toileting 排泄异常
 
 Inappropriate toileting is different to spraying behaviour and can occur for completely different reasons. If your cat is toileting away from the litter tray, there are many different reasons. Always get your cat vet checked before considering any behavioural interventions, as it is very important to rule out medical reasons for the behaviour. Below are some general guidelines that may help, but if you have all these measures in place and the problem persists, it is worth getting a referral to a qualified behaviourist to help identify the causes. 
 
+排泄异常和喷尿行为不同，可能由完全不同的因素导致。如果你的猫不在猫砂处排泄，可能是很多原因导致。记得在进行行为干涉之前一定要带猫去做体检排除健康问题。以下是一些常见的指导方案，如果你尝试了以下所有的措施但问题仍然存在，那么还是需要另外请动物行为专家来确定问题出在哪里，并解决。
+
 Even if your cat has outside access, always provide litter trays inside. Some cats can feel safer using a tray in the house – there could be neighbourhood cats that intimidate them. Understandably, many cats don’t like to go out when it’s bad weather, or if the toileting site is frozen over in winter and it’s difficult to dig. 
+
+即便你的猫能够自由外出，你也需要在室内为其准备猫砂盆。有的猫可能会感觉在室内排泄更安全，因为外部可能会有邻居的猫会造成威胁。同样合乎情理的是，很多猫在天气不好的时候不喜欢去外面排泄。当冬天土地冻冰的时候，会很难挖。
 
 Privacy 
 
