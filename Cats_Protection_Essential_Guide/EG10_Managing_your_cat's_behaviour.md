@@ -423,24 +423,41 @@ If the scratched areas are widespread throughout your home including areas of co
 
 The reason for cats to show this behaviour can change over time. If your cat enjoys attention, they might learn that whenever they scratch the furniture you interact with them, so they will carry on scratching. 
 
-What can I do if my cat scratches the furniture? 
+猫出现抓挠的行为的原因可能有很多种。如果你的猫喜欢被关注。那当它意识到抓挠东西就会引起你的关注的时候，就会做出抓挠的行为。
+
+What can I do if my cat scratches the furniture? 猫抓家居，我应该怎么办?
 
 If your cat is scratching furniture or wallpaper to maintain their claws you could: 
 
+如果你的猫抓挠家居或者是墙纸来磨爪子的话，你可以：
+
 . protect the scratched item by covering with thick, shiny plastic sheeting  as this is unappealing to cats 
+
+· 用猫不喜欢的加厚、发光的塑料片覆盖在被抓的物品上，起到保护作用。
 
 . at the same time, obtain a suitable scratching post and put it next to the area where they scratch 
 
+· 同时，准备一个耐磨的猫抓板并且放到你的猫抓挠的区域附近。
+
 . choose a scratching post with a heavy base so it doesn’t topple over or wobble when in use. It should be tall enough to allow your cat to scratch at full stretch – ensure it has a vertical weave to let them drag their claws downwards 
+
+· 选择底座比较重的猫抓板，这样在猫磨爪的时候猫抓板不会晃动或者倾倒。猫抓板应该足够高，让猫能够在磨爪的时候伸展开身体。确保猫抓板能够让猫从上到下抓挠。
 
 . some cats prefer to scratch horizontally (eg cats that scratch carpets or stairs) or diagonally so provide a scratching mat to meet these needs 
 
+· 有的猫喜欢从上到下抓挠（比如那些挠碗柜以及楼梯的）或者是斜对角挠。这种情况下你可以准备一个磨爪毯。
+
 . once your cat is consistently using the new post, you can gradually move it to a more convenient location if you wish and then remove the plastic sheeting from the furniture or wallpaper 
+
+· 一旦你的猫开始使用新的猫抓板了，你可以把它挪动到新的地点，然后把之前的保护膜取下来。
 
 . cats often like to scratch and stretch after they wake up, so you could try placing the scratch post near your cat’s bed 
 
+· 猫通常喜欢在睡醒后磨爪子。所以你可以把猫抓板放在猫睡觉的场合附近。
 
 Each cat in a household should have a scratching post – positioned in different locations to prevent conflict. Some posts are impregnated with catnip, or you could try rubbing quality catnip on the scratch post to entice them – placing pieces of food on the post may also help. Playing with your cat little and often throughout the day and providing toys may help redirect their energy away from scratching. 
+
+每只猫都应该有自己的猫抓板，并且应该放在不同的地点，避免冲突。有的猫抓板已经是浸染过猫薄荷的，你也可以用在猫抓板上蹭猫薄荷或者是食物的方式，吸引猫使用猫抓板。白天的时候和你的猫多玩一玩，给它提供一些玩具，这样能够消减它抓挠的动力。
 
 Scratching to mark territory 
 
