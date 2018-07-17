@@ -459,11 +459,13 @@ Each cat in a household should have a scratching post – positioned in differen
 
 每只猫都应该有自己的猫抓板，并且应该放在不同的地点，避免冲突。有的猫抓板已经是浸染过猫薄荷的，你也可以用在猫抓板上蹭猫薄荷或者是食物的方式，吸引猫使用猫抓板。白天的时候和你的猫多玩一玩，给它提供一些玩具，这样能够消减它抓挠的动力。
 
-Scratching to mark territory 
+Scratching to mark territory 抓挠是标记领地的行为
 
 If your cat is scratching furniture as a marking behaviour, then try to identify what is worrying the cat in this part of their territory and remedy it – see spraying section above. Follow the advice already given and cover the scratched areas with a protective material and place a scratching post next to them. However, to help your cat to feel secure in their surroundings and permanently stop them scratching the furniture, you will need to identify and deal with what is worrying them. Don’t just provide them with another scratching surface without attending to their feelings of insecurity. You may need guidance from a suitably qualified behaviourist to help identify the cause of their anxiety. 
 
-Importance of praise 
+如果你的猫抓东西是为了标记领地，那你可以试着找出让猫感到领地受侵犯的原因并消除，具体参见以上关于喷尿的部分。遵守以上建议，并且把被抓的部分用保护膜盖起来，并且在附近摆放一个猫抓板。为了消减它们因为受到威胁而产生的抓挠行为，你需要试着找到具体的原因，解决它们的情绪问题，而不是简单地提供猫抓板。你可能需要合适的动物行为学家的指导，来确定引发猫焦虑的原因究竟是什么。
+
+Importance of praise 鼓励的重要性
 
 It is important to remember that cats do not scratch just to be naughty. It is a natural behaviour they should be allowed to exhibit. Shouting when your cat scratches your furniture can lead to an increase in frequency as they become more anxious, or learns that scratching can be used for attention seeking. Cats quickly learn that unwanted clawing gets a reaction, but clawing a scratching post doesn’t. Make sure you praise your cat when they claw the scratching post and try not to react if they scratch the furniture. 
 
