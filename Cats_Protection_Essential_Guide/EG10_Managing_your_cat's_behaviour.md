@@ -411,11 +411,15 @@ Scratching is a normal behaviour. Cats scratch for two reasons; to keep their cl
 
 挠东西对猫来说再正常不过了。这种行为主要有两种原因：一是保持爪子的锋利，二是留下交流的气味信号。爪子间隙的气味腺能够产生独一无二的气味，这会附着在被抓挠的表面上。这种气味，以及被挠过留下的痕迹、指甲碎壳，能够给自己留下记号，也能给这个区域其他的猫传递信息。
 
-Why is my cat scratching indoors? 
+Why is my cat scratching indoors? 为什么我的猫在室内挠东西？
 
 If your cat has limited or no access to the outdoors – either through their own choice or yours – they will have to maintain good claw condition inside the house. They will find one or two suitable scratching sites and continue to use them, whether this is a cat scratching post or the back of your settee! 
 
+如果你的猫不能出门，无论是不是它们自己的意志。它们需要保持爪子的锋利。所以它们会选择一到两处适合磨爪的地方，并且一直磨下去。无论这地方是猫抓板还是你沙发的后背。
+
 If the scratched areas are widespread throughout your home including areas of conflict like doorways and windows, it is likely that your cat is scratching for communication reasons and feels insecure in these areas. Just like spraying, the most common reason for scratching indoors is the presence of another cat. 
+
+如果磨爪的区域遍布全屋，而且包括了门廊以及窗户等区域，那你的猫很可能是感觉这个区域并不安全，出于交流的目的抓挠东西的。和喷尿一样，抓挠最常见的原因是另一只猫的出现。
 
 The reason for cats to show this behaviour can change over time. If your cat enjoys attention, they might learn that whenever they scratch the furniture you interact with them, so they will carry on scratching. 
 
