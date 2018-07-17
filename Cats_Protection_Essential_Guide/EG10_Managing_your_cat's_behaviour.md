@@ -363,37 +363,53 @@ Privacy 隐蔽
 
 Toileting is a very vulnerable activity for cats and they will try to choose a quiet, private location for this. If your cat is upset by an incident outside, or near to their litter tray, they may instead find a quiet corner indoors to pass their waste. If the tray is positioned in the open where it may be disturbed, the cat may feel too vulnerable to use it and will seek a safer spot instead. A tray may not be used if it is placed next to a noisy washing machine, or by a cat flap and remember that cats like to toilet away from where they eat and drink. When placing litter trays, put them in quiet, private areas that are away from busy walkways. 
 
-如厕对猫来说是很没有安全感的行为，因此通常会选择安静、隐蔽的场合进行。如果你的猫在外面或者是猫砂盆附近被刺激到，就有可能在屋子里安静的角落排泄。
+如厕对猫来说是很没有安全感的行为，因此通常会选择安静、隐蔽的场合进行。如果你的猫在外面或者是猫砂盆附近被刺激到，就有可能在屋子里安静的角落排泄。如果猫砂盆被摆放在了空旷、容易被打扰的位置，那猫可能会感觉在这个地方排泄太过危险，而选择在其他更安全的地点排泄。猫砂盆如果摆放在吵闹的洗衣机附近或者是猫活页门附近是很难被使用的。猫同样不喜欢在食物和水源附近排泄。当你放置猫砂盆的时候，需要选择安静、隐蔽的、不会有人频繁走动的场所。
 
-Litter tray 
+Litter tray 猫砂盆
 
 There are many different types of litter trays available to suit your cat’s needs. As a kitten grows up, they will need a larger, adult-sized tray with enough space to manoeuvre. An elderly cat requires a tray with low sides so they can get in and out more easily. Nervous cats may prefer the privacy of hooded litter trays. Each cat is an individual and what might work for one cat, won’t necessarily work for another. As a general rule, provide one litter tray per cat, plus an extra one. If you are experiencing litter tray problems, you may need to add a few extra trays to this rule. Place the trays in a variety of different locations around the home, both upstairs and downstairs, as opposed to placing them next to each other in a row. 
 
+为了满足你的猫的需求，可以有很多不同种类的猫砂盆可供选择。小猫长大后，往往需要一个更大的、成年猫尺寸的猫砂盆。老年猫需要边沿较低的猫砂盆，这样它们能够进出自如。胆小的猫可能需要带有遮罩的猫砂盆，这样更有安全感。每只猫都是独立的个体，猫砂盆的选择上也是不是通用而普适的。通用的原则是，你需要给每只猫准备一个猫砂盆的基础上，额外再加一个猫砂盆。如果你遇到了猫砂盆的问题，那可能需要多加几个额外的猫砂盆，把这些猫砂盆摆放在家里不同的位置，无论是楼上还是楼下，千万不要摆成一排。
 
-Litter 
+
+Litter 猫砂
 
 Cats often prefer the litter type they used as a kitten. Many cats have a preference for fine, heavy sand-like litter, which is similar to the material that their ancestors would have used. This feels soft under their paws and enables them to have a good dig. Avoid anything scented as cats have a very sensitive sense of smell – although you might like the fragrance, your cat may not agree! Provide 3cm of litter as this generally seems to be the preferred depth for cats – not too shallow so they can have a good dig in it, but equally they don’t like it too deep either. 
 
-Cleanliness 
+猫倾向于使用小时候它们使用过的猫砂。很多猫会倾向于使用质地较重、砂质的猫砂。这种质感很像它们的祖先曾经用过的材质。这种猫砂踩起来软而且相对容易挖。最好避免使用有香味的猫砂，猫的嗅觉很灵敏。可能你喜欢猫砂的香味，但是你的猫未必喜欢。3cm的猫砂厚度通常是理想的，不会太浅这样它们能够挖出坑，也不会太深。
+
+Cleanliness 清洁
 
 Cats are renowned for their fastidiously clean nature so they will not use a dirty litter tray. Remove any deposits once or twice a day if you have a clumping litter and completely clean out the tray once a week. Some cats prefer the deposits to be removed before they will use the tray again, while others prefer one tray for urinating and another for defecating. Hooded litter trays need to be kept extra clean as they can hold the smell inside and be overpowering for your cat’s keen sense of smell! 
 
-Never punish for spraying or inappropriate toileting 
+猫以其爱干净的天性而著名，所以不会用脏的猫砂盆。如果你在用结团猫砂，那你需要每隔一天或两天把排泄物清理掉。并且每周完全清理一遍猫砂盆。有的猫倾向于使用被打扫干净的猫砂盆。有的则喜欢一个盆尿尿而另一个盆拉屎。带盖的猫砂盆尤其需要保持清洁，因为其结构会把气味留在猫砂盆内，这样的味道对嗅觉灵敏的猫来说可能太过强烈。
+
+Never punish for spraying or inappropriate toileting 不要因为猫喷尿或者是不恰当的排泄而惩罚它
 
 Although urine spraying or inappropriate toileting can be an unpleasant and distressing problem, you should never punish your cat. They are spraying because they feel anxious – punishing them will only make them more likely to spray due to stress. The best thing you can do is to identify what is worrying your cat and address this, starting with a visit to your vet for a health check. 
 
-How do I clean urine from affected areas? 
+尽管喷尿或者是随处方便确实给人带来不快，但是你不应该惩罚你的猫。它们只是感到了焦虑，惩罚只会让它们因为紧张更容易喷尿。最好的处置方式是找出给猫造成焦虑的原因并且消除。在开始之前你需要先带猫去兽医处检查一下，看是否有健康问题。
+
+How do I clean urine from affected areas? 我该怎样清理被喷过尿的区域？
 
 Once a cat has sprayed, if the area is not cleaned appropriately, their sensitive nose will draw them back to spray the same area again in an attempt to top up the faded scent. Many household cleaning products contain ammonia which is also found in cat urine, so using these can make the problem worse. 
 
+一旦猫在一个地方喷尿，如果这个区域没有被正确的清理干净，猫的敏锐嗅觉就会驱使它们在同样的地方继续喷尿，试图加强这种已经淡化的味道。很多家用的清洁产品含有猫尿中氨的成分，所以使用这些清洁剂可能让情况变得更糟。
+
 A cheap and efficient cleaning method is to wash sprayed or soiled sites thoroughly with a warm, 10 per cent solution of biological washing powder and then rinse with clean water and allow the area to dry. If the surface is suitable, surgical spirit can be applied after cleaning to remove all lingering traces of urine. It is worth doing a small patch test first to ensure this cleaning regime will not cause any damage. 
+
+一种行之有效而且廉价的清理方法是，用温水配比10%的生化洗衣粉清洗这个区域，之后用清水冲洗，然后风干。如果表面适合，那么可以用医用酒精来彻底清除尿味残留。在大面积进行清理前最好是在小范围内测试，确保这套清理流程不会造成破坏。
 
 Carpet is extremely absorbent and the urine often soaks into the underlay and the flooring underneath. If the area is badly soiled over a long period it may be necessary to cut out the section of carpet and underlay and treat the concrete or floorboards underneath before replacing. 
 
+地毯的吸收能力很强，猫尿往往会浸入底层，甚至渗透到地板。如果被喷尿的情况很严重，时间拖延很久，那可能需要把对应的地毯部分剪掉并对地板进行处理。
 
-Scratching 
+
+Scratching 挠东西
 
 Scratching is a normal behaviour. Cats scratch for two reasons; to keep their claws in good condition and as a communication signal. Scent glands in between the pads of the paws produce a unique smell, which is deposited on the surface that the claws are dragged down. This scent, combined with the visual signal of the scratch marks and discarded claw husks, leaves a reminder signal for the cat and a message for other felines in the area. 
+
+挠东西对猫来说再正常不过了。这种行为主要有两种原因：一是保持爪子的锋利，二是留下交流的气味信号。爪子间隙的气味腺能够产生独一无二的气味，这会附着在被抓挠的表面上。这种气味，以及被挠过留下的痕迹、指甲碎壳，能够给自己留下记号，也能给这个区域其他的猫传递信息。
 
 Why is my cat scratching indoors? 
 
