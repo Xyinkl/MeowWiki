@@ -359,9 +359,11 @@ Even if your cat has outside access, always provide litter trays inside. Some ca
 
 即便你的猫能够自由外出，你也需要在室内为其准备猫砂盆。有的猫可能会感觉在室内排泄更安全，因为外部可能会有邻居的猫会造成威胁。同样合乎情理的是，很多猫在天气不好的时候不喜欢去外面排泄。当冬天土地冻冰的时候，会很难挖。
 
-Privacy 
+Privacy 隐蔽
 
 Toileting is a very vulnerable activity for cats and they will try to choose a quiet, private location for this. If your cat is upset by an incident outside, or near to their litter tray, they may instead find a quiet corner indoors to pass their waste. If the tray is positioned in the open where it may be disturbed, the cat may feel too vulnerable to use it and will seek a safer spot instead. A tray may not be used if it is placed next to a noisy washing machine, or by a cat flap and remember that cats like to toilet away from where they eat and drink. When placing litter trays, put them in quiet, private areas that are away from busy walkways. 
+
+如厕对猫来说是很没有安全感的行为，因此通常会选择安静、隐蔽的场合进行。如果你的猫在外面或者是猫砂盆附近被刺激到，就有可能在屋子里安静的角落排泄。
 
 Litter tray 
 
