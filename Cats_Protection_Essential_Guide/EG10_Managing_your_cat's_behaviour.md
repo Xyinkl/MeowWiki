@@ -508,12 +508,21 @@ Hardy plants and the use of tall planters in strategically placed positions – 
 
 Using ‘home-made’ or shop bought deterrents which could harm or injure a cat may be considered an offence under animal welfare legislation for causing unnecessary suffering, so bear this in mind when considering deterrents. 
 
+使用自制或者是商店购买的驱逐剂可能导致猫受到伤害，因为可能造成不必要的伤害，这种行为是违背动物福利法案的。所以在考虑驱逐剂的时候一定要注意这一点。
 
 
 
-What is pheromone therapy? 
+What is pheromone therapy? 什么是信息素疗法?
 
-Cats deposit pheromones (which are chemical signals of communication to themselves or other cats) from glands on their faces when rubbing objects such as the corners of walls or furniture. They leave behind different messages, one of these facial pheromones tells the cat that they are in an area they recognise and are safe. Cats regularly re-mark with these pheromones as they go around their home. You can buy a synthetic version of this facial pheromone – Feliway. - to help your cat during times of stress. Feliway provides on-going support and comfort to cats reassuring them and marking the area as safe and secure. It is available from your vet or from the Cats Protection online pet shop – see www.catsprotectionshop.co.uk. It is available as a plug-in diffuser, which lasts up to four weeks, continuously releasing the comforting pheromone into the local environment, and a spray, that can be used around the home or when travelling, lasting up to 24 hours. Alternatively, you can try using a clean cotton cloth or glove to gently rub on your cat’s cheeks to collect the pheromone – and then rub this around on surfaces at cat height, such as onto new furniture, so that it smells familiar. Remember that the pheromone will need to be topped up regularly, until your cat either rubs its cheeks on the item or shows relaxed behaviour. Feliway can be a great support tool for helping stressed cats, however it is always recommended to rule out medical conditions first with your vet and it is important that the reason for your cat’s anxiety is also identified and dealt with. If your cat has a behavioural problem, then it is recommended to get a referral from your vet to a qualified behaviourist such as a member of the Association of Pet Behaviour Counsellors (www.apbc.org.uk). 
+Cats deposit pheromones (which are chemical signals of communication to themselves or other cats) from glands on their faces when rubbing objects such as the corners of walls or furniture. They leave behind different messages, one of these facial pheromones tells the cat that they are in an area they recognise and are safe. Cats regularly re-mark with these pheromones as they go around their home. You can buy a synthetic version of this facial pheromone – Feliway. - to help your cat during times of stress. 
+猫在摩擦角落或者是家具时，其面部腺体分泌的费洛蒙会附着到这些地方，起到通过化学信号进行标记、沟通的作用。猫可能留下很多种信息，其中一种就是表明它处在一个自己熟悉并且感到安全的区域。猫在屋子内巡游的过程中会不断重新标记这些费洛蒙。你可以买到一种合成的猫费洛蒙——“Feliway”，这种信息素能够帮助猫消解压力。
+
+Feliway provides on-going support and comfort to cats reassuring them and marking the area as safe and secure. It is available from your vet or from the Cats Protection online pet shop – see www.catsprotectionshop.co.uk. It is available as a plug-in diffuser, which lasts up to four weeks, continuously releasing the comforting pheromone into the local environment, and a spray, that can be used around the home or when travelling, lasting up to 24 hours. 
+
+Feliway能够提供持久的安慰效应，让猫感觉安全。你可以在兽医处或者是网上买到。Feliway有香薰的版本，能够提供长达四周，连续不断的信息素补充。也有喷剂的版本，在家中或者是旅途中能够维持24小时的效果。
+
+Alternatively, you can try using a clean cotton cloth or glove to gently rub on your cat’s cheeks to collect the pheromone – and then rub this around on surfaces at cat height, such as onto new furniture, so that it smells familiar. Remember that the pheromone will need to be topped up regularly, until your cat either rubs its cheeks on the item or shows relaxed behaviour. Feliway can be a great support tool for helping stressed cats, however it is always recommended to rule out medical conditions first with your vet and it is important that the reason for your cat’s anxiety is also identified and dealt with. If your cat has a behavioural problem, then it is recommended to get a referral from your vet to a qualified behaviourist such as a member of the Association of Pet Behaviour Counsellors (www.apbc.org.uk). 
+
 
 Help is at hand 
 
