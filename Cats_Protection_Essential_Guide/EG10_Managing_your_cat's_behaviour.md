@@ -523,15 +523,7 @@ Feliway能够提供持久的安慰效应，让猫感觉安全。你可以在兽�
 
 Alternatively, you can try using a clean cotton cloth or glove to gently rub on your cat’s cheeks to collect the pheromone – and then rub this around on surfaces at cat height, such as onto new furniture, so that it smells familiar. Remember that the pheromone will need to be topped up regularly, until your cat either rubs its cheeks on the item or shows relaxed behaviour. Feliway can be a great support tool for helping stressed cats, however it is always recommended to rule out medical conditions first with your vet and it is important that the reason for your cat’s anxiety is also identified and dealt with. If your cat has a behavioural problem, then it is recommended to get a referral from your vet to a qualified behaviourist such as a member of the Association of Pet Behaviour Counsellors (www.apbc.org.uk). 
 
+当然你也可以用干净的棉质衣服或者是手套在你的猫的脸颊摩擦，收集费洛蒙。然后在家具或者墙面对应猫的高度摩擦。这样会给猫更熟悉安全的感觉。记住费洛蒙需要定期反复使用，直到你的猫不再用脸蹭家具或墙面，或者是表现出放松的行为。Feliway能够很大程度上减轻猫的焦虑，然而我们建议还是第一时间检查是否由健康问题，并且积极排除可能的原因。如果你的猫存在行为方面的问题，那你最好是从相关的动物行为学家（比如宠物行为咨询协会成员）那里获得帮助。
 
-Help is at hand 
 
-The advice given in this leaflet is aimed at encouraging positive behaviours and helping with some behavioural issues. However, it is not individually tailored to a specific cat and the development of behaviours in each cat is unique. The cause of a problem can sometimes be difficult to identify, particularly if it is complex or there are a number of contributing factors. If your cat has a behavioural problem, it is recommended to discuss the problem with your vet who can refer you to a suitably qualified behaviourist, such as a member of the Association of Pet Behaviour Counsellors (www.apbc.org.uk) or a Certified Clinical Animal Behaviourist (CCAB) that can be found through the Association for the Study of Animal Behaviour (ASAB) at http://asab.nottingham.ac.uk/ . Seek help sooner rather than later as it can be more difficult to rectify long-standing issues. Luckily many problems can be resolved, allowing you to enjoy positive companionship with your cat once more. 
-
-Happy relationships 
-
-Cats Protection has a clear vision of a world where every cat is treated with kindness and an understanding of its needs. What makes a cat unique is the very reason why they are so well loved. With a little understanding of your cat’s background, behaviours and needs, you can prevent any problems that may arise and enjoy sharing your life a happy cat. 
-
-Learn more about your cat online! 
-Take a look at our free interactive tool to help you understand cats’ origins and their behaviour within our homes. http://learnonline.cats.org.uk/content/ufo 
 
