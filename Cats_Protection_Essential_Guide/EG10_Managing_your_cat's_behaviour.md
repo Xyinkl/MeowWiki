@@ -469,31 +469,46 @@ Importance of praise 鼓励的重要性
 
 It is important to remember that cats do not scratch just to be naughty. It is a natural behaviour they should be allowed to exhibit. Shouting when your cat scratches your furniture can lead to an increase in frequency as they become more anxious, or learns that scratching can be used for attention seeking. Cats quickly learn that unwanted clawing gets a reaction, but clawing a scratching post doesn’t. Make sure you praise your cat when they claw the scratching post and try not to react if they scratch the furniture. 
 
+需要重视并且记住的一点是，猫挠东西不是因为调皮。而是一种天性，因而应该被允许。在发现猫挠家具之后如果你大声喊叫很可能会让猫更加焦虑，导致更频繁的抓挠。也可能会让它记住抓挠的行为会引起你的注意。而且是抓一些地方会引起注意，抓猫抓板就不会。反之，你需要做的，就是在它抓猫抓板的时候鼓励它，而在它抓沙发的时候装作没反应。
 
-
-Humane deterrents for cats 
+Humane deterrents for cats 人工合成猫驱逐剂
 
 The Animal Welfare Act 2006 – including the Scottish and Northern Irish equivalents – gives all cats legal protection. For more information see Cats Protection’s Essential Guide: Cats and the law. For those who wish to avoid having cats visit their garden, the following advice may be useful. 
+
+2006动物福利法案，以及苏格兰、北爱尔兰的相关法律明文保护所有猫类。需要更多此类信息你可以参阅猫咪保护基础指导之猫咪以及法律篇。对于那些不希望猫咪闯入自己花园的人来说，以下建议可能会有帮助：
+
 . Shoo a cat away by either shouting or clapping your hands when you see them enter your garden 
+· 当你看到猫进入到你的花园时，大声呵斥或者拍手将其驱赶走。
 
 . Squirt water near the cat using a low-powered water pistol – not a super-soaker – being careful to avoid their eyes. Most cats hate water. 
+· 用威力不强的小型呲水枪朝猫喷水，不能是强力的大喷水枪。小心不要喷到它们的眼睛里。绝大多数猫都讨厌水。
 
 . Install an automatic garden spray, triggered by an infra-red detector which locates movement 
+· 安装自动花园喷灌设备，红外线探测，发现有活动则被激活，开始喷溅。
 
 . Erect high, close-boarded fences next to the hedges in the garden, making it difficult for cats to visit 
+· 在花园灌木边安装较高且紧密的木质围栏，阻隔猫的进入。
 
 . Avoid leaving food for birds and other wildlife in places that are easily accessible to cats and ensure dustbin lids are secure. In addition, do not start feeding a cat if you do not want them around as this will encourage the cat 
+· 不要给鸟类留下实物，也不要留下能够让猫轻易抓到的活物。确保垃圾桶盖子是关着的。另外，不要喂野猫，这样会让它们得寸进尺。
 
 . Cultivate shrubs closely to prevent cats from finding a place to dig. Spread chicken manure around beds and borders, taking care to use Soil Association approved pellets rather than fresh manure 
+· 种植灌木能够阻止猫挖洞。在灌木附近撒鸡粪，最好是选用经过土壤协会认证的肥料而不是新的粪肥。
 
 . Consider covering parts of the garden that you do not want the cat to toilet in with stone chippings, pebbles or small rocks 
+· 花园中的某些区域如果你不想猫排便，那可以铺上石块。
 
 . Lion dung-infused pellets, the planting of coleus canina and crushed egg shells have been used with varying levels of success to deter cats from toileting in flower beds 
+· 狮粪肥料、种植锦紫苏、破碎的蛋壳经过实践都能够不同程度上阻止猫在花床上排泄。
 
 
 Hardy plants and the use of tall planters in strategically placed positions – eg entrances and protruding corners – can help to reduce the effects of cats marking their territory through spraying by encouraging them to use the plants. 
 
+坚硬的植物以及在特定位置（入口，突出的角落）放置较高的花盆架，能够帮助减少猫的喷尿行为，让它们利用植物标记领地。
+
 Using ‘home-made’ or shop bought deterrents which could harm or injure a cat may be considered an offence under animal welfare legislation for causing unnecessary suffering, so bear this in mind when considering deterrents. 
+
+
 
 
 What is pheromone therapy? 
