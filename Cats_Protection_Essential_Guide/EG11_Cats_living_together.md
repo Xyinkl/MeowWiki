@@ -6,17 +6,24 @@
 
 @(Evernote)[计划, 翻译, 猫]
 
-Cats living together 
+Cats living together 群居的猫
 
 
 If you already have cats that live together, or are thinking of getting two cats or more, there are some important things to consider about their social nature. Taking the steps in this leaflet will help them to live in harmony, without hidden signs of conflict and stress and will hopefully enhance your bond with your cats. 
 
+如果你已经有几只猫生活在一起，或者打算让两只猫或者更多猫在一起生活。那你需要从它们的天性考虑一些问题。按这个手册的建议一步一步来，能够使猫们能够和谐共处，消除可能产生的冲突，让你和你的猫们能够和谐相处。
+
 Cat behaviour can be very subtle and just because cats are not fighting or hissing at each other, it does not necessarily mean that they are friends. It can be helpful to watch them carefully to assess whether they get along and consider where their resources are placed, to ensure your cats are all happily cohabiting. 
 
-Understanding the cat’s ancestry 
+猫的行为相当细微，即便在一起没有打架或者是互相嘶吼，也不代表它们就是朋友。你需要小心观察它们是不是合得来，而且需要合理摆放它们的食物等资源，确保它们能够和谐共处。
+
+
+
+Understanding the cat’s ancestry 了解猫的祖先
 
 To understand cats, we need to look at the behaviour of their ancestors. Today’s moggy shares common ancestry with the African wildcat – a solitary cat which is still found in North Africa today. It generally chooses to live alone, rather than in a social group with other cats. 
 
+为了能够更好地了解猫，我们需要去了解一下猫的祖先的行为。今天的家猫和非洲野猫是同一个祖先。非洲野猫是在今天仍然能够在北非找到的一种离群索居的猫类。
 The African wildcat lives in the savannah, hunting rodents which are relatively sparse in numbers, so wildcats are widely dispersed to avoid competition for the small amount of food available. They maintain a territory to ensure other cats are kept away from their patch. 
 
 Cat behaviour 
