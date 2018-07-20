@@ -134,7 +134,7 @@ When introducing two cats to each other for the first time, it is best to give e
 · 一个能够环视四周的平台，猫喜欢在高处观察四周，你应该给猫创造条件让其能够到达架子、碗柜顶部等高点。你可以在附近放置猫爬架。
 
 . somewhere to sleep – igloo beds, cardboard box, blankets in elevated places 
-· 有睡觉的地方，比如雪屋式的猫窝，或者是高处的一张毯子。
+· 有睡觉的地方，比如雪屋式的猫窝，或者是高处的篮子。
 
 . toys – be aware that a cat may not want to play while they are settling in 
 · 猫玩具，不过猫在适应环境的阶段可能不需要。
@@ -190,8 +190,11 @@ If this is tolerated, gradually increase the time they spend together.
 
 It can take anything from a day to many weeks for cats to tolerate each other, so don’t give up if there is some hissing and spitting initially, just go back a step. They are unlikely to fight, but have a blanket ready just in case, so you can separate them. Take care to avoid being bitten or scratched as the cats may be quite excited. Don’t chase or shout at them as this will only lead to them associating each other with bad things. 
 
-让两只猫互相接受彼此，整个过程可能花费一天到很多周之久。所以一旦出现互相嘶吼等现象，你也不应该放弃，而是应该后退一步。As the cats become more comfortable in each other’s company, try giving them titbits to encourage them to come closer. Choose somewhere where they can escape easily – placing an object such as a chair between the feeding bowls may help them feel less threatened. Over time, you can move the bowls closer together but do not place them side by side. 
+让两只猫互相接受彼此，整个过程可能花费一天到很多周之久。所以一旦出现互相嘶吼等现象，你也不应该放弃，而是应该后退一步。即便它们不太可能打架，但是为了以防万一，还是准备一个笼子，这样有情况能够隔离彼此。小心不要被激动的猫抓伤或者是咬伤。不要试图追逐或者是向猫大喊大叫，这样只会给他们之间留下不好的印象。
 
+As the cats become more comfortable in each other’s company, try giving them titbits to encourage them to come closer. Choose somewhere where they can escape easily – placing an object such as a chair between the feeding bowls may help them feel less threatened. Over time, you can move the bowls closer together but do not place them side by side. 
+
+一旦两只猫能够接受彼此的存在，你可以通过给他们食物的方式让它们走的更近。选择一个它们能够逃脱的地方，在两个食碗中间放上一把椅子，这样它们能够更加放松。
 Many cats prefer to eat separately to other cats – even those cats in the same social group, as a throwback to their evolutionary past when they would hunt – and eat – separately. Cats can feel vulnerable when they are eating, so place food and water bowls slightly away from the wall, so the cat has space to sit with its back to the wall and is able to survey the room while eating or drinking. 
 
 Remember that if your cats are apart for any reason, for example if one has to stay at a boarding cattery or a vets, this may affect their scent and they may not be recognised as part of the same social group when they return, The longer a cat is away, the harder it can be to reintegrate. It’s a good idea to keep the cats apart – so the absent cat can pick up the smells of home – and slowly reintroduce them. Consider where you place their resources such as food bowls and litter trays, bearing in mind the advice above. 
