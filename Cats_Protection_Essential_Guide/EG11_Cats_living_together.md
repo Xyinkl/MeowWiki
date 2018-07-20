@@ -149,34 +149,48 @@ You can install a facial pheromone diffuser, such as Feliway., in the area that 
 你可以在每只猫睡觉的地方喷洒Feliway等信息素。这样能够给猫营造一个安全舒适的环境。
 
 Before introducing the cats physically, introduce them to each other’s scent. Swap scents by: 
+在真正把两只猫放在一起之前，你需要让它们互相接受彼此的气味。你需要：
 
 . stroking each cat with a separate clean, soft cloth and dabbing it around your home and furniture or leaving the cloth in the cat’s environment to sniff when the cat is ready to investigate 
+· 用干净的软布摩擦每只猫的下巴，然后把气味涂抹在家中的各个角落。你也可以把这个软布放在某处，任由猫自己探索。
 
 . keep swapping the scents until the cats show no reaction to the smell 
+· 你需要保持这个气味交换的过程，直到猫不再对另一只毛的气味有反应。
 
 . if the cats avoid the scent cloth, then the scent swapping stage is going to take longer 
-
+· 如果猫不能够接受沾有另一只猫气味的软布，那这个气味交换的过程就需要持续更长时间。
 
 Keep mixing scents until the cats show no reaction to the smell. You can progress to allowing them to see each other, but not letting them touch or meet one another. Try placing a glass or mesh door between the cats, and allow each cat to approach or hide as they choose. Do not progress to a face-to-face introduction until the cats either ignore each other or show positive feline social behaviour – such as attempting to groom each other or rub heads on each other through the divider. 
+
+在对彼此气味没有任何反应之后，你可以进一步让它们互相能够看见，但是不能够有肢体接触。你可以在两只猫之间放上玻璃门或者是纱门，这样两只猫能够自主选择是躲藏还是进行交互。在两只猫彻底忽视彼此的气味或者是展现出很积极的社交行为（比如试图互相顺毛或者是隔着障碍物互相蹭头）之前，千万不要直接跳到互相见面的阶段。
+
 When it is time to introduce your cats face to face, it helps to: 
+在互相见面的环节，以下建议能够有所帮助：
+
 . ensure easy escape routes are available for both cats, as well as easy access to places higher up, such as furniture or shelves 
+· 确保两只猫都有安全快速的逃跑路径，到达高处的路径。
 
 . start in a fairly large room where they can stay at a distance from each other 
+· 在一个足够大的房间进行，这样两只猫能够保持距离
 
 . supervise the cats when they are together 
+· 在两只猫交互的过程中保持关注
 
 . work at a pace that the cats are comfortable with and go back a step if necessary 
+· 保持一个猫能够接受的进度，一旦情况不好，则需要回退重来。
 
 . only introduce for short periods of time during feeding time to help form positive associations with each other, before returning the cats to separate rooms 
+· 在喂食前进行短暂的见面，这样能够给两只猫形成正向的联系。
 
 . gradually start to fuss or play with the cats for a short time, so their attention is on you, before putting the food down 
-
+· 慢慢的抚摸或者和两只猫玩一小会，这样它们的注意力就在你的身上。之后给它们食物。
 
 If this is tolerated, gradually increase the time they spend together. 
+如果以上流程进展的顺利，你可以逐渐加大它们在一起的时间。
 
 It can take anything from a day to many weeks for cats to tolerate each other, so don’t give up if there is some hissing and spitting initially, just go back a step. They are unlikely to fight, but have a blanket ready just in case, so you can separate them. Take care to avoid being bitten or scratched as the cats may be quite excited. Don’t chase or shout at them as this will only lead to them associating each other with bad things. 
 
-As the cats become more comfortable in each other’s company, try giving them titbits to encourage them to come closer. Choose somewhere where they can escape easily – placing an object such as a chair between the feeding bowls may help them feel less threatened. Over time, you can move the bowls closer together but do not place them side by side. 
+让两只猫互相接受彼此，整个过程可能花费一天到很多周之久。所以一旦出现互相嘶吼等现象，你也不应该放弃，而是应该后退一步。As the cats become more comfortable in each other’s company, try giving them titbits to encourage them to come closer. Choose somewhere where they can escape easily – placing an object such as a chair between the feeding bowls may help them feel less threatened. Over time, you can move the bowls closer together but do not place them side by side. 
 
 Many cats prefer to eat separately to other cats – even those cats in the same social group, as a throwback to their evolutionary past when they would hunt – and eat – separately. Cats can feel vulnerable when they are eating, so place food and water bowls slightly away from the wall, so the cat has space to sit with its back to the wall and is able to survey the room while eating or drinking. 
 
