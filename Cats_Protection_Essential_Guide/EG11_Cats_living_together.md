@@ -23,34 +23,47 @@ Understanding the cat’s ancestry 了解猫的祖先
 
 To understand cats, we need to look at the behaviour of their ancestors. Today’s moggy shares common ancestry with the African wildcat – a solitary cat which is still found in North Africa today. It generally chooses to live alone, rather than in a social group with other cats. 
 
-为了能够更好地了解猫，我们需要去了解一下猫的祖先的行为。今天的家猫和非洲野猫是同一个祖先。非洲野猫是在今天仍然能够在北非找到的一种离群索居的猫类。
+为了能够更好地了解猫，我们需要去了解一下猫的祖先的行为。今天的家猫和非洲野猫是同一个祖先。非洲野猫是在今天仍然能够在北非找到的一种离群索居的猫类。它们更倾向于单独生活而不是群居。
+
 The African wildcat lives in the savannah, hunting rodents which are relatively sparse in numbers, so wildcats are widely dispersed to avoid competition for the small amount of food available. They maintain a territory to ensure other cats are kept away from their patch. 
 
-Cat behaviour 
+非洲野猫生活在萨瓦那，以分布稀少的仓鼠为食物，所以必须分散开来避免产生小范围内激烈的竞争。它们会维护自己的领地，阻止其他猫的进入。
+
+Cat behaviour 猫的习性
 
 Domestic cats are similar to the African wildcat in that they still have an inherent desire to be solitary hunters and maintain a territory. However, they can live well together in circumstances when: 
 
-. they perceive each other to be in the same social group and 
+家猫的习性和非洲野猫相仿，都喜欢独自狩猎并且有自己的领地。不过在以下情况下它们也能和谐共处：
 
-. there are sufficient resources provided for them to avoid competition 
-
+. they perceive each other to be in the same social group and there are sufficient resources provided for them to avoid competition 
+· 它们接受彼此作为一个社群，而且生存资源充足不存在竞争。
 
 Feral cats have not been socialised with people or the domestic environment. Sometimes feral cats live in groups 
 – called colonies – if they perceive each other to be in the same social group and there are sufficient food sources for them. Feral colonies often consist of related females and they recognise each other from a common scent which is shared and reinforced through positive activities, such as rubbing against and grooming each other. They will usually protect the territory from intruder cats which bear a different scent, swiftly sending them packing. 
 
-Ferals do not depend on each other to source food, so they hunt and eat separately and the same is true for our pet cats. 
+野猫没有能够和人类以及家庭环境建立社交化的联系。如果有足够的食物，有时候野猫接受彼此会形成群落。野猫群落可能会包含若干有血缘关系的母猫，并且会通过不断地互相蹭以及顺毛来保持共同的气味。它们会保护领地不被外来的、有不同气味的猫侵犯。并且很快赶走入侵者。
 
-Cohabiting 
+Ferals do not depend on each other to source food, so they hunt and eat separately and the same is true for our pet cats.
+
+野猫习惯独立觅食，家猫也是一样。
+
+Cohabiting 共存
 
 While some cats can form very strong social bonds, sometimes cats living in the same household do not perceive each other to be in the same social group, although under stress they will tolerate the presence of others – especially for a particularly valued resource such as food, a fuss from the owner, or the sunniest spot in the house. 
 
-. Some cats will ‘block’ access to food, water or litter trays from other cats that they live with. This is done very subtly so owners often do not notice and it can be very stressful for the affected cat – sometimes even leading to behavioural problems 
+尽管有的猫能够形成比较强的社交关系，不过有时虽然并没有接受彼此组成群落，但它们迫于压力以及相对重要的资源（比如食物、主人的责备或者是屋子里最温暖的角落）会忍受其他猫的存在。
 
-. Some cats operate a more tolerant ‘time share’ system where one cat may use a particular area in the morning and the other cat will then use that area in the afternoon, for example 
+. Some cats will ‘block’ access to food, water or litter trays from other cats that they live with. This is done very subtly so owners often do not notice and it can be very stressful for the affected cat – sometimes even leading to behavioural problems 
+· 有的猫会霸占食物、水源或者是猫砂盆，不让其他猫使用。这种行为可能很微妙，主人未必能够观察到，并且对于被欺负的猫可能影响很大， 有时可能会造成行为方面的问题。
+
+. Some cats operate a more tolerant ‘time share’ system where one cat may use a particular area in the morning and the other cat will then use that area in the afternoon, for example
+· 有些猫会形成一种更为宽容的“分时间共享”的体系。比如早晨某只猫能使用某个区域，而到了下午其他的猫能够使用这个区域。
 
 . Others may live separately in a particular area of the house. For example, one cat may live upstairs, while the other cat lives downstairs 
+· 有时猫可能会占据房子不同的角落。比如，一只猫可能住在楼上，而另一只住在楼下。
 
 . Sometimes other events may precipitate signs of conflict – such as illness in one of the cats in a household. For example, a cat which develops a disease which increases its fluid intake – such as diabetes, or renal disease – may start to urinate on a carpet away from the litter tray. There may not be anything wrong with the cat’s ability to use a litter tray, instead it may be that the tray is blocked at certain times by other cats in the household and the cat is unable to access the tray when it needs to 
+· 一些事件可能会是冲突的表现。
 
 Same social group? 
 
