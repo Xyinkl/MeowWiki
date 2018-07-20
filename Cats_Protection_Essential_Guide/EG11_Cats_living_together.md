@@ -63,44 +63,69 @@ While some cats can form very strong social bonds, sometimes cats living in the 
 · 有时猫可能会占据房子不同的角落。比如，一只猫可能住在楼上，而另一只住在楼下。
 
 . Sometimes other events may precipitate signs of conflict – such as illness in one of the cats in a household. For example, a cat which develops a disease which increases its fluid intake – such as diabetes, or renal disease – may start to urinate on a carpet away from the litter tray. There may not be anything wrong with the cat’s ability to use a litter tray, instead it may be that the tray is blocked at certain times by other cats in the household and the cat is unable to access the tray when it needs to 
-· 一些事件可能会是冲突的表现。
+· 一些现象可能意味着猫之间存在冲突：比如群猫中的一只猫突然生病了。比如一直患上了会使其增加水分摄入的疾病（比如糖尿病、肾病等）之后，可能会出现在猫砂盆外的毯子上尿尿的情况。这不意味着这只猫不会用猫砂，而很可能是因为猫砂在某些时间段被其他猫占用，导致了这只猫不能在有排尿需要的时候使用上猫砂盆。
 
-Same social group? 
+Same social group? 同一个社交群落？
 
 Signs of aggression and conflict are not the only way to tell that cats are in different social groups. The signs can be subtle, so you need to look for the positive signs of social interaction. 
 
+猫之间的冲突和打架并不是区分它们是否和谐共存的唯一标准。标准可能相当细微，你需要仔细观察猫之间是否有好的社交迹象。
+
 Cats are in the same social group if they sleep touching each other and spend time rubbing and grooming each other, sharing and reinforcing their common scent. There is nothing more endearing that seeing two cats choosing to cuddle up with one another. 
+
+在同一个的社群的猫会在一起贴着睡觉，并且会花时间互相磨蹭、互相顺毛。这样能够巩固它们共有的气味。这种两只猫互相依偎的场景实在是看起来温馨。
 
 If you have more than two cats, you may find you have more than two social groups – in fact it is quite possible to have six cats and five or six social groups within them. This is more likely to happen if they were introduced as adults, were forced to interact too quickly and given insufficient resources. Even sibling cats may not necessarily remain in the same social group and may drift apart as they approach social maturity, between 18 months and four years of age. 
 
-Resource placement 
+如果你不只有两只猫，你可能会发现猫之间会形成不止两个群落。事实上如果有6只猫，可能会产生出5到6个群落。这种情况往往出现在猫们是在成年后才互相认识，被强迫共同生活，而且并没有足够的食物等资源的情况下出现的。就算是同辈分的猫都不一定最终会在同一个社交群落，可能会在社交成熟期（18个月大~四岁）逐渐脱离群落。
+
+Resource placement 资源的放置 
 
 Cats in one social group are best provided with separate food, water and litter trays from cats which are in a different social group. Place these in a different part of the home. In fact, it may even be a good idea to feed cats 
 in the same social group in different areas to reduce the risk of relationship breakdown. 
 
-Do you want another cat? 
+社群猫的资源最好是分别放置在家中不同的角落。事实上，在同一群落的猫最好也在不同区域喂食，避免因为竞争造成的关系破裂。
+
+Do you want another cat? 你想要领养领一只猫吗？
 
 If you already have one or more cats, think carefully before getting another cat as it’s an important decision. There are many factors to consider. Can you afford the daily costs, including veterinary care for which big bills can be unexpected? Do you have enough space in your home to provide extra resources in the right locations to support another cat? Do you have enough time for another cat? Has your cat coped with the presence of other cats in the past? See Cats Protection’s Essential Guide: Caring for your cat. 
 
+如果你已经有一只或者不止一只猫了，那你需要慎重考虑是否养新的猫。有很多因素都需要考虑，比如你是否能接受日常的花费(包括可能产生的大额医疗费用），比如你的家里是否还有足够的空间来为另一猫提供额外的生存资源？你是否有额外的时间分给新的猫？你现在的猫是否接受过其他猫？具体可以参加猫咪保护基础指导之关爱你的猫票。
+
 Cats are all unique and have different characters. Although a cat might have lived with another cat in the past, this does not mean that they will necessarily tolerate a new cat immediately or even at all. If a cat’s companion cat has recently died, hold off getting a new cat as a ‘friend’, at least until the remaining cat has had time to adjust. In some cases, cats actually seem to blossom once they are on their own and prefer to remain in a single-cat household. This can be difficult for us to understand as humans are a more social species. Thinking from a cat’s perspective takes a different approach. 
+
+每只猫都不一样，有着各异的性格。尽管一只猫可能在过去接受过其他的猫，但这不意味着它能够立刻接受另一只新猫。有可能它永远也会再接受。如果两只共同生活的猫最近死了一只，那么千万不要立刻给剩下的一只找个伴。至少要等这只猫能够有一些时间适应。某些情况下，猫在独处之后会更加自然。作为社交属性更强的人类，我们可能很难理解猫的这种需要。
 
 Cats which have been in contact with unrelated and non-aggressive cats when they were kittens – less than seven weeks of age – sometimes cope better with the presence of other cats when they are adults. 
 
-Introducing cats 
+对于那些在小时候（七周龄前）曾经和陌生的、没有攻击性的猫相处过得的猫来说，长大后可能会更容易接受其他猫。
+
+Introducing cats 让猫互相认识
 
 Unfamiliar cats should be introduced very slowly in the hope that they will ultimately perceive each other to be in the same social group, or at least peacefully cohabit. This can be helped by providing plentiful resources in a variety of different places in the home to avoid conflict and competition. 
 
+对于互相不认识的猫，应该安排非常缓慢的认识过程，这样它们才有可能最后接受彼此，或者差一点，能够和平共处。把充足的食物、水源等摆放在不同的角落能够避免可能出现的冲突和竞争。
+
 If cats are forced together too quickly, it may lead to lifelong conflict and stress which is difficult to resolve – first impressions are all important. Unfortunately, all too often, cats are introduced without sufficient time and resources to successfully integrate. The result can be two cats forced to cohabit under stress. Behavioural problems may result, or they may become withdrawn or intolerant of attention. 
+
+如果猫被强迫很快在一起，可能会导致终生的冲突和压力，很难解决。第一印象很重要。不幸的是，这种因为不充足的见面导致的不融合经常发生。结果往往是两只猫迫于压力在一起生存。行为问题可能因此发生，或者可能会产生内向抗拒、不接受关爱的情形。
 
 The tips on the following pages, together with patience and understanding, will help you ensure that initial introductions start off long and happy relationships. If you succeed, not only will your cats be happy, but you will be rewarded with the frequent delight of watching charming interactions between your cats. 
 
-Important resources for cats 
+遵从以下建议加上你的耐心和理解，能帮你的猫们简历长久而快乐的关系。如果你成功让两只猫接纳彼此，不光会给猫带来良好的心态，观察两只猫之间温馨的互动对于你来说也是一种回报。
+
+Important resources for cats 对于猫很重要的物资 
 
 If you have an existing resident cat, ensure that all their routines remain the same where possible. Shut the new cat in the room that the resident cat uses the least. 
 
+如果你的现在已经在养一只猫，那你需要确保在不影响其日常生活的基础上，把新来的猫关进它很少去的房间。
+
 When introducing two cats to each other for the first time, it is best to give each cat a separate room. In each room provide each cat with: 
 
+当你需要把两只猫第一次介绍给彼此的时候，最好是给每只猫一个单独的房间，在每个房间提供以下资源：
+
 . food and water. Cats like to drink away from where they eat, so place the food and water bowls in separate areas sited away from the litter tray 
+· 食物和水源。
 
 . somewhere to hide. It is very important for cats to have somewhere to hide – eg a cardboard box on its side, or under the bed – particularly when adapting to a new environment 
 
