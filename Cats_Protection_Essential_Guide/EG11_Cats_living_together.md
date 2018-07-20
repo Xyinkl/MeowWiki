@@ -125,22 +125,28 @@ When introducing two cats to each other for the first time, it is best to give e
 当你需要把两只猫第一次介绍给彼此的时候，最好是给每只猫一个单独的房间，在每个房间提供以下资源：
 
 . food and water. Cats like to drink away from where they eat, so place the food and water bowls in separate areas sited away from the litter tray 
-· 食物和水源。
+· 食物和水源。猫不喜欢和别的猫共享水源，所以你需要把食物和水碗放置在远离猫砂盆的不同区域。
 
 . somewhere to hide. It is very important for cats to have somewhere to hide – eg a cardboard box on its side, or under the bed – particularly when adapting to a new environment 
+· 有躲藏的场所。对于猫来说很重要就是有地方可以隐藏，这个地方可以是纸箱子或者是床底。在猫需要适应新环境的时候尤其是这样。
 
 . a viewing platform. Cats love to view their surroundings from a height. You could offer access to high spots eg shelves or the top of a wardrobe window sills. Ensure easy access by placing a stool nearby 
+· 一个能够环视四周的平台，猫喜欢在高处观察四周，你应该给猫创造条件让其能够到达架子、碗柜顶部等高点。你可以在附近放置猫爬架。
 
 . somewhere to sleep – igloo beds, cardboard box, blankets in elevated places 
+· 有睡觉的地方，比如雪屋式的猫窝，或者是高处的一张毯子。
 
 . toys – be aware that a cat may not want to play while they are settling in 
+· 猫玩具，不过猫在适应环境的阶段可能不需要。
 
 . a scratching post – try placing this near to where the cat sleeps as they often like to stretch and scratch after they wake up 
+· 猫抓板可以放置在他们睡觉的场所附近，猫通常会在醒来之后磨爪。
 
 . litter tray – placed away from food and water bowls 
-
+· 猫砂盆，需要放置的远离食物和水源。
 
 You can install a facial pheromone diffuser, such as Feliway., in the area that each cat uses to sleep, to make the environment more reassuring for the cats. 
+你可以在每只猫睡觉的地方喷洒Feliway等信息素。这样能够给猫营造一个安全舒适的环境。
 
 Before introducing the cats physically, introduce them to each other’s scent. Swap scents by: 
 
