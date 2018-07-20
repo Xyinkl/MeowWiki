@@ -194,16 +194,28 @@ It can take anything from a day to many weeks for cats to tolerate each other, s
 
 As the cats become more comfortable in each other’s company, try giving them titbits to encourage them to come closer. Choose somewhere where they can escape easily – placing an object such as a chair between the feeding bowls may help them feel less threatened. Over time, you can move the bowls closer together but do not place them side by side. 
 
-一旦两只猫能够接受彼此的存在，你可以通过给他们食物的方式让它们走的更近。选择一个它们能够逃脱的地方，在两个食碗中间放上一把椅子，这样它们能够更加放松。
+一旦两只猫能够接受彼此的存在，你可以通过给他们食物的方式让它们走的更近。选择一个它们能够逃脱的地方，在两个食碗中间放上一把椅子，这样它们能够更加放松。你可以逐渐把两个碗移的更近，但是不要完全并排放置。
+
 Many cats prefer to eat separately to other cats – even those cats in the same social group, as a throwback to their evolutionary past when they would hunt – and eat – separately. Cats can feel vulnerable when they are eating, so place food and water bowls slightly away from the wall, so the cat has space to sit with its back to the wall and is able to survey the room while eating or drinking. 
+
+很多猫喜欢单独进食，哪怕是在社群中的猫也是一样。这是基于它们的进化过程，它们的祖先会独自狩猎、独自进食。猫在进食的时候会感到不安全，所以你需要把食物和水放在距离墙壁稍远的地方，这样猫就能够背对墙壁进食，能够在进食的时候更好的观察四周。
 
 Remember that if your cats are apart for any reason, for example if one has to stay at a boarding cattery or a vets, this may affect their scent and they may not be recognised as part of the same social group when they return, The longer a cat is away, the harder it can be to reintegrate. It’s a good idea to keep the cats apart – so the absent cat can pick up the smells of home – and slowly reintroduce them. Consider where you place their resources such as food bowls and litter trays, bearing in mind the advice above. 
 
+记住如果你的猫因为任何原因被隔离开了。比如因为要在兽医那里待一段时间，那么它的气味可能受到影响，再次回到家的时候可能不会被之前的群落所接受。一只猫离开群落的时间越长，越难以重新融入之前的群落。你可以把这只猫单独放在一个房间，让它慢慢重新有了屋子里的气味之后，再重新试着让它回归群落。仔细考量食物等放置的位置，遵守以上的建议。
+
 By taking the simple steps outlined in this leaflet, you can often dramatically improve the quality of life of the cats living in your household. 
+
+通过以上简单的步骤，你往往能够很大程度上改善你家里猫的生活质量。
 
 If you have problems please seek help sooner rather than later, as it may be easier to resolve a recently developed problem, than one which has occurred for some time. 
 
+如果你有任何问题，请尽快咨询获得帮助。最新产生的问题，相比较于已经产生很久的，会更好解决一些。
+
 If cats have been introduced too quickly, you may need to give them separate rooms and start the integration procedure from scratch. Speak with your vet for further advice who may recommend referral to a suitably qualified behaviourist. 
+
+如果你的猫们之前的见面被安排的太过草率，那你可能需要把猫隔离到各自房间，并且从头开始以上过程。你可以联系你的兽医，他或许能够给你引荐更合适的行为学家。
 
 For more information, see Cats Protection’s Essential Guide: Understanding your cat’s behaviour. 
 
+需要更多信息，请参阅猫咪保护基础指导之理解你猫的行为篇
