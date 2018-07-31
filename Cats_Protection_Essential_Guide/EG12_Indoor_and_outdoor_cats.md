@@ -59,8 +59,10 @@ Loss – cats can go missing for a variety of reasons, such as becoming lost, or
 丢失 - 猫可能以为很多原因失踪，比如走失、被关住、或者是被别人圈养。有的时候猫会被别人当做流浪猫喂食，或者是被送往动物福利机构。
 
 Microchipping your cat is important and helps to reunite you with your cat in the event that they ever goes missing. Speak to your vet for more information if your cat is not microchipped already. Before you let your cat outside for the first time, make sure they have fully adapted to their new home, regardless of whether they are new to you or you have recently moved house 
+在每次猫走丢的时候，给猫植入的芯片能够帮助你快速找到猫。如果你的猫还没被植入过芯片，那你可以和兽医了解更多。在第一次让猫出门之前，一定要确保它已经完全适应了新家，无论是刚搬家还是刚来到你家。
 
 Outdoor poisons – if you suspect your cat may have ingested poison, seek veterinary advice urgently – don’t wait for signs of ill health as delays of even an hour can cost lives. Common poisons that cats can come into contact with include slug pellets, garden chemicals, anti-freeze and rodent control poisons, including eating poisoned prey. Outdoor chemicals should be stored out of reach. There are a number of garden plants that can be harmful or toxic to cats. Bear in mind there are also indoor chemicals and plants which can pose a risk 
+户外的毒物 - 如果你怀疑自己的猫吃了有毒的物质，请立刻咨询医嘱。不要等猫表现出生病的迹象再找兽医，延误的每一秒都可能让猫丧命。猫容易接触到的毒物包括杀虫剂、防冻液、鼠药，以及被鼠药毒死的死老鼠。放在户外的化学品请妥善存放，另外一些花园种植的植物也可能对猫有伤害。记住室内的化学制品以及植物同样可能会对猫造成伤害。
 
 Minimising the risks for an outdoor cat 
 
