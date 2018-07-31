@@ -64,9 +64,10 @@ Microchipping your cat is important and helps to reunite you with your cat in th
 Outdoor poisons – if you suspect your cat may have ingested poison, seek veterinary advice urgently – don’t wait for signs of ill health as delays of even an hour can cost lives. Common poisons that cats can come into contact with include slug pellets, garden chemicals, anti-freeze and rodent control poisons, including eating poisoned prey. Outdoor chemicals should be stored out of reach. There are a number of garden plants that can be harmful or toxic to cats. Bear in mind there are also indoor chemicals and plants which can pose a risk 
 户外的毒物 - 如果你怀疑自己的猫吃了有毒的物质，请立刻咨询医嘱。不要等猫表现出生病的迹象再找兽医，延误的每一秒都可能让猫丧命。猫容易接触到的毒物包括杀虫剂、防冻液、鼠药，以及被鼠药毒死的死老鼠。放在户外的化学品请妥善存放，另外一些花园种植的植物也可能对猫有伤害。记住室内的化学制品以及植物同样可能会对猫造成伤害。
 
-Minimising the risks for an outdoor cat 
+Minimising the risks for an outdoor cat 最大程度减小户外猫的风险
 
 Before worrying about the risks of letting your cat outdoors, remember there are many ways in which you can minimise them. 
+在抱怨放猫出门的危害之前，你需要了解到，有很多途径可以最小化这些风险。
 
 . Keep your cat indoors at night to protect them from the hazards of the roads. A reflective or fluorescent quick release collar may help get them seen, particularly in the winter months when it gets dark earlier. However, collars themselves are not without risk, so ensure it fits properly on a regular basis. Two fingers should fit snugly between the collar and the cat’s neck and it should have a quick release fitting to prevent your cat becoming ensnared or getting their leg trapped. Collars with tags also do not provide a permanent means of identification 
 
