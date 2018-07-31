@@ -70,6 +70,7 @@ Before worrying about the risks of letting your cat outdoors, remember there are
 在抱怨放猫出门的危害之前，你需要了解到，有很多途径可以最小化这些风险。
 
 . Keep your cat indoors at night to protect them from the hazards of the roads. A reflective or fluorescent quick release collar may help get them seen, particularly in the winter months when it gets dark earlier. However, collars themselves are not without risk, so ensure it fits properly on a regular basis. Two fingers should fit snugly between the collar and the cat’s neck and it should have a quick release fitting to prevent your cat becoming ensnared or getting their leg trapped. Collars with tags also do not provide a permanent means of identification 
+· 在晚上避免猫外出，以此来规避可能的交通危险。
 
 . Collar-fitted tracker devices are a popular idea to keep track of your cat, but the welfare implications must be considered – size, weight, and any risk of entrapment and/or impeding the quick release collar. Also consider how practical or useful they may be such as battery life, geographical range, how tracking data is sourced as well as the fact they are not permanent 
 
