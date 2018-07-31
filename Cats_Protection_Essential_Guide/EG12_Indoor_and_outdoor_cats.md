@@ -6,25 +6,34 @@
 
 @(Evernote)[计划, 翻译, 猫]
 
-Indoor and outdoor cats 
+Indoor and outdoor cats 室内猫以及室外猫
 
 
 
 Just like people, cats are all individuals. Some cats love going outside, some barely put a paw through the cat flap and others can’t go out at all, so wherever your cat spends their time, make sure they’re safe and happy. This guide will help you consider what is best for your feline companion and suggest ways to ensure they enjoy a good quality of life in their home environment. Please see Cats Protection’s Essential Guide: Feral cats for more guidance on feral cats. 
 
+和人一样，猫也是独立的个体，有的猫特别喜欢往外跑，有的很少，而有的根本不想出去。无论它们想在家或者在外过活，你都需要确保它们的身体健康、心情愉悦。这个指导可以帮助你了解到如何更好的陪伴你的猫，并且保证他们的生活质量。对于野猫，你可以参见猫咪保护基础指导之野猫篇。
+
 Regardless of whether your cat lives indoors only or has access to outdoors too, Cats Protection recommends that your cat is microchipped, neutered, vaccinated and provided with flea and worming treatment. You can speak to your vet for more information and guidance about your specific cat’s needs. 
 
-The great outdoors 
+无论你家的猫是单纯养在室内还是可以自由选择外出，Cat Protection都建议你对其完成“芯片植入”“绝育”“疫苗免疫”“定期驱虫”这一套流程。你可以从兽医处了解到猫的需求方面更多信息。
+
+The great outdoors 益处多多的户外
 
 Ideally all cats would be allowed access to outdoors to express their natural behaviour and in the UK, the majority of people let their cats go outside. However, in built-up areas, there can be a large number of cats, each with a dwindling territory size and many people are choosing to keep their cats inside. In addition, it is recommended that some cats are kept indoors for their own benefit. Cats have a natural tendency to explore so allowing them access to the outside world gives them mental stimulation and reduces stress. If they are kept solely indoors, some additional considerations for their home are recommended. 
 
-Outdoor benefits 
+理想状况下所有的猫都能被允许出门释放其自然天性。在英国，绝大部分人让猫自由外出。无论如何，在城市中，猫的数量很多，同时它们各自也会有领地范围。很多人都逐渐考虑把自己的猫养在室内。另外，出于对一些猫的情况考虑，最好是将其养在室内。猫有自由探索的天性，让它们能够外出，可以保持其精神愉悦，减少焦虑。如果猫被孤独的圈养在家里，则需要额外为它们考虑一些。
+
+Outdoor benefits 户外的好处
 
 Bigger territory – allowing your cat outdoor access not only increases the space available to them, but also the variety of environment 
+更大的领地 - 让你的猫能够自由外出，不光是扩大了其活动的区域，也丰富了它活动区域的种类。
 
 Natural behaviour – cats with outdoor access are able to express their natural behaviour and can do so in a setting that is more ‘acceptable’ to the owner. For example, scratching and spraying are normal behaviours for cats and these traits often go unnoticed by owners of cats that have outdoor access. 
+自然的天性 - 能够出门的猫会有机会展现其天性，而在外撒野也更能被主人容忍。举例来说，抓挠东西以及喷尿对猫来说可能是正常的行为，但是对于能够自由外出的猫的主人来说，往往看不到。
 
 Rodent control – cats can help to keep unwanted rodents at bay as well as express important natural cat behaviour. The hunting sequence of stalking and catching prey actually releases endorphins or ‘happy hormones’ in the cat’s brain. Hunting behaviour is not influenced by hunger – many cats with ample food will still want to hunt 
+控制鼠患 - 猫在释放捕鼠天性的同时也能够很好地控制鼠群的数量。猫“跟踪、捕获”猎物的过程中会释放内啡肽，让猫感到愉悦。狩猎的行为与饥饿无关，很多不缺吃喝的猫也会想要狩猎。
 
 An interesting environment – the outdoor environment is a complex mix of different smells, sights, sounds, tastes and textures that is constantly changing. It is particularly stimulating and interesting for the cat’s extraordinary senses and provides them with an important mental workout Exercise – cats with outdoor access are able to exercise more readily, either through hunting, climbing trees and fences or simply by having the extra space to utilise. Cats have great agility and engaging in a variety of different types of exercise helps to keep their muscles toned. Active cats are much less likely to become obese and suffer from associated health problems 
 
