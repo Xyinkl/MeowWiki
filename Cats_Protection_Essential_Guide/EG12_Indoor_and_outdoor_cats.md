@@ -36,18 +36,27 @@ Rodent control – cats can help to keep unwanted rodents at bay as well as expr
 控制鼠患 - 猫在释放捕鼠天性的同时也能够很好地控制鼠群的数量。猫“跟踪、捕获”猎物的过程中会释放内啡肽，让猫感到愉悦。狩猎的行为与饥饿无关，很多不缺吃喝的猫也会想要狩猎。
 
 An interesting environment – the outdoor environment is a complex mix of different smells, sights, sounds, tastes and textures that is constantly changing. It is particularly stimulating and interesting for the cat’s extraordinary senses and provides them with an important mental workout Exercise – cats with outdoor access are able to exercise more readily, either through hunting, climbing trees and fences or simply by having the extra space to utilise. Cats have great agility and engaging in a variety of different types of exercise helps to keep their muscles toned. Active cats are much less likely to become obese and suffer from associated health problems 
+为猫提供更有趣的环境 - 户外环境中气味、光线、声音、味道、纹理都更加复杂多变。对于感官极度发达的猫来说，这是相当好的刺激手段。能够让它们在精神上很好地得到锻炼。能够外出的猫能够通过狩猎、爬树、爬栏杆或者是在宽敞的空间内活动来施展自我。能够保持其敏捷性，肌肉不退化。积极活跃的猫更不容易变胖、生病。
 
 Enables escape from the household if necessary – there are occasions when cats need personal space and the ability to escape from anything that they perceive as stressful, or a threat. This could include a conflict with other cats or other pets in the household, building work in the home, or unfamiliar visitors in the house. Unrestricted access to outdoors, such as via a cat flap, provides an escape route. Microchip or magnetic cat flaps can help to provide your cat with security so that neighbouring cats do not enter your house 
+能够逃离家庭 - 有的时候猫需要隐蔽的空间，逃离它认为有威胁的事物。可能是猫之间的冲突，也可能是家里的装修作业，或者是家里来的陌生访客。而能够自由外出，则可以为猫提供一个逃跑的路径。芯片识别猫门或者是磁性的猫门都能够防止其他猫进入屋子，避免你的猫受到威胁。
 
-Outdoor risks 
+Outdoor risks 户外的危险
 
 Injuries – many cats are injured or killed on the road each year. Often these cats are young – under a year old – and some studies show that more road traffic injuries happen at night. It is not just busy roads that can cause cats to be injured or killed, but also quiet country roads that only have a few cars passing through which can catch a cat off guard. It is thought cats may cope better with consistently busy roads than those that are only used at rush hour 
+受伤 - 每年都有很多猫在路上受伤或者丧命。通常这些猫中很多都是小于一岁的幼猫，而且调查显示，夜间交通事故造成猫受伤的情况更为常见。不只是车流量大的道路会致使猫受伤、死亡，很多小路上由于猫警惕性不高也会造成事故。通常认为，猫更能适应车来车往的道路，而非偶尔车流量增大的道路。
 
 Cats can also become injured through contact with other cats, dogs and humans. Fighting can be reduced by neutering, but cat fights may still occur, often when a new cat moves into the area. Many cats sharing territories learn to ‘time share’ so that one will use the area in the morning and another in the afternoon 
+猫可能会在和其他猫、狗、人接触的过程中受伤。你可以通过给猫绝育来减少其打斗的冲动，但是打斗不会就此停止。当其他猫进入它的地盘时，还是会发生冲突的。很多猫会分时间共享地盘。比如一只猫会在早上在这一区域活动，而另一只会在下午在这一区域活动。
 
 Disease – cats can contract infectious diseases through contact and fighting with other cats, as well as from the outdoor environment. Vaccination can protect your cat against many of these diseases 
+疾病 - 猫在和其他猫打斗的过程中或者从户外环境中都可能会染上传染病。进行疫苗免疫可以避免猫患上很多传染病。
 
-Parasites – cats can pick up parasites such as fleas, ticks and a variety of internal worms. Speak to your vet to find out how to prevent and treat parasites. Bear in mind indoor cats can also be susceptible if not treated regularly Loss – cats can go missing for a variety of reasons, such as becoming lost, or trapped in a garden shed or garage, or sometimes having moved in with someone else. Cats are sometimes fed by people mistaking them for strays, or are handed in to animal charities. 
+Parasites – cats can pick up parasites such as fleas, ticks and a variety of internal worms. Speak to your vet to find out how to prevent and treat parasites. Bear in mind indoor cats can also be susceptible if not treated regularly 
+寄生虫 - 猫可能会染上跳蚤、虱子以及一系列内部寄生虫。你可以和兽医了解如何防治。要记住，如果不经常驱虫，室内的猫也可能会染上这些寄生虫的。
+
+Loss – cats can go missing for a variety of reasons, such as becoming lost, or trapped in a garden shed or garage, or sometimes having moved in with someone else. Cats are sometimes fed by people mistaking them for strays, or are handed in to animal charities. 
+丢失 - 猫可能以为很多原因失踪，比如走失、被关住、或者是被别人圈养。有的时候猫会被别人当做流浪猫喂食，或者是被送往动物福利机构。
 
 Microchipping your cat is important and helps to reunite you with your cat in the event that they ever goes missing. Speak to your vet for more information if your cat is not microchipped already. Before you let your cat outside for the first time, make sure they have fully adapted to their new home, regardless of whether they are new to you or you have recently moved house 
 
