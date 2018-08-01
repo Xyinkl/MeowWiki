@@ -70,47 +70,63 @@ Before worrying about the risks of letting your cat outdoors, remember there are
 在抱怨放猫出门的危害之前，你需要了解到，有很多途径可以最小化这些风险。
 
 . Keep your cat indoors at night to protect them from the hazards of the roads. A reflective or fluorescent quick release collar may help get them seen, particularly in the winter months when it gets dark earlier. However, collars themselves are not without risk, so ensure it fits properly on a regular basis. Two fingers should fit snugly between the collar and the cat’s neck and it should have a quick release fitting to prevent your cat becoming ensnared or getting their leg trapped. Collars with tags also do not provide a permanent means of identification 
-· 在晚上避免猫外出，以此来规避可能的交通危险。
+· 在晚上避免猫外出，以此来规避可能的交通危险。给猫佩戴荧光或者是反光的颈圈能够让它们尤其在冬季天黑的比较早的时候能够更醒目。然而，佩戴颈圈确实有风险，所以你需要确保颈圈的适合程度。颈圈应该能刚好容纳两根手指。并且应该能够在猫被缠住或者是绊住腿的时候自动脱落。因此就算颈圈带有名字标签，也不意味着能够长期起到标识的作用。
 
 . Collar-fitted tracker devices are a popular idea to keep track of your cat, but the welfare implications must be considered – size, weight, and any risk of entrapment and/or impeding the quick release collar. Also consider how practical or useful they may be such as battery life, geographical range, how tracking data is sourced as well as the fact they are not permanent 
+在颈圈上安装定位设备是很常见的做法，但是需要考虑这样做是不是会对猫的生活造成影响。定位设备的大小、重量，是否会引发缠绊，是否会影响颈圈安全扣的开启。另外也需要考虑电池寿命，监控范围，以及监控数据的来源等因素。
 
 . Have your cat microchipped – this is a permanent means of identification and will greatly increase your chance of being reunited with them should they go missing 
+· 给猫植入芯片 - 这是永久性的标记猫的方法，能够极大程度提高猫走丢后被找回的概率。
 
 . Ensure that your cat is neutered to reduce roaming 
+· 给猫绝育，避免暴走。
 
 . Regularly treat your cat for fleas and worms and ensure they are up to date with their vaccinations. Speak to your vet for more information 
+· 定期驱虫，免疫。
 
 . If you are concerned about your cat going outside, you could consider enclosing your garden to provide a safe area for your cat to enjoy some fresh air 
+· 如果你对放猫外出感到不安全，那可以考虑把花园封闭起来给猫提供一个安全的、能够呼吸新鲜空气的空间。
 
 
-
-Cats and wildlife 
+Cats and wildlife 猫和野生动物
 
 Cats’ hunting behaviour varies between individuals – some cats are prolific hunters while others catch nothing at all. There is no evidence that cats are having an impact on the bird population, as they usually catch sick or weak birds. Here are some steps you can take to help minimise your cat preying on birds in the garden: 
 
+猫的狩猎行为在各个个体上表现不同。有的猫特别能狩猎，而有的则不行。没有证据能够表明猫的狩猎能够影响鸟类的数量。猫抓到的通常是病鸟或者是身体虚弱的鸟。以下是能够避免你的猫在花园猎鸟的一些建议：
+
 . you can still feed birds by using a high bird table or feeder away from any platforms which a cat could use to pounce on them. Research indicates that feeding birds can actually reduce the number caught by cats, as the more birds that are present, the more chance there is of a cat being spotted and the birds calling a warning 
+· 你仍然可以用很高的喂食器给鸟喂食，但是需要注意附近不要有猫能够借力跃起扑咬的任何平台。研究显示，给鸟类喂食能够实际上减少鸟被猫狩猎的数量，因为越多的鸟来进食，猫的狩猎越可能被提前发现，进而引起警惕。
 
 . placing an uncomfortable surface around the base will stop cats sitting underneath it 
+· 在喂鸟器下方使用让猫不舒服的材质，这样猫就不会在喂鸟器下方久留。
 
 . making the table stand slippery will prevent cats from climbing it – a metal post is a good option 
+· 选择光滑的支柱往往能够避免猫攀爬喂鸟器。比如金属的支柱就是个很好的选择。
 
 . position nest boxes where cats cannot reach them 
+· 把人造鸟巢放置在猫够不到的地方。
 
 . if possible, keep your cat indoors during the early morning and evening when birds are at their most active 
+· 如果可能，你可以在鸟类最活跃的清晨以及夜晚把猫关在屋子里。
 
 
-
-Allowing your cat to enjoy their outdoor environment 
+Allowing your cat to enjoy their outdoor environment 让你的猫能够享受户外
 
 It can be hard to keep your cat to the confines of your garden, but you’ll want to encourage your cat to stay close to home to keep them safe. So, is there anything you can do? Providing a cat-friendly garden may help. 
 
-Providing an inviting toilet area 
+你很难把猫仅仅关在花园里不让它出去，但是你又不想它们走太远受到伤害。所以你能做的，是给猫营造一个合适的花园。
+
+Providing an inviting toilet area 营造一个适合排泄的区域
 
 Cats like somewhere soft to bury their faeces and will be drawn to newly-dug soil, sand or gravel. To prevent them messing up your neighbour’s flower beds, you could try the following: 
 
+猫喜欢柔软的介质这样能够方便的掩埋排泄物。新疏松过的泥土、沙子或者是砂砾都可以。为了不让你的猫祸害邻居的花床，你可以采取以下措施：
+
 . provide them with a litter tray in the house and/or 
+· 在屋子里放置一个猫砂盆。
 
 . provide them with their own toilet area in the garden, in a secluded, sheltered area of well-dug, fine soil. You could add some cat litter to encourage them to toilet there. Make sure it’s dug over regularly so it remains hygienic and allowing the soiled material to decompose naturally. Ensure it is placed somewhere private where they feel safe 
+· 在花园内准备一个僻静、有遮挡的、土壤蓬松的区域，供它们排泄。你可以额外放一些猫砂，这样它们或许能更加喜欢在那排泄。你需要经常性的翻土，这样来维持这个区域的卫生，让被污染的土壤能够自然分解。
 
 
 
