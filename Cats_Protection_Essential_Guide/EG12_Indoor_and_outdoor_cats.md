@@ -128,11 +128,11 @@ Cats like somewhere soft to bury their faeces and will be drawn to newly-dug soi
 . provide them with their own toilet area in the garden, in a secluded, sheltered area of well-dug, fine soil. You could add some cat litter to encourage them to toilet there. Make sure it’s dug over regularly so it remains hygienic and allowing the soiled material to decompose naturally. Ensure it is placed somewhere private where they feel safe 
 · 在花园内准备一个僻静、有遮挡的、土壤蓬松的区域，供它们排泄。你可以额外放一些猫砂，这样它们或许能更加喜欢在那排泄。你需要经常性的翻土，这样来维持这个区域的卫生，让被污染的土壤能够自然分解。
 
-
-
-Fencing 
+Fencing 围栏
 
 Cats are great climbers and jump over most fences. However, a two-metre high, close boarded fence, together with a hedge parallel to the fence, will encourage your cat to remain within your garden. Angled trellis, netting, taut wire or string could be put on top of the fence as a further deterrent, but make sure your cat cannot become ensnared or injured. 
+
+猫的攀爬能力很强，嫩能够跃过绝大部分栏杆。但是，如果你把两米高的围栏外再种植一圈灌木，应该就能让猫更倾向于留在花园里。更进一步，你可以将有角度的格子、网、拉紧的线或绳子放在围栏的顶部，但要确保你的猫不会因此陷入陷阱或受伤。
 
 Planting 
 
