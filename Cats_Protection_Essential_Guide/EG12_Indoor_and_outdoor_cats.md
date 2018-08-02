@@ -134,14 +134,17 @@ Cats are great climbers and jump over most fences. However, a two-metre high, cl
 
 猫的攀爬能力很强，嫩能够跃过绝大部分栏杆。但是，如果你把两米高的围栏外再种植一圈灌木，应该就能让猫更倾向于留在花园里。更进一步，你可以将有角度的格子、网、拉紧的线或绳子放在围栏的顶部，但要确保你的猫不会因此陷入陷阱或受伤。
 
-Planting 
+Planting 种植
 
 You may want to consider dedicating a corner in your garden specifically for your cat away from your wildlife feeding or nesting areas. In this space you could plant all those ‘cat-friendly’ plants such as catnip (Nepeta cataria), mint, cat thyme (Teucrium marum) and lavender. A patch of longer grass can provide a soft bed and cats may also nibble on it to help cough up hairballs. Plants – without thorns – can be placed to give your cat a shady spot to lie in during those hot and sunny days while logs provide excellent outdoor scratching posts. Many cats can feel threatened in exposed spaces, so ensure your cat has plenty of hiding and resting areas in the garden. 
 
-Other cats 
+你可能会考虑在花园中专门为猫提供猫窝，这个猫窝需要远离野生动物投喂筑巢的地点。在猫窝附近，你可以种植猫喜欢的植物，比如猫薄荷（荆芥）、薄荷、猫百里香（Teucrium marum）和薰衣草。 一片较长的草可以是猫供柔软的床，猫也可以通过啃食草来咳出毛球。 种植植物（不是荆棘）可以让你的猫在阳光充足的日子里躺在阴凉的地方，放置木桩则提供了极好的户外猫抓板。 许多猫在暴露的空间中会感到受到威胁，因此你需要确认猫在花园中有足够的隐藏和休息区。
+
+Other cats 其他猫
 
 If your cat is nervous about going outside, place some pot plants or other objects just outside the cat flap to provide hiding places they can use to survey the area. A magnetic or microchip cat flap can keep neighbour’s cats out of your home. For more information, see Cats Protection’s Essential Guide: Microchipping. To discourage other cats from entering the garden 
 – try clapping your hands or using a gentle water pistol. Try to discourage other cats from coming into, or overlooking your garden – sheds and walls are favoured areas – as this can be very threatening for anxious cats. 
+
 
 
 Indoor life 
