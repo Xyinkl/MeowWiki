@@ -145,15 +145,19 @@ Other cats 其他猫
 If your cat is nervous about going outside, place some pot plants or other objects just outside the cat flap to provide hiding places they can use to survey the area. A magnetic or microchip cat flap can keep neighbour’s cats out of your home. For more information, see Cats Protection’s Essential Guide: Microchipping. To discourage other cats from entering the garden 
 – try clapping your hands or using a gentle water pistol. Try to discourage other cats from coming into, or overlooking your garden – sheds and walls are favoured areas – as this can be very threatening for anxious cats. 
 
+如果你的猫胆小不敢外出，那可以在猫门外放置一些盆栽植物或者是其他物体，这样能够为猫提供藏身之所。磁性或者芯片识别的猫门能够阻止邻居家的猫进入。如果需要驱赶其他猫进入花园，你可以拍手或者是用小型的呲水枪。你需要阻止其他猫进入或者是窥探你的花园，尤其是棚屋以及墙壁，这样能够避免你的猫感受到威胁。
 
-
-Indoor life 
+Indoor life 猫的室内生活
 
 Ideally all cats would be allowed access to the outdoors to express their natural behaviour. However, cats can adapt to living indoors, particularly if they are used to it from a young age. Some cats need to be confined indoors due to medical conditions and others prefer an indoor life. If they become bored they may develop behaviour problems so there are a number of ways to keep your cat happy: 
 
-Keep them occupied… 
+理想状况下所有的猫都应该能够出门释放天性。但是，猫其实可以适应室内的生活。尤其是那些年幼时候就曾经在室内生活的猫。有的猫是因为健康的原因需要被强制关在屋子里，而有的猫则是倾向不出门。猫在家里如果感到无聊，可能会产生行为方面的问题，需要你用一下方式不断让猫保持活力：
+
+Keep them occupied… 让猫一直活跃
 
 Domestic cats that have free access to the outdoors will still often engage in hunting activity even if there is no access to prey – eg playing with fallen leaves, or grass blowing in the wind. 
+
+能够自由出门的猫通常会保持狩猎的活跃状态，即便没有猎物，也可以通过追逐落叶或者是草来活动。
 
 It is important to allow cats opportunities to exhibit hunting behaviour, as it keeps them mentally stimulated and releases feel-good hormones called endorphins. Indoor cats aren’t able to play outside, so it is important to provide them with toys and activities to keep them occupied. 
 
