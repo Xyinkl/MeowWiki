@@ -223,37 +223,37 @@ Indoor risks 室内养猫的风险
 . escape – keeping windows and doors shut to prevent an indoor cat escaping can be difficult in busy households. If the cat does get out, they’ll be highly stressed and disorientated as they’ll have no experience of the outdoor environment. It is recommended that you microchip your cat, even if they live indoors to increase the chance of them being reunited with you if they go missing 
 
 
-Enhancing and maximising the indoor environment for all cats 
+Enhancing and maximising the indoor environment for all cats 提升多猫家庭的室内环境
 
 Cats should be provided with a stimulating and safe indoor environment, whether they go outside or not. If your cat is solely kept indoors, then this is particularly essential. If you have more than one cat, offer enough resources in different locations where your cats can eat, drink, toilet, rest and hide. See Cats Protection’s Essential Guide: Cats living together for further guidance. 
 
-Feeding and drinking 
+Feeding and drinking 喂食以及饮水
 
 Cats like to eat and drink away from their litter tray, as understandably, it’s more hygienic. However, many people don’t realise that cats also like to have each of their food and water bowls in separate places too. This stems back to the cat’s evolutionary past, when they would eat in a different area to avoid contaminating their drinking source with the remains of their prey. 
 
 Avoid putting food and water bowls next to each other. Eating and drinking can be vulnerable activities for a cat – so try placing bowls slightly away from the wall, so that a cat can sit with their back to the wall and view their surroundings. Cats are all individuals and therefore have difference preferences for types of bowls, for example plastic, ceramic or metal bowls. 
 
 
-Play and exercise 
+Play and exercise 玩耍以及锻炼
 
 Keep your cat amused with toys, climbing towers or activity centres. These can be bought or made – a cardboard box with holes cut into it or a ball of tin foil can be perfectly adequate. Play is more fun if you get involved too – you can use fishing rod toys with feathers on a string to mimic their prey! Opportunities to exhibit hunting behaviour are often triggered by toys which move and attract the cat’s attention. Older cats will love playing three or four times a day, but the type of play may need to be adapted to suit their needs and level of mobility. For more information see Cats Protection’s Essential Guide: Elderly cats. 
 
 Younger cats will be happy to play 10 times a day or more. Very short games of one to two minutes are fine – cats use their energy in short bursts when hunting, so try to mimic this. Create interest at meal times by hiding biscuits around the house for your cat to find. Make a pyramid out of cardboard toilet roll tubes and hide food in the tubes, or use a puzzle ball. Swap toys around regularly to keep them interesting. 
 
 
-Somewhere to hide 
+Somewhere to hide 能隐藏的场所
 
 It is important to always provide your cat with an easily accessible place to hide which will help to make them feel safe and secure. A hiding place can be something as simple as a cardboard box on its side, or upside down with large holes for access. Alternatively, you could purchase an igloo style cat bed, or offer space under the bed or in a wardrobe with the door left ajar. The cat shouldn’t be disturbed while they are hiding. 
 
-Somewhere to get up high 
+Somewhere to get up high 能够登高的场所
 
 Cats feel safer if they can view their surroundings from a height and this also increases their territory by providing extra vertical space that they can use. This is a common coping mechanism for cats that feel anxious or fearful. You could place a cosy blanket on top of a wardrobe and provide access by placing a stool or similar item next to it. Cats also love to sit on window sills and shelves. Extra consideration should be given to elderly cats. For more information see Cats Protection’s Essential Guide: Elderly cats. 
 
-Sleeping 
+Sleeping 休息
 
 On average, cats spend about 16 hours a day sleeping. Cats generally rest or sleep intermittently throughout the day and will prefer a warm, comfortable and safe place. There is a large range of cat beds available, including igloo beds, or hammocks for the radiator. A simple cardboard box with a blanket inside will also do the trick. 
 
-Scratching and climbing 
+Scratching and climbing 抓挠以及攀爬
 
 A scratching post will provide exercise, claw maintenance and a focal point for your cat to express this natural behaviour 
 – it will help protect your furniture too. Cats like to stretch and scratch after they wake up, so try placing the scratching post near where they sleep. A good scratching post has the following features: 
@@ -270,12 +270,12 @@ Eating grass 吃草
 
 A type of grass that cats particularly like is Cocksfoot – it has long broad leaves so it is easy for them to bite. It is believed that eating grass helps cats to cough up hairballs. If your cat can’t go outside, Cocksfoot grass can be grown indoors. Seeds are readily available from garden centres and pet shops. If no grass is provided, your cat may try to eat other household plants which can pose a risk. 
 
-Toileting 
+Toileting 排泄
 
 It is a good idea to have one litter tray per cat, plus one extra – especially if your cats are kept indoors. Place the litter trays in different quiet areas of the house, away from the food and water bowls. Cats don’t like using dirty or soiled trays so make sure the litter tray is cleaned at least once a day. This helps to prevent accidents as well as being more hygienic. Cats generally prefer at least 3cm depth of litter and a litter of a sandy texture. Make any changes to the tray, the litter or its location very slowly to avoid accidents. 
 
 
-Indoors or outdoor access? 
+Indoors or outdoor access? 到底是否放猫出门？
 
 Overall, the decision on whether to keep the cat inside or allow access outdoors should be assessed on the cat’s personality, health, previous experience, the home and local outside environment and owner’s preferences. Cats kept solely indoors should be provided with ways to exhibit their natural behaviour to ensure their welfare, reduce dependency on owners and avoid undesirable behavioural issues. For more information, see Cats Protection’s Essential Guides: Caring for your cat, Understanding your cat’s behaviour and Keeping your cat safe 
 
