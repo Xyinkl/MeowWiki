@@ -195,12 +195,19 @@ Indoor risks 室内养猫的风险
 
 . While cats like some predictability about their environment, a static environment can be detrimental. Some indoor cats can develop fear of change, becoming sensitive to any differences within their small territory. These cats become more dependent on routine than the average cat 
 
+· 尽管猫喜欢相对稳定的环境，但是完全不变的环境也是有害的。有的养在室内的猫会形成对变化的恐惧，会对自己小领地出现的任何不同超级敏感。这些猫比平常的猫要更加依赖日常环境。
+
 . Your cat will be unable to hunt if kept solely indoors and will lose this mental stimulation. It may be more difficult for a cat to adjust to life indoors if they were once a prolific hunter or enjoyed the great outdoors 
+
+· 猫独自被养在室内不能够进行狩猎，也就没有了狩猎的精神刺激。这对于之前曾经是优秀猎手而且享受户外生活的猫来说可能很难接受。
 
 . If they don’t have outside access, your cat may not be able to escape from disruption such as building works, visitors or other pets in the household. While cats in multi-cat households with outdoor access can get some personal space, indoor-only cats may be stressed from living together in a restricted territory. See Cats Protection’s Essential Guide: Cats living together for further information 
 
+· 既然不能出门，那你的猫可能就会失去躲避装修、陌生访客或者是其他宠物的途径。在一个多猫家庭中，能够自由外出的猫能够有更多的自我空间。只养在室内的猫则会因为在一个小空间内生存而矛盾重重。参见猫咪保护基础指导之猫群居篇。
+
 . Cats confined indoors are not necessarily free from the risk of stress caused by other cats in the neighbourhood. A cat that can see another feline through a window can still be stressed by the presence of the cat within its territory and develop behavioural issues 
 
+· 就算养在室内，也不能完全保证你的猫不会被邻居的猫威胁到。能够远距离看到其他猫的存在就可能会使这只猫感到受威胁，进而引发行为问题。
 . Other hazards to be aware of: 
 
 . indoor hazards – It’s important to remember to keep cupboards, washing machines and tumble driers closed. Toilet lids should be kept down to avoid any risk of drowning. Balconies and windows should be safely fenced over with strong wire mesh or screens, making sure there are no gaps that your cat could fall through 
