@@ -159,24 +159,39 @@ Domestic cats that have free access to the outdoors will still often engage in h
 
 能够自由出门的猫通常会保持狩猎的活跃状态，即便没有猎物，也可以通过追逐落叶或者是草来活动。
 
-It is important to allow cats opportunities to exhibit hunting behaviour, as it keeps them mentally stimulated and releases feel-good hormones called endorphins. Indoor cats aren’t able to play outside, so it is important to provide them with toys and activities to keep them occupied. 
+It is important to allow cats opportunities to exhibit hunting behaviour, as it keeps them mentally stimulated and releases feel-good hormones called endorphins. Indoor cats aren’t able to play outside, so it is important to provide them with toys and activities to keep them occupied.
+
+让猫能够施展狩猎天性很重要，这样它们能够保持精神活跃，并且释放让猫感到愉悦的内啡肽。养在室内的猫不能出去玩，所以你需要用玩具来保持它们精神活跃不枯燥。
 
 If you are out of the house all day, you might consider getting two cats. They may keep each other company and stop each other from becoming bored. However, while this set up can work well if the two cats have been brought up together, this is not a guarantee. Even some siblings may prefer not to remain together once they reach adulthood. 
 
+如果你白天都外出不在家，那最好是考虑养两只猫。这样互相有个伴能够避免无聊。但是，这种做法需要两只猫能够和谐共处。这可不是一件容易事。即使是一窝的小猫，在长大后都不一定会和睦相处。
+
 If you do introduce a new cat to your home, it is critical to do this slowly and carefully to avoid lifelong tension which may lead to behavioural issues and conflict. If the two cats do not get along, it can be even more stressful for them if they are confined indoors and can never escape each other. See Cats Protection’s Essential Guide: Cats living together. 
 
-Indoor benefits 
+如果你需要新养一只猫，请一定谨慎让它们互相接受彼此，否则可能会引发很多行为问题。如果两只猫不能很好相处，那把它们留在室内不能互相逃离将会导致更严重的冲突。参见猫咪保护基础指导之猫群居篇。
+
+Indoor benefits 室内养猫的好处
 
 . Your cat will be protected from loss or outdoor hazards, such as road accidents, physical attacks from other animals and outdoor poisons, if they are kept solely indoors 
 
+· 单纯养在室内，你的猫不会有走丢的风险，也不会受到车祸、其他动物的袭击、户外有毒物质的伤害。
+
 . Your cat may be less likely to contract parasites or infectious disease through not having direct contact with other cats or the environment used by cats or other animals 
+
+· 因为没有接触其他动物或其他动物所生活的环境，你的猫更不容易染上寄生虫或者是传染病。
 
 . Your cat won’t hunt if kept solely indoors – assuming your house is rodent-proof – however, opportunities to play and express hunting behaviour must still be given 
 
+· 如果你家没有老鼠的话，猫不会去狩猎。但是一定要给猫自由释放狩猎行为的空间。
 
 
-Indoor risks 
+
+Indoor risks 室内养猫的风险
+
 . If they are not allowed outdoor access, your cat may suffer from frustration if they are unable to exhibit their natural behaviour. This may lead to various behavioural issues – depending on a number of factors, including the home environment, relationship and density of other cats in the home and the character of the cat. Examples of behavioural problems include scratching furniture, spraying, over grooming, aggression, house soiling and depression 
+
+· 如果不能出门，你的猫可能因为不能展露天性而感到无聊。基于不同的因素（家庭环境、猫的数量以及之间的关系）这可能会导致一系列行为问题。猫可能出现抓挠家具、喷尿、过度清洁、暴躁易怒、污染房屋以及过度沮丧等问题。
 
 . While cats like some predictability about their environment, a static environment can be detrimental. Some indoor cats can develop fear of change, becoming sensitive to any differences within their small territory. These cats become more dependent on routine than the average cat 
 
@@ -244,7 +259,7 @@ A scratching post will provide exercise, claw maintenance and a focal point for 
 
 
 
-Eating grass 
+Eating grass 吃草
 
 A type of grass that cats particularly like is Cocksfoot – it has long broad leaves so it is easy for them to bite. It is believed that eating grass helps cats to cough up hairballs. If your cat can’t go outside, Cocksfoot grass can be grown indoors. Seeds are readily available from garden centres and pet shops. If no grass is provided, your cat may try to eat other household plants which can pose a risk. 
 
