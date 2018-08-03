@@ -208,31 +208,50 @@ Indoor risks 室内养猫的风险
 . Cats confined indoors are not necessarily free from the risk of stress caused by other cats in the neighbourhood. A cat that can see another feline through a window can still be stressed by the presence of the cat within its territory and develop behavioural issues 
 
 · 就算养在室内，也不能完全保证你的猫不会被邻居的猫威胁到。能够远距离看到其他猫的存在就可能会使这只猫感到受威胁，进而引发行为问题。
+
 . Other hazards to be aware of: 
+
+· 其他需要注意的危险：
 
 . indoor hazards – It’s important to remember to keep cupboards, washing machines and tumble driers closed. Toilet lids should be kept down to avoid any risk of drowning. Balconies and windows should be safely fenced over with strong wire mesh or screens, making sure there are no gaps that your cat could fall through 
 
+· 室内的危险：你需要确保碗柜、洗衣机以及干衣机保持关闭。马桶盖应该保持关闭状态避免猫溺水。阳台以及窗户应该用坚固的丝网封闭，确保猫不会从缝隙中掉落。
+
 . 	houseplants – some plants and flowers – particularly lilies – can be toxic to cats. It’s probably best to ensure you don’t have plants that are dangerous to cats in your home, or certainly not within your cats’ reach 
+
+· 家庭种植的一些植物以及花卉，尤其是百合，对猫是有毒性的。你需要确保家里没有对猫有害的植物，或者是让猫不能够接触到这些植物。
 
 . household products – cats are very susceptible to poisoning. A number of everyday household items can pose a danger to cats and should be kept safely away – for further information see Cats Protection’s Essential Guide – Keeping your cat safe 
 
+· 家用化学品：猫对毒性物质很敏感。日常生活中很多常见的化学品都可能对猫造成伤害，应当小心放置。需要更多信息请参阅猫咪保护基础指导之保障你的猫的安全篇。
+
 . inactivity and obesity – indoor cats need to be provided with opportunities to exercise to avoid them getting fat or inactive which can lead to other health issues 
+
+· 不活跃以及肥胖：室内猫需要有机会锻炼身体，这样能够避免发胖、没精神引发其他健康问题。
 
 . over-dependence – a solitary indoor cat will rely on its owner to provide stimulation, companionship and exercise and can become over-dependent 
 
+· 过度依赖。孤单的养在室内的猫可能会因为过于依赖主人的陪伴、玩耍而造成过度依赖。
+
 . escape – keeping windows and doors shut to prevent an indoor cat escaping can be difficult in busy households. If the cat does get out, they’ll be highly stressed and disorientated as they’ll have no experience of the outdoor environment. It is recommended that you microchip your cat, even if they live indoors to increase the chance of them being reunited with you if they go missing 
 
+· 逃跑。在忙碌的家庭中，随时保持门窗紧闭避免猫逃跑是很难做到的。如果猫确实跑出去了，那么它很可能会因为毫无室外经验而遭受很大压力。就算养在室内，我们也建议你给猫植入芯片，这样能够提高猫一旦走失后找回的概率。
 
 Enhancing and maximising the indoor environment for all cats 提升多猫家庭的室内环境
 
 Cats should be provided with a stimulating and safe indoor environment, whether they go outside or not. If your cat is solely kept indoors, then this is particularly essential. If you have more than one cat, offer enough resources in different locations where your cats can eat, drink, toilet, rest and hide. See Cats Protection’s Essential Guide: Cats living together for further guidance. 
 
+无论猫是否能够外出，你都应该为其提供一个安全、有趣的室内环境。如果你的猫是单纯养在室内的，那室内环境的营造尤为重要。如果你有不止一只猫，那你必须在不同地点放置足够多的猫粮、水、猫砂等资源，确保每只猫都能找到地点进食、饮水、如厕、歇息和隐藏。参阅猫咪保护基础指导之群居的猫篇。
+
 Feeding and drinking 喂食以及饮水
 
 Cats like to eat and drink away from their litter tray, as understandably, it’s more hygienic. However, many people don’t realise that cats also like to have each of their food and water bowls in separate places too. This stems back to the cat’s evolutionary past, when they would eat in a different area to avoid contaminating their drinking source with the remains of their prey. 
 
+理所当然，猫喜欢在远离猫砂盆的地方进食和饮水，这样更为清洁。不过，很多人都不知道猫的食物和水都要单独放置才好。这种需求源自猫额祖先，在远离水源的地方进食能够避免猎物残骸污染水源。
+
 Avoid putting food and water bowls next to each other. Eating and drinking can be vulnerable activities for a cat – so try placing bowls slightly away from the wall, so that a cat can sit with their back to the wall and view their surroundings. Cats are all individuals and therefore have difference preferences for types of bowls, for example plastic, ceramic or metal bowls. 
 
+避免把食碗和水碗房子一起。进食和饮水对于猫是有风险的活动。因此将碗放在稍稍远离墙壁的地方能够让猫背靠墙壁进食或者进水，这样就能够同时监控周围情况。猫个体性很强。因此对食碗的材质也各有偏好，有的喜欢塑料的，有的喜欢陶瓷的，还有的喜欢金属的。
 
 Play and exercise 玩耍以及锻炼
 
