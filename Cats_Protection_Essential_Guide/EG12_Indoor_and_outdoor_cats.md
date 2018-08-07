@@ -257,7 +257,11 @@ Play and exercise 玩耍以及锻炼
 
 Keep your cat amused with toys, climbing towers or activity centres. These can be bought or made – a cardboard box with holes cut into it or a ball of tin foil can be perfectly adequate. Play is more fun if you get involved too – you can use fishing rod toys with feathers on a string to mimic their prey! Opportunities to exhibit hunting behaviour are often triggered by toys which move and attract the cat’s attention. Older cats will love playing three or four times a day, but the type of play may need to be adapted to suit their needs and level of mobility. For more information see Cats Protection’s Essential Guide: Elderly cats. 
 
+你可以用猫玩具、猫爬架或其他玩具来保持猫的兴奋状态。这些玩具可以购置也能自制，把纸箱掏孔或者把铝箔团成团，都可以是很好的玩具。如果有你的参与，那就会更为有趣，你可以用挂有羽毛的逗猫棒来模拟它们的猎物。来回晃动的玩具能够吸引猫的注意力，使其展示出狩猎的行为。老年猫每天需要玩耍三到四次。当然这种玩耍需要适配它们的需求和活动量。需要更多信息，请参阅猫咪保护基础指导之老年猫篇。
+
 Younger cats will be happy to play 10 times a day or more. Very short games of one to two minutes are fine – cats use their energy in short bursts when hunting, so try to mimic this. Create interest at meal times by hiding biscuits around the house for your cat to find. Make a pyramid out of cardboard toilet roll tubes and hide food in the tubes, or use a puzzle ball. Swap toys around regularly to keep them interesting. 
+
+幼猫可能每天需要玩耍十次甚至更多。每次一两分钟的玩耍就足够。幼猫会在狩猎猛扑的过程中消耗足够多的能量。所以短时间的玩耍就足够模拟这种过程。你可以在喂食时间在房间各处藏匿好食物，让猫自己发现。或者你可以用硬纸筒搭一个金字塔，并且把食物放在里面。或者用喂食球。你可以定期变换玩具的位置，来保持其对猫的吸引力。
 
 
 Somewhere to hide 能隐藏的场所
