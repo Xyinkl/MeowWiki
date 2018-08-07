@@ -268,6 +268,8 @@ Somewhere to hide 能隐藏的场所
 
 It is important to always provide your cat with an easily accessible place to hide which will help to make them feel safe and secure. A hiding place can be something as simple as a cardboard box on its side, or upside down with large holes for access. Alternatively, you could purchase an igloo style cat bed, or offer space under the bed or in a wardrobe with the door left ajar. The cat shouldn’t be disturbed while they are hiding. 
 
+对于猫来说，有个能够随时躲藏、能够让它们感到安全的场所相当重要。这个安全场所可以是简单在外侧开孔的纸箱。也可以是买来的雪屋式的猫窝，或者也可能是床下的空间，或者是柜门打开的碗柜。在躲藏状态的猫最好不要被惊动。
+
 Somewhere to get up high 能够登高的场所
 
 Cats feel safer if they can view their surroundings from a height and this also increases their territory by providing extra vertical space that they can use. This is a common coping mechanism for cats that feel anxious or fearful. You could place a cosy blanket on top of a wardrobe and provide access by placing a stool or similar item next to it. Cats also love to sit on window sills and shelves. Extra consideration should be given to elderly cats. For more information see Cats Protection’s Essential Guide: Elderly cats. 
