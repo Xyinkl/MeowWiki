@@ -305,12 +305,16 @@ Eating grass 吃草
 
 A type of grass that cats particularly like is Cocksfoot – it has long broad leaves so it is easy for them to bite. It is believed that eating grass helps cats to cough up hairballs. If your cat can’t go outside, Cocksfoot grass can be grown indoors. Seeds are readily available from garden centres and pet shops. If no grass is provided, your cat may try to eat other household plants which can pose a risk. 
 
+猫尤其喜欢吃的一种草叫做鸭茅，这种草又长又宽的叶子猫咬起来比较容易。研究表明吃草能够帮助猫吐出肚子里的毛球。如果你的猫不能外出，那么能够种植鸭茅草。种子可以从花园或者宠物店获得。如果没有草可以吃，那你的猫可能会试图吃别的植物，有中毒的危险。
+
 Toileting 排泄
 
 It is a good idea to have one litter tray per cat, plus one extra – especially if your cats are kept indoors. Place the litter trays in different quiet areas of the house, away from the food and water bowls. Cats don’t like using dirty or soiled trays so make sure the litter tray is cleaned at least once a day. This helps to prevent accidents as well as being more hygienic. Cats generally prefer at least 3cm depth of litter and a litter of a sandy texture. Make any changes to the tray, the litter or its location very slowly to avoid accidents. 
 
+最好是给每只猫都预备一个猫砂盆，如果你的猫都不能出门，那额外再加一个。你应该把猫砂盆放在家中不同的尽量安静的位置，远离食物和水源。猫不喜欢用脏的猫砂。所以确保每天都清理猫砂。这能在保持卫生的同时避免各种意外的发生。猫通常需要至少3cm厚的砂质猫砂。如果需要更换猫砂、猫砂盆或者是其地点的时候，你需要小心谨慎，避免出现各种意外。
 
 Indoors or outdoor access? 到底是否放猫出门？
 
 Overall, the decision on whether to keep the cat inside or allow access outdoors should be assessed on the cat’s personality, health, previous experience, the home and local outside environment and owner’s preferences. Cats kept solely indoors should be provided with ways to exhibit their natural behaviour to ensure their welfare, reduce dependency on owners and avoid undesirable behavioural issues. For more information, see Cats Protection’s Essential Guides: Caring for your cat, Understanding your cat’s behaviour and Keeping your cat safe 
 
+一般来说，是否让猫出门，应该根据猫的性格、健康、过往经历、室内外的环境以及主人的偏好而定。单纯养在室内的猫应该有机会施展天性，减少其对主人的依赖，并且避免不必要的行为问题。需要更多信息，请参阅猫咪保护基础指导之关爱你的猫篇、理解猫的行为篇以及保障猫的安全篇。
