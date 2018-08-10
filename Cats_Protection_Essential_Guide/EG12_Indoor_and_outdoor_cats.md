@@ -280,22 +280,25 @@ Sleeping 休息
 
 On average, cats spend about 16 hours a day sleeping. Cats generally rest or sleep intermittently throughout the day and will prefer a warm, comfortable and safe place. There is a large range of cat beds available, including igloo beds, or hammocks for the radiator. A simple cardboard box with a blanket inside will also do the trick. 
 
-猫平均每天花16小时睡觉。通常会间断进行休息。倾向于舒适，安全，温暖的场所。可以选择的猫窝有很多，比如雪屋式样的猫窝或者是能够挂在暖气上的吊床。仅仅是一个里面放的毯子的纸箱子都可以是很好地猫窝。
+猫平均每天花16小时睡觉。通常会间断进行休息。倾向于舒适，安全，温暖的场所。可以选择的猫窝有很多，比如雪屋式样的猫窝或者是能够挂在暖气上的吊床。仅仅是一个里面放的毯子的纸箱子都可以是很好的猫窝。
 
 
 Scratching and climbing 抓挠以及攀爬
 
 A scratching post will provide exercise, claw maintenance and a focal point for your cat to express this natural behaviour 
-
+猫抓板能够为猫提供一个锻炼身体，保养指甲以及以及集中注意力以释放天性的对象。
 
 – it will help protect your furniture too. Cats like to stretch and scratch after they wake up, so try placing the scratching post near where they sleep. A good scratching post has the following features: 
+- 猫抓板同样也可以保护你的家具。猫习惯在睡醒之后伸展身体，并且抓挠东西，所以你可以试着把猫抓碗放在他们睡觉的地方，一个好的猫抓板应该是这样的：
 
 . a strong sturdy base so the cat can lean against the post without it wobbling 
+· 有一个足够坚固的底盘，这样猫能够倚靠在上面不会摇晃。
 
 . tall enough that the cat can stretch fully 
+· 足够高，这样猫能够完全的收舒展身体。
 
 . a vertical thread that allows the cat to scratch downwards 
-
+· 有竖直的柱子，这样猫能够向下磨爪。
 
 
 Eating grass 吃草
