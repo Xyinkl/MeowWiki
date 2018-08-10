@@ -6,10 +6,14 @@
 
 @(Evernote)[计划, 翻译, 猫]
 
-Cats and the law 
+Cats and the law 猫咪以及相关法律
 
 
 Much of the law in relation to animals has now been consolidated in the Animal Welfare Act 2006 which applies in England and Wales, the Animal Health & Welfare (Scotland) Act 2006 and the Welfare of Animals Act (Northern Ireland) 2011. This leaflet also refers to other legislation which remains relevant. 
+
+很多与动物相关的法律现在都已经被整合进了
+
+
 
 Animal Welfare Act 2006 
 
