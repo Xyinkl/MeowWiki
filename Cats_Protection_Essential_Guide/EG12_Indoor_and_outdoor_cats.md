@@ -274,13 +274,20 @@ Somewhere to get up high 能够登高的场所
 
 Cats feel safer if they can view their surroundings from a height and this also increases their territory by providing extra vertical space that they can use. This is a common coping mechanism for cats that feel anxious or fearful. You could place a cosy blanket on top of a wardrobe and provide access by placing a stool or similar item next to it. Cats also love to sit on window sills and shelves. Extra consideration should be given to elderly cats. For more information see Cats Protection’s Essential Guide: Elderly cats. 
 
+如果能够在高处环视四周，猫通常都会感到更加安全并且这也会给猫提供额外的垂直方向的空间。对于感到焦虑和恐惧的猫来说，这是一种相当普适的做法。你可以在碗柜的顶部放一个比较舒适的笼子，并且在附近放一个猫爬架或者类似的东西，让猫能够很容易的上去。猫同样喜欢在窗户边上以及柜子上坐着对于老年猫来说，你应该更多的考虑更多，请参阅猫咪保护基础指导之老年猫篇。
+
 Sleeping 休息
 
 On average, cats spend about 16 hours a day sleeping. Cats generally rest or sleep intermittently throughout the day and will prefer a warm, comfortable and safe place. There is a large range of cat beds available, including igloo beds, or hammocks for the radiator. A simple cardboard box with a blanket inside will also do the trick. 
 
+猫平均每天花16小时睡觉。通常会间断进行休息。倾向于舒适，安全，温暖的场所。可以选择的猫窝有很多，比如雪屋式样的猫窝或者是能够挂在暖气上的吊床。仅仅是一个里面放的毯子的纸箱子都可以是很好地猫窝。
+
+
 Scratching and climbing 抓挠以及攀爬
 
 A scratching post will provide exercise, claw maintenance and a focal point for your cat to express this natural behaviour 
+
+
 – it will help protect your furniture too. Cats like to stretch and scratch after they wake up, so try placing the scratching post near where they sleep. A good scratching post has the following features: 
 
 . a strong sturdy base so the cat can lean against the post without it wobbling 
