@@ -45,10 +45,14 @@ The penalties for committing an offence of cruelty or for failing to provide for
 
 The Act also increases the minimum age at which anyone can buy a cat or other animal to 16. 
 
-Animal Health and Welfare (Scotland) Act 2006 
+本法案同样将能够领养猫或其他宠物的最低年龄限制提升至16岁。
+
+Animal Health and Welfare (Scotland) Act 2006 2006苏格兰动物健康及福利法案
+
 
 The Scottish Act mirrors many of the provisions of the Animal Welfare Act 2006 but with some differences. For example, the Scottish Act retains the offence of abandonment, whereas in England and Wales this is covered by the cruelty offences and the duty to ensure welfare. 
 
+苏格兰法案沿袭了很多2006动物福利法案的规定，但也有所不同。举例来说，遗弃动物在苏格兰法案中被算是
 Welfare of Animals Act (Northern Ireland) 2011 
 
 The Northern Irish Act mirrors the provisions of the other two Acts and, like the Scottish Act, retains the offence of abandonment. 
