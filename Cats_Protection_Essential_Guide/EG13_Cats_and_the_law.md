@@ -11,28 +11,37 @@ Cats and the law 猫咪以及相关法律
 
 Much of the law in relation to animals has now been consolidated in the Animal Welfare Act 2006 which applies in England and Wales, the Animal Health & Welfare (Scotland) Act 2006 and the Welfare of Animals Act (Northern Ireland) 2011. This leaflet also refers to other legislation which remains relevant. 
 
-很多与动物相关的法律现在都已经被整合进了
+很多与动物相关的法律现在都已经被整合进了2006年英格兰和威尔士施行的动物福利法案、2006年苏格兰的动物健康及福利法案，以及2011年北爱尔兰动物福利法案。本手册也援引了其他一些相关法条。
 
 
 
-Animal Welfare Act 2006 
+Animal Welfare Act 2006 2006动物福利法案
 
 The Act contains provisions which are aimed at preventing cruelty and promoting and ensuring the welfare of animals. 
+本法案为避免动物遭受残酷行径并促进动物生活水平，制定以下规定：
 
 The Act applies to both domestic and feral cats. In addition to cruelty offences, the Act now places an obligation on owners – as well as those in charge of or responsible for cats – to ensure that their welfare needs are met, emphasising the need: 
 
+本法案适用于家猫以及野猫。在涉及暴力侵害的情况下，本法案强制要求猫主人，以及对猫存在管控责任的人满足以下猫的需求：
+
 . for a suitable environment – place to live 
+· 有一个适合生活的舒适环境
 
 . for a suitable diet 
+· 有适宜的食物
 
 . to exhibit normal behaviour patterns 
+· 能够施展正常的天性
 
 . to be housed with, or apart from, other animals 
+· 和其他动物被养在家里，或者是远离其他动物。
 
 . to be protected from pain, suffering, injury and disease 
-
+· 避免其受到疼痛、伤病的折磨
 
 The penalties for committing an offence of cruelty or for failing to provide for an animal’s welfare needs include a ban from owning animals, a fine of up to ￡20,000 or, in some cases, a six-month prison sentence. 
+
+对于施暴的个人以及未能提供以上生活条件的主人，可能会受到“禁养宠物”“最高20000英镑罚金”的惩罚，某些情况下可能会面对六个月的监狱生涯。
 
 The Act also increases the minimum age at which anyone can buy a cat or other animal to 16. 
 
