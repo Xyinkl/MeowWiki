@@ -6,16 +6,22 @@
 
 @(Evernote)[计划, 翻译, 猫]
 
-Cats and people 
+Cats and people 猫咪和人类
 
 
 If you already share your life with a cat, you’re probably aware that you get far more than just companionship and affection in return, but did you know that owning a cat has proven health and social benefits? 
 
+如果你已经在养一只猫了，那你可能已经了解到了养猫能够得到陪伴和情感上的回馈。但是你是否知道，拥有一只猫也能够对你的身体健康以及社交产生促进呢？
+
 Cat owners are less likely to suffer from stress and are known to relax more and have greater life satisfaction. Cats keep their owners feeling young and active and learning how to care for a cat can do wonders for a child’s self-esteem, social skills and sense of responsibility to others. For many owners, their cat is an integral member of the family – inspiring feelings of peace, joy and happiness and providing fun and laughter. The emotional bond between human and pet can be as rewarding as many human relationships and may offer similar psychological benefits. Cats can make a house a home. 
 
-Domestication 
+养猫的人更不容易受到焦虑的困扰，而且更倾向于休闲，对人生的满意度更高。猫能够让主人感觉年轻、有激情。学习如何关爱一只猫能够帮助形成孩子的自尊心形成、社交技巧以及对他人的责任感。对于很多主人来说，他们的猫已然是家庭的一份子了，能够为家庭提供安详平和、欢声笑语的气氛。在猫和人之间形成的情感联系像人与人之间的关系一样，能够提供心理学上的促进。猫让一个家更像家。
+
+Domestication 驯化
 
 The earliest evidence of cats living with man comes from a 9500 year old grave found in Cyprus. A human and a cat were found buried together – thought to be ‘early evidence for the taming of cats.’ Before this grave was discovered, tombs containing mummified cats and depictions in art from ancient Egypt – around 2000 BC – were the earliest proof we had of cats living alongside people. 
+
+猫最早被证明和人生活在一起的证据是在塞浦路斯的一个有9500年历史的坟墓。一个人和一只猫被葬在一起，这也被认为是猫被驯化最早期的证据。在此之前，最早能够证明猫和人生活在一起的是，公元前2000年左右的古埃及绘画以及装有被制作成木乃伊的猫的坟墓。
 
 Domestication of cats probably began in the Middle East. A change in farming activities meant that quantities of grain were stored near human settlements. Rodents fed on the grain, attracting wildcats which found them an easy source of food. Humans grew to value these cats for protecting their grain stores from vermin and probably encouraged this mutually beneficial relationship to some degree. As cats became more esteemed – even idolised as gods – man looked after them and in some cases, controlled their breeding. This has resulted in the domestic cat species found throughout the world today. However, the term domestication relates to a species where all the breeding and care has been controlled by people and this is not strictly the case for cats. 
 
