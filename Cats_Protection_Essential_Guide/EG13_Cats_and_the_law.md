@@ -114,14 +114,20 @@ If large numbers of cats are kept at a domestic residence, the Local Planning Au
 
 Environmental Health Departments also have powers under the Environmental Protection Act 1990 in respect of nuisance or hazards – such as fouling, smell and noise – caused as a result of too many cats being kept at a single property. 
 
+环境卫生部门同样有权根据1990环保法案中“妨碍他人”的定义，对可能造成环境气味污染、噪音污染的多猫家庭进行管辖。
 
 
 If the welfare needs of cats kept in large numbers at a single property are not being met, this may constitute a breach of the duty to ensure welfare under the Animal Welfare Act and may constitute an offence under the Act. 
 
-Pet Travel Schemes (PETS) 
+如果你在一个地方养了太多的猫，以至于不能满足猫的生存需要，那可能会被动物福利法案定义为失职，也可能会被视为违法。
+
+Pet Travel Schemes (PETS) 宠物旅行计划
 
 The Pet Travel Scheme (PETS) allows cats and other animals to travel and enter the UK without the need for quarantine,provided that certain requirements are fulfilled. 
 
+在一定条件下，宠物旅行计划允许猫和其他动物进出英国而无需隔离。
+
 More information about PETS can be obtained from the government website – visit www.gov.uk or phone 0870 241 1710. See Cats Protection’s Essential Guide: Moving house. 
 
+你可以登录政府网站（www.gov.uk）或者拨打电话（0870 241 1710）获取关于宠物旅行计划的更多信息。更多请参见猫咪保护基础指导之搬家篇。
 
