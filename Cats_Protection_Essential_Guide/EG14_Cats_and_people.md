@@ -25,31 +25,44 @@ The earliest evidence of cats living with man comes from a 9500 year old grave f
 
 Domestication of cats probably began in the Middle East. A change in farming activities meant that quantities of grain were stored near human settlements. Rodents fed on the grain, attracting wildcats which found them an easy source of food. Humans grew to value these cats for protecting their grain stores from vermin and probably encouraged this mutually beneficial relationship to some degree. As cats became more esteemed – even idolised as gods – man looked after them and in some cases, controlled their breeding. This has resulted in the domestic cat species found throughout the world today. However, the term domestication relates to a species where all the breeding and care has been controlled by people and this is not strictly the case for cats. 
 
-对猫的驯化可能起源于中东。种植活动的变迁使得大量的谷物被存放在人类住处附近。而鼠类吃谷物，这会把野猫吸引过来。
+对猫的驯化可能起源于中东。种植活动的变迁使得大量的谷物被存放在人类住处附近。而鼠类吃谷物，这会把野猫吸引过来。因为野猫能够保护谷物不被害虫所侵蚀，这也在一定程度上促进了这种双方共赢关系的建立。猫逐渐被人更为尊重甚至是被神化，于是人类开始照顾他们，并且在有些时候会控制他们的繁衍。这就导致了世界各地现在普遍存在的家猫的物种产生。不过“驯化”意味着整个种族的繁衍都被人类控制，这一点在猫上并不严格适用。
 
 These days, in spite of ‘domestication,’ all cats need to have positive and friendly experiences with humans from a young age in order to feel safe around people. Between the ages of two to eight weeks of age, the brains of kittens are developing 
 – it is a key time in their life known as the socialisation period when they are able to be socialised with people. If they are handled and gently cared for by a variety of people during this crucial time, they will usually grow up to be friendly pets. Without this early learning experience, kittens will become wild – feral cats – and remain fearful of people throughout their life. 
 
+时至今日，无论“驯化”与否，所有的猫都需要在早期和人类有正向、友善的接触经历，这样才能安然待在人类附近。在幼猫2至8周的时候，其脑补正在发育，这也是被叫做“社交发展阶段”的关键时期，在这段时期幼猫能够人类正常互动。如果在这个阶段幼猫能够被不同的人轻柔友善的对待，那么长大后通常都会是很友善的宠物。如果没有这段体验，幼猫则会长大变成野猫，终身保持对人类的恐惧。
+
 Feral cats are usually the offspring of abandoned cats, or those already living wild. They make great mousers so are often found living as farm cats, but they also live in towns and cities. Feral cats can survive in the wild with little or no human intervention. Obviously, they are still able to breed with our pet cats, which is one of the reasons why neutering is so important. For further information, see the Cats Protection Essential Guide: Feral cats. 
 
-Cats in modern society 
+野猫通常都是野猫或者是被人遗弃的猫的后代。它们是猎鼠能手，所以经常会作为农场猫出现。不过，有的野猫也会在城镇和城市中生存。野猫在野外中极少或不依靠人类干预而生存。而且它们能够和家中的宠物猫交配。这也是需要给猫做绝育的很重要的原因。了解更多，请参阅猫咪保护基础指导之野猫篇。
+
+Cats in modern society 现代社会中的猫
 
 Cats continue to benefit people in a wide range of ways – providing eco-friendly vermin control on farms and stables, companionship in family homes or cheering up the residents in a care home. Living with a feline friend brings many benefits and it also places legal responsibilities on the owner. Much of the law in relation to animals has now been consolidated into the Animal Welfare Act 2006 – England and Wales. Scotland and Northern Ireland have equivalent legislation – the Animal Health and Welfare (Scotland) Act 2006 and the Welfare of Animals Act (Northern Ireland) 2011. The Act applies to both domestic and feral cats and in addition to cruelty offences, it places a duty of care on owners and those responsible for looking after cats to ensure that their welfare needs are met. These emphasise the need: 
 
+猫仍然以多种形式造福人类：比如在农场和牛棚提供一种无害环境的害虫控制，比如在家中陪伴人类，以及在养老院给老人带来温暖。和猫生活在一起有诸多好处，但是主人同时也要尽到法定的义务。很多与动物保护相关的法律都已经被整合进了2006年英格兰和威尔士的动物福利法案。苏格兰和北爱尔兰也有类似的法案：苏格兰2006动物健康和福利法案以及北爱尔兰2011动物福利法案。这些法案适用于所有猫（无论是野猫还是家猫），对于可能存在的虐待动物行径，法案要求动物主人或者负有管控责任的个人应当确保猫的以下生活需求得到保障：
+
 . for a suitable environment (place to live) 
+· 有一个舒适的生存环境
 
 . for a suitable diet 
+· 有适宜的饮食来源
 
 . to exhibit normal behaviour patterns 
+· 能够自由施展天性
 
 . to be housed with, or apart from, other animals 
+· 和其他动物同居一室，或者是远离一些其他动物
 
 . to be protected from pain, suffering, injury and disease 
-
+· 不受到伤痛，疾病的折磨。
 
 Sadly, cats sometimes become the innocent victims of people 
-–
+遗憾的是，猫有的时候会成为人们之间无辜的受害者。
+
  through ignorance or neglect, or due to intentional cruelty and over breeding – so it is important to understand what they need to ensure their physical and emotional welfare. Pets can sometimes become targets for abuse in households affected by domestic violence, so Cats Protection is involved in an initiative called the Freedom Project in collaboration with Dogs Trust to protect cats and dogs in danger. For more information on an owner’s duty of care and cruelty, see Cats Protection Essential Guide: Cats and the law. 
+
+无论是不管不顾还是有意虐待，或者是过度繁衍，主人对于猫的生理、心理需求应该有所了解。宠物有的时候会成为家庭暴力的出气筒，所以猫咪保护致力于Freedom Project的项目，联合Dogs Trust对处在危险之中的猫和狗进行营救。需要关于主人的责任以及虐待动物相关信息，请参阅猫咪保护基础指导之猫和法律篇。
 
 It is important that owners provide the right care and resources to meet their pet’s biological and emotional needs, as well as neutering their cat before it can breed. It is very important to neuter your cat – there are already thousands of unwanted cats and kittens and not enough homes for them. A large cat population also has a negative impact on our current pets. Cats often live in close proximity in neighbouring homes 
 
