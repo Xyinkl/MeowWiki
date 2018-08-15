@@ -25,6 +25,8 @@ The earliest evidence of cats living with man comes from a 9500 year old grave f
 
 Domestication of cats probably began in the Middle East. A change in farming activities meant that quantities of grain were stored near human settlements. Rodents fed on the grain, attracting wildcats which found them an easy source of food. Humans grew to value these cats for protecting their grain stores from vermin and probably encouraged this mutually beneficial relationship to some degree. As cats became more esteemed – even idolised as gods – man looked after them and in some cases, controlled their breeding. This has resulted in the domestic cat species found throughout the world today. However, the term domestication relates to a species where all the breeding and care has been controlled by people and this is not strictly the case for cats. 
 
+对猫的驯化可能起源于中东。种植活动的变迁使得大量的谷物被存放在人类住处附近。而鼠类吃谷物，这会把野猫吸引过来。
+
 These days, in spite of ‘domestication,’ all cats need to have positive and friendly experiences with humans from a young age in order to feel safe around people. Between the ages of two to eight weeks of age, the brains of kittens are developing 
 – it is a key time in their life known as the socialisation period when they are able to be socialised with people. If they are handled and gently cared for by a variety of people during this crucial time, they will usually grow up to be friendly pets. Without this early learning experience, kittens will become wild – feral cats – and remain fearful of people throughout their life. 
 
