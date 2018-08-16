@@ -66,17 +66,18 @@ Sadly, cats sometimes become the innocent victims of people
 
 It is important that owners provide the right care and resources to meet their pet’s biological and emotional needs, as well as neutering their cat before it can breed. It is very important to neuter your cat – there are already thousands of unwanted cats and kittens and not enough homes for them. A large cat population also has a negative impact on our current pets. Cats often live in close proximity in neighbouring homes–this reduces their territory size, causing conflict as each cat defends their patch. Discord can also occur between cats in the same household if they are forced to share territories and they can’t get along. The fashion for minimalist home interiors and gardens also means there are fewer refuges for cats to retreat to. Feline infectious diseases are also more efficiently spread when cats are densely populated. Cats are rapid breeders and the number of kittens they produce increases with ample food and shelter, so the population of our loved pets can quickly get out of control if they aren’t neutered. 
 
-
 对于主人来说，基于宠物的生理心理需求给予正确的护理以及照顾是很有必要的，比如在猫能够生育之前就为其进行绝育。现在已经有成千上万的流浪猫没有家庭能够安置。太多猫同样对家中的宠物猫也是危害。流浪猫大多生活在临近的社区。这会减少彼此的领地范围，为了维护自己的领地而造成冲突。如果几只猫被迫待在同一个地方还不能友善相处，那很可能会出现不合的情况。极简风格的家装以及花园造成了猫能够躲藏的地方越来越少。猫之间的传染病在多猫环境下更容易传播。食物、水源充足的条件下，猫繁殖很快。所以如果不给我们心爱的宠物做绝育手术，那可能很快家里猫的数量就会失控。
-
-
 
 Neutering not only helps with population control but it also brings many benefits to the individual cat, particularly if performed before sexual maturity is reached. This includes health benefits eg a reduction or prevention of certain cancers and behavioural benefits – neutered cats are less likely to roam, fight or spray. For more information on the benefits of neutering see Cats Protection’s Essential Guide: Neutering – family planning for felines. 
 
-Cats and children 
+绝育不光有助于猫的数量控制，也能够对猫个体有好的作用，尤其是在猫性成熟之前就进行绝育的。比如绝育能够减少或者避免某些种类的癌症的发生，形成不容易狂奔、打架、喷尿的温顺性格。需要更多关于绝育的信息，请参照猫咪保护基础指导之绝育篇
+
+
+Cats and children 猫和孩子
 
 Growing up with a pet can be an extremely rewarding experience for any youngster. Many children regard their cat as their best friend and it is through this friendship that important lessons are learned – in trust and empathy, care and love – which help children become responsible and caring adults. For an only child, their cat may provide a vital source of friendship and opportunity for play – children often prefer to share their feelings with a pet rather than another person. There are many physical benefits for children too and pet ownership can provide a source of comfort during recovery and rehabilitation. A number of studies in the UK and USA report that exposure to pets during infancy may significantly reduce the risk for asthma and allergies in later childhood. Primary school children from pet-owning households are also shown to have lower sickness absenteeism from school. 
 
+和猫一起成长对任何一个孩子来说都是绝佳的经历。很多孩子都把猫当做是他们最好的朋友，并从这段友谊中受益良多。信任、同情、关爱、呵护，这些都能够让孩子更加有责任感，对成年人更加关心。对独生子女，猫能给予孩子的友谊，也是绝佳的玩伴。孩子可能更倾向于跟宠物而非成年人去分享自己的感受。
 Learning by experience 
 
 From their earliest days, children can be taught to be gentle and kind with cats. Children learn best by example – if you treat your cat gently with love and respect, it’s more likely your children will grow up to do the same. 
