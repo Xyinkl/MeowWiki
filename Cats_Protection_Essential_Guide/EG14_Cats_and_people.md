@@ -87,15 +87,19 @@ From their earliest days, children can be taught to be gentle and kind with cats
 
 As soon as your children can understand, explain that cats like to be left alone when sleeping or eating and that they can become frightened when people shout, make sudden movements or try to grab them. Children soon learn to interpret the signs of an unhappy cat – the swishing tail, ruffled-up fur or hissing – and will avoid doing things that upset them. Your children will love helping to take care of your cat too, so involve them in the feeding, grooming and playing routines and you’ll have happy children and a content cat! 
 
-逐渐，孩子们会理解，最好不要在猫吃饭和睡觉的时候打扰它，如果大声吵闹或者是突然袭击试图抓住它，是会让猫受到惊吓的。孩子们会理解猫状态不好时的状态，比如摆动尾巴、炸毛或者是嘶叫，进而避免做出可能惊扰到猫的行为。你的孩子也会喜欢照顾猫，所以可以让他帮忙给猫喂食、梳毛，陪猫玩耍。这样你会拥有一个高兴的孩子，也会有一只满意的猫。
+逐渐，孩子们会理解，最好不要在猫吃饭和睡觉的时候打扰它，如果大声吵闹或者是突然袭击试图抓住它，是会让猫受到惊吓的。孩子们会理解猫状态不好时的状态，比如摆动尾巴、炸毛或者是嘶叫，进而避免做出可能惊扰到猫的行为。你的孩子也会喜欢照顾猫，所以可以让他帮忙给猫喂食、梳毛，陪猫玩耍。这样你会拥有一个高兴的孩子，也会有一只惬意的猫。
 
 Cats feel safer if they can watch events taking place from an accessible high vantage point. Provide your cat with a high window sill, cupboard top or add some cat shelves. This will mean they can still be involved in family life but out of the hectic hullabaloo going on below! Teach children not to disturb the cat while they are in their safe place, or while they are sleeping, eating or using the litter tray. 
 
+猫如果能够在高处观察所有事情，会更有安全感。你可以给猫准备一个高的窗台、碗柜或者是猫爬架。这样就能让猫既不被下面家庭生活的喧闹打扰，又能够静静地参与其中。你需要教导孩子不要在猫处在它们认为安全的地方时打扰它，也不要在猫吃饭睡觉或者是上厕所的时候打扰它。
+
 Food or litter trays should be moved out of the reach of toddlers, but put some thought into the new locations. Ensure they are still located in a place suitable for the cat, to avoid any stress or toileting accidents. See Cats Protection’s Essential Guide: Feline behaviour for more information. 
+
+食物和猫砂盆应该放在孩子不能接触到的地方，放置的场所应该谨慎考虑。确保这些东西的位置让猫感到适合，不会引起焦虑或者是排泄问题。具体参见猫咪保护基础指导之猫科动物行为篇。
 
 Children can learn more about cats on our website www.cats.org.uk/cats-for-kids/ 
 
-
+孩子们能通过我们网站了解更多关于猫的知识（www.cats.org.uk/cats-for-kids/ ）
 
 Cats and babies 
 
