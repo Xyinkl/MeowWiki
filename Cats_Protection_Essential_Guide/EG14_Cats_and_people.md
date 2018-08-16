@@ -77,12 +77,17 @@ Cats and children 猫和孩子
 
 Growing up with a pet can be an extremely rewarding experience for any youngster. Many children regard their cat as their best friend and it is through this friendship that important lessons are learned – in trust and empathy, care and love – which help children become responsible and caring adults. For an only child, their cat may provide a vital source of friendship and opportunity for play – children often prefer to share their feelings with a pet rather than another person. There are many physical benefits for children too and pet ownership can provide a source of comfort during recovery and rehabilitation. A number of studies in the UK and USA report that exposure to pets during infancy may significantly reduce the risk for asthma and allergies in later childhood. Primary school children from pet-owning households are also shown to have lower sickness absenteeism from school. 
 
-和猫一起成长对任何一个孩子来说都是绝佳的经历。很多孩子都把猫当做是他们最好的朋友，并从这段友谊中受益良多。信任、同情、关爱、呵护，这些都能够让孩子更加有责任感，对成年人更加关心。对独生子女，猫能给予孩子的友谊，也是绝佳的玩伴。孩子可能更倾向于跟宠物而非成年人去分享自己的感受。
-Learning by experience 
+和猫一起成长对任何一个孩子来说都是绝佳的经历。很多孩子都把猫当做是他们最好的朋友，并从这段友谊中受益良多。信任、同情、关爱、呵护，这些都能够让孩子更加有责任感，对成年人更加关心。对独生子女，猫能给予孩子的友谊，也是绝佳的玩伴。孩子可能更倾向于跟宠物而非成年人去分享自己的感受。而且养宠物对于处在恢复适应期的孩子也能提供一定的慰藉。英国和美国的一些研究表明，幼年时期接触过宠物能够极大程度的降低后来发生哮喘以及过敏的危险。来自有养宠物家庭的小学生的病假率相对也较低。
+
+Learning by experience 经历、学习
 
 From their earliest days, children can be taught to be gentle and kind with cats. Children learn best by example – if you treat your cat gently with love and respect, it’s more likely your children will grow up to do the same. 
 
+一开始，孩子们会被教导对猫轻柔、友善。孩子们则会根据你的行为做出模仿，如果你对猫轻柔友善，那么孩子也会效仿。
+
 As soon as your children can understand, explain that cats like to be left alone when sleeping or eating and that they can become frightened when people shout, make sudden movements or try to grab them. Children soon learn to interpret the signs of an unhappy cat – the swishing tail, ruffled-up fur or hissing – and will avoid doing things that upset them. Your children will love helping to take care of your cat too, so involve them in the feeding, grooming and playing routines and you’ll have happy children and a content cat! 
+
+逐渐，孩子们会理解，最好不要在猫吃饭和睡觉的时候打扰它，如果大声吵闹或者是突然袭击试图抓住它，是会让猫受到惊吓的。孩子们会理解猫状态不好时的状态，比如摆动尾巴、炸毛或者是嘶叫，进而避免做出可能惊扰到猫的行为。你的孩子也会喜欢照顾猫，所以可以让他帮忙给猫喂食、梳毛，陪猫玩耍。这样你会拥有一个高兴的孩子，也会有一只满意的猫。
 
 Cats feel safer if they can watch events taking place from an accessible high vantage point. Provide your cat with a high window sill, cupboard top or add some cat shelves. This will mean they can still be involved in family life but out of the hectic hullabaloo going on below! Teach children not to disturb the cat while they are in their safe place, or while they are sleeping, eating or using the litter tray. 
 
