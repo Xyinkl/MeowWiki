@@ -171,23 +171,32 @@ Cats are creatures of habit and thrive on routine. Introducing a new routine gra
 · 如果你需要调整猫的进食、如厕场所，务必缓慢进行，这样不会让猫的规律作息受到太大影响。
 
 
-Once baby arrives 
+Once baby arrives 婴儿到家以后
 
 It is never too early for children to learn to respect, love and understand animals and it’s important they feel confident around them. It’s the basis of true companionship. Your baby will be around three months old before he or she first notices that there is something not human in the house. Your cat will have noticed the baby from day one and may be curious about the new arrival, so don’t panic if your cat sniffs the baby’s feet or hangs around the pram like a guard-cat. Not all cats are baby lovers, many will just ignore the new infant and keep a wide berth. 
 
+让孩子学会尊敬、爱护、理解动物应该越早越好，同时也应该让孩子不会害怕，泰然和动物相处。这是陪伴的基础。孩子会在三个月大左右会意识到到房子里有些东西并不是人类。你的猫从婴儿到来的那一天就会注意到婴儿的存在，也会感到很好奇。所以当猫闻孩子的脚或者是像守卫一样四处巡逻的时候不要感觉慌乱。不是所有的猫都喜欢婴儿，很多猫只会忽略新生儿并且保持距离。
+
 Do: 
+你应该这样做：
+
 . use a safe cot or pram net to keep the cat at bay – pull it taut to deter your cat from using it as a bed 
+· 购买婴儿床或者是婴儿车网，避免猫能够一跃而上。把网拉紧，这样猫就不太会将其当做是可以休息的床。
 
 . keep the nursery inaccessible to your cat while the baby is asleep and make sure any open windows are cat proof 
+· 确保在婴儿睡觉期间，猫不能进入到婴儿房内，确保任何打开的窗户都不能让猫进入。
 
 . keep all of the baby’s feeding utensils out of the cat’s reach 
+· 把所有婴儿用器具放置到远离猫的地方
 
 . keep the baby and cat food separately, you don’t want to get them mixed up in a sleep-deprived moment! 
+· 把婴儿食品和猫粮分开，你绝对不想在睡眠确实、迷迷糊糊的状态下把这两者弄混。
 
 . try and set aside a part of the day to make a fuss of your cat as it’s important that their normal routines are maintained – it will give you a chance to grab a quiet moment and relax 
+· 尽量留出一定的时间抚摸一下你的猫，这样对维持它的日常规律很重要。猫通常会给你机会让你抚摸一会，放松休息。
 
 . remember your cat should be regularly treated for fleas and worms and their litter tray kept clean 
-
+· 记住猫的体内体外驱虫应该定期进行，猫砂盆也应该保持洁净。
 
 
 And don’t: 
