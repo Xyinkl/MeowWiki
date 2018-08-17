@@ -152,16 +152,23 @@ It is best to wear gloves and an apron when dealing with your cat’s litter tra
 
 在接触猫砂盆的时候最好是戴上手套以及围裙。更好的消息是，这无疑是让家中某些人铲屎的绝佳借口！如果你在担忧怀孕期间养猫的风险，那么可以咨询一下医生或者是参阅猫咪保护医学指导之猫和孕妇篇。
 
-New routines 
+New routines 新的生活习惯
 
 Cats are creatures of habit and thrive on routine. Introducing a new routine gradually for your cat before the baby arrives will help ease the situation when the big day comes. Begin by: 
 
+猫是按习惯规律作息的生物。在婴儿降生前，你需要提前让猫适应新的作息规律，这样当那一天到来的时候，猫就会更好适应一点。
+
 . putting the nursery room strictly out of bounds – this is particularly important if your cat has previously had free rein in the house 
+
+· 禁止猫进入婴儿房，这点对于之前能够自由进出每个屋子的猫尤其重要。
 
 . reducing the amount of ‘lap time’ your cat gets – you won’t have time to give your cat as much attention once the baby arrives 
 
+· 减少和你的猫腻在一起的时间，因为在婴儿出生后，你可能不会有那么多时间分配给猫。
+
 . If you need to move your cat’s feeding or toileting place, do it gradually so it will not upset your cat’s routine too much 
 
+· 如果你需要调整猫的进食、如厕场所，务必缓慢进行，这样不会让猫的规律作息受到太大影响。
 
 
 Once baby arrives 
