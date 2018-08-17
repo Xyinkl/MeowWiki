@@ -101,36 +101,56 @@ Children can learn more about cats on our website www.cats.org.uk/cats-for-kids/
 
 孩子们能通过我们网站了解更多关于猫的知识（www.cats.org.uk/cats-for-kids/ ）
 
-Cats and babies 
+Cats and babies 猫和婴儿
 
 Most cats will get on famously with a new arrival in the household but a baby does bring a whole change of routine and lifestyle for your cat. The character of your cat – whether shy or confident – will affect how they react to this new experience. It’s important to remember that even though you have a new baby and all the sleepless nights to contend with, you still have a responsibility to keep your cat healthy and happy. Your cat will have been used to having your undivided attention before the birth and the sudden change in priorities can be unsettling for them. 
 
+大多数猫对家中的新成员都会很热诚，但是婴儿确实会给猫的的日常生活习惯带来很大的影响。猫的性格（内向或者开朗）会决定它们如何对待婴儿。需要注意的是，尽管你有了新的婴儿，也需要面对无数个无眠的夜晚，你仍然有保持猫健康快乐的义务和责任。你的猫习惯了拥有你所有的注意力，而在婴儿降生后，可能会让其感到不适。
+
 Following the tips outlined in this leaflet can help ensure everyone in the household is happy and contented. 
 
-A growing family 
+遵循以下建议能够帮助家庭中的每一份子都保持高兴愉悦。
+
+A growing family 扩张的家庭
 
 It’s always best to be prepared, so once you know you are pregnant: 
 
+凡事预则立，所以一旦你发现自己怀孕了：
+
 . make sure your cat is in good health by taking them for a check-up at the vet 
+
+· 带猫去做个体检，确保它的身体健康。
 
 . if your cat is not neutered, get this done without delay 
 
+· 如果你的猫还没有绝育，那么不要拖延，立刻去做。
+
 . introduce your cat to any baby items you buy, such as nursery furniture or prams – let your cat investigate but don’t let them climb on them and then keep them shut away. It is important to ensure the items are off limits because some will be very tempting places for your cat to sleep 
+
+· 让你的猫接触你买的婴儿用品，比如婴儿床或者是婴儿车。让猫能够有所了解，但是不要让猫能够攀爬，并且之后隔离猫和婴儿用品。保证这些物品成为猫的禁区很重要，因为这些区域很可能对猫是很有诱惑力的睡觉场所。
 
 . begin getting your cat used to the sounds of the baby. Record a friend or relative’s baby or buy a CD that you can play on a very low volume to begin with and gradually increase the noise. Crying can be worrying for a cat that hasn’t heard it before 
 
+· 开始让你的猫习惯婴儿的声音。你可以录下朋友或者是亲戚家孩子的哭声或者是买相关的CD，一开始用很低的音量播放，随后逐渐增大音量。听到之前很少听到的哭声对于猫来说可能会引发焦虑。
+
 . consult your doctor or health visitor about any other steps that you need to take 
 
+· 其他可行的措施，你可以咨询医生或者是健康顾问。
 
 
-A safe pregnancy 
+A safe pregnancy 安全备孕
 
 Sadly, some mums-to-be consider giving up their cats over fears of toxoplasmosis, a micro-organism that can affect the foetus if a pregnant women is infected. 
 
+遗憾的是，有些准妈妈会出于对弓形虫的恐惧放弃她们养的猫。如果孕妇感染了弓形虫，这种微生物可能会影响胎儿发育。
+
 However, a major study in the British Medical Journal concluded that contact with cats was not a risk factor for toxoplasma infection, despite many believing this to be so. Although cats are a link in the transmission of toxoplasmosis, the main sources of infection to people are through contact with contaminated soil – from gardening without gloves or eating unwashed fruit or vegetables – or by eating undercooked meat. 
+
+然而，与很多人的认识相悖，在英国医学日报上的研究表明，和猫的接触并不是感染弓形虫的风险点。尽管猫确实是弓形虫传播的媒介，但其感染的源头主要是人解除了被污染的土壤，无论是不戴手套进行园艺劳作还是吃了没有清洗过的水果蔬菜，或者是吃了没有完全熟透的肉类。
 
 It is best to wear gloves and an apron when dealing with your cat’s litter tray – better still, it’s the perfect excuse to get someone else to do it! If you are worried about owning a cat while pregnant, seek advice from your doctor and see Cats Protection’s Veterinary Guide: Cats and pregnant women – Toxoplasmosis. 
 
+在接触猫砂盆的时候最好是戴上手套以及围裙。更好的消息是，这无疑是让家中某些人铲屎的绝佳借口！如果你在担忧怀孕期间养猫的风险，那么可以咨询一下医生或者是参阅猫咪保护医学指导之猫和孕妇篇。
 
 New routines 
 
