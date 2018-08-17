@@ -200,13 +200,17 @@ Do:
 
 
 And don’t: 
+你不能做以下：
+
 . leave a baby and a cat together unsupervised, even if you trust your cat 100 per cent 
+· 就算你百分百信任你的猫，也不能把猫和婴儿放在一起不管。
 
 . leave any children’s sandboxes uncovered in case a cat is tempted to use it as a litter tray 
-
+· 孩子的玩具沙盒应该随时盖上盖子，以防猫用这个当做猫砂盆。
 
 If you have concerns about your cat’s behaviour once the baby has arrived, please seek advice from a qualified cat behaviourist who may easily be able to pinpoint a trigger factor and help you to get back to the harmony you previously enjoyed. 
 
+如果孩子到来后你，担心猫的行为变得不正常了。请寻求有资质的猫科行为学家的帮助，他们能够指出造成问题的关键点，让你和猫的关系回复到之前的和谐关系。
 
 Cats and the elderly 
 
