@@ -231,19 +231,23 @@ The bond owners share with their cat is similar to that found in human relations
 主人和猫之间的情感联系和人类之间的极为相似。人们往往把猫当做家庭成员。猫的死去会让人感到极其悲痛，这是很正常的。猫的逝去所带来的悲伤感以及失去陪伴、情感寄托的感觉可能让猫的主人感到孤独。每个人对此的感受可能不尽相同，应当适当给予慰藉。需要更多信息，请参加猫咪保护基础指导之何时放手篇。
 
 
-Working with cats 和猫一同工作
+Working with cats 和猫相关工作
 
 There are many opportunities to spend more time with cats, beyond enjoying them as pets in your home. Vets practices, pet-sitters, animal welfare organisations and boarding catteries welcome feline enthusiasts, who find helping cats in need extremely rewarding. For more opportunities for volunteering or working with Cats Protection, see our website, www.cats.org.uk 
+
+除了把猫养在家里当做宠物，你也有很多机会和猫更为亲近。兽医诊所、宠物看护、动物福利机构、动物收容站都欢迎喜欢猫、把照顾猫当做是奖励的个人。如果你在寻找当志愿者、或者是为我们工作的机会，请登录我们的网站www.cats.org.uk 。
 
 Keeping safe 保障安全
 
 As with all things in life, interaction with animals is not absolutely risk-free, but it is important to balance the positive influence cats can have in people’s lives with any potential risks. Being fully informed can help cat owners minimise the risks. 
 
+和所有其他生活中的事物一样，和动物进行互动并非没有风险，所以能够平衡其中收益和风险就很重要。了解的越多，猫的主人越能够降低风险。
+
 Bites and scratches 咬伤和抓伤
 
-Taking some time to understand 
+Taking some time to understand a cat’s behaviour and motivations and providing appropriate resources for them, all go a long way to help avoiding feline aggression. See Cats Protection’s Essential Guide: Managing you cat’s behaviour for more information and seek appropriate behavioural advice early on if you have concerns about your cat. Cats can bite or scratch on occasion due to a variety of health or behavioural reasons. It also is a normal defence reaction if they are feeling threatened, or are in pain. If you are scratched or bitten, it is important to act promptly. 
 
-a cat’s behaviour and motivations and providing appropriate resources for them, all go a long way to help avoiding feline aggression. See Cats Protection’s Essential Guide: Managing you cat’s behaviour for more information and seek appropriate behavioural advice early on if you have concerns about your cat. Cats can bite or scratch on occasion due to a variety of health or behavioural reasons. It also is a normal defence reaction if they are feeling threatened, or are in pain. If you are scratched or bitten, it is important to act promptly. 
+你需要花时间理解猫的行为和动机，并且为它们提供恰当充足的生存资源，尽量避免惹怒它们。具体参见猫咪保护基础指导之管理猫的行为篇。如果你担心你的猫有相关问题，则需要尽早咨询猫科行为学相关的建议。出于很多健康或者是精神上的问题，猫都可能会咬人或者是抓人。当然也可能是因为它们遭受痛苦，或者是感到了威胁并自卫。如果你被抓或者被咬了，如何恰当反应也很重要。
 
 All animals carry micro-organisms such as bacteria in their mouths and on their skin and nails. Bites and scratches can lead to infection with those micro-organisms, some of which can cause more harm than others. Early medical treatment is usually required to prevent the debilitating effects of such injuries, particularly in those people with weakened immune systems. 
 
