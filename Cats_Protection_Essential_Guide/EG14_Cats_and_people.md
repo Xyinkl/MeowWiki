@@ -212,27 +212,34 @@ If you have concerns about your cat’s behaviour once the baby has arrived, ple
 
 如果孩子到来后你，担心猫的行为变得不正常了。请寻求有资质的猫科行为学家的帮助，他们能够指出造成问题的关键点，让你和猫的关系回复到之前的和谐关系。
 
-Cats and the elderly 
+Cats and the elderly 猫和老人
 
 Cats can be an enormous source of comfort for older people, providing some structure for each day, and a sense of purpose. Feline companions provide friendship, affection and social support. Stroking a cat has been shown to reduce blood pressure and older people with a pet have also been found to be more attentive to their own care needs and have an improved sense of their own well-being. The benefits cats can bring the elderly are frequently recognised by day centres and residential care homes, some of which now allow occupants to bring in their own cat or have a resident cat. 
 
-Cats and health 
+猫能够为老年人带来很大的慰藉，也能为每天的生活带来意义和规律的生活节奏。猫的陪伴能够带来友谊、感情以及社交上的慰藉。抚摸一只猫已经被证实能够降低血压，养宠物的老年人同样被认为是更关注自我以及自我保护的人群。这些猫给老年人能够带来的好处已经经常被日托中心和养老院意识到，因而有些已经允许入住的老人带上自己家的猫或者是养一只常住的猫。
+
+Cats and health 猫和健康
 
 There is an increasing body of evidence that shows cats can be beneficial to physical and mental health. Many cat owners derive comfort and a renewed sense of well-being by stroking and grooming their cat. Such activities can improve people’s mood, reducing levels of stress hormones and increasing the levels of a variety of feel-good hormones – as well as bringing great enjoyment for the cat. Many people can benefit from interaction with cats – especially those affected by a mental and physical health issues. Cats can be therapeutic for those with depression, dementia or autism. Stroking a feline friend can help reduce high blood pressure and improve the recovery of trauma victims. Caring for pets can also be helpful as part of the rehabilitation of offenders. 
 
-Bereavement 
+关于猫能够对身心健康有好处的证据越来越多。很多猫的主人能够在抚摸猫的时候感觉到身心舒缓、重焕生机。这些行为能够提振人的精神状态，减轻焦虑水平，提升一系列让人感觉良好的荷尔蒙分泌。同时，抚摸猫咪也是猫的享受。很多人都能够从和猫的互动中收益，尤其是那些受到精神或者身体健康问题困扰的人们。猫对于那些抑郁、痴呆、自闭的人是有治疗效果的。抚摸猫能够帮助减轻高血压、以及促进创伤患者的恢复。照顾猫的过程也是主人自我恢复的一部分。
+
+Bereavement 丧亲之痛
 
 The bond owners share with their cat is similar to that found in human relationships – people often relate to their cats as family members. Understandably, grief reactions are natural following feline bereavement. The sadness felt following the demise of a cat as well as the loss of companionship, emotional support and motivation can leave bereaved cat owners feeling isolated and alone. All individuals react differently and bereavement support is available. For more advice on coping with bereavement, see Cats Protection’s Essential Guide: When to let go. 
 
-Working with cats 
+主人和猫之间的情感联系和人类之间的极为相似。人们往往把猫当做家庭成员。猫的死去会让人感到极其悲痛，这是很正常的。猫的逝去所带来的悲伤感以及失去陪伴、情感寄托的感觉可能让猫的主人感到孤独。每个人对此的感受可能不尽相同，应当适当给予慰藉。需要更多信息，请参加猫咪保护基础指导之何时放手篇。
+
+
+Working with cats 和猫一同工作
 
 There are many opportunities to spend more time with cats, beyond enjoying them as pets in your home. Vets practices, pet-sitters, animal welfare organisations and boarding catteries welcome feline enthusiasts, who find helping cats in need extremely rewarding. For more opportunities for volunteering or working with Cats Protection, see our website, www.cats.org.uk 
 
-Keeping safe 
+Keeping safe 保障安全
 
 As with all things in life, interaction with animals is not absolutely risk-free, but it is important to balance the positive influence cats can have in people’s lives with any potential risks. Being fully informed can help cat owners minimise the risks. 
 
-Bites and scratches 
+Bites and scratches 咬伤和抓伤
 
 Taking some time to understand 
 
@@ -240,7 +247,7 @@ a cat’s behaviour and motivations and providing appropriate resources for them
 
 All animals carry micro-organisms such as bacteria in their mouths and on their skin and nails. Bites and scratches can lead to infection with those micro-organisms, some of which can cause more harm than others. Early medical treatment is usually required to prevent the debilitating effects of such injuries, particularly in those people with weakened immune systems. 
 
-Shared infections 
+Shared infections 人猫共患的感染
 
 You will be well aware of the many infections that are shared between people, such as colds and flu. Cats can also suffer with infections which can be passed to other felines. There are also some infections which can pass between animals and people, known as zoonoses. Some zoonoses can pass from cat to person – including those transmitted through bites and scratches – as well as from person to cat. The risk of catching a zoonotic disease from a cat is very small. Using common sense together with a good hygiene routine will significantly reduce the risk, for example: 
 
@@ -263,7 +270,7 @@ Infections are more commonly shared between people, than between people and cats
 For further information on ringworm and fleas please see our Veterinary Guides: Itchy cats and skin disorders and Fleas and other parasites, or see the Cat Group policy statement on zoonoses at www.thecatgroup.org.uk 
 
 
-Cats and allergies 
+Cats and allergies 猫和过敏
 
 Things that cause allergic reactions are called triggers or allergens. Almost anything can be an allergen including pollen, dust mites or tobacco smoke. Detergents and perfumes can also cause an allergic reaction, as can insect stings, pet hair and feathers. 
 
@@ -279,7 +286,7 @@ The severity of an allergic reaction varies dramatically from person to person. 
 
 Asthma and eczema sufferers may find that their symptoms are exacerbated by the presence of an allergen. 
 
-Am I allergic to cats? 
+Am I allergic to cats? 我是否对猫过敏？
 
 It is fairly obvious that some people are allergic to cats because they have an almost immediate reaction to a cat entering a room. In other cases it may not be so easy to tell, particularly if someone is allergic to more than one trigger in their environment. 
 
@@ -288,7 +295,7 @@ If you think you or a family member might be allergic to your cat, it is a good 
 If you don’t own a cat but are thinking of getting one, a visit to someone who has a cat or to an adoption centre may indicate whether you are allergic or not – although some people may react to some cats and not others. If you are suspicious that you are allergic, it may be a good idea to speak with your doctor first. 
 
 
-Is there anything I can do to ease my symptoms? 
+Is there anything I can do to ease my symptoms? 我能做什么来减轻我的症状
 
 Most importantly, speak with your doctor first. It may be helpful to discuss the following actions that can significantly ease allergy symptoms for sufferers: 
 
@@ -313,24 +320,24 @@ Most importantly, speak with your doctor first. It may be helpful to discuss the
 
 In tests, Bio-life Petal Cleanse alleviated the symptoms of 90 per cent of sufferers. For more information on Petal Cleanse and many other products endorsed by Allergy UK, visit their website www.allergyuk.org or phone their helpline 01322 619 898. 
 
-Breeds of cat 
+Breeds of cat 抚养一只猫
 
 Certain breeds or even different moggies are better for allergy sufferers than others – trial and error is the only way to tell if this is the case for you. 
 
 Cats Protection does not support the creation of hypoallergenic cats – the money spent on just one of these genetically engineered cats could help so many other felines in need. 
 
-Can I get a cat if I am allergic? 
+Can I get a cat if I am allergic? 如果我过敏，能养猫么？
 
 If you still want a cat even though you have a reaction to them, then your symptoms are probably mild to moderate and therefore manageable via the steps above. Some people find that repeated exposure to the same cat banishes their allergic reaction altogether. 
 
-Should I keep my cat? 
+Should I keep my cat? 过敏了，我是不是应该留着我的猫？
 
 The answer to this varies greatly from person to person. First you must make sure that it is the cat causing the allergic reaction; you don’t want to go through the stress and upset of rehoming a much-loved pet only to discover that stress is what brings on your asthmatic attacks! 
 
 In the end, the decision about whether to get or keep a cat depends entirely on you and the severity of your reaction. In some cases the symptom-easing steps above may provide enough relief for you to live happily with a cat, but in others it is advisable to avoid cats and seek advice from your doctor. For further details on this, please see Cats Protection’s Essential Guide: Caring for your cat. 
 
 
-Make your house a home 
+Make your house a home 把你的房子布置成猫的家园
 
 Cats are popular pets and can be great stress-busters for families and people living alone or house sharing. They can provide companionship, emotional support and motivation for young and old – as well as opportunities for play and nurture. 
 It is very rewarding to provide for your cat’s needs, learn more about their behaviour and ensure you have a mutually beneficial relationship. Cats Protection has thousands of cats in care across our UK network of branches and adoption centres. Consider adopting a cat and make your house a home. You can get contact details for your nearest branch by phoning our national Helpline 03000 12 12 12 or via our website www.cats.org.uk 
