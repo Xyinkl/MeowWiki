@@ -293,49 +293,75 @@ Cats and allergies 猫和过敏
 
 Things that cause allergic reactions are called triggers or allergens. Almost anything can be an allergen including pollen, dust mites or tobacco smoke. Detergents and perfumes can also cause an allergic reaction, as can insect stings, pet hair and feathers. 
 
+能够引起过敏反应的物质被称为过敏原。任何东西都有可能是过敏原，包括花粉、尘螨以及烟草燃烧后的烟雾。洗涤剂和香水也能引发过敏反应，同样能的还有蚊虫叮咬、动物毛发。
+
 The severity of an allergic reaction varies dramatically from person to person. Symptoms include: 
+过敏反应的严重程度随个体有很大区别，症状主要为：
+
 . sneezing and a runny or blocked nose 
+· 打喷嚏，以及流鼻涕，鼻腔堵塞
 
 . itchy and watery eyes 
+· 眼睛瘙痒、流泪
 
-. coughing and wheezing 
+. coughing and wheezing
+· 咳嗽以及喘息 
 
 . itchy skin 
+· 皮肤瘙痒
 
 
 Asthma and eczema sufferers may find that their symptoms are exacerbated by the presence of an allergen. 
+哮喘和湿疹患者的症状可能会因为过敏原而加剧。
+
 
 Am I allergic to cats? 我是否对猫过敏？
 
 It is fairly obvious that some people are allergic to cats because they have an almost immediate reaction to a cat entering a room. In other cases it may not be so easy to tell, particularly if someone is allergic to more than one trigger in their environment. 
 
+对于有些人来说，对猫过敏是很容易判断的，因为他们在猫进入房间之后立刻就会有反应。但是在其他案例中，如果个体对环境中多种过敏原过敏，那可能就没那么好分辨。
+
 If you think you or a family member might be allergic to your cat, it is a good idea to have a trial separation to determine if the cat is the cause of the reaction. Cats are often singled out because they are easily identifiable, but it is important to remember that they are just one possible cause and that dust mites are by far the most common trigger for household allergies. 
+
+如果你怀疑自己或者是家庭成员可能对猫过敏，那么最好是把猫隔离开来，看猫是不是引发过敏的原因。猫毛过敏经常被单独拿出来，因为相对更容易辨识。不过需要注意的是，猫毛只是一种可能的导致过敏的原因。对于家庭中的过敏，更常见的过敏原是尘螨。
 
 If you don’t own a cat but are thinking of getting one, a visit to someone who has a cat or to an adoption centre may indicate whether you are allergic or not – although some people may react to some cats and not others. If you are suspicious that you are allergic, it may be a good idea to speak with your doctor first. 
 
+如果你并没有养猫，但是在考虑养一只。那么拜访一下有在养猫的人，或者是去动物收容中心一趟，就能够区分出你是不是对猫过敏。（虽然有的人可能仅仅对某只猫过敏）。如果你怀疑自己是过敏体质，那最好是和你的医生先沟通一下。
 
 Is there anything I can do to ease my symptoms? 我能做什么来减轻我的症状
 
 Most importantly, speak with your doctor first. It may be helpful to discuss the following actions that can significantly ease allergy symptoms for sufferers: 
 
+最重要的是，先和你的医生取得联系。以下的建议应该能够显著减轻过敏患者的症状：
+
+
 . using antihistamine tablets or nasal spray – please consult your doctor first 
+· 使用抗组胺药片或鼻腔喷雾-请先咨询您的医生
 
 . having hardwood floors instead of carpets and using blinds instead of curtains 
+· 使用木地板代替地毯，并且用百叶窗替代窗帘
 
 . avoiding woollen clothing 
+· 避免穿羊毛的衣服。
 
 . designating some areas as cat-free zones, particularly bedrooms 
+· 把一些区域划分为禁止猫进入的区域，尤其是卧室。
 
 . open the windows for at least one hour every day and move the litter tray and cat bed away from air vents 
+· 每天至少开窗通风一小时，把猫砂盆和猫床搬离通风口。
 
 . regularly cleaning rooms where the cat sleeps – vacuumed rooms should be allowed to settle as vacuuming stirs up allergens. Air filters may also help 
+· 经常打扫猫休息的区域。吸尘器可能会激起过敏原，需要相对应的过滤网。
 
 . fitting plastic covers over cushions and mattresses 
+· 在床垫和垫子上罩上塑料。
 
 . grooming your cat outdoors on a daily basis and wiping them with a damp cloth 
+· 每天日常给猫在室外梳毛，并且用湿毛巾擦拭。
 
 . washing your cat’s bed regularly 
-
+· 定期刷猫的床。
 
 In tests, Bio-life Petal Cleanse alleviated the symptoms of 90 per cent of sufferers. For more information on Petal Cleanse and many other products endorsed by Allergy UK, visit their website www.allergyuk.org or phone their helpline 01322 619 898. 
 
