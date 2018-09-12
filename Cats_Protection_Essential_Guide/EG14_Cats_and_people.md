@@ -279,10 +279,15 @@ You will be well aware of the many infections that are shared between people, su
 
 Some examples of feline zoonotic diseases include ringworm, salmonella and flea infestation. If your cat is diagnosed with a zoonotic infection then your vet will alert you to the risks and advise you on how to care for the animal and prevent the spread to humans. 
 
+有的案例中，人畜共患病包括了皮癣、沙门氏菌和跳蚤。如果你的猫被诊断患有人畜共患病，兽医会提醒你其中的风险，并且建议你如何避免被传染的同时照顾猫。
+
 Infections are more commonly shared between people, than between people and cats. However, it is recommended that immuno-compromised people – such as organ transplant recipients, those having chemotherapy for cancer and AIDS patients – seek medical advice, particularly if considering close contact with an immuno-compromised cat – such as those infected with FIV or other chronic diseases. 
+
+尽管人类之间的疾病要远比人畜共患病要常见。但是对于那些免疫系统不健全的人（比如接受了器官移植或者是正在接受癌症或艾滋病放化疗），还是应该咨询更多相关的医疗建议。尤其是当这些人考虑亲近那些有着同样免疫缺陷的猫类疾病（比如猫艾滋或者其他慢性病）的猫的时候。
 
 For further information on ringworm and fleas please see our Veterinary Guides: Itchy cats and skin disorders and Fleas and other parasites, or see the Cat Group policy statement on zoonoses at www.thecatgroup.org.uk 
 
+需要更多关于猫癣和跳蚤的信息，请参阅我们的医学指导之挠痒痒的猫（皮肤问题、跳蚤、其他寄生虫）篇，或者也可以在www.thecatgroup.org.uk 了解人畜共患病的其他信息
 
 Cats and allergies 猫和过敏
 
