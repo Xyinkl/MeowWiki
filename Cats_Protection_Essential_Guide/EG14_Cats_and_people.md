@@ -361,30 +361,50 @@ Most importantly, speak with your doctor first. It may be helpful to discuss the
 · 每天日常给猫在室外梳毛，并且用湿毛巾擦拭。
 
 . washing your cat’s bed regularly 
-· 定期刷猫的床。
+· 定期洗刷猫窝。
 
 In tests, Bio-life Petal Cleanse alleviated the symptoms of 90 per cent of sufferers. For more information on Petal Cleanse and many other products endorsed by Allergy UK, visit their website www.allergyuk.org or phone their helpline 01322 619 898. 
 
-Breeds of cat 抚养一只猫
+在临床试验中，Bio-life Petal Cleanse能够缓解过敏患者90%的症状，需要更多信息或者了解其他被Allergy UK认可的对抗过敏的药物，请登陆网站www.allergyuk.org 或者是拨打热线电话01322 619 898。
+
+Breeds of cat 猫的品种选择
 
 Certain breeds or even different moggies are better for allergy sufferers than others – trial and error is the only way to tell if this is the case for you. 
 
+某些品种的猫或者不同的家猫之间都会对过敏人群有不同的影响。不断地试错是选择适合你的猫的唯一途径。
+
 Cats Protection does not support the creation of hypoallergenic cats – the money spent on just one of these genetically engineered cats could help so many other felines in need. 
+
+Cats Protection不支持对“低致敏型猫”的培育，因为花在这些基因改良猫上的钱能够帮助很多其他普通猫改善生活质量。
 
 Can I get a cat if I am allergic? 如果我过敏，能养猫么？
 
 If you still want a cat even though you have a reaction to them, then your symptoms are probably mild to moderate and therefore manageable via the steps above. Some people find that repeated exposure to the same cat banishes their allergic reaction altogether. 
 
+如果你对猫过敏，但仍然想要养猫。那你的症状可能是相对温和适度的，可以通过以上步骤去控制的。有的人发现，重复暴露在同一只猫的过敏原下，能够减轻对其过敏反应。
+
 Should I keep my cat? 过敏了，我是不是应该留着我的猫？
 
 The answer to this varies greatly from person to person. First you must make sure that it is the cat causing the allergic reaction; you don’t want to go through the stress and upset of rehoming a much-loved pet only to discover that stress is what brings on your asthmatic attacks! 
 
+对于这个问题的答案因人而异。首先你必须确认猫就是引发过敏反应的原因。你绝不会想要经历，费尽心力、把心爱的猫送给别人然后发现焦虑本身才是引发哮喘的罪魁祸首这件事。
+
 In the end, the decision about whether to get or keep a cat depends entirely on you and the severity of your reaction. In some cases the symptom-easing steps above may provide enough relief for you to live happily with a cat, but in others it is advisable to avoid cats and seek advice from your doctor. For further details on this, please see Cats Protection’s Essential Guide: Caring for your cat. 
 
+最后，过敏人群是否养猫或者是继续养猫，完全取决于你本人的意愿和过敏程度。有的案例中，通过以上缓解症状的步骤就能够让你和猫愉快的共处。但是在某些例子中，最好还是避免和猫接触，并且需要医生更多的建议。需要更多信息，请参阅猫咪保护基础指导之关爱你的猫篇。
 
-Make your house a home 把你的房子布置成猫的家园
+
+Make your house a home 让猫装点你的家
 
 Cats are popular pets and can be great stress-busters for families and people living alone or house sharing. They can provide companionship, emotional support and motivation for young and old – as well as opportunities for play and nurture. 
+
+猫是很流行的宠物，对于家庭、独居的人、合租的人来说都是绝好的“焦虑终结者”。它们能够给老少以陪伴、情感支持、生活动力，同样也能给人以玩耍和养育的机会。
+
 It is very rewarding to provide for your cat’s needs, learn more about their behaviour and ensure you have a mutually beneficial relationship. Cats Protection has thousands of cats in care across our UK network of branches and adoption centres. Consider adopting a cat and make your house a home. You can get contact details for your nearest branch by phoning our national Helpline 03000 12 12 12 or via our website www.cats.org.uk 
+
+在满足猫的需求、了解更多关于猫的行为，和猫达成互利共赢的关系之后，你会感到十分的有成就感。Cats Protection在全英国的不同分支机构、收容中心拥有数千只待收养的猫咪。你可以考虑领养一只猫，让自己的房子更像一个温馨的家。你可以通过拨打全国热线03000 12 12 12或者登陆网站www.cats.org.uk 来获知离你最近的分支机构信息。
+
 For more information on caring for a cat, see Cats Protection’s Essential Guide: Caring for your cat. 
+
+需要更多关于照顾猫的信息，请参阅猫咪保护基础指导之关爱你的猫篇。
 
