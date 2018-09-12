@@ -251,21 +251,31 @@ Taking some time to understand a cat’s behaviour and motivations and providing
 
 All animals carry micro-organisms such as bacteria in their mouths and on their skin and nails. Bites and scratches can lead to infection with those micro-organisms, some of which can cause more harm than others. Early medical treatment is usually required to prevent the debilitating effects of such injuries, particularly in those people with weakened immune systems. 
 
+所有的动物口腔、皮肤和爪子中都会携带有细菌等微生物。抓伤和咬伤可能会导致这些微生物的感染，有的比较严重。初步的医疗处理是需要避免这些伤口造成的伤害，尤其是对于那些免疫功能不强大的人群。
+
 Shared infections 人猫共患的感染
 
 You will be well aware of the many infections that are shared between people, such as colds and flu. Cats can also suffer with infections which can be passed to other felines. There are also some infections which can pass between animals and people, known as zoonoses. Some zoonoses can pass from cat to person – including those transmitted through bites and scratches – as well as from person to cat. The risk of catching a zoonotic disease from a cat is very small. Using common sense together with a good hygiene routine will significantly reduce the risk, for example: 
 
+你可能对人类之间的传染病很熟悉了，比如流感和感冒。猫之间也有同样类似的传染病。人和猫之间也有能够互相传染的疾病，称为人兽共患病。有的人兽共患病能够通过咬伤、抓伤在猫和人之间传播。通过猫感染这种病的几率相当低。利用一些常识，结合好的卫生习惯就能够很大程度上降低风险。比如：
+
 . provision of appropriate toileting areas and careful hygiene with litter trays 
+· 准备恰当的如厕区域，仔细清洁猫砂盆。
 
 . feed a good quality, complete diet designed for cats 
+· 给猫喂食高质量、营养均衡的食谱。
 
-. routinely treat your cats for fleas, roundworms and tapeworms 
+. routinely treat your cats for fleas, roundworms and tapeworms
+· 定时给你的猫驱虫（跳蚤、蛔虫、绦虫）
+
 . keep your cat’s vaccinations up to date 
+· 定期进行疫苗免疫
 
 . seek veterinary advice if your cat is unwell 
+· 如果猫状态不好，咨询兽医的意见。
 
 . avoid situations which could lead to bites and scratches and if they occur, seek medical advice 
-
+· 避免被咬伤和抓伤，如果已经被咬和被抓，那立刻寻求医疗上的帮助。
 
 Some examples of feline zoonotic diseases include ringworm, salmonella and flea infestation. If your cat is diagnosed with a zoonotic infection then your vet will alert you to the risks and advise you on how to care for the animal and prevent the spread to humans. 
 
