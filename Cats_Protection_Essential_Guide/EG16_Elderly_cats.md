@@ -58,15 +58,19 @@ Elderly cats usually need to be taken to the vet for a health check more often t
 
 和年轻的猫、健康的猫相比，老年猫通常需要更频繁的带给兽医进行体检，尤其是当它们有和年龄相关的症状或疾病的时候。你的兽医能够告诉你进行体检的频率。很多老年猫诊所也能够施行很多猫科手术。经常的称量体重很重要，同样重要的还有经常进行增强免疫，以应对老年猫弱化的免疫系统。
 
-Feeding requirements 
+Feeding requirements 膳食需求
 
 There is a variety of senior diets available to provide balanced nutrition aimed specifically for older cats. Always ensure that fresh water is always on offer in several different locations throughout the home, including upstairs and downstairs. Provide smaller meals little and often. Monitor your cat’s appetite closely as this can decrease or increase, depending on a variety of health factors. If your cat’s sense of smell reduces, this can lead to a decrease in appetite – you can try warming the food, which will increase the smell and encourage feeding. 
 
-Surgery considerations 
+对于老年猫，现在已经有很多成熟的食谱来为其提供均衡、有目的性的营养供应。一定要保证家里不同位置、楼上楼下几个点位总有充足的新鲜饮用水供应。可以少食多餐。严密监控你的猫的胃口变化情况，这可能是很多健康因素的表征。如果你的猫味觉变弱，可能会导致食欲减退，你可以试着加热食物，这样会让气味更加浓郁，促进食欲。
+
+Surgery considerations 进行手术的考虑
 
 Any surgery on an elderly cat should be considered carefully as there may be an increased risk of other health problems. Your vet will carry out a thorough pre-operative assessment to check your cat’s internal health. They can advise you on any specific, individual concerns and may suggest diagnostic tests to be run first. 
 
-Grooming 
+对于老年猫的手术应该被谨慎对待，因为造成其他健康问题的风险会增大。你的兽医会进行一个全面的术前评估，来检查你的猫的健康状况。他们会给你相关建议，并且可能会要求进行诊断性质的检测。
+
+Grooming 梳理毛发
 
 Older cats experiencing stiffness may find it more difficult to wash and groom so may have a poorer coat condition. You may need to help by grooming your cat gently with a soft brush. Check their claws regularly as they may have difficulty scratching to keep their claws in shape. As cats get older, their claws can become thicker and longer. Be careful that their claws don’t curl round into their pads. Staff at your veterinary surgery can advise you how to look after their coat and claws. Be aware that cats may be sensitive to being touched or groomed in certain areas if they have pain or discomfort. 
 
