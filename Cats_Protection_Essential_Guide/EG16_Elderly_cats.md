@@ -6,40 +6,57 @@
 
 @(Evernote)[计划, 翻译, 猫]
 
-Elderly cats 
+Elderly cats 老年猫            
 
 
 Not yet over the hill, 
 but often overlooked 
 
+衰老过程中，容易被忽略的事项
+
 As your cat enters their golden years, they’ll need some extra understanding for their changing lifestyle. Cats are generally considered geriatric from around 12 years of age and there are lots of simple steps you can take to ensure the later years of your cat’s life are comfortable and happy. You will be rewarded with a content pet, who is often happy to spend much time quietly at home as a wonderful companion. 
 
+由于你的猫在进入晚年，它们新的生活方式可能会需要你额外的关注。猫在12岁左右通常被认为开始衰老，你可以采取很多简单的措施来保证它们的后半生能够舒适愉快。你能够收获一只喜欢花费大量时间安安静静待在家里给你陪伴的宠物。
+
 What happens during ageing? 
+猫衰老的过程中会发生什么？
 
 . Activity levels decrease and muscle tone reduces 
+· 活动量减少，肌肉萎缩
 
 . Appetite and/or fluid intake may change 
+· 食欲以及饮水摄入可能会发生变化
 
 . Vision and/or hearing may not be as acute 
+· 视觉和听力可能不会像之前灵敏
 
 . Bowel and urinary system functions may change 
+· 消化和泌尿系统功能可能有变化
 
 . The immune system may weaken 
+· 免疫系统可能会弱化
 
 . Light sleep may increase but deep sleep decreases 
+· 浅睡眠增多，深度睡眠减少
 
 . Coat condition may deteriorate 
+· 被毛情况可能变差
 
 . Age-associated disorders may develop, such as arthritis, diabetes, hyperthyroidism or renal impairment 
+· 和年龄有关的疾病可能会产生，比如关节炎、糖尿病、甲亢或者是肾衰竭。
 
 . Psychological and behavioural changes can occur, such as senility, aggression, increased dependence or excessive vocalisation 
-
+· 心理、行为上的变化可能会包括衰老、进攻性、更依赖人或者是更话痨。
 
 Many owners view ageing as a ‘normal’ process and feel that nothing will help their cat, and some owners worry about mentioning problems they’ve noticed in their older cat as they fear the vet will say it’s serious or that the cat may need to be euthanased. However, these concerns are often unfounded and your vet is there to help wherever they can. Talk to your vet to discuss any concerns you may have. It is very important to take your older cat to see the vet regularly to ensure they are not suffering or in hidden pain – there are lots of treatments available for many of the issues. You’ll want them to enjoy their golden years free from discomfort. 
 
-Preventative healthcare 
+很多主人把年龄的增长当做是正常的事情，对此感到无计可施。有的主人避免提及老年猫上出现的问题，唯恐兽医会说这很严重需要安乐死。无论如何，这些想法都是不成立的，你的兽医永远能够给你提供可能的帮助。如果你有任何担忧，都请和兽医讨论。定期带老年猫去兽医处体检确保它没有遭受病痛很重要。现在对于各种疾病已经有很多可行的治疗方案。你也希望猫能在安度晚年，不被病痛折磨。
+
+Preventative healthcare 预防性质的健康护理
 
 Elderly cats usually need to be taken to the vet for a health check more often than younger, healthier cats, particularly if they have any age-associated symptoms or diseases. Your vet can advise you on how frequently they need to be seen and many surgeries now run special ‘geriatric’ clinics. Regular weight checks are also important, as are keeping up regular booster vaccinations because cats’ immune systems can weaken with age. 
+
+和年轻的猫、健康的猫相比，老年猫通常需要更频繁的带给兽医进行体检，尤其是当它们有和年龄相关的症状或疾病的时候。你的兽医能够告诉你进行体检的频率。很多老年猫诊所也能够施行很多猫科手术。经常的称量体重很重要，同样重要的还有经常进行增强免疫，以应对老年猫弱化的免疫系统。
 
 Feeding requirements 
 
