@@ -74,44 +74,66 @@ Grooming 梳理毛发
 
 Older cats experiencing stiffness may find it more difficult to wash and groom so may have a poorer coat condition. You may need to help by grooming your cat gently with a soft brush. Check their claws regularly as they may have difficulty scratching to keep their claws in shape. As cats get older, their claws can become thicker and longer. Be careful that their claws don’t curl round into their pads. Staff at your veterinary surgery can advise you how to look after their coat and claws. Be aware that cats may be sensitive to being touched or groomed in certain areas if they have pain or discomfort. 
 
-When to take your cat to the vet 
+老年猫由于身体柔韧性变差，可能会较难梳理自己的毛发，这样被毛就会变得比较糟糕。你可能需要用软的刷子来帮它梳毛。定期检查它的爪子，因为它可能会在磨爪子的时候感到力不从心。猫在变老之后，爪子会变厚变长。一定要小心观察它们的爪子时候弯曲进了肉垫。附近兽医诊所的员工能够告诉你如何关爱它的被毛和爪子。如果猫的某些区域会引发疼痛或者不适，那在被人触碰这些区域的时候可能会表现出相当的敏感。
 
-In addition to your regular pet health checks, your cat should be seen by a vet if there are changes to their: 
+When to take your cat to the vet 什么时候带猫去找兽医
+
+In addition to your regular pet health checks, your cat should be seen by a vet if there are changes to their:
+
+在定期的体检之外，如果在以下部分发生大的改变，那你应该带猫去看兽医：
 
 . general health 
+· 身体状况
 
 . appetite and/or thirst 
+· 食欲、饮水量
 
 . elimination of faeces and/or urine 
+· 排便、排尿减少
 
 . mobility/activity or if they seem to be in pain 
+· 运动量变化或者是看起来遭受痛苦
 
 . behaviour – including vocalisation or grumpiness. Reduced interaction with you or other pets can be a sign that not all is well with your pet’s health 
-
+· 行为变化，包括叫声以及性格变差。较少和你或其他猫互动，都可能是你的猫健康状况欠佳的表现。
 
 For more information, see Cats Protection’s Veterinary Guide: You and your vet. 
 
+需要更多信息，请参见猫咪保护兽医指导之你和你的兽医篇。
+
 The following indicates some health issues to watch out for, that elderly cats can be predisposed to: 
+以下是你可能需要关注的、老年猫易患的健康问题：
+
 Senility and cognitive dysfunction 
+衰老以及认知障碍
 
 Cognitive dysfunction is a decline in higher brain functions, including memory and learning that often occurs with old age. Signs include: 
+认知障碍是大脑功能、包括记忆以及认知的减退，经常发生在老年期。症状包括：
 
 . disorientation 
+· 失去方向
 
 . changes in social and environmental interaction 
+· 社交反应上的变化
 
 . changes in sleeping/waking patterns, such as sleeping more during the day and being restless at night 
+· 睡觉、走路方式的改变，比如白天睡得更多，晚上则比较闹腾
 
 . vocalisation 
+· 絮絮叨叨
 
 . house soiling 
-
+· 随地排泄
 
 If you have noticed any changes in your cat’s behaviour, take them to your vets for a health check, discussing the behaviour changes with your vet in as much detail as you can. 
 
-Constipation 
+如果你在你的猫身上注意到任何改变，请带猫去做一个体检， 并向兽医尽可能详细的描述你观察的行为变化。
+
+Constipation 便秘
 
 Cats can experience changes in bowel habits as they grow older, including constipation. Signs of constipation include decreased frequency of passing faeces, straining to pass, pain and/or crying when trying to and passing hard faeces. You must ensure your cat always has access to fresh water – speak to your vet for dietary and treatment advice. 
+
+
 
 Deafness 
 
