@@ -1,3 +1,5 @@
+[⌂⌂⌂⌂返回目录⌂⌂⌂⌂](https://xyinkl.github.io/MeowWiki/Cats_Protection_Essential_Guide/)
+
 ##MeowWiki Cat Caring Translate Program
 
 ###“猫咪维基”猫咪养护翻译计划
@@ -133,55 +135,80 @@ Constipation 便秘
 
 Cats can experience changes in bowel habits as they grow older, including constipation. Signs of constipation include decreased frequency of passing faeces, straining to pass, pain and/or crying when trying to and passing hard faeces. You must ensure your cat always has access to fresh water – speak to your vet for dietary and treatment advice. 
 
+<<<<<<< HEAD
+Deafness  耳聋
+=======
 
 
 Deafness 
+>>>>>>> refs/remotes/origin/master
 
 Deaf cats compensate for their lack of hearing by using their other senses, so deafness in cats often goes unnoticed. Signs of deafness may include: 
 
+耳聋的猫会用其他的感官来弥补其4听力的不足，所以猫的听力丧失往往不被人注意。耳聋的症状可能包括：
+
 . no response when called or to loud sounds 
+· 被呼唤或者周围有较强声音时没有反应
 
 . being easily startled 
+· 
 
 . loud miaowing 
+· 叫声很吵
 
 . signs of dizziness or disorientation 
+· 出现不舒服的症状
 
 Signs of ear disease which may cause deafness include: 
+能够造成耳聋的耳科疾病包括：
 
 . shaking the head 
+· 摇头晃脑
 
 . clawing at the ear 
+· 用爪子抓挠耳朵
 
 . pus, discharge or an unpleasant odour from the ear 
-
+· 耳部分泌难闻的分泌物、脓液
 
 For more information on how to help your deaf cat, see Cats Protection’s Veterinary Guide: Cats with disabilities. 
+需要更多关于如何帮助耳聋猫的信息，请参阅猫咪保护医学指导之残疾猫篇。
 
-Dental disease 
+Dental disease 牙科疾病
 
 Older cats need regular dental health checks to check for signs of dental disease, including tartar build up and red, inflamed gums. Speak to your vet about health checks and preventative care for your cat’s teeth. For more information on diagnosis and treatment, see Cats Protection’s Veterinary Guide: Teeth and oral health. 
 
-Diabetes mellitus 
+老年猫需要定期进行牙科检查，确保没有出现牙科疾病的症状。这些症状包括牙结石形成以及牙龈充血肿胀。和你的兽医沟通，对猫进行体检并且进行预防性的处置。需要更多关于牙科疾病诊断和治疗的信息请参见猫咪保护医学指导之牙齿口腔健康篇。
+
+Diabetes mellitus 糖尿病
 
 This condition affects the control of blood sugar levels and usually occurs in middle-aged and older cats, particularly those that are overweight. The signs of diabetes can be similar to a number of other diseases and include: 
 
+这种病症通常影响对血糖水平的控制，常见于中年及老年猫，尤其常见于超重的猫。糖尿病的症状和很多其他疾病的症状相似：
+
 . increased thirst and/or appetite 
+· 食欲或者引水量增加
 
 . passing more urine 
+· 排尿增加
 
 . weight loss 
+· 体重下降
 
 . lethargy/weakness 
+· 身体虚弱
 
 . vomiting 
+· 呕吐
 
 . being more prone to other infections eg skin or urinary tract infections 
-
+· 更容易遭受其它感染，比如皮肤感染或者是尿路感染
 
 Diabetes is often treated more successfully if detected and treated in the early stages. For more information see Cats Protection’s Veterinary Guide: Diabetes. 
 
-Hyperthyroidism 
+如果发现和处置都比较早期，那么糖尿病是可以被很成功的治疗的。需要更多信息，参见猫咪保护医学指导之糖尿病篇。
+
+Hyperthyroidism 甲状腺？
 
 The thyroid is made up of two glands located on either side of the windpipe at the base of your cat’s neck. It helps to regulate metabolic rate. In some cats, the thyroid becomes overactive which speeds up the metabolism. Hyperthyroidism mainly affects cats over the age of 10 and can occur in either or both of the glands. The signs may vary from cat to cat, but most commonly include: 
 
@@ -200,7 +227,7 @@ The thyroid is made up of two glands located on either side of the windpipe at t
 
 If you notice any of these symptoms, take your cat to see your vet for a health check. Once a cat is treated for hyperthyroidism, they will return to normal fairly quickly in most cases. If the disease has been detected and treated early on the cat often lives several more years. Untreated, it can damage other organs. For more information on diagnosis and treatment see Cats Protection’s Veterinary Guide: Hyperthyroidism. 
 
-Kidney disease 
+Kidney disease 肾脏疾病
 
 Disease of the kidneys is one of the most common problems affecting middle-aged and older cats. Unfortunately, damage to the kidneys is irreversible and tends to worsen over a period of time. However, with the help of various treatments, affected cats can often maintain a good quality of life for several months or years. Most cats do not show signs of chronic kidney disease until 75 per cent of the kidneys have been damaged. Signs can vary between individuals but the most common signs are: 
 
@@ -225,7 +252,7 @@ Disease of the kidneys is one of the most common problems affecting middle-aged 
 
 Many vets will try to diagnose kidney disease in its early stages, before clinical signs develop, by offering cat owners the option of urine and blood tests for their older cats at routine check-ups or vaccinations. By doing this, early dietary management or other treatment may significantly extend an affected cat’s life expectancy and quality of life. For more information on diagnosis and treatment see Cats Protection’s Veterinary Guide: Kidney or renal disease. 
 
-Cancer 
+Cancer 癌症
 
 Cats can develop different types of tumours which may either be benign – not usually harmful – or malignant – faster growing and usually harmful. Sometimes the tumours can spread to other areas of the body. It is a good idea to regularly feel all over your cat’s body for any lumps or bumps. Other signs of cancer vary dependent on the organ affected, but can include weight loss, increased thirst, passing more urine, depression, poor coat condition, vomiting and/or diarrhoea. 
 
@@ -238,31 +265,39 @@ The term ‘arthritis’ means inflammation of the joint and this condition is e
 . grumpiness, reduced interaction or tolerance with people – the discomfort associated with arthritis can be a cause of aggression in cats 
 
 . not using the litter tray if the sides of the tray are too high for your cat to easily get into 
+· 如果猫砂盆对于猫过高，那就不用猫砂盆。
 
 . reduced interest in play 
+· 不是那么喜欢玩耍
 
 . difficulty grooming, especially the middle of the back and tail 
+· 较难自己梳毛，尤其是后背中部和尾巴
 
 . increased stiffness immediately after resting which gets better with movement 
+· 休息过后身体僵硬，运动过后症状减轻
 
 . stiffness, lameness and reduced mobility – an unwillingness to jump or climb 
+· 僵硬、跛脚、活动量减少，不愿意跳跃攀爬
 
 If your cat is overweight, this can make arthritis worse so it is very important to ensure they maintain an ideal weight. Regular, moderate exercise will also help – play is the best way to achieve this. 
 
 Arthritis is an ongoing problem and cannot be cured. However, in many cases it can be managed successfully allowing your cat to be mobile, pain-free and to lead a reasonably active life. For more information see Cats Protection’s Veterinary Guide: Arthritis. 
 
-Hypertension 
+Hypertension 高血压
 
 In cats, high blood pressure – known as hypertension – often occurs in association with another underlying disease – for example, cats suffering from kidney disease or hyperthyroidism often have some degree of hypertension as well. It can also occur as a primary problem in itself. The organs most vulnerable to the effects of high blood pressure are the eyes, kidneys, heart and brain. Initially there may be very few signs of high blood pressure, particularly if it is the primary problem but sometimes the signs can occur very suddenly. Signs of hypertension include: 
 
 . blindness 
+· 失明
 
 . changes inside the eye, including bleeding 
+· 眼部变化，包括流血
 
 . disorientation 
+· 不适
 
 . seizures 
-
+· 抽搐
 
 Many cats can go on to lead relatively normal lives following diagnosis and stabilisation of hypertension, but this will depend on the type and severity of any underlying disease. If left untreated, these signs can become permanent so seek veterinary advice as soon as possible. For more information see Cats Protection’s Veterinary Guide: Hypertension. 
 
@@ -272,20 +307,21 @@ Cat-friendly homes for the elderly feline
 There are a number of small changes that can be made to your home which will have a big impact on the quality of your cat’s life. While a number of older cats appear to be ‘as young as they feel’ with many still showing kitten-like behaviours, others can benefit from a few home tweaks that ensure that all their resources are within easy reach. 
 
 What you can do to help an older cat 
+对于老年猫你能做的
 
-Microchip 
+Microchip 芯片
 
 Make sure your cat is microchipped in case they become disorientated or goes missing. A microchip carries a unique number linked to a database holding your contact details, allowing you to be quickly traced should they stray and be scanned. See Cats Protection’s Essential Guide: Microchipping for more information. 
 
-Beds 
+Beds 猫窝
 
 Allow your cat to reach favourite places to rest by strategically placing boxes or items of furniture for them to climb. Make sure they have a variety of cosy, well-padded beds in safe warm places that can be readily accessed. Your cat may enjoy the hammock-style radiator beds as they are very warm. 
 
-Somewhere to perch up high 
+Somewhere to perch up high 能够够到的高处
 
 Older cats can find it difficult to make accurate calculations when jumping and are not as agile as they used to be, especially if they are stiff, in pain or have arthritis. Provide easy ways for cats to access their favourite areas, such as using a ramp or small foot stool to give them access to high surfaces. Make sure it is wide enough and you could also cover it in carpet to give extra grip. It is a good idea to fashion some sort of crash mat underneath the ramp, in case the cat falls. Cushions under windowsills act as crash mats for uncoordinated or wobbly cats. 
 
-Litter trays and toileting 
+Litter trays and toileting 猫砂盆和排泄
 
 Provide several litter trays in the house at all times, even if your cat has toileted outside all of their life. There are many occasions when an older cat will need an indoor litter tray, such as when it’s raining outside, if the normal toileting site has frozen over and is hard to dig, or if they feel intimidated by other neighbouring cats. Place the litter trays in quiet, safe areas of the home. 
 
@@ -295,31 +331,31 @@ Older cats are less able to defend themselves or a territory and as a result may
 
 If your cat still prefers to toilet outside, provide a newly dug over border as close to the house as possible and maintain it regularly. 
 
-Water and food bowls 
+Water and food bowls 食碗喝水碗
 
 Place water and food bowls in a variety of easily accessible locations around the house, both upstairs and downstairs so they are easy to find and they don’t have to walk up and down stairs just to get food and water. Speak to your vet about the most appropriate diet for your older cat. 
 
-Playtime 
+Playtime 玩耍
 
 Older cats still like to play, but they need more gentle, brief games than when they were younger. Use toys that are unlikely to intimidate them, such as a feather attached to string that is slowly moved past them. Experiment with different toys to see what captures your cat’s attention. Even if they only watch or slowly swipes the toy with a paw, it is still important beneficial mental stimulation. 
 
-Regular grooming 
+Regular grooming 日常梳理毛发
 
 As older cats may struggle to look after their coats, additional help and gentle grooming will help to keep your cat’s skin healthy and gives you some valuable bonding time with your cat. Stroking a cat is a great de-stressor and may lower an owner’s blood pressure. 
 
-Scratching posts 
+Scratching posts 抓挠猫抓板
 
 Cats may still want to scratch but can find it difficult as they age. You could provide a horizontal scratching post or one with a lower gradient and softer material such as carpet, which they may find easier. Remember to check their claws regularly. 
 
-Routines 
+Routines 每日例程
 
 Cats are creatures of habit and this characteristic becomes more pronounced as they age. They prefer a familiar, regular routine to provide predictability. Where possible, avoid moving furniture so that your cat’s environment is familiar and they can easily find their way around your home. 
 
-Veterinary care 
+Veterinary care 医学护理
 
 Seek veterinary advice early if you are worried. Remember, many of the disorders that affect older cats can be treated and managed to allow your cat a happy and content life, particularly when treatment is sought early. However, inevitably there may come a time when your cat is in continual pain, discomfort or distress, and the most loving and courageous way you can show them how much you care is to end their suffering. See Cats Protection’s Essential Guide: When to let go for further information. 
 
-Your elderly cat and you 
+Your elderly cat and you 老年猫和你
 
 Caring for an older cat in their twilight years brings a tremendous joy and many owners actively decide to adopt an older cat because of the endearing qualities they can offer. With their wandering days behind them, older cats tend to stay closer to home and appreciate gentle affection. Owners often comment on the special relationship they have with their older pet, enhanced by some simple measures and an understanding of their needs. 
 
