@@ -135,23 +135,17 @@ Constipation 便秘
 
 Cats can experience changes in bowel habits as they grow older, including constipation. Signs of constipation include decreased frequency of passing faeces, straining to pass, pain and/or crying when trying to and passing hard faeces. You must ensure your cat always has access to fresh water – speak to your vet for dietary and treatment advice. 
 
-<<<<<<< HEAD
+
 Deafness  耳聋
-=======
-
-
-Deafness 
->>>>>>> refs/remotes/origin/master
 
 Deaf cats compensate for their lack of hearing by using their other senses, so deafness in cats often goes unnoticed. Signs of deafness may include: 
-
-耳聋的猫会用其他的感官来弥补其4听力的不足，所以猫的听力丧失往往不被人注意。耳聋的症状可能包括：
+耳聋的猫会用其他的感官来弥补其听力的不足，所以猫的听力丧失往往不被人注意。耳聋的症状可能包括：
 
 . no response when called or to loud sounds 
 · 被呼唤或者周围有较强声音时没有反应
 
 . being easily startled 
-· 
+· 很容易被吓一跳
 
 . loud miaowing 
 · 叫声很吵
@@ -212,20 +206,29 @@ Hyperthyroidism 甲状腺？
 
 The thyroid is made up of two glands located on either side of the windpipe at the base of your cat’s neck. It helps to regulate metabolic rate. In some cats, the thyroid becomes overactive which speeds up the metabolism. Hyperthyroidism mainly affects cats over the age of 10 and can occur in either or both of the glands. The signs may vary from cat to cat, but most commonly include: 
 
+甲状腺由猫脖子气管两侧分布的腺体构成，有帮助控制新陈代谢的作用。有的猫身上，甲状腺过于活跃，加速了新陈代谢。甲亢通常会影响超过10岁的猫，并且在单侧或是两侧都会发生。具体症状因猫而异，但是通常包括以下：
+
 . increased appetite and/or thirst 
+· 食欲增加，饮水增加
 
 . weight loss 
+· 失重
 
 . behavioural changes such as hyperactivity, restlessness and being more vocal 
+· 过于亢奋、焦躁、话痨等行为上的转变
 
 . vomiting 
+· 呕吐
 
 . diarrhoea 
+· 腹泻
 
 . poor coat condition 
+· 被毛状态差
 
 
 If you notice any of these symptoms, take your cat to see your vet for a health check. Once a cat is treated for hyperthyroidism, they will return to normal fairly quickly in most cases. If the disease has been detected and treated early on the cat often lives several more years. Untreated, it can damage other organs. For more information on diagnosis and treatment see Cats Protection’s Veterinary Guide: Hyperthyroidism. 
+
 
 Kidney disease 肾脏疾病
 
